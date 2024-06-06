@@ -1,8 +1,8 @@
-# Contributing to the xxxx Committee documentation
+# Contributing to the Intersect Knowledge Base documentation
 
 ## Table of Contents
 
-- [Contributing to the xxxx Committee documentation](#contributing-to-the-xxxx-committee-documentation)
+- [Contributing to the Intersect Knowledge Base documentation](#contributing-to-the-xxxx-committee-documentation)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [Roles and Responsibilities](#roles-and-responsibilities)
