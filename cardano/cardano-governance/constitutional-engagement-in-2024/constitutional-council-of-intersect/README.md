@@ -1,6 +1,10 @@
-# Intersect Constitutional Council
+---
+description: Otherwise known as the Council
+---
 
-#### Introducing Intersect's Constitutional Council
+# Constitutional Council of Intersect
+
+#### Introducing the Constitutional Council of lntersect
 
 As part of our commitment to administering and championing Cardano’s community-led governance, Intersect’s seat on the interim CC will comprise 10 Intersect members, with majority votes determining Intersect’s vote on the constitutionality of governance actions. This body will be known as the “Intersect Constitutional Council'' and is guided in its operations by a [draft Charter](https://docs.intersectmbo.org/cardano/cardano-governance/constitutional-engagement-in-2024/intersect-constitutional-council/intersect-constitutional-council-charter). The Council’s first task will be to refine and finalize the draft Charter before all members are expected to sign and thereafter act in accordance with its principles.
 
