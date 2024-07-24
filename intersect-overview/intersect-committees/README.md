@@ -1,0 +1,49 @@
+# Intersect committees
+
+Intersect is designed to be steered by its members so the future of Cardano is community-led. The membership body provides this steering via standing committees. Standing committees are designed to be community-led, with community members taking an active role influencing the future of Cardano.
+
+Intersect will initiate seven standing committees in 2024, covering the functional operations required to steer the delivery of "[continuity](https://www.intersectmbo.org/news/cardano-continuity)", provide steering direction to the drafting of Cardano's constitution,  support the internal membership, and more.  A standing committee is expected to be a permanent fixture, although, changes may be required as the committees mature and the objectives evolve. The [governing board](../intersects-structure/intersect-governance.md) will review proposed changes and support the membership. &#x20;
+
+Working groups typically roll up into one of the seven committees. Working groups are, for the most part, temporary functions that support a committees' wider objectives or to expand expertise by seeking contributions from outside of Intersect. Working groups can be on any subject and are by nature less formal than standing committees.
+
+## Current Committees at Intersect:
+
+{% content-ref url="civics-committee.md" %}
+[civics-committee.md](civics-committee.md)
+{% endcontent-ref %}
+
+{% content-ref url="membership-and-community-committee-mcc.md" %}
+[membership-and-community-committee-mcc.md](membership-and-community-committee-mcc.md)
+{% endcontent-ref %}
+
+{% content-ref url="technical-steering-committee-tsc.md" %}
+[technical-steering-committee-tsc.md](technical-steering-committee-tsc.md)
+{% endcontent-ref %}
+
+{% content-ref url="parameter-committee-pc.md" %}
+[parameter-committee-pc.md](parameter-committee-pc.md)
+{% endcontent-ref %}
+
+{% content-ref url="open-source-committee-osc.md" %}
+[open-source-committee-osc.md](open-source-committee-osc.md)
+{% endcontent-ref %}
+
+{% content-ref url="budget-committee-proposed.md" %}
+[budget-committee-proposed.md](budget-committee-proposed.md)
+{% endcontent-ref %}
+
+{% content-ref url="roadmap-committee-proposed.md" %}
+[roadmap-committee-proposed.md](roadmap-committee-proposed.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+Review [here](https://intersect.gitbook.io/committee-development/) the plan to establish and mature the committee's ways of working and processes
+{% endhint %}
+
+
+
+### **2023 Interim Committee Report**
+
+Read the latest update from the committees in our Interim Committee Report - wrapping up 2023.
+
+{% file src="../../.gitbook/assets/Interim Commitee Update - December 2023.pdf" %}
