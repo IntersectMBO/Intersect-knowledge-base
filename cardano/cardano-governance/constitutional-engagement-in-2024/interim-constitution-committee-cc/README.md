@@ -23,9 +23,14 @@ The three remaining seats are elected from the Cardano community. The interim CC
 Interim CC members are not remunerated; however a support package via an administrative function at Intersect will help cover such expenses as for administration, communications, technical and legal support, and education and training.
 
 \
-Meet the interim Constitution Committee
----------------------------------------
+The Interim Constitution Committee Election
+-------------------------------------------
 
+The ICC election saw 455, 779, 792, 149, 846 (455, 779, 792 ada) staked and 1947 unique votes. We are pleased to announce the outcome, and confirm the remaining three seats on Cardano’s interim Constitutional Committee.
+
+_Note: Data provided by Summon Platform, a blockchain development group contracted by Summon MBO. Ada totals reflect voting results after a series of simple run-off elections where the candidate with the lowest number of votes was eliminated, until only six candidates remained. For more information on the ranked choice voting process used in this election please see the_ [_FAQs_](https://icc-election.intersectmbo.org/faq) _provided by the Summon Platform. Full audits can be viewed_ [_here_](https://intersectmbo.slack.com/files/U05G10V0NU8/F07EJA1GMJ4/ccelectionvote\_data\_anon.csv)_._
+
+\
 We are delighted to announce the 3 members appointed to the committee:
 
 ### **1.Cardano Atlantic Council**
