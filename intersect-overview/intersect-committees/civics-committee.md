@@ -1,5 +1,9 @@
 # Civics committee
 
+{% hint style="info" %}
+Find out more about the Civics Committee [here](https://intersect.gitbook.io/civics-committee).
+{% endhint %}
+
 ## What is the Civics Committee?
 
 The Civics Committee provide facilitation and oversight to the Cardano Community related to the governance of Cardano. This includes developing and facilitating processes to engage the Cardano Community in governance, coordinating with subject matter experts where needed, and providing support as requested by the Cardano Constitutional Committee.

@@ -1,5 +1,9 @@
 # Open Source committee (OSC)
 
+{% hint style="info" %}
+Find out more about the OSC [here](https://intersect.gitbook.io/open-source-committee).
+{% endhint %}
+
 ## What is the Open Source Committee?
 
 The Open Source Committee generates an Open Source strategy for Cardano to follow. Advise on and promote Open-source activities across the ecosystem.   Be a rally point for members to get advice on building in an open-source environment

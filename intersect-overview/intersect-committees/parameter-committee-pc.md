@@ -1,5 +1,9 @@
 # Parameter committee (PC)
 
+{% hint style="info" %}
+Find out more about the Parameter Committee [here](https://intersect.gitbook.io/parameter-committee).
+{% endhint %}
+
 ## What is the Parameter Committee?
 
 The Parameter Committee is a TSC subcommittee that ensures the Cardano protocol parameters are set based on sound technical awareness and best practices. This subcommittee includes four working groups:

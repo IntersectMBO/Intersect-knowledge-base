@@ -1,5 +1,9 @@
 # Technical Steering committee (TSC)
 
+{% hint style="info" %}
+Find out more about the TSC [here](https://intersect.gitbook.io/technical-steering-committee).
+{% endhint %}
+
 ## What is the Technical Steering Committee?
 
 The Technical Steering Committee ensures that the governance of Cardano is based upon sound technical awareness and best practices.&#x20;
