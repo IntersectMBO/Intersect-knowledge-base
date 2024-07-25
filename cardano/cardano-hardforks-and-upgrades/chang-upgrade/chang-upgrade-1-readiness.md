@@ -7,7 +7,7 @@ description: >-
 # Chang Upgrade #1 Readiness
 
 {% hint style="info" %}
-This page is frequently updated and is open to community feedback to ensure correctness of reporting.
+This page is updated daily and is open to community feedback to ensure correctness of reporting.
 
 Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spot any fixes.
 {% endhint %}
@@ -62,9 +62,9 @@ Cardano has a range of network environments, each will require a hardfork, below
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>20%</strong></mark></td><td><mark style="color:orange;"><strong>1%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;">18<strong>%</strong></mark></td><td><mark style="color:orange;">2<strong>%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
-For _live_ numbers please visit [Pooltool/networkhealth](https://pooltool.io/networkhealth) - Viewing Blocks Protocol Version Epoch
+For _live_ numbers please visit [Pooltool/networkhealth](https://pooltool.io/networkhealth) - Viewing Blocks Protocol Version Epoch. Please visit the live [PreProd](https://preprod.cexplorer.io/versions) & [Preview data](https://preview.cexplorer.io/versions)
 
 {% hint style="info" %}
 Section maintained by IOG Core Tech Team
@@ -100,7 +100,7 @@ Tooling readiness is tracked against Node 9.X.X compatible releases and reported
 
 #### Low-Level Tooling
 
-We define Low-Level Tooling, as tools which are required by higher level tools, dApps and wallets.
+We define Low-Level Tooling, as tools which are required by higher-level tools, dApps, and wallets.
 
 {% hint style="info" %}
 High-level status: <mark style="color:orange;">**In Progress**</mark>
@@ -129,7 +129,7 @@ More details; Low-Level Tooling Chang Readiness Details
 
 #### Higher Level Tooling
 
-<table><thead><tr><th width="335">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Maestro</td><td><strong>TBC</strong></td></tr><tr><td>Koios</td><td><strong>TBC</strong></td></tr></tbody></table>
+<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Maestro</td><td><strong>TBC</strong></td></tr><tr><td>Koios</td><td><strong>TBC</strong></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Cardano Foundation
@@ -149,7 +149,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 #### Light Wallets
 
-<table><thead><tr><th width="432">Wallet</th><th width="251">Status</th></tr></thead><tbody><tr><td>Lace</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Yoroi</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Yoroi (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Nufi</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Eternl</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Eternl (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Gero</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Gero Mobile</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Vespr</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Vespr (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Nami</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Flint</td><td>TBC</td></tr><tr><td>Flint (Mobile)</td><td>TBC</td></tr><tr><td>Begin</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Begin (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>BroClan</td><td>TBC</td></tr><tr><td>Exodus</td><td>TBC</td></tr><tr><td>Typhon</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th width="175">Wallet</th><th width="251">Status</th></tr></thead><tbody><tr><td>Lace</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Yoroi</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Yoroi (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Nufi</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Eternl</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Eternl (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Gero</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Gero Mobile</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Vespr</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Vespr (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Nami</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Flint</td><td>TBC</td></tr><tr><td>Flint (Mobile)</td><td>TBC</td></tr><tr><td>Begin</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Begin (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>BroClan</td><td>TBC</td></tr><tr><td>Exodus</td><td>TBC</td></tr><tr><td>Typhon</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
 
 #### Hardware Wallets
 
@@ -185,7 +185,7 @@ _Please see_ [_Ref Script Cost Calculator_](https://docs.google.com/spreadsheets
 High-level status: **TBC**
 {% endhint %}
 
-<table><thead><tr><th width="343">Project</th><th width="263">Status</th></tr></thead><tbody><tr><td>Minswap</td><td><strong>TBC</strong></td></tr><tr><td>SundaeSwap</td><td><strong>TBC</strong></td></tr><tr><td>Wingriders</td><td><strong>TBC</strong></td></tr><tr><td>DexHunter</td><td><strong>TBC</strong></td></tr><tr><td>Axo</td><td><strong>TBC</strong></td></tr><tr><td>Optim</td><td><strong>TBC</strong></td></tr><tr><td>Spectrum</td><td><strong>TBC</strong></td></tr><tr><td>Splash</td><td><strong>TBC</strong></td></tr><tr><td>Genius Yield</td><td><strong>TBC</strong></td></tr><tr><td>Indigo</td><td><strong>TBC</strong></td></tr><tr><td>Liqwid (finance)</td><td><strong>TBC</strong></td></tr><tr><td>Djed</td><td><strong>TBC</strong></td></tr><tr><td>USDM</td><td><strong>TBC</strong></td></tr><tr><td>Levvy</td><td><strong>TBC</strong></td></tr><tr><td>Charli3</td><td><strong>TBC</strong></td></tr><tr><td>Orcfax</td><td><strong>TBC</strong></td></tr><tr><td>Iagon</td><td><strong>TBC</strong></td></tr><tr><td>NMKR</td><td><strong>TBC</strong></td></tr><tr><td>Book.io</td><td><strong>TBC</strong></td></tr><tr><td>NEWM</td><td><strong>TBC</strong></td></tr><tr><td>Rosenbridge</td><td><strong>TBC</strong></td></tr><tr><td>MyUSD</td><td><strong>TBC</strong></td></tr><tr><td>Encoins</td><td><strong>TBC</strong></td></tr><tr><td>Clarity</td><td><strong>TBC</strong></td></tr><tr><td>Summon</td><td><strong>TBC</strong></td></tr><tr><td>JPG.Store</td><td><strong>TBC</strong></td></tr><tr><td>MuesliSwap</td><td><strong>TBC</strong></td></tr><tr><td>Lending Pond</td><td><strong>TBC</strong></td></tr><tr><td>Fluid Tokens</td><td><strong>TBC</strong></td></tr><tr><td>LenfiAada</td><td><strong>TBC</strong></td></tr><tr><td>VyFinance</td><td><strong>TBC</strong></td></tr><tr><td>ADAX Pro</td><td><strong>TBC</strong></td></tr><tr><td>Lenfi</td><td><strong>TBC</strong></td></tr><tr><td>Revuto</td><td><strong>TBC</strong></td></tr><tr><td>Artano</td><td><strong>TBC</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210">Project</th><th width="263">Status</th></tr></thead><tbody><tr><td>Minswap</td><td><strong>TBC</strong></td></tr><tr><td>SundaeSwap</td><td><strong>TBC</strong></td></tr><tr><td>Wingriders</td><td><strong>TBC</strong></td></tr><tr><td>DexHunter</td><td><strong>TBC</strong></td></tr><tr><td>Axo</td><td><strong>TBC</strong></td></tr><tr><td>Optim</td><td><strong>TBC</strong></td></tr><tr><td>Spectrum</td><td><strong>TBC</strong></td></tr><tr><td>Splash</td><td><strong>TBC</strong></td></tr><tr><td>Genius Yield</td><td><strong>TBC</strong></td></tr><tr><td>Indigo</td><td><strong>TBC</strong></td></tr><tr><td>Liqwid (finance)</td><td><strong>TBC</strong></td></tr><tr><td>Djed</td><td><strong>TBC</strong></td></tr><tr><td>USDM</td><td><strong>TBC</strong></td></tr><tr><td>Levvy</td><td><strong>TBC</strong></td></tr><tr><td>Charli3</td><td><strong>TBC</strong></td></tr><tr><td>Orcfax</td><td><strong>TBC</strong></td></tr><tr><td>Iagon</td><td><strong>TBC</strong></td></tr><tr><td>NMKR</td><td><strong>TBC</strong></td></tr><tr><td>Book.io</td><td><strong>TBC</strong></td></tr><tr><td>NEWM</td><td><strong>TBC</strong></td></tr><tr><td>Rosenbridge</td><td><strong>TBC</strong></td></tr><tr><td>MyUSD</td><td><strong>TBC</strong></td></tr><tr><td>Encoins</td><td><strong>TBC</strong></td></tr><tr><td>Clarity</td><td><strong>TBC</strong></td></tr><tr><td>Summon</td><td><strong>TBC</strong></td></tr><tr><td>JPG.Store</td><td><strong>TBC</strong></td></tr><tr><td>MuesliSwap</td><td><strong>TBC</strong></td></tr><tr><td>Lending Pond</td><td><strong>TBC</strong></td></tr><tr><td>Fluid Tokens</td><td><strong>TBC</strong></td></tr><tr><td>LenfiAada</td><td><strong>TBC</strong></td></tr><tr><td>VyFinance</td><td><strong>TBC</strong></td></tr><tr><td>ADAX Pro</td><td><strong>TBC</strong></td></tr><tr><td>Lenfi</td><td><strong>TBC</strong></td></tr><tr><td>Revuto</td><td><strong>TBC</strong></td></tr><tr><td>Artano</td><td><strong>TBC</strong></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Anatasia Labs
@@ -219,7 +219,7 @@ Interim Constitutional Committee readiness is tracked against training module co
 High-level status: <mark style="color:green;">**Ready**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="420" align="center">Member</th><th>Readiness</th></tr></thead><tbody><tr><td align="center">Cardano Atlantic Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Japan</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Foundation</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Eastern Cardano Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Emurgo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Intersect</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Input Output</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th width="256" align="center">Member</th><th>Readiness</th></tr></thead><tbody><tr><td align="center">Cardano Atlantic Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Japan</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Foundation</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Eastern Cardano Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Emurgo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Intersect</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Input Output</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by IOG Voltaire Team
@@ -236,13 +236,7 @@ Learn more and get involved: [DRep Pioneer Program Overview](https://app.gitbook
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-| Total DRep Training Completed | Status                                             |
-| ----------------------------- | -------------------------------------------------- |
-| 50                            | <mark style="color:green;">**Ready**</mark>        |
-| 75                            | <mark style="color:green;">**Ready**</mark>        |
-| 100                           | <mark style="color:green;">**Ready**</mark>        |
-| 150                           | <mark style="color:green;">**Ready**</mark>        |
-| 300                           | <mark style="color:orange;">**In Progress**</mark> |
+<table><thead><tr><th width="284">Total DRep Training Completed</th><th>Status</th></tr></thead><tbody><tr><td>50</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>75</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>100</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>150</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>300</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Intersect DRep Pioneer Program lead
