@@ -43,7 +43,7 @@ _Adam Dean, Beatrice Anihiri, Mike Hornan, Jennifer Brito, Thiago Nunes, Richard
 
 ### 2.**Cardano Japan**
 
-_Seira Yun, Shusuke Wakuda, Rena Oishi, Hideki Takeshi_
+_Seira Yun, Hix, Shusuke Wakuda, Rena Oishi, Hideki Takeshi_
 
 ### **3. Eastern Cardano Council**
 
