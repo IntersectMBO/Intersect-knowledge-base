@@ -1,4 +1,4 @@
-# Chang timeline & dependencies
+# Chang Timeline & Dependencies
 
 {% hint style="danger" %}
 <mark style="color:red;">Any dates or windows provided in this Chang hard fork timeline are provided as</mark> <mark style="color:red;"></mark><mark style="color:red;">**estimates**</mark><mark style="color:red;">, and approved by the hard fork working group.</mark>&#x20;
@@ -32,6 +32,15 @@ In the lead-up to Change Upgrade #1 the following sequence of events will occur,
 <table><thead><tr><th width="389">Step</th><th width="163">Environment</th><th>Owner</th></tr></thead><tbody><tr><td><p>Node version 8.12 will be released</p><p>(may only be a pre-release)</p></td><td>Preview + SanchoNet</td><td>Delivery Teams</td></tr><tr><td>Benchmarking and performance testing will be conducted on node version 8.12</td><td>Performance and tracing env't</td><td>Delivery Teams</td></tr><tr><td>Node passes benchmarking and performance testing (D1) </td><td>Performance and tracing env't</td><td>Delivery Teams</td></tr><tr><td>DB-Sync QA signoff</td><td>Preview</td><td>Delivery Teams</td></tr><tr><td>Node 9.0 is Released</td><td>Preview + SanchoNet</td><td>Delivery Teams</td></tr><tr><td>Preview upgraded to 9.0 and hardforked</td><td>Preview</td><td>Delivery Teams</td></tr><tr><td>Checkpoint - resolve any critical issues outstanding on Cardano-Node (D1) </td><td>Preview</td><td>Delivery Teams</td></tr><tr><td>Upgrade Pre Prod to Node 9.0.0</td><td>Pre Prod</td><td>Delivery Teams</td></tr><tr><td>SPOs and DApps will be asked to upgrade to 9.0.0 and test on Pre-Production and Mainnet in the Babbage era (D2)</td><td>Pre-Production &#x26; Mainnet</td><td>Community </td></tr><tr><td>Parameters &#x26; final genesis file will be prepared (required for 9.1.0)</td><td>Preview</td><td>Delivery Teams</td></tr><tr><td>SPOs, Exchanges and DApps will be asked to upgrade to 9.1.0 and test on Pre-Production and Mainnet in the Babbage era (D2)</td><td>Pre-Production &#x26; Mainnet</td><td>Community</td></tr><tr><td>With Critical mass indicators met, 70% SPOs and 80% Exchange liquidity hardfork to Conway era by bumping the protocol from 8.0 to 9.0 (D3)</td><td>Pre-Production &#x26; Mainnet</td><td>Community</td></tr></tbody></table>
 
 Steps for Chang #2 upgrade will be released after completion of Chang #1 upgrade.
+
+***
+
+### Node `9.0.0` vs Node `9.1.0`
+
+* Node `9.0.0` contains all the new Conway functionality and is fully capable of full governance.
+* Node `9.0.0` will not be the final node version for Preview, PreProd or Mainnet, as it will not have the correct configuration files, known as genesis files.
+  * The genesis files specify things like protocol parameters and importantly the credentials for the interim constitutional committee.
+* Splitting Node `9.0.0` and Node `9.1.0` allows users to test all the new Node code across networks before having the final genesis files prepared.
 
 ***
 

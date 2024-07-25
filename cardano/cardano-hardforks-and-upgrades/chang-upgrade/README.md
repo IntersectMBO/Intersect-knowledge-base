@@ -6,6 +6,8 @@ The first of two upgrades (Chang Upgrade #1) will deploy a set of governance fea
 
 The second upgrade (Chang Upgrade #2) moves CIP-1694 out of technical bootstrapping phase and unlocks the full features of CIP-1694 on-chain governance including full DRep participation and all types of governance action.
 
+The upgrade honors Phil Chang, who sadly passed away in 2022. Phil was a pioneer in Cardano governance at IOG, and his thinking contributed significantly to Voltaire's conceptualization. As part of Voltaire, the Chang upgrade transitions the ledger into the Conway era, establishing decentralized decision-making foundations by implementing [CIP-1694](https://cips.cardano.org/cip/CIP-1694) on-chain governance mechanisms.
+
 The Chang upgrade will follow a similar path to that of the Vasil upgrade. The final decision to hard fork will be made – in consultation with members of the SPO, DApp and community – against 3 key criteria:
 
 * No critical issues outstanding on node (including ledger, CLI, consensus, etc.)&#x20;

@@ -1,142 +1,251 @@
 ---
 description: >-
-  This page outlines the engineering and ecosystem readiness for the Chang
-  hardfork.
+  This page gives an overview of the status and readiness for the Cardano Chang
+  Upgrade #1
 ---
 
-# Chang upgrade #1 readiness
+# Chang Upgrade #1 Readiness
 
-{% hint style="warning" %}
-**Node 9.0.0 is out now and is the node candidate to upgrade Cardano mainnet to Chang. For SPOs - refer to our Github repository to install the latest:** [https://github.com/IntersectMBO/cardano-node/releases](https://github.com/IntersectMBO/cardano-node/releases)
+{% hint style="info" %}
+This page is frequently updated and is open to community feedback to ensure correctness of reporting.
 
-_Note: SPOs will need to need to include a small configuration update (node 9.1.0) to be fully up-to-date._&#x20;
-
-**---**
-
-This page will be frequently updated and is open to community feedback to ensure the very latest reporting. Email hard-fork@intersectmbo.org if you spot any fixes.
-
-Last update: 2024-07-23
+Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spot any fixes.
 {% endhint %}
 
-### What's Chang all about?
+## 👉 Be aware of
 
-The Chang upgrades, the first scheduled to occur in August 2024 (pending community readiness), is poised to be a transformative event for Cardano, representing a significant milestone in its upgrade roadmap. Chang is essentially the first hard fork on the Cardano network in the Voltaire era of [Cardano’s roadmap](https://coindcx.com/blog/cryptocurrency/cardano-roadmap-a-key-phase-of-voltaire-era/). This upgrade is not merely a routine update but a leap forward in blockchain technology to address key challenges and unlock new capabilities for the Cardano network.\
-\
-The upgrade honors Phil Chang, who sadly passed away in 2022. Phil was a pioneer in Cardano governance at IOG, and his thinking contributed significantly to Voltaire's conceptualization. As part of Voltaire, the Chang upgrade transitions the ledger into the Conway era, establishing decentralized decision-making foundations by implementing [CIP-1694](https://cips.cardano.org/cip/CIP-1694) on-chain governance mechanisms.
+* [**Cardano Node 9.1.0**](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0) **is the mainnet candidate for Chang #1 hardfork.**&#x20;
+  * _Node 9.1.0 brings a configuration file update to Node 9.0.0._
+* Ledger Nano S device support for Conway is stalled, all other devices are supported.
+* DApps using Plutus V1/2 scripts must be aware of the new transaction costs associated with the use of reference scripts under Conway.
+  * _Please see_ [_Ref Script Cost Calculator_](https://docs.google.com/spreadsheets/d/1KFJCCbkDE5GaghlD4rDXB12pqLKnDFUNOKi0WErp\_-Q/edit?gid=0#gid=0) _from IOG Core Team._
 
-### Defining readiness&#x20;
+***
 
-Chang is being completed in 2 stages:
+## Status
 
+<details>
 
+<summary>Statuses legend</summary>
 
-<table><thead><tr><th width="127">ID</th><th>Headline Activity</th><th>Why</th><th>Who</th></tr></thead><tbody><tr><td>Step 1</td><td>Upgrade to Node 9.0.0</td><td>Early upgrade highlights any issue running in Babbage and helps confirm no regression</td><td>SPOs , DApps</td></tr><tr><td>Step 2</td><td>Upgrade to Node 9.1.0</td><td>Upgrade to 9.1.0 including the Genesis file revisions</td><td>SPOs, DApps, Exchanges</td></tr></tbody></table>
+<mark style="color:green;">**Ready >**</mark> Ready for Chang #1 as signalled by the team
 
-Below you will find updates from; core infrastructure components, tools, end user wallets, environments, SPOs, DApps, exchanges and other areas - summarising their compatibility and readiness for the upcoming hardfork to protocol 9.1. A hardfork combinator event can occur once \~75% of SPOs have upgraded to cardano-node 9.1.0
+<mark style="color:orange;">**In Progress >**</mark> Team are preparing for Node 9.X.X integration and Hardfork Working Group is aware of remaining tasks
 
-> **Latest Update**: Benchmarking and performance completed, we are ready for Node 9.0.0 upgrade. Hardfork readiness: awaiting 9.1.0 release (which includes Genesis file) plus thresholds levels reached.
+<mark style="color:blue;">**Not Started >**</mark> The work is not started but is criteria is understood
 
-## How to interpret statuses
+<mark style="color:red;">**Blocked >**</mark> Work is blocked
 
-| Legend                                               | Definition                                                                                                                                                                                    |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:green;">Ready</mark>              | Ready for Hardfork on Node 9.0.0                                                                                                                                                              |
-| <mark style="color:orange;">In Progress</mark>       | Team are preparing for 9.0.0 and Hardfork Working is aware of remaining tasks                                                                                                                 |
-| <mark style="color:red;">Not Started</mark>          | The work is not started but is criteria is understood                                                                                                                                         |
-| Not Started Integration (due to other dependancies)  | Tooling readiness on Cardano-Wallet, Rosetta, GraphQL enables downstream applications, **they can progress** once this is signalled. This can move 'Not Started Integration' to 'In Progress' |
+**TBC >** Unknown, status to be confirmed
 
-## Cardano Compatibility chart
+</details>
 
-<table><thead><tr><th width="156">Cardano Node</th><th width="164">Cardano DB sync</th><th width="164">Cardano Rosetta server</th><th width="167">Cardano GraphQL</th><th>Cardano wallet</th></tr></thead><tbody><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/9.0.0"><strong>9.0.0</strong></a> (major release)</td><td>13.3.0.0</td><td>In Progress</td><td>In Progress</td><td>In Progress</td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/8.12.2"><strong>8.12.2</strong></a> (fix)</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.4"><strong>8.9.4</strong></a> (fix)</td><td></td><td><a href="https://github.com/cardano-foundation/cardano-rosetta/releases/tag/2.2.5">2.2.5</a></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.3"><strong>8.9.3</strong></a> (enhancements)</td><td></td><td><a href="https://github.com/cardano-foundation/cardano-rosetta/releases/tag/2.2.4">2.2.4</a></td><td><a href="https://github.com/cardano-foundation/cardano-graphql/releases/tag/8.1.0">8.1.0</a></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.2"><strong>8.9.2</strong></a> (fix)</td><td><a href="https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.2.0.2">13.2.0.2</a></td><td><a href="https://github.com/cardano-foundation/cardano-rosetta/releases/tag/2.2.2">2.2.2</a></td><td></td><td><a href="https://github.com/cardano-foundation/cardano-wallet/releases/tag/v2024-05-05">2024-05-05</a></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.1"><strong>8.9.1</strong></a> (minor update)</td><td><a href="https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.2.0.2">13.2.0.2</a></td><td></td><td></td><td><a href="https://github.com/cardano-foundation/cardano-wallet/releases/tag/v2024-03-27">2024-03-27</a></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.0"><strong>8.9.0</strong></a> (bug fix)</td><td></td><td></td><td><a href="https://github.com/cardano-foundation/cardano-graphql/releases/tag/8.0.3">8.0.3</a></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/8.7.3"><strong>8.7.3</strong></a> (minor bug fix)</td><td><a href="https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.2.0.1">13.2.0.1</a></td><td><a href="https://github.com/cardano-foundation/cardano-rosetta/releases/tag/2.2.1">2.2.1</a></td><td><a href="https://github.com/cardano-foundation/cardano-graphql/releases/tag/8.0.1">8.0.1</a>/<a href="https://github.com/cardano-foundation/cardano-graphql/releases/tag/8.0.2">8.0.2</a></td><td><a href="https://github.com/cardano-foundation/cardano-wallet/releases/tag/v2024-03-01">2024-03-01</a></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/8.7.2"><strong>8.7.2</strong></a> (major update)</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node/releases">Click Here</a></td><td><a href="https://github.com/IntersectMBO/cardano-db-sync/releases">Click Here</a></td><td><a href="https://github.com/cardano-foundation/cardano-rosetta/releases">Click Here</a></td><td><a href="https://github.com/cardano-foundation/cardano-graphql/releases">Click Here</a></td><td><a href="https://github.com/cardano-foundation/cardano-wallet/releases">Click Here</a></td></tr></tbody></table>
+***
 
+### Core Infrastructure Components
 
+Core infrastructure encompasses all technologies included within the Cardano Node, as well as key tools.
 
-## Core Infrastructure Components
+{% hint style="success" %}
+High-level status: <mark style="color:green;">**Ready**</mark>
+{% endhint %}
 
-As well as ensuring we have a good number of updated nodes running the networks, downstream components (used by DApp developers, SPOs and exchanges) also have to be compatible. Here’s the status.
+<table><thead><tr><th width="228">Name</th><th width="312">Status </th><th width="173">Release</th></tr></thead><tbody><tr><td>Ledger</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0">Node 9.1.0</a></td></tr><tr><td>Consensus</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0">Node 9.1.0</a></td></tr><tr><td>Network</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0">Node 9.1.0</a></td></tr><tr><td>Plutus Core</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0">Node 9.1.0</a></td></tr><tr><td>Cardano CLI</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/IntersectMBO/cardano-cli/releases/tag/cardano-cli-9.2.1.0">9.2.1.0</a></td></tr><tr><td>DB-Sync</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.3.0.0">DB-Sync 13.3.0.0</a></td></tr><tr><td>End to End Testing</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://tests.cardano.intersectmbo.org/test_results/node/tag_9_0_0.html">Test Report</a></td></tr><tr><td>Performance and Tracing </td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://tests.cardano.intersectmbo.org/test_results/node/tag_9_0_0.html">Test Report</a></td></tr></tbody></table>
 
-<table><thead><tr><th width="148">Name</th><th width="121">Status </th><th width="132">Version</th><th width="168">Approver</th><th>General URL</th></tr></thead><tbody><tr><td>Ledger</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>Ledger Tech Lead</td><td>TBC</td></tr><tr><td>Consensus</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>Consensus Lead</td><td>TBC</td></tr><tr><td>Network</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>Network Lead</td><td>TBC</td></tr><tr><td>Node CLI</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>CLI Lead</td><td>TBC</td></tr><tr><td>Plutus Core</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>v3.0</td><td>Plutus Lead</td><td>TBC</td></tr><tr><td>DB Sync</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>DB Sync 13.3.0.0</td><td>DB Sync Lead</td><td>TBC</td></tr><tr><td>End to End Testing</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>E2E Lead</td><td>TBC</td></tr><tr><td>Performance and Tracing </td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>P&#x26;T Lead</td><td>TBC</td></tr></tbody></table>
+***
 
-## Tools
+### Environments
 
-<table><thead><tr><th width="272">Name</th><th width="126" align="center">Status </th><th width="136">Version</th><th width="106">Approver</th><th>URL</th></tr></thead><tbody><tr><td>cardano-wallet</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead CW</td><td></td></tr><tr><td>Rosetta</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead CW</td><td></td></tr><tr><td>GraphQL</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead CW</td><td></td></tr><tr><td>Daedalus</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead</td><td></td></tr><tr><td>Emurgo Serialization Library</td><td align="center"><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>Token Registry</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>Ogmios</td><td align="center"><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>Blockfrost</td><td align="center"><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>Explorer</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>cntools</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>SPO-tools</td><td align="center"><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>JorManager</td><td align="center"><mark style="color:green;"><strong>Ready</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>Cardano TS Library (Adrestia)</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead </td><td></td></tr><tr><td>Maestro</td><td align="center"><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>Node 9.0.0</td><td>Tech Lead</td><td></td></tr></tbody></table>
+Cardano has a range of network environments, each will require a hardfork, below we compare the prevalence of Cardano blocks created by Node versions.
 
-## Wallet Readiness
+{% hint style="info" %}
+High-level status: <mark style="color:orange;">**In Progress**</mark>
+{% endhint %}
 
-Wallet readiness is tracked against their integration against Cardano Node versions, rather than against feature sets or network support.
+<table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>20%</strong></mark></td><td><mark style="color:orange;"><strong>1%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
-Wallets are downstream tooling reliant upon Node versions, low level tooling (chain indexers, serialization libraries, etc.) and then higher level tools (dApps, GovTool, etc).
+For _live_ numbers please visit [Pooltool/networkhealth](https://pooltool.io/networkhealth) - Viewing Blocks Protocol Version Epoch
 
+{% hint style="info" %}
+Section maintained by IOG Core Tech Team
 
+Last Updated; 2024-07-25
+{% endhint %}
 
-<table data-header-hidden><thead><tr><th></th><th width="175"></th><th></th><th></th></tr></thead><tbody><tr><td>Wallet</td><td>Type</td><td>Node 9.0.0</td><td>Node 9.1.0</td></tr><tr><td><p>Lace</p><p><br><br></p></td><td>Light (browser)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><p>TBC</p><p><br></p></td></tr><tr><td>Yoroi</td><td>Light (browser)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>TBC</td></tr><tr><td>Yoroi Mobile</td><td>Light (mobile)</td><td>TBC</td><td>TBC</td></tr><tr><td>Nufi</td><td>Light (browser)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>TBC</td></tr><tr><td>Eternl</td><td>Light (browser)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>TBC</td></tr><tr><td>Eternl Mobile</td><td>Light (mobile)</td><td>TBC</td><td>TBC</td></tr><tr><td>Gero</td><td>Light (browser)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>TBC</td></tr><tr><td>Gero Mobile</td><td>Light (mobile)</td><td>TBC</td><td>TBC</td></tr><tr><td>Vespr</td><td>Light (mobile)</td><td>TBC</td><td>TBC</td></tr><tr><td>Nami</td><td>Light (browser)</td><td>TBC</td><td>TBC</td></tr><tr><td>Flint</td><td>Light (browser)</td><td>TBC</td><td>TBC</td></tr><tr><td>Flint Mobile</td><td>Light (mobile)</td><td>TBC</td><td>TBC</td></tr><tr><td>Begin</td><td>Light (browser)</td><td>TBC</td><td>TBC</td></tr><tr><td>BroClan</td><td>Light (browser)</td><td>TBC</td><td>TBC</td></tr><tr><td>Exodus</td><td>Light (browser)</td><td>TBC</td><td>TBC</td></tr><tr><td>Typhon</td><td>Light (browser)</td><td>TBC</td><td>TBC</td></tr><tr><td>Trezor</td><td>Hardware</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Ledger (Nano S+, Nano X, Stax)</td><td>Hardware</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Ledger Nano S</td><td>Hardware</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Daedalus</td><td>Full node</td><td>TBC</td><td>TBC</td></tr><tr><td>AdaLite</td><td>Full node</td><td>TBC</td><td>TBC</td></tr></tbody></table>
+***
 
-## Environments
+### Exchange Readiness
 
-<table><thead><tr><th width="154">Environment</th><th width="133">Version</th><th>Era</th><th width="161">Status</th><th width="119">Target Date</th><th>Approver</th></tr></thead><tbody><tr><td>SanchoNet</td><td>Node 9.0.0</td><td>Conway</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Already on Conway</td><td>Release Lead</td></tr><tr><td>Preview</td><td>Node 9.0.0</td><td>Conway</td><td><mark style="color:orange;"><strong>In Progress</strong></mark> </td><td>21-Jul-24</td><td>Release Lead</td></tr><tr><td>PreProd</td><td>Node 9.0.0</td><td>Babbage</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>TBC</td><td>Release Lead</td></tr><tr><td>Mainnet</td><td>Node 9.0.0</td><td>Babbage</td><td><mark style="color:orange;"><strong>In Progress</strong></mark> (SPO's currently upgrading)</td><td>TBC</td><td>Release Lead</td></tr></tbody></table>
+Exchange readiness is tracked against the top ten exchanges by ADA liquidity (as reported by [Cexplorer/hfs](https://cexplorer.io/hfs)).
 
-### SPO Readiness
+{% hint style="info" %}
+High-level status: <mark style="color:blue;">**Not Started**</mark>
+{% endhint %}
 
-To trigger the Chang upgrades, we need to see around 75% of mainnet blocks being created by the final Chang node candidate (9.x)
+<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>19.84%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>13.54%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>8.76%</td></tr><tr><td>FMFW.io</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.77%</td></tr><tr><td>Changelly PRO</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.74%</td></tr><tr><td>HitBTC</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.7%</td></tr><tr><td>Bitget</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>4.38%</td></tr><tr><td>P2B</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>4.31%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.72%</td></tr><tr><td>OKX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.19%</td></tr></tbody></table>
 
-Mainnet Block Producing Readiness
+For the latest info on _Exchanges by Liquidity_ please visit: [Cardanoscan](https://cardanoscan.io/changreadiness) and [Cexplorer](https://cexplorer.io/hfs).
 
-<table><thead><tr><th width="164">Node Version</th><th width="191">Block Percentage %</th><th>Comments</th></tr></thead><tbody><tr><td>&#x3C; 8.12.4</td><td>~</td><td>Unsupported Chang nodes</td></tr><tr><td>9.0.0</td><td><mark style="color:green;"><strong>25%</strong></mark> </td><td><mark style="color:green;"><strong>Upgraded to 9.0.0</strong></mark></td></tr><tr><td>9.1.0 (version due by end of July)</td><td><mark style="color:orange;">0% (pending release)</mark></td><td>Includes constitutional components</td></tr></tbody></table>
+{% hint style="info" %}
+Section maintained by Cardano Foundation
 
-_Last Updated: 2024-07-19_
+Last Updated; 2024-07-25
+{% endhint %}
 
-For the very latest ‘live’ numbers please visit tools such as [Pooltool](https://pooltool.io/realtime), [Cexplorer](https://cexplorer.io/block) or [https://cardanoscan.io/changreadiness](https://cardanoscan.io/changreadiness).
+***
 
-### DApp Projects
+### Tooling Readiness
 
-DApp developers may also need to prepare for Chang. Here's the latest information we have on the status – we’ll keep this updated as we receive feedback from projects.
+Tooling readiness is tracked against Node 9.X.X compatible releases and reported by each team.
 
-<table><thead><tr><th width="176">Project</th><th width="182">9.0.0 Readiness</th><th>9.0.0 Upgraded</th><th>URL</th></tr></thead><tbody><tr><td>Minswap</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://app.minswap.org/">Click Here</a></td></tr><tr><td>SundaeSwap</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://sundae.fi/">Click Here</a></td></tr><tr><td>Wingriders</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>DexHunter</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Axo</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Optim</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://www.optim.finance/">Click Here</a></td></tr><tr><td>Spectrum</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://spectrum.fi/">Click Here</a></td></tr><tr><td>Splash</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Genius Yield</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://www.geniusyield.co/?lng=en">Click Here</a></td></tr><tr><td>Indigo</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://indigoprotocol.io/">Click Here</a></td></tr><tr><td>Liqwid (finance)</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://liqwid.finance/">Click Here</a></td></tr><tr><td>Djed</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://djed.xyz/">Click Here</a></td></tr><tr><td>USDM</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Levvy</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Charli3</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Orcfax</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Iagon</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>NMKR</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Book</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>NEWM</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Rosenbridge</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>MyUSD</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Encoins</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://encoins.io/">Click Here</a></td></tr><tr><td>Clarity</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://www.clarity.vote/">Click Here</a></td></tr><tr><td>Summon</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://summonplatform.io/">Click Here</a></td></tr><tr><td>JPG.Store</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://www.jpg.store/">Click Here</a></td></tr><tr><td>MuesliSwap</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Lending Pond</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Fluid Tokens</td><td>Not Started Integration</td><td>Not Started Integration</td><td><a href="https://fluidtokens.com/">Click Here</a></td></tr><tr><td>LenfiAada</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>VyFinance</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>ADAX Pro</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Lenfi</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Revuto</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr><tr><td>Artano</td><td>Not Started Integration</td><td>Not Started Integration</td><td>Click Here</td></tr></tbody></table>
+#### Low-Level Tooling
 
-## Exchange Readiness
+We define Low-Level Tooling, as tools which are required by higher level tools, dApps and wallets.
 
-The community needs to ensure around 80% network liquidity is aligned with any hard fork event. Communication and updates to the exchange community is managed via the Cardano Foundation.
+{% hint style="info" %}
+High-level status: <mark style="color:orange;">**In Progress**</mark>
 
-For the latest info on 'Exchanges by Liquidity' please visit: [Cardano Scan ](https://cardanoscan.io/changreadiness)and [cexplorer](https://cexplorer.io/hfs).
+More details; Low-Level Tooling Chang Readiness Details
+{% endhint %}
 
-### Top ten exchanges by liquidity percentage
+| Library                       | Status                                             | Release Version                                                                                                               |
+| ----------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Cardano Serialization Library | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/Emurgo/cardano-serialization-lib/releases)_)_                             |
+| Cardano Multiplatform Library | <mark style="color:green;">**Ready**</mark>        | [5.3.0](https://github.com/dcSpark/cardano-multiplatform-lib/releases/tag/5.3.0)                                              |
+| Cardano JavaScript SDK        | <mark style="color:green;">**Ready**</mark>        | See [releases page](https://github.com/input-output-hk/cardano-js-sdk/releases)                                               |
+| Lucid                         | **TBC**                                            | **TBC**                                                                                                                       |
+| Pallas                        | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/pallas/releases)_)_                                                |
+| Cardano Transaction Library   | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_changelong_](https://github.com/Plutonomicon/cardano-transaction-lib/blob/develop/CHANGELOG.md#changelog)_)_ |
 
-<table><thead><tr><th width="262">Exchange</th><th width="213">Liquidity %</th><th>Status</th></tr></thead><tbody><tr><td>Gate.io</td><td>50.68%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>Binance</td><td>9.07%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>WhiteBIT</td><td>7.03%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>HTX</td><td>5.22%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>HitBTC</td><td>3.26%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>FMFW.io</td><td>3.23%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>Bitget</td><td>2.61%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>Coinbase Exchange</td><td>2.12%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>Upbit</td><td>2.01%</td><td><mark style="color:red;">Not Started</mark></td></tr><tr><td>P2B</td><td>1.89%</td><td><mark style="color:red;">Not Started</mark></td></tr></tbody></table>
+<table><thead><tr><th width="252">Tools</th><th width="247">Status </th><th width="251">Release Version</th></tr></thead><tbody><tr><td>cardano-wallet</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-wallet/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Rosetta</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-rosetta/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>GraphQL</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-graphql/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>cntools (guild-operators)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-community/guild-operators/tree/node-9.0.0"><em>branch</em></a><em>)</em></td></tr><tr><td>SPO Scripts (@gitmachtl)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/gitmachtl/scripts/releases/tag/9.0.0-mainnet">SPO Scripts for Node 9.0.0 (Mainnet)</a></td></tr></tbody></table>
 
-Last Updated : _2024-07-23_
+| Indexers | Status                                             | Version                                                                                   |
+| -------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Ogmios   | <mark style="color:green;">**Ready**</mark>        | [v6.5.0](https://github.com/CardanoSolutions/ogmios/releases/tag/v6.5.0)                  |
+| Oura     | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/scrolls/releases)_)_           |
+| Scrolls  | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/scrolls/releases)_)_           |
+| DB-Sync  | <mark style="color:green;">**Ready**</mark>        | [DB-Sync 13.3.0.0](https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.3.0.0) |
+| Carp     | <mark style="color:green;">**Ready**</mark>        | [3.2.0](https://github.com/dcSpark/carp/releases/tag/3.2.0)                               |
 
-## SanchoNet
+#### Higher Level Tooling
 
-SanchoNet is all about developing and testing the _technical_ components and processes required to action governance for Cardano within CIP-1694.&#x20;
+<table><thead><tr><th width="335">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Maestro</td><td><strong>TBC</strong></td></tr><tr><td>Koios</td><td><strong>TBC</strong></td></tr></tbody></table>
 
-<table><thead><tr><th width="199">Environment</th><th width="135">Node Version</th><th width="99">DB Sync</th><th width="118">Status</th><th>Accountable</th></tr></thead><tbody><tr><td>SanchoNet</td><td>9.0</td><td>13.3.0.0</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Tech Lead</td></tr><tr><td>DB Sync readiness</td><td>9.0</td><td>13.3.0.0</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Tech Lead</td></tr></tbody></table>
+{% hint style="info" %}
+Section maintained by Cardano Foundation
 
-Last Updated: _2024-07-17_
+Last updated; 2024-07-25
+{% endhint %}
 
-## Core Governance Tooling
+***
 
-The SanchoNet GovTool Beta is currently offline as we rebuild following the latest SanchoNet respin. SanchoNet Govtool is connected to SanchoNet testnet, which means that if the network gets upgraded with new features, Govtool needs to be updated too. It also means we’ll have some exciting updates soon to share about GovTool’s features, so watch this space.
+### Wallets Readiness
 
-<table><thead><tr><th width="170"></th><th width="155"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Tool</td><td>SanchoNet</td><td>Preview</td><td>PreProd</td><td>Mainnet</td></tr><tr><td>GovTool</td><td><p><mark style="color:green;"><strong>Ready</strong></mark> </p><p><mark style="color:green;"><strong>(</strong></mark><a href="https://sanchogov.tools/"><mark style="color:green;"><strong>sanchogov.tools</strong></mark></a><mark style="color:green;"><strong>)</strong></mark></p></td><td><p><mark style="color:orange;"><strong>In Progress</strong></mark></p><p><br></p></td><td><p><mark style="color:orange;"><strong>In Progress</strong></mark></p><p><br></p></td><td><p><mark style="color:orange;"><strong>In Progress</strong></mark></p><p><br></p></td></tr><tr><td>Constitutional Committee Portal</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
+Wallet readiness is tracked against their integration against Cardano Node versions, as well as self-reported readiness.
 
+{% hint style="info" %}
+High-level status: <mark style="color:orange;">**In Progress**</mark>
+{% endhint %}
 
+#### Light Wallets
 
-## Interim Constitutional Committee Readiness
+<table><thead><tr><th width="432">Wallet</th><th width="251">Status</th></tr></thead><tbody><tr><td>Lace</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Yoroi</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Yoroi (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Nufi</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Eternl</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Eternl (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Gero</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Gero Mobile</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Vespr</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Vespr (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Nami</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Flint</td><td>TBC</td></tr><tr><td>Flint (Mobile)</td><td>TBC</td></tr><tr><td>Begin</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Begin (Mobile)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>BroClan</td><td>TBC</td></tr><tr><td>Exodus</td><td>TBC</td></tr><tr><td>Typhon</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
 
-To uphold the interim Constitution, there will be an interim Constitutional Committee (CC) to enable the first stage of the Chang upgrade. The interim CC will focus on the technicality and base constitutionality of the very first community-submitted on-chain governance actions. The interim CC will comprise seven members, each sitting for a one-year term to cover the interim period to help maintain security and continuity.
+#### Hardware Wallets
 
-Minimum readiness threshold for Interim Constitutional Committee (ICC):&#x20;
+| Wallet                         | Readiness                                          |
+| ------------------------------ | -------------------------------------------------- |
+| Trezor                         | <mark style="color:green;">**Ready**</mark>        |
+| Ledger (Nano S+, Nano X, Stax) | <mark style="color:green;">**Ready**</mark>        |
+| Ledger (Nano S)                | <mark style="color:orange;">**In Progress**</mark> |
 
-<table><thead><tr><th width="149" align="center">ICC Member</th><th width="216">Cold Credential Created</th><th width="240">Training Module Completed</th></tr></thead><tbody><tr><td align="center">Cardano Atlantic Council</td><td>                   ✅</td><td>                     ✅</td></tr><tr><td align="center">Cardano Japan</td><td></td><td>                     ✅</td></tr><tr><td align="center">Cardano Foundation</td><td>                   ✅</td><td>                     ✅</td></tr><tr><td align="center">Eastern Cardano Council</td><td>                   ✅</td><td>                     ✅</td></tr><tr><td align="center">Emurgo</td><td>                   ✅</td><td>                     ✅</td></tr><tr><td align="center">Intersect</td><td>                   ✅</td><td>                     ✅</td></tr><tr><td align="center">Input Output</td><td>                   ✅</td><td>                     ✅</td></tr></tbody></table>
+#### Full Node / CLI Wallets
 
-Last updated 2024-07-19
+| Wallet   | Readiness                                          |
+| -------- | -------------------------------------------------- |
+| Daedalus | <mark style="color:orange;">**In Progress**</mark> |
+| AdaLite  | <mark style="color:orange;">**In Progress**</mark> |
+| CNTools  | <mark style="color:orange;">**In Progress**</mark> |
 
-## DRep Pioneer Program                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &#x20;
+{% hint style="info" %}
+Section maintained by the Wallets Working Group
 
-The role of DRep is pivotal in Cardano’s future governance structure, ensuring effective and informed participation and decision-making for the ecosystem.
+Last updated; 2024-07-25
+{% endhint %}
 
-The DRep Pioneer Program is an initiative sponsored by Intersect. Selected members from various parts of the world have been invited to become Pioneer Workshop Leaders, delivering comprehensive training sessions in multiple languages. By the end of the program, community members will be well-equipped with the knowledge and skills necessary to take on the new governance role of DRep (Delegated Representative). \
-\
-More than 100 community members have completed the training as of 2024-07-19\
-\
-Learn more and get involved: [https://intersect.gitbook.io/drep-pioneer-program](https://intersect.gitbook.io/drep-pioneer-program)
+***
+
+### DApp Project Readiness
+
+DApp readiness is tracked against self reported readiness, dApp developers do need to prepare as Conway will change costing around the use of reference scripts.
+
+_Please see_ [_Ref Script Cost Calculator_](https://docs.google.com/spreadsheets/d/1KFJCCbkDE5GaghlD4rDXB12pqLKnDFUNOKi0WErp\_-Q/edit?gid=0#gid=0) _from IOG Core Team._
+
+{% hint style="info" %}
+High-level status: **TBC**
+{% endhint %}
+
+<table><thead><tr><th width="343">Project</th><th width="263">Status</th></tr></thead><tbody><tr><td>Minswap</td><td><strong>TBC</strong></td></tr><tr><td>SundaeSwap</td><td><strong>TBC</strong></td></tr><tr><td>Wingriders</td><td><strong>TBC</strong></td></tr><tr><td>DexHunter</td><td><strong>TBC</strong></td></tr><tr><td>Axo</td><td><strong>TBC</strong></td></tr><tr><td>Optim</td><td><strong>TBC</strong></td></tr><tr><td>Spectrum</td><td><strong>TBC</strong></td></tr><tr><td>Splash</td><td><strong>TBC</strong></td></tr><tr><td>Genius Yield</td><td><strong>TBC</strong></td></tr><tr><td>Indigo</td><td><strong>TBC</strong></td></tr><tr><td>Liqwid (finance)</td><td><strong>TBC</strong></td></tr><tr><td>Djed</td><td><strong>TBC</strong></td></tr><tr><td>USDM</td><td><strong>TBC</strong></td></tr><tr><td>Levvy</td><td><strong>TBC</strong></td></tr><tr><td>Charli3</td><td><strong>TBC</strong></td></tr><tr><td>Orcfax</td><td><strong>TBC</strong></td></tr><tr><td>Iagon</td><td><strong>TBC</strong></td></tr><tr><td>NMKR</td><td><strong>TBC</strong></td></tr><tr><td>Book.io</td><td><strong>TBC</strong></td></tr><tr><td>NEWM</td><td><strong>TBC</strong></td></tr><tr><td>Rosenbridge</td><td><strong>TBC</strong></td></tr><tr><td>MyUSD</td><td><strong>TBC</strong></td></tr><tr><td>Encoins</td><td><strong>TBC</strong></td></tr><tr><td>Clarity</td><td><strong>TBC</strong></td></tr><tr><td>Summon</td><td><strong>TBC</strong></td></tr><tr><td>JPG.Store</td><td><strong>TBC</strong></td></tr><tr><td>MuesliSwap</td><td><strong>TBC</strong></td></tr><tr><td>Lending Pond</td><td><strong>TBC</strong></td></tr><tr><td>Fluid Tokens</td><td><strong>TBC</strong></td></tr><tr><td>LenfiAada</td><td><strong>TBC</strong></td></tr><tr><td>VyFinance</td><td><strong>TBC</strong></td></tr><tr><td>ADAX Pro</td><td><strong>TBC</strong></td></tr><tr><td>Lenfi</td><td><strong>TBC</strong></td></tr><tr><td>Revuto</td><td><strong>TBC</strong></td></tr><tr><td>Artano</td><td><strong>TBC</strong></td></tr></tbody></table>
+
+{% hint style="info" %}
+Section maintained by Anatasia Labs
+
+Last updated; 2024-07-25
+{% endhint %}
+
+### Supporting governance initiatives - Readiness
+
+The Chang #1 hardfork will introduce governance to Cardano, specific tooling is being developed to support the governance model.
+
+#### Governance Tooling
+
+{% hint style="info" %}
+High-level status: <mark style="color:orange;">**In Progress**</mark>
+{% endhint %}
+
+<table><thead><tr><th width="170">Tool</th><th width="216">Status</th></tr></thead><tbody><tr><td>GovTool</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Constitutional Committee Portal</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>DRep Campaign Platform</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
+
+{% hint style="info" %}
+Section maintained by the Governance Tools Working Group
+
+Last Updated; 2024-07-25
+{% endhint %}
+
+#### Interim Constitutional Committee Readiness
+
+Interim Constitutional Committee readiness is tracked against training module completion as well as on-chain mainnet cold credential creation.
+
+{% hint style="success" %}
+High-level status: <mark style="color:green;">**Ready**</mark>
+{% endhint %}
+
+<table><thead><tr><th width="420" align="center">Member</th><th>Readiness</th></tr></thead><tbody><tr><td align="center">Cardano Atlantic Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Japan</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Foundation</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Eastern Cardano Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Emurgo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Intersect</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Input Output</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
+
+{% hint style="info" %}
+Section maintained by IOG Voltaire Team
+
+Last Updated; 2024-07-25
+{% endhint %}
+
+#### DRep Pioneer Program                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &#x20;
+
+DRep Pioneer Program readiness is tracked against total number of participants who have gone through a DRep pioneer program workshop.\
+Learn more and get involved: [DRep Pioneer Program Overview](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/VNa3QAZtN9ihYGiFy8AM/).
+
+{% hint style="info" %}
+High-level status: <mark style="color:orange;">**In Progress**</mark>
+{% endhint %}
+
+| Total DRep Training Completed | Status                                             |
+| ----------------------------- | -------------------------------------------------- |
+| 50                            | <mark style="color:green;">**Ready**</mark>        |
+| 75                            | <mark style="color:green;">**Ready**</mark>        |
+| 100                           | <mark style="color:green;">**Ready**</mark>        |
+| 150                           | <mark style="color:green;">**Ready**</mark>        |
+| 300                           | <mark style="color:orange;">**In Progress**</mark> |
+
+{% hint style="info" %}
+Section maintained by Intersect DRep Pioneer Program lead
+
+Last Updated; 2024-07-25
+{% endhint %}

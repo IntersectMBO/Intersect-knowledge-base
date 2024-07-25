@@ -1,7 +1,3 @@
----
-description: Otherwise known as the Council
----
-
 # Constitutional Council of Intersect
 
 #### Introducing the Constitutional Council of lntersect

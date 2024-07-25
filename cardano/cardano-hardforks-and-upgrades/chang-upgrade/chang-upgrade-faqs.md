@@ -1,4 +1,4 @@
-# Frequently asked questions
+# Chang upgrade FAQs
 
 {% hint style="info" %}
 This FAQ will be updated following the latest hard fork working group meetings and Q\&A sessions.
