@@ -20,7 +20,7 @@
   * [Open Source committee (OSC)](intersect-overview/intersect-committees/open-source-committee-osc.md)
   * [Budget committee (proposed)](intersect-overview/intersect-committees/budget-committee-proposed.md)
   * [Roadmap committee (proposed)](intersect-overview/intersect-committees/roadmap-committee-proposed.md)
-* [Intersect working groups](intersect-overview/intersect-working-groups.md)
+* [Intersect groups (working & special interest)](intersect-overview/intersect-groups-working-and-special-interest.md)
 * [Intersect development updates](intersect-overview/intersect-development-updates.md)
 
 ## Cardano
