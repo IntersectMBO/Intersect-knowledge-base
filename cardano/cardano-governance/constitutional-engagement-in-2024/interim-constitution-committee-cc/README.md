@@ -28,26 +28,26 @@ The Interim Constitution Committee Election
 
 The ICC election saw 455, 779, 792, 149, 846 (455, 779, 792 ada) staked and 1947 unique votes. We are pleased to announce the outcome, and confirm the remaining three seats on Cardano’s interim Constitutional Committee.
 
-_Note: Data provided by Summon Platform, a blockchain development group contracted by Summon MBO. Ada totals reflect voting results after a series of simple run-off elections where the candidate with the lowest number of votes was eliminated, until only six candidates remained. For more information on the ranked choice voting process used in this election please see the_ [_FAQs_](https://icc-election.intersectmbo.org/faq) _provided by the Summon Platform. Full audits can be viewed_ [_here_](https://intersectmbo.slack.com/files/U05G10V0NU8/F07EJA1GMJ4/ccelectionvote\_data\_anon.csv)_._
+_Note: Data provided by Summon Platform, a blockchain development group contracted by Summon MBO. Ada totals reflect voting results after a series of simple run-off elections where the candidate with the lowest number of votes was eliminated, until only six candidates remained. For more information on the ranked choice voting process used in this election please see the_ [_FAQs_](https://icc-election.intersectmbo.org/faq) _provided by the Summon Platform._ \
+\
+**Full audits can be viewed below:**
+
+{% file src="../../../../.gitbook/assets/ccElectionVote_data_anon.csv" %}
 
 \
 We are delighted to announce the 3 members appointed to the committee:
 
-### **1.Cardano Atlantic Council**
+### **1. Cardano Atlantic Council**
 
 _Adam Dean, Beatrice Anihiri, Mike Hornan, Jennifer Brito, Thiago Nunes, Richard McCracken_
 
-### &#x20;2.**Cardano Japan**
+### 2.**Cardano Japan**
 
-_Seira Yun, Shusuke Wakuda, Rena Oishi, Hideki Takeshi_\
-\
+_Seira Yun, Shusuke Wakuda, Rena Oishi, Hideki Takeshi_
 
-
-### **3.Eastern Cardano Council**
+### **3. Eastern Cardano Council**
 
 _Jo Allum, Mark Byers, Oscar Hong, Phil Lewis, Ha Nguyen, Yuki Oishi_
-
-
 
 Our sincere congratulations to the [Cardano Atlantic Council](https://intersect.gitbook.io/2024-constitutional-committee-members-election/candidates/the-cardano-atlantic-council), [Cardano Japan](https://intersect.gitbook.io/2024-constitutional-committee-members-election/candidates/cardano-japan), and [Eastern Cardano Council](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LQX9Yzpr2CgxQjPsjkZf/candidates/eastern-cardano-council) who have been elected by the community as their top three preferred candidates. In addition, congratulations to Mauro Agustín Andreoli, Scientific Analytical Tools LLC, and Joshua Stone who are confirmed as alternates in the event one (or more) from the top 3 decline to sit on the ICC.
 
