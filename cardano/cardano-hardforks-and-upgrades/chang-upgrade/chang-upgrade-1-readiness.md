@@ -62,20 +62,20 @@ Cardano has a range of network environments, each will require a hardfork, below
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;">18<strong>%</strong></mark></td><td><mark style="color:orange;">2<strong>%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;">15<strong>%</strong></mark></td><td><mark style="color:orange;">4<strong>%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
 For _live_ numbers please visit [Pooltool/networkhealth](https://pooltool.io/networkhealth) - Viewing Blocks Protocol Version Epoch. Please visit the live [PreProd](https://preprod.cexplorer.io/versions) & [Preview data](https://preview.cexplorer.io/versions)
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
-| 3110              | 29                | 5.01%         |
+| 3110              | 81                | 10.52 %       |
 
 For the latest numbers please visit: [cardanoscan](https://cardanoscan.io/changreadiness)
 
 {% hint style="info" %}
 Section maintained by IOG Core Tech Team
 
-Last Updated; 2024-07-25
+Last Updated; 2024-07-26
 {% endhint %}
 
 ***
@@ -135,7 +135,7 @@ More details; Low-Level Tooling Chang Readiness Details
 
 #### Higher Level Tooling
 
-<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Maestro</td><td><strong>TBC</strong></td></tr><tr><td>Koios</td><td><strong>TBC</strong></td></tr></tbody></table>
+<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Maestro</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Koios</td><td><strong>TBC</strong></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Cardano Foundation
