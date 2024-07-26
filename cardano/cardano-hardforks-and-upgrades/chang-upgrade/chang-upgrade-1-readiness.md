@@ -66,6 +66,12 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 For _live_ numbers please visit [Pooltool/networkhealth](https://pooltool.io/networkhealth) - Viewing Blocks Protocol Version Epoch. Please visit the live [PreProd](https://preprod.cexplorer.io/versions) & [Preview data](https://preview.cexplorer.io/versions)
 
+| Total Stake Pools | Stake Pools Ready | Stake Ready % |
+| ----------------- | ----------------- | ------------- |
+| 3110              | 29                | 5.01%         |
+
+For the latest numbers please visit: [cardanoscan](https://cardanoscan.io/changreadiness)
+
 {% hint style="info" %}
 Section maintained by IOG Core Tech Team
 
