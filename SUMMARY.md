@@ -156,7 +156,12 @@
 
 * [Open grants](intersect-community-grants/open-grants/README.md)
   * [Community hubs](intersect-community-grants/open-grants/community-hubs.md)
-  * [Constitutional workshops](intersect-community-grants/open-grants/constitutional-workshops.md)
+  * [Constitutional workshops](intersect-community-grants/open-grants/constitutional-workshops/README.md)
+    * [Apply to become a constitutional workshop host](intersect-community-grants/open-grants/constitutional-workshops/apply-to-become-a-constitutional-workshop-host.md)
+    * [Constitutional workshop guidelines](intersect-community-grants/open-grants/constitutional-workshops/constitutional-workshop-guidelines.md)
+    * [Your commitment as a host](intersect-community-grants/open-grants/constitutional-workshops/your-commitment-as-a-host.md)
+    * [Key terms and Resources](intersect-community-grants/open-grants/constitutional-workshops/key-terms-and-resources.md)
+    * [FAQ](intersect-community-grants/open-grants/constitutional-workshops/faq.md)
   * [Inclusion and Accessibility phase 2](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/README.md)
     * [A Grant to implement the translation tool](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/a-grant-to-implement-the-translation-tool.md)
     * [Grants to translate GovTool and the Constitutional Committee Portal](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/grants-to-translate-govtool-and-the-constitutional-committee-portal.md)
