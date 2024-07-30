@@ -1,7 +1,19 @@
 # Workshop List
 
-With thanks to all applicants and to the members volunteering to help evaluate the 98 applications, we are pleased to confirm the following workshops: \
+With thanks to all applicants and to the members volunteering to help evaluate the 98 applications, we are pleased to confirm the following workshops:&#x20;
 
+| <p><br></p>                        | **Africa** | <p><br></p>                                                             |
+| ---------------------------------- | ---------- | ----------------------------------------------------------------------- |
+| **City, country**                  | **Date**   | **Host**                                                                |
+| Accra, Ghana                       | Aug 23     | Afia Owusu, WADA                                                        |
+| Addis Ababa, Ethiopia              | Aug 24     | Nebiyu Sultan                                                           |
+| Douala, Cameroon                   | Sep 28     | Megan Hess, DIT Cameroon                                                |
+| Ebene, Mauritius                   | Sep 5      | Deane Thomas, Three T's International, and True Tesla Technologies Ltd. |
+| Goma, Democratic Republic of Congo | Aug 31     | Boaz BALUME, Goma Hub & Stake Pool                                      |
+| Johannesburg, South Africa         | Aug 10     | Bernard Sibanda                                                         |
+| Lagos, Nigeria                     | Aug 10     | Ubio Obu, Remostart                                                     |
+| Nairobi, Kenya                     | Sep 21     | Darlington Wleh, LidoNation                                             |
+| Tamale, Ghana                      | Aug 31     | Seidu Ziblim, Cardano Ghana Community                                   |
 
 | <p><br></p>               | **Asia & Middle East** | <p><br></p>           |
 | ------------------------- | ---------------------- | --------------------- |
@@ -10,10 +22,10 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | Colombo, Sri Lanka        | Aug 31                 | Kavinda Kariyapperuma |
 | Ho Chi Minh City, Vietnam | Aug 25                 | Nguyen Ha             |
 | Osaka, Japan              | Aug 10                 | Seira Yun             |
-| Seoul, South Korea        | Aug 17                 | Oscar Hong            |
+| Seoul, South Korea        | Sep 7                  | Oscar Hong            |
 | Singapore, Singapore      | Sep 17                 | Adnan Khan            |
-| Taipei, Taiwan            | Aug 1 tbc              | Jeremy Firster        |
-| Batumi, Georgia           | Aug 20                 | Andrew Thornhill      |
+| Taipei, Taiwan            | Sep _tbc_              | Jeremy Firster        |
+| Batumi, Georgia           | Aug 19                 | Andrew Thornhill      |
 | Tokyo, Japan              | Aug 31                 | Seira Yun             |
 
 \
@@ -26,12 +38,12 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | Berlin, Germany        | Sep 21     | Bastian Thomasberger       |
 | Den Haag, Netherlands  | Aug 30     | Max van Rossem             |
 | Edinburgh, Scotland    | Sep 14     | Larisa Mcfarlane           |
-| Geneva, Switzerland    | Sep 6      | Felix Weber                |
+| Geneva, Switzerland    | Sep 7      | Felix Weber                |
 | Lisbon, Portugal       | Sep 7      | Pedro Lucas                |
 | London, United Kingdom | Sep 21     | Mark Hall                  |
 | Oslo, Norway           | Oct 4      | Beatrice Anihiri           |
 | Santander, Spain       | Sep 19     | Jose Arturo Mora Soto, IOG |
-| Tallinn, Estonia       | Sep 4      | Vattan PS                  |
+| Tallinn, Estonia       | Sep 10     | Vattan PS                  |
 | Thessaloniki, Greece   | Sep 14     | Evangelos Karakatsis       |
 
 \
@@ -43,7 +55,6 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | Perth, Australia                | Oct 5       | Nathan Barkell, Olympus Insights PTY LTD |
 | Sydney, Australia               | Sep 7       | Mark Byers, Self-driven Foundation       |
 | Tauranga, Aotearoa, New Zealand | Sep 1       | Jo Allum                                 |
-| Wellington, New Zealand         | Oct 5       | Phil Lewis, Vaka Consulting              |
 
 \
 
@@ -51,7 +62,7 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | <p><br></p>                 | **North/Central America** | <p><br></p>                 |
 | --------------------------- | ------------------------- | --------------------------- |
 | **City, Country**           | **Date**                  | **Host**                    |
-| Austin, United States       | Oct 4-6                   | Nicodemus Rodriguez         |
+| Austin, United States       | Oct 19                    | Nicodemus Rodriguez         |
 | Chicago, United States      | Sep 14                    | Ian McCullough              |
 | Dallas, United States       | Oct 5                     | Hosky                       |
 | Fort Mayers, United States  | Sep 21                    | Lloyd Duhon                 |
