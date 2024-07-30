@@ -62,40 +62,40 @@ Cardano has a range of network environments, each will require a hardfork, below
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;">15<strong>%</strong></mark></td><td><mark style="color:orange;">4<strong>%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>3%</strong></mark></td><td><mark style="color:orange;"><strong>20%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>61.07%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>14.11%</strong></mark></td><td><mark style="color:orange;"><strong>66.34%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
 For _live_ numbers please visit [Pooltool/networkhealth](https://pooltool.io/networkhealth) - Viewing Blocks Protocol Version Epoch. Please visit the live [PreProd](https://preprod.cexplorer.io/versions) & [Preview data](https://preview.cexplorer.io/versions)
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
-| 3110              | 81                | 10.52 %       |
+| 3109              | 243               | 20.91 %       |
 
 For the latest numbers please visit: [cardanoscan](https://cardanoscan.io/changreadiness)
 
 {% hint style="info" %}
 Section maintained by IOG Core Tech Team
 
-Last Updated; 2024-07-26
+Last Updated; 2024-07-30
 {% endhint %}
 
 ***
 
 ### Exchange Readiness
 
-Exchange readiness is tracked against the top ten exchanges by ADA liquidity (as reported by [Cexplorer/hfs](https://cexplorer.io/hfs)).
+Exchange readiness is tracked against the top exchanges by ADA liquidity (as reported by [Cexplorer/hfs](https://cexplorer.io/hfs)).
 
 {% hint style="info" %}
-High-level status: <mark style="color:blue;">**Not Started**</mark>
+High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>19.84%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>13.54%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>8.76%</td></tr><tr><td>FMFW.io</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.77%</td></tr><tr><td>Changelly PRO</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.74%</td></tr><tr><td>HitBTC</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.7%</td></tr><tr><td>Bitget</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>4.38%</td></tr><tr><td>P2B</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>4.31%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.72%</td></tr><tr><td>OKX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.19%</td></tr></tbody></table>
+<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>18.79%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>13.32%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>8.66%</td></tr><tr><td>HitBTC</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>6.02%</td></tr><tr><td>Changelly PRO</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.91%</td></tr><tr><td>FMFW.io</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.91%</td></tr><tr><td>Bitget</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>4.64%</td></tr><tr><td>Upbit</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.95%</td></tr><tr><td>P2B</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.91%</td></tr><tr><td>OKX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>2.92%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>2.91%</td></tr><tr><td>Bitfinex</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.78%</td></tr></tbody></table>
 
 For the latest info on _Exchanges by Liquidity_ please visit: [Cardanoscan](https://cardanoscan.io/changreadiness) and [Cexplorer](https://cexplorer.io/hfs).
 
 {% hint style="info" %}
 Section maintained by Cardano Foundation
 
-Last Updated; 2024-07-25
+Last Updated; 2024-07-30
 {% endhint %}
 
 ***
