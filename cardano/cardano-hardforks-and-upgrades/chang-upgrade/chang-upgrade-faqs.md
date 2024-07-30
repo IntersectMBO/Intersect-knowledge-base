@@ -30,17 +30,19 @@ If you do not update your [node ](https://github.com/IntersectMBO/cardano-node/r
 
 <details>
 
-<summary><strong>What is the general state of ecosystem readiness for all of these changes? What is the potential impact if a particular wallet, dApp, etc., isn’t explicitly updated?</strong></summary>
+<summary><strong>What is the potential impact if a particular wallet, dApp, etc., isn’t explicitly updated?</strong></summary>
 
-The ecosystem must update to the latest protocol version [(9.0)](https://github.com/IntersectMBO/cardano-node/releases) to ensure compatibility. Previous versions may cease to function properly, and fee calculations may fail, leading to potential disruptions in services. Of course there is no potential danger of loss of funds.
+The ecosystem must upgrade to at least [Node 9.1.0](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0) to ensure continued compatibility and normal operation.
+
+The fee calculation for Plutus V2 reference scripts has been adjusted, which may cause disruption.
 
 </details>
 
 <details>
 
-<summary><strong>Where can users find the latest information about the Chang hard fork?</strong></summary>
+<summary><strong>Where can users find the latest information about the Chang upgrade?</strong></summary>
 
-The community can find the latest information on the Chang hard fork on Intersects [website ](https://www.intersectmbo.org/)and [knowledge base](https://docs.intersectmbo.org/), community forums, and through updates posted on official [Twitter](https://twitter.com/intersectmbo), Discord channels. Intersect also provides newsletters and developer updates that you can subscribe to for the latest news.
+The community can find the latest information on the Chang upgrade on [Intersect's knowledge base](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade), [weekly newsletters](https://intersectmbo.org/news) and through updates posted on official [Twitter](https://twitter.com/intersectmbo).
 
 </details>
 
@@ -123,7 +125,7 @@ Yes, the changes have been finalized with the exception of any impacts from test
 
 <summary><strong>How will the Chang hard fork be previewed and tested before full deployment?</strong></summary>
 
-Node 9.0 will be previewed and tested concurrently with the [pre-production network](https://docs.cardano.org/cardano-testnets/environments/). This process is controlled by the community, ensuring thorough testing and validation before the full deployment. The preview and pre-production are expected to follow the same governance rules as the [mainnet](https://book.play.dev.cardano.org/env-mainnet.html), ensuring consistency across [environments](https://book.play.dev.cardano.org/environments.html).
+Node 9.1.0 will be previewed and tested concurrently with the [pre-production network](https://docs.cardano.org/cardano-testnets/environments/). This process is controlled by the community, ensuring thorough testing and validation before the full deployment. The preview and pre-production are expected to follow the same governance rules as the [mainnet](https://book.play.dev.cardano.org/env-mainnet.html), ensuring consistency across [environments](https://book.play.dev.cardano.org/environments.html).
 
 </details>
 
@@ -137,17 +139,9 @@ Community testing is conducted on [SanchoNet ](https://sancho.network/get-starte
 
 <details>
 
-<summary>What is the state of stake operators upgrading to the latest node for the Chang hard fork?</summary>
+<summary>What is the role of stake pool operators upgrading to the latest node for the Chang hard fork?</summary>
 
-Stake Pool Operators play an important part in any hard fork. The community requires them to upgrade prior to a hard fork combinator event. The latest status of SPOs' readiness can be found on our Ecosystem Readiness page.
-
-</details>
-
-<details>
-
-<summary> Will there be an Ecosystem Readiness page?</summary>
-
-Yes, there will be community updates on readiness with daily updates on node percentages, available after the 9.0 release.
+Stake Pool Operators play an important (the most important!) part in any hard fork. The community requires them to upgrade prior to a hard fork combinator event. The latest status of SPOs' readiness can be found on our [Ecosystem Readiness page](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness).
 
 </details>
 
@@ -156,7 +150,7 @@ Yes, there will be community updates on readiness with daily updates on node per
 <summary>What happens to Preview, Pre-Production, and Sanchonet following the hard fork?</summary>
 
 * **Sanchonet:** Will continue running for governance testing to ensure thorough testing and transition to new governance mechanisms.
-* **Preview:** Will fork shortly after the 9.0 release and remain in Chang until the next major upgrade.
+* **Preview:** Will fork shortly after the 9.1.0 release and remain in Chang in governance bootstrapping for the coming months.
 * **Pre-Production:** Will be closely aligned with mainnet to ensure consistent testing and readiness.
 
 </details>
@@ -213,7 +207,7 @@ For the latest updates and detailed information, visit the [Timeline and Depende
 
 <summary><strong>How will changes and updates be communicated to the community?</strong></summary>
 
-Updates and significant changes will be communicated through various channels including [Twitter](https://twitter.com/intersectmbo), Discord, community forums, and the project’s [knowledge base](https://docs.intersectmbo.org/). Important updates will also be discussed in follow-up meetings, ensuring all stakeholders have the latest information and can provide feedback.
+Updates and significant changes will be communicated through various channels including [Twitter](https://twitter.com/intersectmbo), [Discord](https://discord.com/invite/wQU2dPjK3Z), and the project’s [knowledge base](https://docs.intersectmbo.org/). Important updates will also be discussed in follow-up meetings, ensuring all stakeholders have the latest information and can provide feedback.
 
 </details>
 
@@ -245,7 +239,7 @@ Community governance is a central aspect of Cardano’s upgrade [roadmap](https:
 
 <summary>Where can I find more information on related topics?</summary>
 
-Useful resources:
+**Useful resources:**
 
 * [SanchoNet](https://sancho.network/get-started)
 * [Cardano Docs](https://docs.cardano.org)
