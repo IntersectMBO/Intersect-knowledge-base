@@ -7,7 +7,7 @@ description: >-
 # Chang Upgrade #1 Readiness
 
 {% hint style="info" %}
-This page is updated daily and is open to community feedback to ensure correctness of reporting.
+This page is updated frequently and is open to community feedback to ensure correctness of reporting.&#x20;
 
 Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spot any fixes.
 {% endhint %}
