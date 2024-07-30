@@ -56,7 +56,7 @@ High-level status: <mark style="color:green;">**Ready**</mark>
 
 ### Environments
 
-Cardano has a range of network environments, each will require a hardfork, below we compare the prevalence of Cardano blocks created by Node versions.
+Cardano has a range of network environments, each will require a hardfork, below we compare the prevalence of Cardano blocks created by Node versions within the last 8 hours. 75%+ will indicate readiness for hardforking.
 
 {% hint style="info" %}
 High-level status: <mark style="color:orange;">**In Progress**</mark>
@@ -64,7 +64,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 <table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>3%</strong></mark></td><td><mark style="color:orange;"><strong>20%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>61.07%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>14.11%</strong></mark></td><td><mark style="color:orange;"><strong>66.34%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
-For _live_ numbers please visit [Pooltool/networkhealth](https://pooltool.io/networkhealth) - Viewing Blocks Protocol Version Epoch. Please visit the live [PreProd](https://preprod.cexplorer.io/versions) & [Preview data](https://preview.cexplorer.io/versions)
+For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions).
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
@@ -114,16 +114,15 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 More details; Low-Level Tooling Chang Readiness Details
 {% endhint %}
 
-| Library                       | Status                                             | Release Version                                                                                                               |
-| ----------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Cardano Serialization Library | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/Emurgo/cardano-serialization-lib/releases)_)_                             |
-| Cardano Multiplatform Library | <mark style="color:green;">**Ready**</mark>        | [5.3.0](https://github.com/dcSpark/cardano-multiplatform-lib/releases/tag/5.3.0)                                              |
-| Cardano JavaScript SDK        | <mark style="color:green;">**Ready**</mark>        | See [releases page](https://github.com/input-output-hk/cardano-js-sdk/releases)                                               |
-| Lucid                         | **TBC**                                            | **TBC**                                                                                                                       |
-| Pallas                        | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/pallas/releases)_)_                                                |
-| Cardano Transaction Library   | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_changelong_](https://github.com/Plutonomicon/cardano-transaction-lib/blob/develop/CHANGELOG.md#changelog)_)_ |
+Libraries
 
-<table><thead><tr><th width="252">Tools</th><th width="247">Status </th><th width="251">Release Version</th></tr></thead><tbody><tr><td>cardano-wallet</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-wallet/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Rosetta</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-rosetta/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>GraphQL</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-graphql/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>cntools (guild-operators)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-community/guild-operators/tree/node-9.0.0"><em>branch</em></a><em>)</em></td></tr><tr><td>SPO Scripts (@gitmachtl)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/gitmachtl/scripts/releases/tag/9.0.0-mainnet">SPO Scripts for Node 9.0.0 (Mainnet)</a></td></tr></tbody></table>
+<table><thead><tr><th width="189">Library</th><th>Status</th><th>Release Version</th></tr></thead><tbody><tr><td>Cardano Serialization Library</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/Emurgo/cardano-serialization-lib/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Cardano Multiplatform Library</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/dcSpark/cardano-multiplatform-lib/releases/tag/5.3.0">5.3.0</a></td></tr><tr><td>Cardano JavaScript SDK</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>See <a href="https://github.com/input-output-hk/cardano-js-sdk/releases">releases page</a></td></tr><tr><td>Lucid</td><td><strong>TBC</strong></td><td><strong>TBC</strong></td></tr><tr><td>Pallas</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/txpipe/pallas/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Cardano Transaction Library</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/Plutonomicon/cardano-transaction-lib/blob/develop/CHANGELOG.md#changelog"><em>changelong</em></a><em>)</em></td></tr></tbody></table>
+
+Tools
+
+<table><thead><tr><th width="193">Tools</th><th width="187">Status </th><th width="251">Release Version</th></tr></thead><tbody><tr><td>cardano-wallet</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-wallet/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Rosetta</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-rosetta/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>GraphQL</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-graphql/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>cntools (guild-operators)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-community/guild-operators/tree/node-9.0.0"><em>branch</em></a><em>)</em></td></tr><tr><td>SPO Scripts (@gitmachtl)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/gitmachtl/scripts/releases/tag/9.0.0-mainnet">SPO Scripts for Node 9.0.0 (Mainnet)</a></td></tr></tbody></table>
+
+Indexers
 
 | Indexers | Status                                             | Version                                                                                   |
 | -------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -159,19 +158,11 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 #### Hardware Wallets
 
-| Wallet                         | Readiness                                          |
-| ------------------------------ | -------------------------------------------------- |
-| Trezor                         | <mark style="color:green;">**Ready**</mark>        |
-| Ledger (Nano S+, Nano X, Stax) | <mark style="color:green;">**Ready**</mark>        |
-| Ledger (Nano S)                | <mark style="color:orange;">**In Progress**</mark> |
+<table><thead><tr><th width="177">Wallet</th><th>Readiness</th></tr></thead><tbody><tr><td>Trezor</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Ledger (Nano S+, Nano X, Stax)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Ledger (Nano S)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
 
 #### Full Node / CLI Wallets
 
-| Wallet   | Readiness                                          |
-| -------- | -------------------------------------------------- |
-| Daedalus | <mark style="color:orange;">**In Progress**</mark> |
-| AdaLite  | <mark style="color:orange;">**In Progress**</mark> |
-| CNTools  | <mark style="color:orange;">**In Progress**</mark> |
+<table><thead><tr><th width="182">Wallet</th><th>Readiness</th></tr></thead><tbody><tr><td>Daedalus</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>AdaLite</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>CNTools</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by the Wallets Working Group
@@ -199,7 +190,7 @@ Section maintained by Anatasia Labs
 Last updated; 2024-07-25
 {% endhint %}
 
-### Supporting governance initiatives - Readiness
+### Supporting Governance Initiatives - Readiness
 
 The Chang #1 hardfork will introduce governance to Cardano, specific tooling is being developed to support the governance model.
 
@@ -225,7 +216,7 @@ Interim Constitutional Committee readiness is tracked against training module co
 High-level status: <mark style="color:green;">**Ready**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="256" align="center">Member</th><th>Readiness</th></tr></thead><tbody><tr><td align="center">Cardano Atlantic Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Japan</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Foundation</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Eastern Cardano Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Emurgo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Intersect</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Input Output</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th width="290" align="center">Member</th><th>Readiness</th></tr></thead><tbody><tr><td align="center">Cardano Atlantic Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Japan</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Cardano Foundation</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Eastern Cardano Council</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Emurgo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Intersect</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td align="center">Input Output</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by IOG Voltaire Team
@@ -249,3 +240,25 @@ Section maintained by Intersect DRep Pioneer Program lead
 
 Last Updated; 2024-07-25
 {% endhint %}
+
+***
+
+### Community Readiness
+
+Qualitative feedback and sentiment from key committees, hubs, and working groups on their readiness for the hard fork.
+
+{% hint style="info" %}
+High-level status: <mark style="color:orange;">**In Progress**</mark>
+{% endhint %}
+
+<table><thead><tr><th width="246">Area</th><th width="282">Status</th></tr></thead><tbody><tr><td>Hard Fork Working Group</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Parameters Committee</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Open Source Committee</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Membership and Community Committee</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Civics Committee</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Intersect Hubs</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
+
+{% hint style="info" %}
+Section maintained by Intersect
+
+Last Updated; 2024-07-29
+{% endhint %}
+
+***
+
+More information on the [Major Release Process](https://docs.intersectmbo.org/cardano/cardano-upgrades/major-release-process) is also available, as well as a [frequently asked questions](https://docs.intersectmbo.org/cardano/cardano-upgrades/hard-forks/hard-fork-frequently-asked-questions) page.

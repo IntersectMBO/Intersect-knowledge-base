@@ -131,7 +131,7 @@
         * [Working groups](cardano/cardano-governance/key-terms/general-glossary/w/working-groups.md)
 * [Cardano hardforks and upgrades](cardano/cardano-hardforks-and-upgrades/README.md)
   * [Chang Upgrade](cardano/cardano-hardforks-and-upgrades/chang-upgrade/README.md)
-    * [Chang Timeline & Dependencies](cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-timeline-and-dependencies.md)
+    * [Chang #1 Dependencies & Timeline](cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-1-dependencies-and-timeline.md)
     * [Chang Upgrade #1 Readiness](cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness.md)
     * [Chang upgrade FAQs](cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-faqs.md)
   * [Major release process](cardano/cardano-hardforks-and-upgrades/major-release-process.md)
