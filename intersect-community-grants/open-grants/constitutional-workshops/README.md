@@ -6,3 +6,4 @@ Please consider the requirements on the pages that follow before applying. Works
 
 All applications will be reviewed by the Civics Committee on a rolling basis until we have reached 50 different countries.
 
+**Once you have read the requirements on the pages that follow, you will be able to apply via** [**this link**](https://docs.google.com/forms/d/e/1FAIpQLSdwRLrYmiQxm9btWivScfDo52fbkt1z\_Wi4xtZFAPNoGWWdYw/viewform)**.**
