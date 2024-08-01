@@ -62,13 +62,13 @@ Cardano has a range of network environments, each will require a hardfork, below
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="138">Network</th><th width="155">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>3%</strong></mark></td><td><mark style="color:orange;"><strong>20%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>61.07%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>14.11%</strong></mark></td><td><mark style="color:orange;"><strong>66.34%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;"><strong>23%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
-For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions).
+For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions) preprod.Cexplorer preview.cexplorer
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
-| 3109              | 251               | 21.44 %       |
+| 3109              | 331               | 27.72 %       |
 
 For the latest numbers please visit: [cardanoscan](https://cardanoscan.io/changreadiness)
 
@@ -88,14 +88,14 @@ Exchange readiness is tracked against the top exchanges by ADA liquidity (as rep
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>18.79%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>13.32%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>8.66%</td></tr><tr><td>HitBTC</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>6.02%</td></tr><tr><td>Changelly PRO</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.91%</td></tr><tr><td>FMFW.io</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.91%</td></tr><tr><td>Bitget</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>4.64%</td></tr><tr><td>Upbit</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.95%</td></tr><tr><td>P2B</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.91%</td></tr><tr><td>OKX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>2.92%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>2.91%</td></tr><tr><td>Bitfinex</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.78%</td></tr></tbody></table>
+<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>16.8%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>14.13%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>10.4%</td></tr><tr><td>HitBTC</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>6.39%</td></tr><tr><td>Changelly PRO</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>6.15%</td></tr><tr><td>FMFW.io</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>6.14%</td></tr><tr><td>Bitget</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.22%</td></tr><tr><td>OKX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.49%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>3.43%</td></tr><tr><td>P2B</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.26%</td></tr><tr><td>Bitfinex</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.69%</td></tr><tr><td>Paribu</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.06%</td></tr></tbody></table>
 
 For the latest info on _Exchanges by Liquidity_ please visit: [Cardanoscan](https://cardanoscan.io/changreadiness) and [Cexplorer](https://cexplorer.io/hfs).
 
 {% hint style="info" %}
 Section maintained by Cardano Foundation
 
-Last Updated; 2024-07-30
+Last Updated; 2024-08-01
 {% endhint %}
 
 ***
@@ -120,7 +120,7 @@ Libraries
 
 Tools
 
-<table><thead><tr><th width="193">Tools</th><th width="187">Status </th><th width="251">Release Version</th></tr></thead><tbody><tr><td>cardano-wallet</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-wallet/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Rosetta</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-rosetta/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>GraphQL</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-graphql/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>cntools (guild-operators)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-community/guild-operators/tree/node-9.0.0"><em>branch</em></a><em>)</em></td></tr><tr><td>SPO Scripts (@gitmachtl)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/gitmachtl/scripts/releases/tag/9.0.0-mainnet">SPO Scripts for Node 9.0.0 (Mainnet)</a></td></tr></tbody></table>
+<table><thead><tr><th width="193">Tools</th><th width="187">Status </th><th width="251">Release Version</th></tr></thead><tbody><tr><td>cardano-wallet</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-wallet/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Rosetta</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Rosetta 2.3.0 <em>include node 9.1.0</em> <em>(see</em> <a href="https://github.com/cardano-foundation/cardano-rosetta/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>GraphQL</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-graphql/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>cntools (guild-operators)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-community/guild-operators/tree/node-9.0.0"><em>branch</em></a><em>)</em></td></tr><tr><td>SPO Scripts (@gitmachtl)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/gitmachtl/scripts/releases/tag/9.0.0-mainnet">SPO Scripts for Node 9.0.0 (Mainnet)</a></td></tr></tbody></table>
 
 Indexers
 
@@ -139,7 +139,7 @@ Indexers
 {% hint style="info" %}
 Section maintained by Cardano Foundation
 
-Last updated; 2024-07-25
+Last updated; 2024-08-01
 {% endhint %}
 
 ***
