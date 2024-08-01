@@ -39,7 +39,7 @@ An overview of the committee and their bi-weekly reports can be found [here](htt
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Review [here](https://intersect.gitbook.io/committee-development/) the plan to establish and mature the committee's ways of working and processes
+Review [here](https://intersect.gitbook.io/intersect-committees-groups/) the plan to establish and mature the committee's ways of working and processes
 {% endhint %}
 
 
