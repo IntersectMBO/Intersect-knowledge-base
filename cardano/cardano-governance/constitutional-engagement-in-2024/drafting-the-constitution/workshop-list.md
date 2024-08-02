@@ -42,7 +42,7 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | Lisbon, Portugal       | Sep 7      | Pedro Lucas                |
 | London, United Kingdom | Sep 21     | Mark Hall                  |
 | Oslo, Norway           | Oct 4      | Beatrice Anihiri           |
-| Santander, Spain       | Sep 19     | Jose Arturo Mora Soto, IOG |
+| Santander, Spain       | Sep 20     | Jose Arturo Mora Soto, IOG |
 | Tallinn, Estonia       | Sep 10     | Vattan PS                  |
 | Thessaloniki, Greece   | Sep 14     | Evangelos Karakatsis       |
 
@@ -52,7 +52,7 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | <p><br></p>                     | **Oceania** | <p><br></p>                              |
 | ------------------------------- | ----------- | ---------------------------------------- |
 | **City, country**               | **Date**    | **Host**                                 |
-| Perth, Australia                | Oct 5       | Nathan Barkell, Olympus Insights PTY LTD |
+| Perth, Australia                | Oct 12      | Nathan Barkell, Olympus Insights PTY LTD |
 | Sydney, Australia               | Sep 7       | Mark Byers, Self-driven Foundation       |
 | Tauranga, Aotearoa, New Zealand | Sep 1       | Jo Allum                                 |
 
@@ -64,7 +64,6 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | **City, Country**           | **Date**                  | **Host**                    |
 | Austin, United States       | Oct 19                    | Nicodemus Rodriguez         |
 | Chicago, United States      | Sep 14                    | Ian McCullough              |
-| Dallas, United States       | Oct 5                     | Hosky                       |
 | Fort Mayers, United States  | Sep 21                    | Lloyd Duhon                 |
 | Luquillo, Puerto Rico       | Aug 30                    | Kyle Solomon, DripDropz LLC |
 | Mexico City, Mexico         | Sep 26                    | Cristian Jair Rojas Velez   |
