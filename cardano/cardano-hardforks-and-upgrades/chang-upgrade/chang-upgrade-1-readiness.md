@@ -68,14 +68,14 @@ For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versio
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
-| 3109              | 331               | 27.72 %       |
+| 3109              | 378               | 31.71 %       |
 
 For the latest numbers please visit: [cardanoscan](https://cardanoscan.io/changreadiness)
 
 {% hint style="info" %}
 Section maintained by IOG Core Tech Team
 
-Last Updated; 2024-07-30
+Last Updated; 2024-08-02
 {% endhint %}
 
 ***
@@ -88,14 +88,14 @@ Exchange readiness is tracked against the top exchanges by ADA liquidity (as rep
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>16.8%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>14.13%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>10.4%</td></tr><tr><td>HitBTC</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>6.39%</td></tr><tr><td>Changelly PRO</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>6.15%</td></tr><tr><td>FMFW.io</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>6.14%</td></tr><tr><td>Bitget</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>5.22%</td></tr><tr><td>OKX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.49%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>3.43%</td></tr><tr><td>P2B</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>3.26%</td></tr><tr><td>Bitfinex</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.69%</td></tr><tr><td>Paribu</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.06%</td></tr></tbody></table>
+<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>17.53%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>15.3%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>8.43%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>3.65%</td></tr><tr><td>OKX</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>2.79%</td></tr><tr><td>KuCoin</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>1.15%</td></tr><tr><td>Gate.io</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.97%</td></tr><tr><td>Bitfinex</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.88%</td></tr><tr><td>Kraken</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.88%</td></tr><tr><td>MEXC</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.19%</td></tr><tr><td>CEX.IO</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.04%</td></tr><tr><td>Paribu</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.04%</td></tr></tbody></table>
 
 For the latest info on _Exchanges by Liquidity_ please visit: [Cardanoscan](https://cardanoscan.io/changreadiness) and [Cexplorer](https://cexplorer.io/hfs).
 
 {% hint style="info" %}
 Section maintained by Cardano Foundation
 
-Last Updated; 2024-08-01
+Last Updated; 2024-08-02
 {% endhint %}
 
 ***
