@@ -22,7 +22,7 @@ All of the above is a draft in design with many questions to be answered. Inters
 
 The Core Infrastructure Roadmap working group may decide to change its name befitting its purpose. Whatever name is decided upon on a working group level will also change the name at the committee level. As the working group matures we do expect it to be promoted to become a committee-level group due to its importance.
 
-You can read more on the [Core Infrastructure Roadmap working group](https://intersect.gitbook.io/backlog-committee/working-group/ecosystem-process-design-working-group) or submit an inquiry to [backlog@intersectmbo.org.](mailto:backlog@intersectmbo.org)
+You can read more on the [Core Infrastructure Roadmap working group](https://intersect.gitbook.io/backlog-committee/working-group/ecosystem-process-design-working-group) or submit an inquiry to [roadmap-committee@intersectmbo.org.](mailto:roadmap-committee@intersectmbo.org)
 
 ## Extra info or links
 
