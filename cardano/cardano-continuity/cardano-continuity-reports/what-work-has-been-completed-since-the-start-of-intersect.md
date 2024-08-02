@@ -8,9 +8,11 @@ Below, you will find a live update displaying the number of milestones completed
 
 
 
-<figure><img src="../../../.gitbook/assets/chart.jpeg" alt="" width="375"><figcaption><p>We're moving forward with over 40 out of 108 milestones already achieved.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Chart 1.jpeg" alt="" width="375"><figcaption><p>Nearly 50 of our Continuity Milestones have been achieved</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/1.jpeg" alt="" width="365"><figcaption><p>Currently, 40.18% of our milestones are complete, while 59.81% are in progress.</p></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Chart 2.jpeg" alt="" width="351"><figcaption><p>Over 54% of our Continuity Milestones have been achieved</p></figcaption></figure>
 
 Below is a comprehensive list of completed projects and milestones achieved by our Cardano Continuity suppliers.&#x20;
 
