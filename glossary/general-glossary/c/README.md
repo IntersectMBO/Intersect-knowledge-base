@@ -28,28 +28,28 @@ description: 'Cardano’s Voltaire - Glossary: key terms explained'
 [cardano-repositories.md](cardano-repositories.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../chang-upgrade.md" %}
-[chang-upgrade.md](../../chang-upgrade.md)
+{% content-ref url="../../../cardano/cardano-governance/key-terms/chang-upgrade.md" %}
+[chang-upgrade.md](../../../cardano/cardano-governance/key-terms/chang-upgrade.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../../intersect-community-grants/key-terms/cip-30.md" %}
-[cip-30.md](../../../../../intersect-community-grants/key-terms/cip-30.md)
+{% content-ref url="../../../intersect-community-grants/key-terms/cip-30.md" %}
+[cip-30.md](../../../intersect-community-grants/key-terms/cip-30.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../../intersect-community-grants/key-terms/cip-95.md" %}
-[cip-95.md](../../../../../intersect-community-grants/key-terms/cip-95.md)
+{% content-ref url="../../../intersect-community-grants/key-terms/cip-95.md" %}
+[cip-95.md](../../../intersect-community-grants/key-terms/cip-95.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../../intersect-community-grants/key-terms/cip-1694.md" %}
-[cip-1694.md](../../../../../intersect-community-grants/key-terms/cip-1694.md)
+{% content-ref url="../../../intersect-community-grants/key-terms/cip-1694.md" %}
+[cip-1694.md](../../../intersect-community-grants/key-terms/cip-1694.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../constitution.md" %}
-[constitution.md](../../constitution.md)
+{% content-ref url="../../../cardano/cardano-governance/key-terms/constitution.md" %}
+[constitution.md](../../../cardano/cardano-governance/key-terms/constitution.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../constitutional-committee.md" %}
-[constitutional-committee.md](../../constitutional-committee.md)
+{% content-ref url="../../../cardano/cardano-governance/key-terms/constitutional-committee.md" %}
+[constitutional-committee.md](../../../cardano/cardano-governance/key-terms/constitutional-committee.md)
 {% endcontent-ref %}
 
 {% content-ref url="constitutional-convention.md" %}
