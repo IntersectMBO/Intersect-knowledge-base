@@ -24,7 +24,7 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | Osaka, Japan              | Aug 10                 | Seira Yun             |
 | Seoul, South Korea        | Sep 7                  | Oscar Hong            |
 | Singapore, Singapore      | Sep 17                 | Adnan Khan            |
-| Taipei, Taiwan            | Sep _tbc_              | Jeremy Firster        |
+| Taipei, Taiwan            | Sep 7                  | Jeremy Firster        |
 | Batumi, Georgia           | Aug 19                 | Andrew Thornhill      |
 | Tokyo, Japan              | Aug 31                 | Seira Yun             |
 
@@ -42,7 +42,7 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | Lisbon, Portugal       | Sep 7      | Pedro Lucas                |
 | London, United Kingdom | Sep 21     | Mark Hall                  |
 | Oslo, Norway           | Oct 4      | Beatrice Anihiri           |
-| Santander, Spain       | Sep 20     | Jose Arturo Mora Soto, IOG |
+| Santander, Spain       | Sep 21     | Jose Arturo Mora Soto, IOG |
 | Tallinn, Estonia       | Sep 10     | Vattan PS                  |
 | Thessaloniki, Greece   | Sep 14     | Evangelos Karakatsis       |
 
@@ -54,7 +54,7 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | **City, country**               | **Date**    | **Host**                                 |
 | Perth, Australia                | Oct 12      | Nathan Barkell, Olympus Insights PTY LTD |
 | Sydney, Australia               | Sep 7       | Mark Byers, Self-driven Foundation       |
-| Tauranga, Aotearoa, New Zealand | Sep 1       | Jo Allum                                 |
+| Tauranga, Aotearoa, New Zealand | Sep 6       | Jo Allum                                 |
 
 \
 
@@ -82,7 +82,7 @@ With thanks to all applicants and to the members volunteering to help evaluate t
 | Bogota, Colombia         | Sep 7             | Jose Miguel De Gamboa                               |
 | Buenos Aires, Argentina  | Sep 14            | Alex Pestchanker, Intersect/LATAM Cardano Community |
 | Buenos Aires, Argentina  | Aug 3             | Jose Iadicicco, ADA Solar                           |
-| Caracas, Venezuela       | Aug 17            | Jean Carlos Aguilar                                 |
+| Caracas, Venezuela       | Sep 7             | Jean Carlos Aguilar                                 |
 | Rio, Brazil              | Sep 21            | Otávio Lima, LATAM Cardano Community                |
 | São Paulo, Brazil        | Aug 31            | Daniela Alves                                       |
 
