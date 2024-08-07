@@ -102,10 +102,10 @@
       * [Milestone report Q1 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-q1-2024.md)
       * [Retrospective Q1 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/retrospective-q1-2024.md)
       * [Milestone report Q2 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-q2-2024.md)
-      * [Milestone report April 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-april-2024.md)
-      * [Milestone report May 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-may-2024.md)
+      * [Milestone report April 2024](cardano/cardano-continuity/cardano-continuity-reports/monthly-milestone-reports/milestone-report-april-2024.md)
+      * [Milestone report May 2024](cardano/cardano-continuity/cardano-continuity-reports/monthly-milestone-reports/milestone-report-may-2024.md)
       * [Open Source Developer Maturity Report May 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/open-source-developer-maturity-report-may-2024.md)
-      * [Milestone report July 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-july-2024.md)
+      * [Milestone report July 2024](cardano/cardano-continuity/cardano-continuity-reports/monthly-milestone-reports/README.md)
 * [Cardano economy](cardano/cardano-economy/README.md)
   * [Cardano treasury](cardano/cardano-economy/cardano-treasury.md)
 

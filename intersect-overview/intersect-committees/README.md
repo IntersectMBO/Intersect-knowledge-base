@@ -6,7 +6,13 @@ Intersect will initiate seven standing committees in 2024, covering the function
 
 Working groups typically roll up into one of the seven committees. Working groups are, for the most part, temporary functions that support a committees' wider objectives or to expand expertise by seeking contributions from outside of Intersect. Working groups can be on any subject and are by nature less formal than standing committees.
 
-An overview of the committee and their bi-weekly reports can be found [here](https://intersect.gitbook.io/committee-overview/)
+You can an overview of the committee and their respective ways of working [here](https://intersect.gitbook.io/intersect-committees-groups). You can also find:&#x20;
+
+* Committee Maturity Standards
+* Committee Guiding Principles
+* Bi-Weekly Report for all Committees
+* Committee General Communications
+* Glossary of Terms
 
 ## Current Committees at Intersect:
 
@@ -37,10 +43,6 @@ An overview of the committee and their bi-weekly reports can be found [here](htt
 {% content-ref url="roadmap-committee-proposed.md" %}
 [roadmap-committee-proposed.md](roadmap-committee-proposed.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-Review [here](https://intersect.gitbook.io/intersect-committees-groups/) the plan to establish and mature the committee's ways of working and processes
-{% endhint %}
 
 
 
