@@ -54,6 +54,7 @@
     * [Constitutional Committee](cardano/cardano-governance/governance-roles/constitutional-committee.md)
   * [Governance tools](cardano/cardano-governance/governance-tools/README.md)
     * [Voltaire GovTool](cardano/cardano-governance/governance-tools/voltaire-govtool.md)
+    * [Constitutional Committee Portal](cardano/cardano-governance/governance-tools/constitutional-committee-portal.md)
   * [Governance process](cardano/cardano-governance/governance-process/README.md)
     * [Off-chain proposal submission and discussion](cardano/cardano-governance/governance-process/off-chain-proposal-submission-and-discussion.md)
     * [On-chain governance action submission](cardano/cardano-governance/governance-process/on-chain-governance-action-submission/README.md)
