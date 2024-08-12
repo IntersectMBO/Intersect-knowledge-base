@@ -6,12 +6,6 @@ description: >-
 
 # Open grants
 
-{% hint style="info" %}
-**Our grants program is taking a pause during the summer period.** \
-\
-All current grantees and applicants who have applied to run a Community Hub, within the Inclusion & Accessibility or local member meet-ups are still eligible and will be contacted soon.&#x20;
-{% endhint %}
-
 ## Community Tooling
 
 Once implemented, [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694) will provide a framework for on-chain decision-making for the Cardano ecosystem. These grants are designed to provide funding to build a minimal set of tools to support participation in Cardano's governance.
