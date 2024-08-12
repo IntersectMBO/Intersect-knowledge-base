@@ -14,7 +14,9 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 
 ## 👉 Call To Action Update
 
-* We have now reached <mark style="color:green;">**64%**</mark> of SPOs having upgraded to 9.1.0 - the Hardfork Threshold for SPOs is close to being  reached :tada:
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>64% SPOs have Upgraded | 27% Exchanges started </p></figcaption></figure>
+
+* We have now reached <mark style="color:green;">\~</mark><mark style="color:green;">**65%**</mark> of SPOs having upgraded to 9.1.0 - the Hardfork Threshold for SPOs is close to being  reached :tada:
 * We are accelerating our outreach to DApps to progress the upgrade :mega::mega::mega:
 * Exchanges are busy progressing the upgrade  :handshake:
 * Next potential Hardfork dates is: 17th August, 2024 :tada::tada:, with next possible date 22nd August, 2024
