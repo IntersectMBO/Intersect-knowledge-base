@@ -7,26 +7,26 @@ description: >-
 # Chang Upgrade #1 Readiness
 
 {% hint style="info" %}
-This page is updated frequently and is open to community feedback to ensure correctness of reporting.&#x20;
+This page is updated frequently and is open to community feedback to ensure the correctness of reporting.&#x20;
 
 Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spot any fixes.
 {% endhint %}
 
 ## 👉 Call To Action Update
 
-* By Stake,we have now reached <mark style="color:green;">**67%**</mark> of SPOs having upgraded to 9.1.0 - the Hardfork Threshold for SPOs is close to being reached :tada:
+* By **Stake**, we have now reached <mark style="color:green;">**69%**</mark> of **SPOs** on 9.1.0 - the Hardfork Threshold for SPOs is close to being reached :tada:
 
-<figure><img src="../../../.gitbook/assets/SPR_12Aug25.PNG" alt=""><figcaption><p>By stake, <strong>67%</strong> of SPOs have upgraded, by count 26% have upgraded</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SPR_13Aug25.PNG" alt=""><figcaption><p>By Stake 67% of SPOs on 9.1.0, with 837/3101 fully upgraded</p></figcaption></figure>
 
-* We are accelerating our outreach to DApps to progress the upgrade :mega::mega::mega:
-* Exchanges are busy progressing the upgrade  :handshake:
-* Next potential Hardfork dates is: 17th August, 2024 :tada::tada:, with next possible date 22nd August, 2024
+* We are accelerating our outreach to **DApps** to progress the upgrade :mega::mega::mega:
+* **Exchanges** are busy progressing with the upgrade with 24.56% ready  :handshake:
+* The next potential Hardfork date is: 17th August, 2024 :tada::tada:, with the next possible date being 22nd August 2024
 
 ## Be aware of
 
 * [**Cardano Node 9.1.0**](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0) **is the mainnet candidate for Chang #1 hardfork.**&#x20;
 * _Node 9.1.0 brings a configuration file update to Node 9.0.0._
-* _GraphQL, Rosetta, Ogmios and Cardano-wallet are now also compatible with 9.1.0_
+* _GraphQL, Rosetta, Ogmios, and Cardano-wallet are now also compatible with 9.1.0_
 * Ledger Nano S device support for Conway is stalled, all other devices are supported.
 * DApps using Plutus V1 or V2 scripts must be aware of the new cost models being introduced which will change fees.
   * _Please see_ [_Script Cost Calculator_](https://docs.google.com/spreadsheets/d/1KFJCCbkDE5GaghlD4rDXB12pqLKnDFUNOKi0WErp\_-Q/edit?gid=0#gid=0) _from IOG Core Team._
@@ -67,7 +67,7 @@ High-level status: <mark style="color:green;">**Ready**</mark>
 
 ### Environments
 
-Cardano has a range of network environments, each will require a Hard Fork, below we compare the prevalence of Cardano blocks created by Node versions within the last 8 hours. 75%+ will indicate readiness for the Hard Fork to Conway ( Protocol 9.0)
+Cardano has a range of network environments, and each will require a Hard Fork, below we compare the prevalence of Cardano blocks created by Node versions within the last 8 hours. 75%+ will indicate readiness for the Hard Fork to Conway ( Protocol 9.0)
 
 {% hint style="info" %}
 High-level status: <mark style="color:orange;">**In Progress**</mark>
@@ -75,7 +75,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 
 
-<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;"><strong>67%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;"><strong>69%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
 For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions) preprod.Cexplorer preview.cexplorer
 
@@ -101,7 +101,7 @@ Exchange readiness is tracked against the top exchanges by ADA liquidity (as rep
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>15.09%</td></tr><tr><td>Bitget</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>6.49%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>3.09%</td></tr><tr><td>Upbit</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>2.79%</td></tr><tr><td>OKX</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>1.89%</td></tr><tr><td>Crypto.com</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>1.52%</td></tr><tr><td>Kraken.com</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>1.08%</td></tr><tr><td>Gate.io</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.93%</td></tr><tr><td>Upbit</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.97%</td></tr><tr><td>Bitfinex</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.88%</td></tr><tr><td>MEXC</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.19%</td></tr><tr><td>CEX.IO</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.04%</td></tr><tr><td>Paribu</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.04%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>11.50%</td></tr><tr><td>Changelly Pro</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>7.78%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>9.75%</td></tr><tr><td>FMFW.io</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>7.76%</td></tr><tr><td>HitBTC</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>7.73%</td></tr></tbody></table>
+<table><thead><tr><th width="199">Exchange</th><th width="302">Status</th><th width="213">Liquidity %</th></tr></thead><tbody><tr><td>Binance</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>15.09%</td></tr><tr><td>Bitget</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>6.49%</td></tr><tr><td>Coinbase Exchange</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>3.09%</td></tr><tr><td>Upbit</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>2.79%</td></tr><tr><td>OKX</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>1.89%</td></tr><tr><td>Crypto.com</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>1.52%</td></tr><tr><td>Kraken.com</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>1.08%</td></tr><tr><td>Gate.io</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.93%</td></tr><tr><td>Upbit</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.97%</td></tr><tr><td>Bitfinex</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.88%</td></tr><tr><td>MEXC</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.19%</td></tr><tr><td>CEX.IO</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.04%</td></tr><tr><td>Paribu</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>0.04%</td></tr><tr><td>FMW.io</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>7.70%</td></tr><tr><td>HitBTC</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>0.04%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>14.18%</td></tr><tr><td>BitMart</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>0.36%</td></tr><tr><td>Bitfinex</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>0.76%</td></tr><tr><td>Gate.io</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>1.46%</td></tr><tr><td>HTX</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>11.50%</td></tr><tr><td>Changelly Pro</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>7.78%</td></tr><tr><td>WhiteBIT</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>9.75%</td></tr><tr><td>FMFW.io</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>7.76%</td></tr><tr><td>HitBTC</td><td><mark style="color:blue;"><strong>Not Started</strong></mark></td><td>7.73%</td></tr></tbody></table>
 
 For the latest info on _Exchanges by Liquidity_ please visit: [Cardanoscan](https://cardanoscan.io/changreadiness) and [Cexplorer](https://cexplorer.io/hfs).
 
