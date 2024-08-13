@@ -14,9 +14,9 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 
 ## 👉 Call To Action Update
 
-* We have now reached <mark style="color:green;">**66%**</mark> of SPOs having upgraded to 9.1.0 - the Hardfork Threshold for SPOs is close to being reached :tada:
+* By Stake,we have now reached <mark style="color:green;">**67%**</mark> of SPOs having upgraded to 9.1.0 - the Hardfork Threshold for SPOs is close to being reached :tada:
 
-<figure><img src="../../../.gitbook/assets/SPR_11Aug25.PNG" alt=""><figcaption><p>Courtesy of Cardanoscan | 66% SPOs have updated to 9.1.0</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SPR_12Aug25.PNG" alt=""><figcaption><p>By stake, <strong>67%</strong> of SPOs have upgraded, by count 26% have upgraded</p></figcaption></figure>
 
 * We are accelerating our outreach to DApps to progress the upgrade :mega::mega::mega:
 * Exchanges are busy progressing the upgrade  :handshake:
@@ -75,7 +75,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 
 
-<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;"><strong>64%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;"><strong>67%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
 For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions) preprod.Cexplorer preview.cexplorer
 
