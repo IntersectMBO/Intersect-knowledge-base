@@ -11,6 +11,6 @@ To ensure a high quality, organized live constitutional workshops, prospective h
 * Dapp users and consumers
 * Cardano educators
 
-Expert facilitators will provide professional workshop support for each host. The facilitators will provide facilitation training, templates, educational materials, tooling and office hours to help each host prepare for their constitutional workshop. These facilitators will also attend the constitutional workshop virtually to support the host. The draft constitution will be provided to hosts prior to their constitutional workshop for distribution to workshop participants.
+Expert facilitators will provide professional workshop support for each host. The facilitators will provide facilitation training, templates, educational materials, tooling and office hours to help each host prepare for their constitutional workshop. These facilitators will also attend the constitutional workshop virtually or in person to support the host. The draft constitution will be provided to hosts prior to their constitutional workshop for distribution to workshop participants.
 
 \

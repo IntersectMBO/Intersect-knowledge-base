@@ -41,4 +41,4 @@ To support the consultation period, the Cardano Civics Committee will contribute
 
 The global constitutional workshops are a keystone of the constitutional journey in 2024. To capture a diverse set of perspectives from the Cardano ecosystem, Intersect will support community hosts to facilitate and coordinate workshops around the world in geographically distinct regions. Intersect will provide constitutional workshop hosts who are members with a one-time grant to facilitate hosting a live event experience in their community - ensuring Cardano's final constitution meets the diverse needs of our global community.
 
-These workshops should be held in-person with an option for additional virtual attendance, and take place between August 1st and October 15th.
+These workshops should be held in-person, and take place between August 1st and October 15th.

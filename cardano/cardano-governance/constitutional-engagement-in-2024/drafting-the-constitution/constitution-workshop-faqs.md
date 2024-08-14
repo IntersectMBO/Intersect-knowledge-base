@@ -36,7 +36,7 @@ layout:
 * Attend training and office hours to prepare
 * Provide prep materials to participants ahead of the Constitutional Workshop
 * Ensure proper venue set-up
-* Accept Constitutional Delegate candidacy videos from people who cannot attend the workshop live
+* ~~Accept Constitutional Delegate candidacy videos from people who cannot attend the workshop live.~~ No Candidacy videos will be accepted for delegation (updated on 14th August 24).
 
 ## Can a Host also be the chosen Constitutional Delegate for the Constitutional Convention?&#x20;
 
@@ -44,9 +44,9 @@ layout:
 
 ## I’m not a Constitutional Workshop Host: can I be a Constitutional Delegate?
 
-* Yes, you can! You will need to attend a workshop or submit a candidacy video, and be selected by attendees.
+* Yes, you can! You will need to attend a workshop ~~or submit a candidacy video~~, and be selected by attendees.
 
 ## How do I find out more about becoming a Constitutional Delegate and apply?
 
 * More information about the role and responsibilities of the Constitutional Delegate and Alternate will be posted on the Intersect Constitution landing page ahead of the constitutional workshops starting in August.
-* If you can attend a Constitutional Workshop, you may run for election at the constitutional workshop. If you cannot attend, you must submit a video file for the host to present at the constitutional workshop, and you will be added to the ballot.
+* If you can attend a Constitutional Workshop, you may run for election at the constitutional workshop. ~~If you cannot attend, you must submit a video file for the host to present at the constitutional workshop, and you will be added to the ballot.~~ No Candidacy videos will be accepted for delegation (updated on 14th August 24).

@@ -11,9 +11,9 @@ To be eligible, the applicant must meet the[ grant eligibility criteria](https:/
 * You are willing to work with Intersect’s facilitators to deliver a constitutional workshop with their support.
 * You are willing to follow a standardized workshop format.
 * You are willing to follow a standardized process to select constitutional delegates and alternates to attend the convention, including the use of a digital voting tool. Intersect will provide a standard tool and process to this end.
-* You can enable virtual attendance.
+* ~~You can enable virtual attendance.~~ No virtual attendance will be allowed except to support facilitators if required (updated on 14th August 2024).
 * You will be able to provide final outputs and documentation of your workshop in English.
-* Accept constitutional delegate candidacy videos from people who cannot attend the workshop live.
+* ~~Accept constitutional delegate candidacy videos from people who cannot attend the workshop live.~~ No Candidacy videos will be accepted for delegation (updated on 14th August 24).
 
 ## Restrictions:
 
