@@ -12,15 +12,25 @@ This page is updated frequently and is open to community feedback to ensure the 
 Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spot any fixes.
 {% endhint %}
 
-## 👉 Call To Action Update
+## 👉 Key Update
 
-* By **Stake**, we have now reached <mark style="color:green;">**69%**</mark> of **SPOs** on 9.1.0 - the Hardfork Threshold for SPOs is close to being reached :tada:
+* By **Stake**, we have now reached <mark style="color:green;">**78%**</mark> of **SPOs** on 9.1.0 - the Hardfork Threshold for SPOs is close to being reached :tada:
+* By **Liquidity,** we have now **28**% of Exchanges on 9.1.0, with Hardfork Threshold at 85%
+* The next potential Hardfork date is: 22nd August, 2024 :tada::tada:, with the next possible date being 27th August 2024
 
-<figure><img src="../../../.gitbook/assets/SPR_13Aug25.PNG" alt=""><figcaption><p>By Stake 67% of SPOs on 9.1.0, with 837/3101 fully upgraded</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SPR_15Aug25.PNG" alt=""><figcaption></figcaption></figure>
+
+## 👉 _Call To Action_&#x20;
 
 * We are accelerating our outreach to **DApps** to progress the upgrade :mega::mega::mega:
-* **Exchanges** are busy progressing with the upgrade with 24.56% ready  :handshake:
-* The next potential Hardfork date is: 17th August, 2024 :tada::tada:, with the next possible date being 22nd August 2024
+* Key publications outlining&#x20;
+  * Performance measurements / Minimum path to Chang for DApps/ Gotcha
+  * [script cost calculator](https://docs.google.com/spreadsheets/d/1KFJCCbkDE5GaghlD4rDXB12pqLKnDFUNOKi0WErp\_-Q/edit?gid=0#gid=0)&#x20;
+  * [Migrating DApp from Plutus V2 to Plutus V3: A Comprehensive Guide](https://github.com/cardanoapi/hardfork-testing/blob/main/migration.md)
+  * [Explainer ](https://github.com/IntersectMBO/cardano-ledger/blob/lehins/fee-changes-adr/docs/adr/2024-08-14\_009-refscripts-fee-change.md)on the 'exponential growth of reference script cost'&#x20;
+  * <mark style="color:purple;">**Contact for Support**</mark> :  [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) or tweet @intersectMBO&#x20;
+
+(Footnote: Wider explainer on Plutus v1, v2,v3 - [here](https://plutus.cardano.intersectmbo.org/docs/working-with-scripts/ledger-language-version/) )
 
 ## Be aware of
 
@@ -75,7 +85,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 
 
-<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;"><strong>69%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;"><strong>78%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
 For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions) preprod.Cexplorer preview.cexplorer
 
