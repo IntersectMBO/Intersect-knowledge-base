@@ -10,4 +10,4 @@ The Voltaire GovTool is the first of these, an initial toolset created through I
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

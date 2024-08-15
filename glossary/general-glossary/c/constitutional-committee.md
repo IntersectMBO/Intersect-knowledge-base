@@ -10,4 +10,4 @@ CC members may vote on any governance action and decide if it goes against the C
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

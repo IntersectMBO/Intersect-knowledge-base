@@ -15,4 +15,4 @@ Intersect’s main focus area is the future maintenance and development of Carda
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

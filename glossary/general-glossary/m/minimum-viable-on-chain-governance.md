@@ -8,4 +8,4 @@ CIP-1694 describes Minimum Viable On-Chain Governance (MVG) as a baseline on-cha
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

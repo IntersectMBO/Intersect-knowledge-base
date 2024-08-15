@@ -8,4 +8,4 @@ The Cardano Civics Committee, one of the committees forming at Intersect, will h
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

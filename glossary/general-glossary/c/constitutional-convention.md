@@ -12,4 +12,4 @@ A historical parallel for 2024's Cardano Constitutional Convention can be drawn 
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

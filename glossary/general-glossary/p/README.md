@@ -14,4 +14,4 @@ description: 'Cardano’s Voltaire - Glossary: key terms explained'
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

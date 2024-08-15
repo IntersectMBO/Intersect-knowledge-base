@@ -10,4 +10,4 @@ description: 'Cardano’s Voltaire - Glossary: key terms explained'
 
 ***
 
-[Click here to return to the glossary index](../../../../../glossary/general-glossary/)
+[Click here to return to the glossary index](../)

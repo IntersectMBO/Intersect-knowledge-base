@@ -14,4 +14,4 @@ Cardano institutions, including newly established ones like Intersect, nurture t
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

@@ -14,4 +14,4 @@ Ada holders must ratify the Constitution, an act of solidarity to protect and en
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

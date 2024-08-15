@@ -16,4 +16,4 @@ The ratification period is the time that elapses between a governance action bei
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

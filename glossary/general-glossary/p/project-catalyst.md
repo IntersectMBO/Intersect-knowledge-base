@@ -10,4 +10,4 @@ Catalyst is currently the vehicle for community members to access Cardano treasu
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)

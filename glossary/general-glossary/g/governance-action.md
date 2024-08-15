@@ -26,4 +26,4 @@ CIP-1694 defines seven different governance actions:
 
 ***
 
-[Click here to return to the glossary index](../)
+[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
