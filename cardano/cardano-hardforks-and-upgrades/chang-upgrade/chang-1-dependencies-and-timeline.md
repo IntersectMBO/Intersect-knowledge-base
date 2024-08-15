@@ -13,7 +13,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-Page last updated; 2024-07-29
+Page last updated; 2024-08-15
 {% endhint %}
 
 Intersect plays the role of coordinator, as a functional servant-leader on behalf of the community and delivery teams working on hard fork activity. The functional teams within Intersect will work with the various committees, working groups, and delivery teams, relaying information here on the knowledge base. Ultimately the date for the hard fork is directly influenced by the community fulfilling the requirements detailed below.
@@ -44,7 +44,7 @@ In the lead-up to Change Upgrade #1 the following sequence of events will occur,
 Steps for Chang #2 upgrade will be mapped after completion of Chang #1 harfork.
 
 {% hint style="info" %}
-Last Updated; 2024-07-29
+Last Updated; 2024-08-15
 {% endhint %}
 
 ***
@@ -53,7 +53,7 @@ Last Updated; 2024-07-29
 
 &#x20;These are the dependencies, as agreed by the hard fork working group, which need to be completed or at a suitable point prior to initiating the hard for combinator event for the [Chang upgrades](https://docs.intersectmbo.org/cardano/cardano-upgrades/hard-forks/chang-upgrade).&#x20;
 
-<table data-full-width="true"><thead><tr><th width="292">Item</th><th width="145">Owner(s)</th><th width="322">Acceptance Criteria </th><th>Status</th></tr></thead><tbody><tr><td>Node 9.1.0 genesis file preparations</td><td>Parameters Committee, ICC</td><td>ICC members have created all cold credentials, Parameters committee ratifies the parameter settings (<a href="chang-upgrade-1-readiness.md#supporting-governance-initiatives-readiness">more details</a>)</td><td><mark style="color:green;"><strong>Complete</strong></mark></td></tr><tr><td>DQuadrant Chang Testing </td><td>DQuadrant</td><td>Completion of testing for all new components, no major issues outstanding </td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Tweag Guardrails Script Audit</td><td>Tweag</td><td>Completion of script audit, no major issues outstanding</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Tweag Constitutional Committee Identity Script Audit</td><td>Tweag</td><td>Completion of script audit, no major issues outstanding</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Core Governance Tooling (GovTool, CC Portal, etc.)</td><td>In yon Networks, Bloxico, DQuadrant</td><td>Governance tools finished development, testing and deployed across environments (<a href="chang-upgrade-1-readiness.md#supporting-governance-initiatives-readiness">more details</a>)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Major Hardware Wallet Updates (Ledger and Trezor)</td><td>Vacuum Labs</td><td>Conway era development completed, tested, audited and included in official release (<a href="chang-upgrade-1-readiness.md#wallets-readiness">more details</a>)</td><td><mark style="color:green;"><strong>Complete</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th>Item</th><th width="154">Owner</th><th width="256">Acceptance Criteria</th><th>Status</th></tr></thead><tbody><tr><td>Node 9.1.0 genesis file preparations</td><td>Parameters Committee, ICC</td><td>ICC members have created all cold credentials, Parameters committee ratifies the parameter settings (<a href="chang-upgrade-1-readiness.md#supporting-governance-initiatives-readiness">more details</a>)</td><td><mark style="color:green;"><strong>Complete</strong></mark></td></tr><tr><td>DQuadrant Chang Testing </td><td>DQuadrant</td><td>Completion of testing for all new components, no major issues outstanding </td><td><mark style="color:green;"><strong>Complete</strong></mark></td></tr><tr><td>Tweag Guardrails Script Audit</td><td>Tweag</td><td>Completion of script audit, no major issues outstanding</td><td><mark style="color:green;"><strong>Complete</strong></mark></td></tr><tr><td>Tweag Constitutional Committee Identity Script Audit</td><td>Tweag</td><td>Completion of script audit, no major issues outstanding</td><td><mark style="color:green;"><strong>Complete</strong></mark></td></tr><tr><td>Core Governance Tooling (GovTool, CC Portal, etc.)</td><td>In yon Networks, Bloxico, DQuadrant</td><td>Governance tools finished development, testing and deployed across environments (<a href="chang-upgrade-1-readiness.md#supporting-governance-initiatives-readiness">more details</a>)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Major Hardware Wallet Updates (Ledger and Trezor)</td><td>Vacuum Labs</td><td>Conway era development completed, tested, audited and included in official release (<a href="chang-upgrade-1-readiness.md#wallets-readiness">more details</a>)</td><td><mark style="color:green;"><strong>Complete</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Last Updated; 2024-07-29
