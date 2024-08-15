@@ -20,6 +20,8 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 
 <figure><img src="../../../.gitbook/assets/SPR_15Aug25.PNG" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/SPR_13Aug25.PNG" alt=""><figcaption><p>By Stake 69% of SPOs on 9.1.0, with 837/3101 fully upgraded</p></figcaption></figure>
+
 ## 👉 _Call To Action_&#x20;
 
 * We are accelerating our outreach to **DApps** to progress the upgrade :mega::mega::mega:
@@ -29,6 +31,12 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
   * [Migrating DApp from Plutus V2 to Plutus V3: A Comprehensive Guide](https://github.com/cardanoapi/hardfork-testing/blob/main/migration.md)
   * [Explainer ](https://github.com/IntersectMBO/cardano-ledger/blob/lehins/fee-changes-adr/docs/adr/2024-08-14\_009-refscripts-fee-change.md)on the 'exponential growth of reference script cost'&#x20;
   * <mark style="color:purple;">**Contact for Support**</mark> :  [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) or tweet @intersectMBO&#x20;
+
+<!---->
+
+* We are accelerating our outreach to **DApps** to progress the upgrade :mega::mega::mega:
+* **Exchanges** are busy progressing with the upgrade with 24.56% ready  :handshake:
+* The next potential Hardfork date is: 22nd August, 2024 :tada::tada:, with the next possible date being 28th August 2024 - depending on critical indicators being met.&#x20;
 
 (Footnote: Wider explainer on Plutus v1, v2,v3 - [here](https://plutus.cardano.intersectmbo.org/docs/working-with-scripts/ledger-language-version/) )
 
@@ -83,11 +91,9 @@ Cardano has a range of network environments, and each will require a Hard Fork, 
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-
-
 <table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="155">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;"><strong>78%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
-For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions) preprod.Cexplorer preview.cexplorer
+For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions)
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
@@ -143,14 +149,14 @@ Libraries
 
 Tools
 
-<table><thead><tr><th width="193">Tools</th><th width="187">Status </th><th width="251">Release Version</th></tr></thead><tbody><tr><td>cardano-wallet</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-wallet/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Rosetta</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Rosetta 2.3.0 <em>include node 9.1.0</em> <em>(see</em> <a href="https://github.com/cardano-foundation/cardano-rosetta/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>GraphQL</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-graphql/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>cntools (guild-operators)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-community/guild-operators/tree/node-9.0.0"><em>branch</em></a><em>)</em></td></tr><tr><td>SPO Scripts (@gitmachtl)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/gitmachtl/scripts/releases/tag/9.0.0-mainnet">SPO Scripts for Node 9.0.0 (Mainnet)</a></td></tr></tbody></table>
+<table><thead><tr><th width="193">Tools</th><th width="187">Status </th><th width="251">Release Version</th></tr></thead><tbody><tr><td>cardano-wallet</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-wallet/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Rosetta</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>Rosetta 2.3.2 <em>include node 9.1.0</em> <em>(see</em> <a href="https://github.com/cardano-foundation/cardano-rosetta/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>GraphQL</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-foundation/cardano-graphql/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>cntools (guild-operators)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/cardano-community/guild-operators/"><em>branch</em></a><em>)</em></td></tr><tr><td>SPO Scripts (@gitmachtl)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/gitmachtl/scripts/releases/tag/9.0.0-mainnet">SPO Scripts for Node 9.0.0 (Mainnet)</a></td></tr></tbody></table>
 
 Indexers
 
 | Indexers | Status                                             | Version                                                                                   |
 | -------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | Ogmios   | <mark style="color:green;">**Ready**</mark>        | [v6.5.0](https://github.com/CardanoSolutions/ogmios/releases/tag/v6.5.0)                  |
-| Oura     | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/scrolls/releases)_)_           |
+| Oura     | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/oura)_)_                       |
 | Scrolls  | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/scrolls/releases)_)_           |
 | DB-Sync  | <mark style="color:green;">**Ready**</mark>        | [DB-Sync 13.3.0.0](https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.3.0.0) |
 | Carp     | <mark style="color:green;">**Ready**</mark>        | [3.2.0](https://github.com/dcSpark/carp/releases/tag/3.2.0)                               |
