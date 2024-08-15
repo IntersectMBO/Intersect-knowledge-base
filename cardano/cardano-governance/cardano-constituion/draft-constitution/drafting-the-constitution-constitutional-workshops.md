@@ -1,10 +1,14 @@
-# Constitutional Workshops
+# Drafting the Constitution - Constitutional Workshops
+
+{% hint style="info" %}
+## Information about the constitutional workshops can be found [here](https://app.gitbook.com/s/SzzsBz2DfCbntY0gaYeA/constitution-workshop-list).
+{% endhint %}
 
 ## The roadmap to creating a lasting Cardano constitution
 
 ### Beginnings: CIP-1694&#x20;
 
-In November 2022, a new on-chain governance system was presented to the community for consideration (see[ CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694)). In the past 18 months, this CIP has become the most actively engaged CIP in Cardano history. This proposal describes a governance system that creates on-chain governance for the Cardano blockchain. And while it lays out the technical specification for on-chain governance, it does not define the necessary off-chain aspects of governance.
+In November 2022, a new on-chain governance system was presented to the community for consideration (see[ CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694)). In the past 18 months, this CIP has become the most actively engaged CIP in Cardano's history. This proposal describes a governance system that creates on-chain governance for the Cardano blockchain. And while it lays out the technical specification for on-chain governance, it does not define the necessary off-chain aspects of governance.
 
 Notably, it does not define a governing document for the social layer managing the blockchain, the Cardano Constitution.
 

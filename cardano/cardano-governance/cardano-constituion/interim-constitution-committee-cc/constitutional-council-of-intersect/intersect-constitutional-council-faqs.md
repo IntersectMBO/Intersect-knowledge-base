@@ -33,6 +33,6 @@ Given Intersect’s constitutional role, its seat on the ICC will be distinct fr
 There are many ways to have your say on the development of Cardano’s governance:
 
 * Contribute via community-focused committees, and working groups, including groups involved in creating a constitution draft that feeds into a broad community consultation process leading up to ratification.
-* Continue to test governance features on [sanchonet.md](../../sanchonet.md "mention")
+* Continue to test governance features on [sanchonet.md](../../../sanchonet.md "mention")
 * Find out how you can attend one of 50 global workshops to input on the draft Constitution [here](https://www.intersectmbo.org/news/have-your-say-kicking-off-global-workshops-to-draft-the-final-constitution).
 * Apply for[ funding opportunities](https://www.intersectmbo.org/grants) at Intersect to support the rollout through community tooling and other community initiatives.

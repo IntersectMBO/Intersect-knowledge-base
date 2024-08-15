@@ -30,5 +30,3 @@
 * A good grasp of marketing and communications principles.
 * Social responsibility - competence and responsibility to make decisions that will impact on the entire Cardano community.
 * BONUS - knowledge of constitutional law theory, hierarchy of norms and conflict of laws.&#x20;
-
-##

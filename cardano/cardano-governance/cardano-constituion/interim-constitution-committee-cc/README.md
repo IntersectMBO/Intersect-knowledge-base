@@ -1,6 +1,6 @@
 # Interim Constitution Committee (CC)
 
-## Introducing the interim Constitution Committee
+### Introducing the interim Constitution Committee
 
 Like the interim Constitution, there is an interim Constitutional Committee (CC) to enable the first stage of the Chang upgrade. The interim CC focuses on the technicality and base constitutionality of the very first community-submitted on-chain governance actions. Through the technical aptitude and expertise required to interpret the interim constitution and to submit CC votes, the interim CC fulfills an important role in maintaining the Cardano blockchain’s stability and security during the[ interim period.](https://www.intersectmbo.org/news/cardanos-governance-key-terms-and-milestones)
 
@@ -32,10 +32,10 @@ _Note: Data provided by Summon Platform, a blockchain development group contract
 \
 **Full audits can be viewed below:**
 
-{% file src="../../../../.gitbook/assets/ccElectionVote_data_anon.csv" %}
+{% file src="../../../../.gitbook/assets/ccelectionvote_data_anon.csv" %}
 
 \
-We are delighted to announce the 3 members appointed to the committee:
+We are delighted to announce the 3 members appointed to the committee along with the pioneer entities are:
 
 ### **1. Cardano Atlantic Council**
 
@@ -48,6 +48,14 @@ _Seira Yun, Hix, Shusuke Wakuda, Rena Oishi, Hideki Takeshi_
 ### **3. Eastern Cardano Council**
 
 _Jo Allum, Mark Byers, Oscar Hong, Phil Lewis, Ha Nguyen, Yuki Oishi_
+
+### 4. Input Output Global
+
+### 5. the Cardano Foundation
+
+### 6. EMURGO
+
+### 7. Intersect
 
 Our sincere congratulations to the [Cardano Atlantic Council](https://intersect.gitbook.io/2024-constitutional-committee-members-election/candidates/the-cardano-atlantic-council), [Cardano Japan](https://intersect.gitbook.io/2024-constitutional-committee-members-election/candidates/cardano-japan), and [Eastern Cardano Council](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LQX9Yzpr2CgxQjPsjkZf/candidates/eastern-cardano-council) who have been elected by the community as their top three preferred candidates. In addition, congratulations to Mauro Agustín Andreoli, Scientific Analytical Tools LLC, and Joshua Stone who are confirmed as alternates in the event one (or more) from the top 3 decline to sit on the ICC.
 

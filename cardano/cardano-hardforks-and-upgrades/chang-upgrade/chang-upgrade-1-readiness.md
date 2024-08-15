@@ -18,21 +18,9 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 * By **Liquidity,** we have now **28**% of Exchanges on 9.1.0, with Hardfork Threshold at 85%
 * The next potential Hardfork date is: 22nd August, 2024 :tada::tada:, with the next possible date being 27th August 2024
 
-<figure><img src="../../../.gitbook/assets/SPR_15Aug25.PNG" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../../.gitbook/assets/SPR_13Aug25.PNG" alt=""><figcaption><p>By Stake 69% of SPOs on 9.1.0, with 837/3101 fully upgraded</p></figcaption></figure>
 
 ## 👉 _Call To Action_&#x20;
-
-* We are accelerating our outreach to **DApps** to progress the upgrade :mega::mega::mega:
-* Key publications outlining&#x20;
-  * Performance measurements / Minimum path to Chang for DApps/ Gotcha
-  * [script cost calculator](https://docs.google.com/spreadsheets/d/1KFJCCbkDE5GaghlD4rDXB12pqLKnDFUNOKi0WErp\_-Q/edit?gid=0#gid=0)&#x20;
-  * [Migrating DApp from Plutus V2 to Plutus V3: A Comprehensive Guide](https://github.com/cardanoapi/hardfork-testing/blob/main/migration.md)
-  * [Explainer ](https://github.com/IntersectMBO/cardano-ledger/blob/lehins/fee-changes-adr/docs/adr/2024-08-14\_009-refscripts-fee-change.md)on the 'exponential growth of reference script cost'&#x20;
-  * <mark style="color:purple;">**Contact for Support**</mark> :  [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) or tweet @intersectMBO&#x20;
-
-<!---->
 
 * We are accelerating our outreach to **DApps** to progress the upgrade :mega::mega::mega:
 * **Exchanges** are busy progressing with the upgrade with 24.56% ready  :handshake:
@@ -97,14 +85,14 @@ For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versio
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
-| 3109              | 378               | 31.71 %       |
+| 3102              | 930               | 78.22%        |
 
 For the latest numbers please visit: [cardanoscan](https://cardanoscan.io/changreadiness)
 
 {% hint style="info" %}
 Section maintained by IOG Core Tech Team
 
-Last Updated; 2024-08-02
+Last Updated; 2024-08-15
 {% endhint %}
 
 ***
@@ -168,7 +156,7 @@ Indexers
 {% hint style="info" %}
 Section maintained by Cardano Foundation
 
-Last updated; 2024-08-01
+Last updated; 2024-08-12
 {% endhint %}
 
 ***
@@ -216,7 +204,7 @@ High-level status: **TBC**
 {% hint style="info" %}
 Section maintained by Anatasia Labs
 
-Last updated; 2024-07-25
+Last updated; 2024-08-12
 {% endhint %}
 
 ### Supporting Governance Initiatives - Readiness
@@ -234,7 +222,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% hint style="info" %}
 Section maintained by the Governance Tools Working Group
 
-Last Updated; 2024-07-25
+Last Updated; 2024-08-12
 {% endhint %}
 
 #### Interim Constitutional Committee Readiness
@@ -249,8 +237,6 @@ High-level status: <mark style="color:green;">**Ready**</mark>
 
 {% hint style="info" %}
 Section maintained by IOG Voltaire Team
-
-Last Updated; 2024-07-25
 {% endhint %}
 
 #### DRep Pioneer Program                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &#x20;
@@ -262,12 +248,12 @@ Learn more and get involved: [DRep Pioneer Program Overview](https://app.gitbook
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="284">Total DRep Training Completed</th><th>Status</th></tr></thead><tbody><tr><td>50</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>75</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>100</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>150</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>300</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th width="284">Total DRep Training Completed</th><th>Status</th></tr></thead><tbody><tr><td>50</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>75</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>100</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>150</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>300</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>350</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Intersect DRep Pioneer Program lead
 
-Last Updated; 2024-07-25
+Last Updated; 2024-08-15
 {% endhint %}
 
 ***
@@ -285,7 +271,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% hint style="info" %}
 Section maintained by Intersect
 
-Last Updated; 2024-07-29
+Last Updated; 2024-08-12
 {% endhint %}
 
 ***
