@@ -32,7 +32,6 @@
       * [Translated Interim Constitution](cardano/cardano-governance/cardano-constituion/interim-constitution/translated-interim-constitution.md)
     * [Draft Constitution](cardano/cardano-governance/cardano-constituion/draft-constitution/README.md)
       * [Drafting the Constitution - Constitutional Workshops](cardano/cardano-governance/cardano-constituion/draft-constitution/drafting-the-constitution-constitutional-workshops.md)
-      * [Translated Draft Constitution](cardano/cardano-governance/cardano-constituion/draft-constitution/translated-draft-constitution.md)
       * [Constitutional Workshop -Glossary](cardano/cardano-governance/cardano-constituion/draft-constitution/constitutional-workshop-glossary.md)
     * [Interim Constitution Committee (CC)](cardano/cardano-governance/cardano-constituion/interim-constitution-committee-cc/README.md)
       * [Interim CC FAQs](cardano/cardano-governance/cardano-constituion/interim-constitution-committee-cc/interim-cc-faqs.md)
