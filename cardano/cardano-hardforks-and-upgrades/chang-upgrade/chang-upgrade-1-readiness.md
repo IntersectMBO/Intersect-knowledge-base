@@ -151,7 +151,7 @@ Indexers
 
 #### Higher Level Tooling
 
-<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Maestro</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Koios</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Maestro</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Koios</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Cardano Foundation
