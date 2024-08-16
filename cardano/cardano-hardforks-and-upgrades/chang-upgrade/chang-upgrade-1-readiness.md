@@ -14,7 +14,7 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 
 ## 👉 Key Update
 
-* By **Stake**, we have now reached <mark style="color:green;">**78%**</mark> of **SPOs** on 9.1.0 - the Hardfork Threshold for SPOs is close to being reached :tada:
+* By **Stake**, we have now reached <mark style="color:green;">**78%**</mark> of **SPOs** on 9.1.0 - the Hardfork Threshold for SPOs has been reached :tada:
 * By **Liquidity,** we have now **28**% of Exchanges on 9.1.0, with Hardfork Threshold at 85%
 * The next potential Hardfork date is: 22nd August, 2024 :tada::tada:, with the next possible date being 27th August 2024
 
@@ -85,7 +85,7 @@ For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versio
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
-| 3102              | 930               | 78.22%        |
+| 3102              | 967               | 79.84 %       |
 
 For the latest numbers please visit: [cardanoscan](https://cardanoscan.io/changreadiness)
 
@@ -245,15 +245,15 @@ DRep Pioneer Program readiness is tracked against total number of participants w
 Learn more and get involved: [DRep Pioneer Program Overview](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/VNa3QAZtN9ihYGiFy8AM/).
 
 {% hint style="info" %}
-High-level status: <mark style="color:orange;">**In Progress**</mark>
+High-level status: <mark style="color:green;">**Ready**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="284">Total DRep Training Completed</th><th>Status</th></tr></thead><tbody><tr><td>50</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>75</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>100</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>150</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>300</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>350</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th width="284">Total DRep Training Completed</th><th>Status</th></tr></thead><tbody><tr><td>50</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>75</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>100</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>150</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>300</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Intersect DRep Pioneer Program lead
 
-Last Updated; 2024-08-15
+Last Updated; 2024-08-16
 {% endhint %}
 
 ***
