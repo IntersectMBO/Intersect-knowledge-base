@@ -14,28 +14,14 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 
 ## 👉 Key Update
 
-* By **Stake**, we have now reached <mark style="color:green;">**78%**</mark> of **SPOs** on 9.1.0 - the Hardfork Threshold for SPOs has been reached :tada:
+* By **Stake**, we have now reached <mark style="color:green;">**78%**</mark> of **SPOs** on 9.1.0 - the hardfork Threshold for SPOs has been reached :tada:
 * By **Liquidity,** we have now **28**% of Exchanges on 9.1.0, with Hardfork Threshold at 85%
-* The next potential Hardfork date is: 22nd August, 2024 :tada::tada:, with the next possible date being 27th August 2024
+* The next potential hardfork date is: 22nd August, 2024 :tada::tada:, with the next possible date being 27th August 2024
+* _Be aware;_ Ledger Nano S device support for Conway is stalled, all other devices are supported.
+
+(Footnote: Wider explainer on Plutus v1, v2,v3 - [here](https://plutus.cardano.intersectmbo.org/docs/working-with-scripts/ledger-language-version/))
 
 <figure><img src="../../../.gitbook/assets/SPR_13Aug25.PNG" alt=""><figcaption><p>By Stake 69% of SPOs on 9.1.0, with 837/3101 fully upgraded</p></figcaption></figure>
-
-## 👉 _Call To Action_&#x20;
-
-* We are accelerating our outreach to **DApps** to progress the upgrade :mega::mega::mega:
-* **Exchanges** are busy progressing with the upgrade with 24.56% ready  :handshake:
-* The next potential Hardfork date is: 22nd August, 2024 :tada::tada:, with the next possible date being 28th August 2024 - depending on critical indicators being met.&#x20;
-
-(Footnote: Wider explainer on Plutus v1, v2,v3 - [here](https://plutus.cardano.intersectmbo.org/docs/working-with-scripts/ledger-language-version/) )
-
-## Be aware of
-
-* [**Cardano Node 9.1.0**](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0) **is the mainnet candidate for Chang #1 hardfork.**&#x20;
-* _Node 9.1.0 brings a configuration file update to Node 9.0.0._
-* _GraphQL, Rosetta, Ogmios, and Cardano-wallet are now also compatible with 9.1.0_
-* Ledger Nano S device support for Conway is stalled, all other devices are supported.
-* DApps using Plutus V1 or V2 scripts must be aware of the new cost models being introduced which will change fees.
-  * _Please see_ [_Script Cost Calculator_](https://docs.google.com/spreadsheets/d/1KFJCCbkDE5GaghlD4rDXB12pqLKnDFUNOKi0WErp\_-Q/edit?gid=0#gid=0) _from IOG Core Team._
 
 ***
 
