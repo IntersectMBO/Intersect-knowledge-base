@@ -14,9 +14,10 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 
 ## 👉 Key Update
 
-* By **Stake**, we have now reached <mark style="color:green;">**80%**</mark> of **SPOs** on 9.1.0 - the hardfork Threshold for SPOs has been reached :tada:
-* By **Liquidity,** we have now **28**% of Exchanges on 9.1.0, with Hardfork Threshold at 85%
-* The next potential hardfork date is: 27nd August, 2024 :tada::tada:
+* By **Stake**, we have now reached <mark style="color:green;">**80%**</mark> of **SPOs** on 9.1.0 - the desired hard fork threshold for SPOs has been reached :tada:
+* By **Liquidity,** we have now **28**% of Exchanges on 9.1.0, with desired hard fork threshold at 85%
+* The next potential hard fork date is: **27nd August, 2024** :tada::tada:
+* **The time to upgrade is now!** If there is a specific reason or dependency that means your upgrade cannot be achieved, the community and ecosystem need to know from you. Please reach out to us at @Intersectmbo or hard-fork@intersect.org as soon as possible. The hard fork working group will review feedback daily
 * _Be aware;_ Ledger Nano S device support for Conway is stalled, all other devices are supported.
 
 <figure><img src="../../../.gitbook/assets/Chang.19aug24.png" alt=""><figcaption><p>By Stake 80% of SPOs on 9.1.0, with 1012/3101 fully upgraded</p></figcaption></figure>
@@ -63,7 +64,7 @@ Cardano has a range of network environments, and each will require a Hard Fork, 
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="136">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:orange;">80<strong>%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:orange;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="136">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:green;"><strong>80%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:green;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
 For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions)
 
@@ -135,7 +136,7 @@ Indexers
 
 #### Higher Level Tooling
 
-<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Maestro</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Koios</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Maestro</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Koios</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://t.me/CardanoKoios/9764/13866">telegram announcement here</a>)</td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Cardano Foundation
@@ -183,7 +184,7 @@ _Please see_ [_Ref Script Cost Calculator_](https://docs.google.com/spreadsheets
 High-level status: **TBC**
 {% endhint %}
 
-<table><thead><tr><th width="210">Project</th><th width="263">Status</th></tr></thead><tbody><tr><td>Charli3</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Danogo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Axo</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Minswap</td><td><strong>TBC</strong></td></tr><tr><td>SundaeSwap</td><td><strong>TBC</strong></td></tr><tr><td>Wingriders</td><td><strong>TBC</strong></td></tr><tr><td>DexHunter</td><td><strong>TBC</strong></td></tr><tr><td>Axo</td><td><strong>TBC</strong></td></tr><tr><td>Optim</td><td><strong>TBC</strong></td></tr><tr><td>Spectrum</td><td><strong>TBC</strong></td></tr><tr><td>Splash</td><td><strong>TBC</strong></td></tr><tr><td>Genius Yield</td><td><strong>TBC</strong></td></tr><tr><td>Indigo</td><td><strong>TBC</strong></td></tr><tr><td>Liqwid (finance)</td><td><strong>TBC</strong></td></tr><tr><td>Djed</td><td><strong>TBC</strong></td></tr><tr><td>USDM</td><td><strong>TBC</strong></td></tr><tr><td>Levvy</td><td><strong>TBC</strong></td></tr><tr><td>Orcfax</td><td><strong>TBC</strong></td></tr><tr><td>Iagon</td><td><strong>TBC</strong></td></tr><tr><td>NMKR</td><td><strong>TBC</strong></td></tr><tr><td>Book.io</td><td><strong>TBC</strong></td></tr><tr><td>NEWM</td><td><strong>TBC</strong></td></tr><tr><td>Rosenbridge</td><td><strong>TBC</strong></td></tr><tr><td>MyUSD</td><td><strong>TBC</strong></td></tr><tr><td>Encoins</td><td><strong>TBC</strong></td></tr><tr><td>Clarity</td><td><strong>TBC</strong></td></tr><tr><td>Summon</td><td><strong>TBC</strong></td></tr><tr><td>JPG.Store</td><td><strong>TBC</strong></td></tr><tr><td>MuesliSwap</td><td><strong>TBC</strong></td></tr><tr><td>Lending Pond</td><td><strong>TBC</strong></td></tr><tr><td>Fluid Tokens</td><td><strong>TBC</strong></td></tr><tr><td>LenfiAada</td><td><strong>TBC</strong></td></tr><tr><td>VyFinance</td><td><strong>TBC</strong></td></tr><tr><td>ADAX Pro</td><td><strong>TBC</strong></td></tr><tr><td>Lenfi</td><td><strong>TBC</strong></td></tr><tr><td>Revuto</td><td><strong>TBC</strong></td></tr><tr><td>Artano</td><td><strong>TBC</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210">Project</th><th width="263">Status</th></tr></thead><tbody><tr><td>Charli3</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Danogo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Minswap</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://x.com/longminswap/status/1825919688423133549">tweet</a>)</td></tr><tr><td>NEWM</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Wingriders</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://x.com/wingriderscom/status/1824124808386265386">tweet</a>)</td></tr><tr><td>Axo</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>SundaeSwap</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Minswap</td><td><strong>TBC</strong></td></tr><tr><td>DexHunter</td><td><strong>TBC</strong></td></tr><tr><td>Optim</td><td><strong>TBC</strong></td></tr><tr><td>Spectrum</td><td><strong>TBC</strong></td></tr><tr><td>Splash</td><td><strong>TBC</strong></td></tr><tr><td>Genius Yield</td><td><strong>TBC</strong></td></tr><tr><td>Indigo</td><td><strong>TBC</strong></td></tr><tr><td>Liqwid (finance)</td><td><strong>TBC</strong></td></tr><tr><td>Djed</td><td><strong>TBC</strong></td></tr><tr><td>USDM</td><td><strong>TBC</strong></td></tr><tr><td>Levvy</td><td><strong>TBC</strong></td></tr><tr><td>Orcfax</td><td><strong>TBC</strong></td></tr><tr><td>Iagon</td><td><strong>TBC</strong></td></tr><tr><td>NMKR</td><td><strong>TBC</strong></td></tr><tr><td>Book.io</td><td><strong>TBC</strong></td></tr><tr><td>Rosenbridge</td><td><strong>TBC</strong></td></tr><tr><td>MyUSD</td><td><strong>TBC</strong></td></tr><tr><td>Encoins</td><td><strong>TBC</strong></td></tr><tr><td>Clarity</td><td><strong>TBC</strong></td></tr><tr><td>Summon</td><td><strong>TBC</strong></td></tr><tr><td>JPG.Store</td><td><strong>TBC</strong></td></tr><tr><td>MuesliSwap</td><td><strong>TBC</strong></td></tr><tr><td>Lending Pond</td><td><strong>TBC</strong></td></tr><tr><td>Fluid Tokens</td><td><strong>TBC</strong></td></tr><tr><td>LenfiAada</td><td><strong>TBC</strong></td></tr><tr><td>VyFinance</td><td><strong>TBC</strong></td></tr><tr><td>Lenfi</td><td><strong>TBC</strong></td></tr><tr><td>Revuto</td><td><strong>TBC</strong></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Anatasia Labs
@@ -238,24 +239,6 @@ High-level status: <mark style="color:green;">**Ready**</mark>
 Section maintained by Intersect DRep Pioneer Program lead
 
 Last Updated; 2024-08-16
-{% endhint %}
-
-***
-
-### Community Readiness
-
-Qualitative feedback and sentiment from key committees, hubs, and working groups on their readiness for the hard fork.
-
-{% hint style="info" %}
-High-level status: <mark style="color:orange;">**In Progress**</mark>
-{% endhint %}
-
-<table><thead><tr><th width="246">Area</th><th width="282">Status</th></tr></thead><tbody><tr><td>Hard Fork Working Group</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Parameters Committee</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Open Source Committee</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Membership and Community Committee</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Civics Committee</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Intersect Hubs</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
-
-{% hint style="info" %}
-Section maintained by Intersect
-
-Last Updated; 2024-08-12
 {% endhint %}
 
 ***
