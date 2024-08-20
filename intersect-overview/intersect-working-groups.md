@@ -35,7 +35,7 @@ Special Interest Groups are:
 
 Anyone can request to be part of a Special Interest Group, you can contact them through their discord channel.   &#x20;
 
-A link to form a Special Interest Group will be posted here. (When Available)
+A link to form a Special Interest Group can be found [here](https://mpc.intersectmbo.org/sig-sign-up).&#x20;
 
 
 
@@ -52,5 +52,5 @@ Technical  Working Groups are:
 
 
 
-More information and a list of Working Groups can be found in the [Intersect groups](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/CRHkYsBzWMnZsSk4kyFU/ "mention") space
+More information and a list of Working Groups can be found in the [Intersect Committees & Groups](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/CRHkYsBzWMnZsSk4kyFU/ "mention") space
 
