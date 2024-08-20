@@ -196,6 +196,8 @@ Last updated; 2024-08-12
 
 The Chang #1 hardfork will introduce governance to Cardano, specific tooling is being developed to support the governance model.
 
+Whilst having governance tools prepared for mainnet hardfork is ideal, these tools should not block mainnet hardfork.
+
 #### Governance Tooling
 
 {% hint style="info" %}
@@ -207,7 +209,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% hint style="info" %}
 Section maintained by the Governance Tools Working Group
 
-Last Updated; 2024-08-12
+Last Updated; 2024-08-20
 {% endhint %}
 
 #### Interim Constitutional Committee Readiness
