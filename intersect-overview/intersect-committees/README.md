@@ -36,8 +36,8 @@ You can an overview of the committee and their respective ways of working [here]
 [open-source-committee-osc.md](open-source-committee-osc.md)
 {% endcontent-ref %}
 
-{% content-ref url="budget-committee-proposed.md" %}
-[budget-committee-proposed.md](budget-committee-proposed.md)
+{% content-ref url="budget-committee.md" %}
+[budget-committee.md](budget-committee.md)
 {% endcontent-ref %}
 
 {% content-ref url="roadmap-committee-proposed.md" %}
