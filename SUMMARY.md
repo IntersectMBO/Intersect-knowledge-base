@@ -180,7 +180,7 @@
 * [Application process](intersect-community-grants/application-process/README.md)
   * [Eligibility criteria](intersect-community-grants/application-process/eligibility-criteria.md)
   * [Grants evaluation criteria](intersect-community-grants/application-process/grants-evaluation-criteria.md)
-  * [Grants project delays](intersect-community-grants/application-process/grants-project-delays.md)
+  * [If your project is delayed](intersect-community-grants/application-process/if-your-project-is-delayed.md)
 
 ## Intersect Website and Member area
 
