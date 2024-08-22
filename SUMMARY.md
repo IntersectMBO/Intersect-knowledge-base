@@ -19,7 +19,7 @@
   * [Parameter committee (PC)](intersect-overview/intersect-committees/parameter-committee-pc.md)
   * [Open Source committee (OSC)](intersect-overview/intersect-committees/open-source-committee-osc.md)
   * [Budget committee](intersect-overview/intersect-committees/budget-committee.md)
-  * [Roadmap committee (proposed)](intersect-overview/intersect-committees/roadmap-committee-proposed.md)
+  * [Product committee](intersect-overview/intersect-committees/product-committee.md)
 * [Intersect groups (working & special interest)](intersect-overview/intersect-working-groups.md)
 * [Intersect development updates](intersect-overview/intersect-development-updates.md)
 
