@@ -70,14 +70,14 @@ For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versio
 
 | Total Stake Pools | Stake Pools Ready | Stake Ready % |
 | ----------------- | ----------------- | ------------- |
-| 3099              | 1055              | 81.98 %       |
+| 3096              | 1070              | 82.67 %       |
 
 For the latest numbers please visit: [cardanoscan](https://cardanoscan.io/changreadiness)
 
 {% hint style="info" %}
 Section maintained by IOG Core Tech Team
 
-Last Updated; 2024-08-22
+Last Updated; 2024-08-23
 {% endhint %}
 
 ***
@@ -118,7 +118,7 @@ More details; Low-Level Tooling Chang Readiness Details
 
 Libraries
 
-<table><thead><tr><th width="189">Library</th><th>Status</th><th>Release Version</th></tr></thead><tbody><tr><td>Cardano Serialization Library</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/Emurgo/cardano-serialization-lib/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Cardano Multiplatform Library</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/dcSpark/cardano-multiplatform-lib/releases/tag/5.3.0">5.3.0</a></td></tr><tr><td>Cardano JavaScript SDK</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>See <a href="https://github.com/input-output-hk/cardano-js-sdk/releases">releases page</a></td></tr><tr><td>Pallas</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/txpipe/pallas/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Cardano Transaction Library</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/Plutonomicon/cardano-transaction-lib/blob/develop/CHANGELOG.md#changelog"><em>changelong</em></a><em>)</em></td></tr></tbody></table>
+<table><thead><tr><th width="189">Library</th><th>Status</th><th>Release Version</th></tr></thead><tbody><tr><td>Cardano Serialization Library</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/Emurgo/cardano-serialization-lib/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Cardano Multiplatform Library</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><a href="https://github.com/dcSpark/cardano-multiplatform-lib/releases/tag/5.3.0">5.3.0</a></td></tr><tr><td>Cardano JavaScript SDK</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>See <a href="https://github.com/input-output-hk/cardano-js-sdk/releases">releases page</a></td></tr><tr><td>Pallas</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td><em>(see</em> <a href="https://github.com/txpipe/pallas/releases"><em>releases page</em></a><em>)</em></td></tr><tr><td>Cardano Transaction Library</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td><em>Pending (see</em> <a href="https://github.com/Plutonomicon/cardano-transaction-lib/blob/develop/CHANGELOG.md#changelog"><em>changelong</em></a><em>)</em></td></tr></tbody></table>
 
 Tools
 
@@ -129,19 +129,19 @@ Indexers
 | Indexers | Status                                             | Version                                                                                   |
 | -------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | Ogmios   | <mark style="color:green;">**Ready**</mark>        | [v6.5.0](https://github.com/CardanoSolutions/ogmios/releases/tag/v6.5.0)                  |
-| Oura     | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/oura)_)_                       |
+| Oura     | <mark style="color:green;">**Ready**</mark>        | _(see_ [_releases page_](https://github.com/txpipe/oura)_)_                               |
 | Scrolls  | <mark style="color:orange;">**In Progress**</mark> | _Pending (see_ [_releases page_](https://github.com/txpipe/scrolls/releases)_)_           |
 | DB-Sync  | <mark style="color:green;">**Ready**</mark>        | [DB-Sync 13.3.0.0](https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.3.0.0) |
 | Carp     | <mark style="color:green;">**Ready**</mark>        | [3.2.0](https://github.com/dcSpark/carp/releases/tag/3.2.0)                               |
 
 #### Higher Level Tooling
 
-<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Maestro</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>Koios</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://t.me/CardanoKoios/9764/13866">telegram announcement here</a>)</td></tr></tbody></table>
+<table><thead><tr><th width="167">Tools</th><th>Status</th></tr></thead><tbody><tr><td>Blockfrost</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Koios</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://t.me/CardanoKoios/9764/13866">telegram announcement here</a>)</td></tr><tr><td>Maestro</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by Cardano Foundation
 
-Last updated; 2024-08-12
+Last updated; 2024-08-23
 {% endhint %}
 
 ***
@@ -189,7 +189,7 @@ High-level status: **TBC**
 {% hint style="info" %}
 Section maintained by Anatasia Labs
 
-Last updated; 2024-08-21
+Last updated; 2024-08-22
 {% endhint %}
 
 ### Supporting Governance Initiatives - Readiness
