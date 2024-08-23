@@ -192,6 +192,7 @@
   * [May 29th](intersect-website-and-member-area/releases/may-29th.md)
   * [June 12th](intersect-website-and-member-area/releases/june-12th.md)
   * [August 6th](intersect-website-and-member-area/releases/august-6th.md)
+  * [August 23rd](intersect-website-and-member-area/releases/august-23rd.md)
 
 ## Intersect Team
 

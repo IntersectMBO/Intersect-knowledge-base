@@ -1,5 +1,7 @@
 # May 29th
 
+## Features
+
 * Migrated Intersect website
 * Ability to directly register for a membership from the Intersect website
 * Ability to login to the Members Area from the Intersect website
