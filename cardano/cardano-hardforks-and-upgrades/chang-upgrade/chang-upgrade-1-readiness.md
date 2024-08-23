@@ -164,12 +164,12 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 #### Full Node / CLI Wallets
 
-<table><thead><tr><th width="182">Wallet</th><th>Readiness</th></tr></thead><tbody><tr><td>Daedalus</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td></tr><tr><td>AdaLite</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>CNTools</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th width="182">Wallet</th><th>Readiness</th></tr></thead><tbody><tr><td>Daedalus</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>AdaLite</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>CNTools</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
 
 {% hint style="info" %}
 Section maintained by the Wallets Working Group
 
-Last updated; 2024-08-14
+Last updated; 2024-08-23
 {% endhint %}
 
 ***
