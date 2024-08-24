@@ -14,8 +14,9 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 
 ## 👉 Key Update
 
-* By **Stake**, we have now reached <mark style="color:green;">**83%**</mark> of **SPOs** on 9.1.0 - the desired hard fork threshold for SPOs has been reached :tada:
-* By **Liquidity,** we have now **46**% of Exchanges on 9.1.0, with desired hard fork threshold at 85%
+* By **Stake**, we have now reached <mark style="color:green;">**92%**</mark> of **SPOs** on 9.1.0 - the desired hard fork threshold for SPOs has been reached :tada:
+* By **Liquidity,** we have now **46**% of Exchanges on 9.1.0, with desired hard fork threshold at 85%, by count we are **52%** ready
+* By TVL,  DApps are over **50%** ready, with steady progress and testing on PreProd from 24-August
 * The next potential hard fork date is: **September 1, 2024** :tada::tada:
 * **The time to upgrade is now!** If there is a specific reason or dependency that means your upgrade cannot be achieved, the community and ecosystem need to know from you. Please reach out to us at @Intersectmbo or hard-fork@intersectmbo.org as soon as possible. The hard fork working group will review feedback daily
 * _Be aware;_ Ledger Nano S device support for Conway is stalled, all other devices are supported.
@@ -62,7 +63,7 @@ Cardano has a range of network environments, and each will require a Hard Fork, 
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="136">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:green;"><strong>80%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:green;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
+<table><thead><tr><th width="138">Network</th><th width="154">9.0.0 Blocks (%)</th><th width="170">9.1.0 Blocks (%)</th><th width="136">Ledger Era</th><th>Governance</th></tr></thead><tbody><tr><td>MainNet</td><td><mark style="color:orange;"><strong>2%</strong></mark></td><td><mark style="color:green;">92<strong>%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>PreProd</td><td><mark style="color:orange;"><strong>0.38%</strong></mark></td><td><mark style="color:orange;"><strong>63%</strong></mark></td><td>Babbage</td><td>N/A</td></tr><tr><td>Preview</td><td><mark style="color:orange;"><strong>9%</strong></mark></td><td><mark style="color:green;"><strong>76%</strong></mark></td><td>Conway</td><td>Bootstrapping Phase</td></tr><tr><td>SanchoNet</td><td><mark style="color:green;"><strong>100%</strong></mark></td><td><em>0% (will remain on 9.0.0)</em></td><td>Conway</td><td>Full (post-bootstrapping)</td></tr></tbody></table>
 
 For _live_ numbers please visit [Cexplorer/versions](https://cexplorer.io/versions)
 
@@ -86,7 +87,7 @@ Exchange readiness is tracked against the top exchanges by ADA liquidity (as rep
 
 For the latest info on _Exchanges by Liquidity_ please visit: [Cardanoscan](https://cardanoscan.io/changreadiness) (source) and [Cexplorer](https://cexplorer.io/hfs).
 
-<figure><img src="../../../.gitbook/assets/CardanoScan (2).png" alt=""><figcaption><p>CardanoScan readiness as at  14:40 UTC August 24, 2024</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Chang.24aug24.png" alt=""><figcaption><p>By Stake 92%, Exchagne 31/58 ready by count, by Liquidity 45%</p></figcaption></figure>
 
 {% hint style="info" %}
 High-level status: <mark style="color:orange;">**In Progress**</mark>
