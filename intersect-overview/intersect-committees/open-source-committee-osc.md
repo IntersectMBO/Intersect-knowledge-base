@@ -1,12 +1,12 @@
 # Open Source committee (OSC)
 
 {% hint style="info" %}
-Find out more about the OSC [here](https://intersect.gitbook.io/open-source-committee).
+Find out more about the OSC [here](https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-open-source-committee).
 {% endhint %}
 
 ## What is the Open Source Committee?
 
-The Open Source Committee generates an Open Source strategy for Cardano to follow. Advise on and promote Open-source activities across the ecosystem.   Be a rally point for members to get advice on building in an open-source environment
+The Open Source Committee generates an Open Source strategy for Cardano to follow. Advise on and promote Open-source activities across the ecosystem.  Be a rallying point for members to get advice on building in an open-source environment
 
 ## Why is this committee important?
 
@@ -28,6 +28,5 @@ The committee acts as a rallying point for members to get advice on building in 
 
 ## Extra info or links
 
-* More info about the committee and meeting notes can be found [here](https://intersect.gitbook.io/open-source-committee/)
 * The OSC has approved its governance policy found [here](https://intersect.gitbook.io/open-source-committee/policies/governance)
 * We also have a voting procedure PR that can be reviewed here drafted by a community member who just joined the OSC:  [https://github.com/IntersectMBO/documentation/pull/2](https://github.com/IntersectMBO/documentation/pull/2)

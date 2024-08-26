@@ -1,7 +1,7 @@
 # Membership and Community committee (MCC)
 
 {% hint style="info" %}
-Find out More about the MCC [here](https://intersect.gitbook.io/community-and-membership-committee).
+Find out More about the MCC [here](https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-membership-and-community-committee-mcc).
 {% endhint %}
 
 ## What is the Membership and Community Committee?
@@ -22,5 +22,4 @@ Send an email to [membership-and-community-committee@intersectmbo.org](mailto:me
 
 ## Extra info or links
 
-* More info about the committee and meeting notes can be found [here](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/)
 * [MCC ](https://docs.google.com/presentation/d/1gvaSrd7tJ6B5e0JIwaus0Yj6DXDcENT3gJwPCad83NQ/edit?usp=sharing)[Terms of Reference (ToR)](https://docs.google.com/presentation/d/1gvaSrd7tJ6B5e0JIwaus0Yj6DXDcENT3gJwPCad83NQ/edit?usp=sharing)

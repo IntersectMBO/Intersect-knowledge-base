@@ -1,7 +1,9 @@
-# Budget committee
+# Cardano Budget committee (CBC)
+
+
 
 {% hint style="info" %}
-Find out more about the Budget committee [here](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/).
+Find out more about the Budget committee [here](https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-budget-committee).
 {% endhint %}
 
 ## What is the Budget committee?
@@ -20,7 +22,3 @@ The Budget Committee is an advisory committee that brings together relevant stak
 * Any other working group as needed for the committee’s business.
 * Evaluate the output of working groups and the Budget Committee
 * Communicate the work of the committee to the wider Cardano community
-
-## Extra info or links
-
-More info about the committee and its working groups can be found [here](https://intersect.gitbook.io/budget-committee/).&#x20;

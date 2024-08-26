@@ -1,7 +1,7 @@
-# Civics committee
+# Cardano Civics committee (CCC)
 
 {% hint style="info" %}
-Find out more about the Civics Committee [here](https://intersect.gitbook.io/civics-committee).
+Find out more about the Civics Committee [here](https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-civics-committee).
 {% endhint %}
 
 ## What is the Civics Committee?
@@ -25,7 +25,3 @@ While not all of these topics are addressed yet, the vision is for the committee
 ## How to join?
 
 The Cardano Civics Committee will participate in Intersect committee elections to select the next cohort of members.
-
-## Extra info or links
-
-* More info about the committee and meeting notes can be found [here](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/5BQdZEh6JOGB8uosMGwD/)

@@ -1,7 +1,7 @@
 # Parameter committee (PC)
 
 {% hint style="info" %}
-Find out more about the Parameter Committee [here](https://intersect.gitbook.io/parameter-committee).
+Find out more about the Parameter Committee [here](https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-parameter-committee).
 {% endhint %}
 
 ## What is the Parameter Committee?
@@ -29,7 +29,6 @@ The committee meets every three weeks to discuss all Cardano protocol parameters
 
 ## Extra info or links
 
-* More info about the committee and meeting notes can be found [here](https://intersect.gitbook.io/parameter-committee-knowledge-base/)
 * Parameter Committee updates on Cardano Forum can be found [here](https://forum.cardano.org/c/governance/parameters-committee-updates/220)
 * Parameter Committee parameter change proposals on Cardano Forum can be found [here](https://forum.cardano.org/c/governance/parameter-change-proposals-pcp/257)
 
