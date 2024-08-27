@@ -12,10 +12,24 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 ## - 2024 -
 
+
+
+<details>
+
+<summary>August</summary>
+
+* [Development Update #28 - August 23rd 2024](https://mpc.intersectmbo.org/intersect-development-update-28-august-23rd)
+* [Development Update #27 - August 16th 2024](https://mpc.intersectmbo.org/intersect-development-update-27-august-16th)
+* [Development Update #26 - August 9th 2024](https://mpc.intersectmbo.org/intersect-development-update-26-august-9th)
+* [Development Update #25 - August 2nd 2024](https://mpc.intersectmbo.org/intersect-development-update-25-august-2nd)
+
+</details>
+
 <details>
 
 <summary>July</summary>
 
+* [Development Update #24 - July 26th 2024](https://mpc.intersectmbo.org/intersect-development-update-23-july-18th-1)
 * [Development Update #23 - July 18th 2024](https://mpc.intersectmbo.org/intersect-development-update-23-july-18th?ecid=\&utm\_source=hs\_email\&utm\_medium=email&\_hsenc=p2ANqtz-9vxGRm3QSRv7uIoZBqt5VMvpVSkY-6GtO0L6qGRBz42dXfVGJy2LlXeVhneyL\_JXYSRj0R)
 * [Development Update #22 - July 12th 2024](https://mpc.intersectmbo.org/intersect-development-update-22-july-12th)
 * [Development Update #21 - July 5th 2024](https://mpc.intersectmbo.org/intersect-development-update-21-july-5th)
