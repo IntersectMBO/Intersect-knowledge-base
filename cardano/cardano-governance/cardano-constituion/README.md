@@ -1,5 +1,7 @@
 # Cardano Constituion
 
+{% embed url="https://youtu.be/6T6OT90yeyk?feature=shared" %}
+
 ## What is the Cardano constitution?
 
 The Cardano constitution is designed to be the founding document that brings together the community’s wishes and discussions and puts them into text as a set of rules and principles to abide by to maintain the sustainability of the Cardano network.&#x20;

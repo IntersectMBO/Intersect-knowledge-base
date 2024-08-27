@@ -1,5 +1,7 @@
 # Governance roles
 
+{% embed url="https://youtu.be/9DPjzWfzyt0?feature=shared" %}
+
 Decentralised Governance Requires different actors to function properly.\
 These are the 4 key one described in CIP-1694:
 
