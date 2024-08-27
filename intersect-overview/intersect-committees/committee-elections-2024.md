@@ -1,7 +1,7 @@
 # Committee elections - 2024
 
 {% hint style="info" %}
-Intersect's first round of committee elections are opening up from September 7th. [Learn more.](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/PTouV0f6Si1oWdMQe9Cb/)
+Intersect's first round of committee elections are opening up from September 9th. [Learn more.](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/PTouV0f6Si1oWdMQe9Cb/)
 {% endhint %}
 
 Intersect is a member-based organisation (MBO), which means the community is in charge of steering and organising the future of Cardano’s blockchain. Anyone or any organisation in the community can choose to join Intersect.
