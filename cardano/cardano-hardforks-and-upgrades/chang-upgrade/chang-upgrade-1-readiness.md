@@ -19,7 +19,7 @@ Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spo
 * By TVL,  DApps are over **50%** ready, with steady progress and testing on PreProd from August 24
 * The next potential hard fork date is: **September 1, 2024** :tada::tada:
 * **The time to upgrade is now!** If there is a specific reason or dependency that means your upgrade cannot be achieved, the community and ecosystem need to know from you. Please reach out to us at @Intersectmbo or hard-fork@intersectmbo.org as soon as possible. The hard fork working group will review feedback daily
-* _Be aware;_ Ledger Nano S device support for Conway is stalled, all other devices are supported [see hardware wallet readiness](chang-upgrade-1-readiness.md#hardware-wallets) for details.
+* The Ledger team just today released Cardano App `1.7.3` which fixes the issues with the Ledger Nano S device. This means that now ALL hardware wallets devices are Chang ready! (see [announcement](https://x.com/ATADA\_Stakepool/status/1828788278373548248))
 
 ***
 
@@ -163,15 +163,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 
 #### Hardware Wallets
 
-<table><thead><tr><th width="177">Wallet</th><th>Readiness</th></tr></thead><tbody><tr><td>Trezor</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Ledger (Nano S+, Nano X, Stax)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Ledger (Nano S)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark><strong> (Unlikely to be ready for Chang #1)</strong></td></tr><tr><td>Keystone</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
-
-Ledger Nano S:
-
-* There is an issue with compiling the new app for Ledger Nano S - taking up more memory than expected.
-* The Ledger team cannot push the new Conway features within Cardano app `7.1.1` for Nano S, due to this issue.
-* This means Ledger Nano S users will be able to continue existing usage IF they use third party wallets BUT not via Ledger Live.
-* This means Ledger Nano S users won't be able to use any of the new Conway governance functionality, until update is released.
-* See [write up](https://x.com/ATADA\_Stakepool/status/1828727445056328013) from Martin Lang.
+<table><thead><tr><th width="177">Wallet</th><th>Readiness</th></tr></thead><tbody><tr><td>Trezor</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Ledger (Nano S+, Nano X, Stax)</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr><tr><td>Ledger (Nano S)</td><td><mark style="color:green;"><strong>Ready</strong></mark><strong> (see</strong> <a href="https://x.com/ATADA_Stakepool/status/1828788278373548248"><strong>announcement</strong></a><strong>)</strong></td></tr><tr><td>Keystone</td><td><mark style="color:green;"><strong>Ready</strong></mark></td></tr></tbody></table>
 
 #### Full Node / CLI Wallets
 
