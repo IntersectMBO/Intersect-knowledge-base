@@ -20,8 +20,8 @@ You can an overview of the committee and their respective ways of working [here]
 
 ## Current Committees at Intersect:
 
-{% content-ref url="cardano-civics-committee-ccc.md" %}
-[cardano-civics-committee-ccc.md](cardano-civics-committee-ccc.md)
+{% content-ref url="civics-committee.md" %}
+[civics-committee.md](civics-committee.md)
 {% endcontent-ref %}
 
 {% content-ref url="membership-and-community-committee-mcc.md" %}
@@ -40,12 +40,12 @@ You can an overview of the committee and their respective ways of working [here]
 [open-source-committee-osc.md](open-source-committee-osc.md)
 {% endcontent-ref %}
 
-{% content-ref url="cardano-budget-committee-cbc.md" %}
-[cardano-budget-committee-cbc.md](cardano-budget-committee-cbc.md)
+{% content-ref url="budget-committee.md" %}
+[budget-committee.md](budget-committee.md)
 {% endcontent-ref %}
 
-{% content-ref url="cardano-product-committee-cpc.md" %}
-[cardano-product-committee-cpc.md](cardano-product-committee-cpc.md)
+{% content-ref url="product-committee.md" %}
+[product-committee.md](product-committee.md)
 {% endcontent-ref %}
 
 
