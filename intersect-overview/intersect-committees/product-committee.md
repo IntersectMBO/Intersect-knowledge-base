@@ -1,4 +1,4 @@
-# Cardano Product committee (CPC)
+# Product committee
 
 
 
@@ -14,7 +14,17 @@ We now see that we need a committee to manage a variety of different types of Ca
 
 Vision, strategy, and roadmap are all elements of a product function, because of this in its first meeting the committee updated its name from Roadmap Committee (originally Vision Committee) to Product Committee.
 
+## Why is this committee important?
 
+The Product committee facilitates the processes that help the Cardano community to create a vision and a strategy.
+
+## Which topics does this committee cover?
+
+The Product committee will cover topics such as roadmap, focusing on the 'why' and the related strategy, long-term vision and broader user/customer needs.
+
+## How to join?
+
+Any member of Intersect can run for election to become a voting seat, and any member or associate of Intersect can connect to the Product committee via the Intersect discord server.
 
 
 
