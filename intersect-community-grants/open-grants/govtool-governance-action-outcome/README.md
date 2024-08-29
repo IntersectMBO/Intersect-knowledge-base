@@ -5,3 +5,5 @@ With on-chain governance, introduced by CIP-1694, ada holders will be empowered 
 To support CIP-1694's on-chain features Intersect has facilitated the creation of key governance tools, which include Govtool and the CC Portal.\
 \
 To complete support for the key governance processes Intersect is providing a grant to create a Governance Action Outcomes section in Govtool.
+
+The successful applicant, once the project is successfully completed, will have the opportunity to become one of the core maintainers of Govtool with a related contract.
