@@ -1,4 +1,14 @@
-# Draft Constitution
+---
+description: Overview about the draft constitution
+---
+
+# Draft Cardano Constitution
+
+_This is the latest version of the Draft Cardano Constitution_&#x20;
+
+{% file src="../../../../.gitbook/assets/Cardano Draft Constitution.pdf" %}
+
+***
 
 The Chang upgrade marks a significant milestone for Cardano this year, as it puts the community at the forefront of blockchain governance.  Following the Chang upgrade, the Interim Constitution will be on-chain and in effect until the community ratifies another constitution.  The Interim Constitution is intended to be minimal and temporary, allowing for the Chang upgrade to proceed by fulfilling the requirement of CIP-1694 to have a Cardano Constitution.  The Interim Constitution therefore allows time for the community to converge on a more holistic constitution for Cardano.
 
@@ -14,8 +24,3 @@ Starting in August and ending by Oct 15th, the Constitutional Workshops are seri
 2. Select Constitutional Delegates to attend the Constitutional Convention in Buenos Aires in Dec. 2024. Each workshop will select a ranked list of 5 candidates. First place is the Voting Delegate, 2nd place is the Travelling Alternate, 3rd place is the Backup Alternate #1, 4th place is the Backup Alternate #2, and 5th place is the Backup Alternate #3.
 
 Each constitutional workshop is designed to address specific outstanding questions related to the Draft constitution.  Through structured discussions and interactive sessions, attendees will respond to important questions that cannot be resolved without broad community input. These workshops will develop actionable recommendations that will be synthesised across 50+ workshops to guide updates to the Draft Constitution. Constitutional Delegates will be responsible for reviewing the updated draft at the Constitutional Convention to approve to proceed for on-chain voting.
-
-\
-To read the Draft Constitution, please download here:
-
-{% file src="../../../../.gitbook/assets/Cardano Draft V-3 Final Constitution.pdf" %}
