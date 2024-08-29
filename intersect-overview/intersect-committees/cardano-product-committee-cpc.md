@@ -1,11 +1,5 @@
 # Product committee
 
-
-
-{% hint style="info" %}
-Find out more about the Product committee [here](https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-cardano-product-committee).
-{% endhint %}
-
 ## What is the Product committee?
 
 We originally designed a Vision committee for [Intersect](https://docs.intersectmbo.org/) as our 7th committee with the remit to manage visionary scope and roadmap for future development items.&#x20;
@@ -26,5 +20,8 @@ The Product committee will cover topics such as roadmap, focusing on the 'why' a
 
 Any member of Intersect can run for election to become a voting seat, and any member or associate of Intersect can connect to the Product committee via the Intersect discord server.
 
+***
 
+_To find out more details about this committee view the committee space_
 
+{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-cardano-product-committee" %}

@@ -44,8 +44,8 @@ You can an overview of the committee and their respective ways of working [here]
 [budget-committee.md](budget-committee.md)
 {% endcontent-ref %}
 
-{% content-ref url="product-committee.md" %}
-[product-committee.md](product-committee.md)
+{% content-ref url="cardano-product-committee-cpc.md" %}
+[cardano-product-committee-cpc.md](cardano-product-committee-cpc.md)
 {% endcontent-ref %}
 
 

@@ -1,9 +1,5 @@
 # Technical Steering committee (TSC)
 
-{% hint style="info" %}
-Find out more about the TSC [here](https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-technical-steering-committee).
-{% endhint %}
-
 ## What is the Technical Steering Committee?
 
 The Technical Steering Committee ensures that the governance of Cardano is based upon sound technical awareness and best practices.&#x20;
@@ -15,3 +11,9 @@ The committee is a rallying point for key members, suppliers, and third parties 
 ## Which topics does this committee cover?
 
 Takes a leading role in defining and advising on Cardano Continuity development to support the Cardano network, including contracts and agreements with Intersect members. It’s a highly technocratic committee, providing deep technical analysis and advice to ongoing development projects, parameters settings (through the Parameter Committee), and any other network related conditions.
+
+***
+
+_To find out more details about this committee view the committee space_
+
+{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-technical-steering-committee" %}

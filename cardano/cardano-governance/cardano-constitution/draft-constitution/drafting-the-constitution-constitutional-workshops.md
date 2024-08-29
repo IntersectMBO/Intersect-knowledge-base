@@ -1,7 +1,7 @@
 # Drafting the Constitution - Constitutional Workshops
 
 {% hint style="info" %}
-## Information about the constitutional workshops can be found [here](https://app.gitbook.com/s/SzzsBz2DfCbntY0gaYeA/constitution-workshop-list).
+## Information about the constitutional workshops can be found [here](https://app.gitbook.com/s/SzzsBz2DfCbntY0gaYeA/constitutional-workshops/constitutional-workshop-list).
 {% endhint %}
 
 ## The roadmap to creating a lasting Cardano constitution

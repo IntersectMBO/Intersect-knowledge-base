@@ -1,9 +1,5 @@
 # Membership and Community committee (MCC)
 
-{% hint style="info" %}
-Find out More about the MCC [here](https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-membership-and-community-committee-mcc).
-{% endhint %}
-
 ## What is the Membership and Community Committee?
 
 The Membership and Community Committee (MCC) fosters a thriving Cardano community through effective Intersect membership sales, account management, community support, tooling grants, education, and engaging events.
@@ -23,3 +19,9 @@ Send an email to [membership-and-community-committee@intersectmbo.org](mailto:me
 ## Extra info or links
 
 * [MCC ](https://docs.google.com/presentation/d/1gvaSrd7tJ6B5e0JIwaus0Yj6DXDcENT3gJwPCad83NQ/edit?usp=sharing)[Terms of Reference (ToR)](https://docs.google.com/presentation/d/1gvaSrd7tJ6B5e0JIwaus0Yj6DXDcENT3gJwPCad83NQ/edit?usp=sharing)
+
+***
+
+_To find out more details about this committee view the committee space_
+
+{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-membership-and-community-committee-mcc" %}
