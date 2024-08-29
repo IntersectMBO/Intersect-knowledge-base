@@ -106,6 +106,12 @@
 ## Intersect Community Grants
 
 * [Open grants](intersect-community-grants/open-grants/README.md)
+  * [GovTool Governance Action Outcome](intersect-community-grants/open-grants/govtool-governance-action-outcome/README.md)
+    * [Functional Requirements](intersect-community-grants/open-grants/govtool-governance-action-outcome/functional-requirements.md)
+    * [Non Functional Requirements](intersect-community-grants/open-grants/govtool-governance-action-outcome/non-functional-requirements.md)
+    * [Considerations](intersect-community-grants/open-grants/govtool-governance-action-outcome/considerations.md)
+    * [Expected cost range](intersect-community-grants/open-grants/govtool-governance-action-outcome/expected-cost-range.md)
+    * [Application](intersect-community-grants/open-grants/govtool-governance-action-outcome/application.md)
   * [Community hubs](intersect-community-grants/open-grants/community-hubs.md)
   * [Constitutional workshops](intersect-community-grants/open-grants/constitutional-workshops/README.md)
     * [Apply to become a constitutional workshop host](intersect-community-grants/open-grants/constitutional-workshops/apply-to-become-a-constitutional-workshop-host.md)

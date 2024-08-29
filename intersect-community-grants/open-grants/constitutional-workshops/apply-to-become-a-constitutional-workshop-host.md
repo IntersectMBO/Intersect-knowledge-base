@@ -8,5 +8,5 @@ Only Intersect members will be eligible to receive funding, but all hosts (irres
 
 We want the scale of the global consultation effort to match the scale of the ambition - and one of Intersect’s core pillars - for Cardano’s governance to become fully community led. To achieve this, we are re-opening up applications for countries unrepresented in the current confirmed list of workshops. Our aim is to have 50+ workshops in 50 unique countries. For more information, please see [here.](https://www.intersectmbo.org/news/making-cardanos-constitution-even-more-global)
 
-* **Re-opened date:** 26th July, apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdwRLrYmiQxm9btWivScfDo52fbkt1z\_Wi4xtZFAPNoGWWdYw/viewform).
+* ~~**Re-opened date:** 26th July, apply~~ [~~here~~](https://docs.google.com/forms/d/e/1FAIpQLSdwRLrYmiQxm9btWivScfDo52fbkt1z\_Wi4xtZFAPNoGWWdYw/viewform)~~.~~ **Closed (23rd Aug 24).**
 * **Close date:** Rolling until 50 countries have been reached
