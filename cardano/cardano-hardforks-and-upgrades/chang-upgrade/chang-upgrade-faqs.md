@@ -1,4 +1,4 @@
-# Chang upgrade FAQs
+# Chang upgrade - FAQs
 
 {% hint style="info" %}
 This FAQ will be updated following the latest hard fork working group meetings and Q\&A sessions.
@@ -7,6 +7,26 @@ This FAQ will be updated following the latest hard fork working group meetings a
 The hard fork working group has collated key questions and formed the following frequently asked questions (FAQ) for the benefit of the community.
 
 Currently, we're hosting weekly Q\&A sessions. If you're interested in joining, please join us on [Discord](https://discord.gg/wQU2dPjK3Z).
+
+***
+
+## **Questions for ada holders**
+
+<details>
+
+<summary><strong>Will there be token migration required due to the hard fork?</strong></summary>
+
+No, there will be no token migration required as part of the Chang hard fork. The fork is a protocol update that will be implemented automatically across the network. All ADA tokens will remain fully accessible and functional before, during, and after the hard fork without any need for token migration. However, you should ensure that your wallet and any tools you are using are up-to-date with the latest version to support any new features or improvements introduced by the fork.
+
+</details>
+
+<details>
+
+<summary><strong>What should token holders on-chain and those with staked tokens do?</strong></summary>
+
+For token holders, whether on-chain or staked, there is no specific action required on your part. Your tokens will remain safe and fully functional. However, you should ensure that your wallet and any tools you are using are up-to-date with the latest version to support any new features or improvements introduced by the fork.
+
+</details>
 
 ***
 
@@ -83,7 +103,7 @@ Preparations for the Chang hard fork include the creation of a detailed Genesis 
 
 <details>
 
-<summary>What is the purpose of the hard fork working group?</summary>
+<summary><strong>What is the purpose of the hard fork working group?</strong></summary>
 
 The main purpose is to facilitate the sharing of information and support consensus planning among the community and delivery teams contributing to Chang. It aims to ensure all parties are aligned and informed about updates and decisions.
 
@@ -91,7 +111,7 @@ The main purpose is to facilitate the sharing of information and support consens
 
 <details>
 
-<summary>How often does the hard fork working group meet?</summary>
+<summary><strong>How often does the hard fork working group meet?</strong></summary>
 
 The group meets weekly in the lead-up to a hard fork.
 
@@ -99,9 +119,9 @@ The group meets weekly in the lead-up to a hard fork.
 
 <details>
 
-<summary>How can the community get involved in the hard fork working group?</summary>
+<summary><strong>How can the community get involved in the hard fork working group?</strong></summary>
 
-Community members can request to be part of the group. Details on how to join can be found on the working group page. Additionally, staying informed through updates and sharing information helps everyone stay aware of the roadmap and progress.
+Community members can request to be part of the group. Details on how to join can be found on the [working group page](https://intersect.gitbook.io/intersect-committees-groups/groups-overview/working-groups/hard-fork-working-group). Additionally, staying informed through updates and sharing information helps everyone stay aware of the roadmap and progress.
 
 </details>
 
@@ -139,7 +159,7 @@ Community testing is conducted on [SanchoNet ](https://sancho.network/get-starte
 
 <details>
 
-<summary>What is the role of stake pool operators upgrading to the latest node for the Chang hard fork?</summary>
+<summary><strong>What is the role of stake pool operators upgrading to the latest node for the Chang hard fork?</strong></summary>
 
 Stake Pool Operators play an important (the most important!) part in any hard fork. The community requires them to upgrade prior to a hard fork combinator event. The latest status of SPOs' readiness can be found on our [Ecosystem Readiness page](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness).
 
@@ -147,7 +167,7 @@ Stake Pool Operators play an important (the most important!) part in any hard fo
 
 <details>
 
-<summary>What happens to Preview, Pre-Production, and Sanchonet following the hard fork?</summary>
+<summary><strong>What happens to Preview, Pre-Production, and Sanchonet following the hard fork?</strong></summary>
 
 * **Sanchonet:** Will continue running for governance testing to ensure thorough testing and transition to new governance mechanisms.
 * **Preview:** Will fork shortly after the 9.1.0 release and remain in Chang in governance bootstrapping for the coming months.
@@ -157,7 +177,7 @@ Stake Pool Operators play an important (the most important!) part in any hard fo
 
 <details>
 
-<summary>What are the new parameters/changes for the hard fork?</summary>
+<summary><strong>What are the new parameters/changes for the hard fork?</strong></summary>
 
 New parameters include governance-related changes such as thresholds and committee sizes, and technical changes like the min ref script cost per byte and the Pluto V3 cost model. For detailed information, please refer to the [CIP-1694 documentation](https://www.1694.io/en).
 
@@ -193,7 +213,7 @@ In addition to the Chang Hard Fork, Cardano’s roadmap for 2024 includes signif
 
 <details>
 
-<summary>How can I stay updated on the hard fork roadmap?</summary>
+<summary><strong>How can I stay updated on the hard fork roadmap?</strong></summary>
 
 For the latest updates and detailed information, visit the [Timeline and Dependencies page](https://docs.intersectmbo.org/cardano/cardano-upgrades/hard-forks/chang-timeline-and-dependencies).
 
@@ -237,7 +257,7 @@ Community governance is a central aspect of Cardano’s upgrade [roadmap](https:
 
 <details>
 
-<summary>Where can I find more information on related topics?</summary>
+<summary><strong>Where can I find more information on related topics?</strong></summary>
 
 **Useful resources:**
 
