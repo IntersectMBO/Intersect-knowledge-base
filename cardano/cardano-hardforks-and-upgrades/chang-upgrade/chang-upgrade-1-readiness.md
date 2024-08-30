@@ -17,11 +17,13 @@ To report any Chang issues:
 * `Message: wg-hard-fork` channel via the Intersect discord ([join](https://members.intersectmbo.org/registration) to receive an invite)
 {% endhint %}
 
-## 👉 Key Update
+## 👉 Key Updates
 
-* By **Stake**, we have now reached <mark style="color:green;">**92%**</mark> of **SPOs** on 9.1.0 - the desired hard fork threshold for SPOs has been reached :tada:
-* By **Liquidity,** we have now over <mark style="color:green;">**92%**</mark> of Exchanges on 9.1.0 - the desired hard fork threshold for exchanges has been reached :tada:
-* By TVL,  DApps are over **65%** ready, with steady progress and testing on PreProd from August 24
+* The hardfork working group met on 2024-08-28 to discuss the Go / No Decision, the group unanimously agreed to proceed with the hardfork mainnet on 1st September.
+  * The hardfork action was subsequently signed by the genesis keys and submitted to chain: [see transaction via cardanoscan](https://cardanoscan.io/transaction/9ba6a580bceb8f94e65a683e8291c89382835f46e3cf928eb521f5581ade4820?tab=protocolupdates).
+* By **Stake**, over <mark style="color:green;">**92%**</mark> of **SPOs** on 9.1.0 - the desired hard fork threshold for SPOs has been reached :tada:
+* By **Liquidity,** over <mark style="color:green;">**92%**</mark> of Exchanges on 9.1.0 - the desired hard fork threshold for exchanges has been reached :tada:
+* DApp and projects by number are over **65%** ready, with steady progress and testing on PreProd from August 24.
 * **The time to upgrade is now!** If there is a specific reason or dependency that means your upgrade cannot be achieved, the community and ecosystem need to know from you. Please reach out to us at `@Intersectmbo` or [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) as soon as possible. The hard fork working group will review feedback daily
 * The Ledger (hardware wallet) team just released Cardano App `1.7.3` which fixes the issues with the Ledger Nano S device. This means that now ALL hardware wallets devices are Chang ready! (see [announcement](https://x.com/ATADA\_Stakepool/status/1828788278373548248)).
 
