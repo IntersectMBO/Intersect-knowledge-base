@@ -6,20 +6,30 @@ description: >-
 
 # Chang upgrade #1 - Readiness
 
-{% hint style="info" %}
-This page is updated frequently and is open to community feedback to ensure the correctness of reporting.&#x20;
+{% hint style="warning" %}
+The Chang #1 hardfork will take place on Cardano mainnet at
 
-Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spot any fixes.
+* `2024-09-01 21:44:51 UTC`
+
+To report any Chang issues:
+
+* Email: [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org)
+* `Message: wg-hard-fork` channel via the Intersect discord ([join](https://members.intersectmbo.org/registration) to receive an invite)
 {% endhint %}
 
 ## 👉 Key Update
 
 * By **Stake**, we have now reached <mark style="color:green;">**92%**</mark> of **SPOs** on 9.1.0 - the desired hard fork threshold for SPOs has been reached :tada:
 * By **Liquidity,** we have now over <mark style="color:green;">**92%**</mark> of Exchanges on 9.1.0 - the desired hard fork threshold for exchanges has been reached :tada:
-* By TVL,  DApps are over **50%** ready, with steady progress and testing on PreProd from August 24
-* The hard fork date is set for **September 1, 2024** :tada::tada:
-* **The time to upgrade is now!** If there is a specific reason or dependency that means your upgrade cannot be achieved, the community and ecosystem need to know from you. Please reach out to us at @Intersectmbo or hard-fork@intersectmbo.org as soon as possible. The hard fork working group will review feedback daily
-* The Ledger team just released Cardano App `1.7.3` which fixes the issues with the Ledger Nano S device. This means that now ALL hardware wallets devices are Chang ready! (see [announcement](https://x.com/ATADA\_Stakepool/status/1828788278373548248))
+* By TVL,  DApps are over **65%** ready, with steady progress and testing on PreProd from August 24
+* **The time to upgrade is now!** If there is a specific reason or dependency that means your upgrade cannot be achieved, the community and ecosystem need to know from you. Please reach out to us at `@Intersectmbo` or [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) as soon as possible. The hard fork working group will review feedback daily
+* The Ledger (hardware wallet) team just released Cardano App `1.7.3` which fixes the issues with the Ledger Nano S device. This means that now ALL hardware wallets devices are Chang ready! (see [announcement](https://x.com/ATADA\_Stakepool/status/1828788278373548248)).
+
+{% hint style="info" %}
+This page is updated frequently and is open to community feedback to ensure the correctness of reporting.&#x20;
+
+Email [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org) if you spot any fixes.
+{% endhint %}
 
 ***
 
@@ -174,14 +184,14 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% hint style="info" %}
 Section maintained by the Wallets Working Group
 
-Last updated; 2024-08-27
+Last updated; 2024-08-30
 {% endhint %}
 
 ***
 
 ### DApp Project Readiness
 
-DApp readiness is tracked against self reported readiness, dApp developers do need to prepare as Conway will change costing around the use of reference scripts.
+DApp and project readiness is tracked against self reported readiness, dApp developers do need to prepare as Conway will change costing around the use of reference scripts.
 
 _Please see_ [_Ref Script Cost Calculator_](https://docs.google.com/spreadsheets/d/1KFJCCbkDE5GaghlD4rDXB12pqLKnDFUNOKi0WErp\_-Q/edit?gid=0#gid=0) _from IOG Core Team._
 
@@ -189,14 +199,14 @@ _Please see_ [_Ref Script Cost Calculator_](https://docs.google.com/spreadsheets
 High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% endhint %}
 
-<table><thead><tr><th width="256">Project</th><th width="263">Status</th><th>TVL</th></tr></thead><tbody><tr><td>Minswap</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://x.com/longminswap/status/1825919688423133549">X post</a>)</td><td>$50.83m</td></tr><tr><td>Sundae Labs</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$14.99m</td></tr><tr><td>Djed</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$12.16m</td></tr><tr><td>Lenfi</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$11.39m</td></tr><tr><td>Wingriders</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://x.com/wingriderscom/status/1824124808386265386">X post</a>)</td><td>$9.85m</td></tr><tr><td>Levvy Finance</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$2.6m</td></tr><tr><td>Danogo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$1.67m</td></tr><tr><td>Saturn Swap</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$318,697</td></tr><tr><td>CherryLend</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$178,076</td></tr><tr><td>Charli3</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>NEWM</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>Orcfax</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>Indigo</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$36.45m</td></tr><tr><td>Liqwid (finance)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$21.96m</td></tr><tr><td>VyFinance</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$6.13m</td></tr><tr><td>Optim</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$6.07m</td></tr><tr><td>Fluid Tokens</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$1.04m</td></tr><tr><td>Axo</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td></td></tr><tr><td>MuesliSwap</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td></td></tr><tr><td>Spectrum</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td></td></tr><tr><td>Splash</td><td>TBC</td><td>$19.19m</td></tr><tr><td>MuseliSwap</td><td>TBC</td><td>$7.84m</td></tr><tr><td>Astarter</td><td><strong>TBC</strong></td><td>$1.32m</td></tr><tr><td>TeddySwap</td><td><strong>TBC</strong></td><td>$140,649</td></tr><tr><td>Cerra</td><td><strong>TBC</strong></td><td>$112,319</td></tr><tr><td>21.co</td><td><strong>TBC</strong></td><td>$108,314</td></tr><tr><td>Aada Finance</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Book.io</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Clarity</td><td><strong>TBC</strong></td><td></td></tr><tr><td>DexHunter</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Encoins</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Genius Yield</td><td><strong>TBC</strong></td><td></td></tr><tr><td>JPG.Store</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Iagon</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Lending Pond</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Moneta</td><td><strong>TBC</strong></td><td></td></tr><tr><td>MyUSD</td><td><strong>TBC</strong></td><td></td></tr><tr><td>NMKR</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Revuto</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Rosenbridge</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Summon</td><td><strong>TBC</strong></td><td></td></tr><tr><td>USDM</td><td><strong>TBC</strong></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="256">Project</th><th width="263">Status</th><th>TVL via Defi Lama</th></tr></thead><tbody><tr><td>Minswap</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://x.com/longminswap/status/1825919688423133549">X post</a>)</td><td>$50.83m</td></tr><tr><td>Sundae Labs</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$14.99m</td></tr><tr><td>Djed</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$12.16m</td></tr><tr><td>Lenfi</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$11.39m</td></tr><tr><td>Wingriders</td><td><mark style="color:green;"><strong>Ready</strong></mark> (<a href="https://x.com/wingriderscom/status/1824124808386265386">X post</a>)</td><td>$9.85m</td></tr><tr><td>MuseliSwap</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$7.84m</td></tr><tr><td>Levvy Finance</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$2.6m</td></tr><tr><td>Danogo</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$1.67m</td></tr><tr><td>Saturn Swap</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$318,697</td></tr><tr><td>CherryLend</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>$178,076</td></tr><tr><td>Charli3</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>NEWM</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>Orcfax</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>Genius Yield</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>Iagon</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>NMKR</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td>N/A</td></tr><tr><td>Summon</td><td><mark style="color:green;"><strong>Ready</strong></mark></td><td></td></tr><tr><td>Indigo</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$36.45m</td></tr><tr><td>Liqwid (finance)</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$21.96m</td></tr><tr><td>VyFinance</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$6.13m</td></tr><tr><td>Optim</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$6.07m</td></tr><tr><td>Fluid Tokens</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td>$1.04m</td></tr><tr><td>Axo</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td></td></tr><tr><td>Spectrum</td><td><mark style="color:orange;"><strong>In Progress</strong></mark></td><td></td></tr><tr><td>Splash</td><td>TBC</td><td>$19.19m</td></tr><tr><td>Astarter</td><td><strong>TBC</strong></td><td>$1.32m</td></tr><tr><td>TeddySwap</td><td><strong>TBC</strong></td><td>$140,649</td></tr><tr><td>Cerra</td><td><strong>TBC</strong></td><td>$112,319</td></tr><tr><td>21.co</td><td><strong>TBC</strong></td><td>$108,314</td></tr><tr><td>Aada Finance</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Book.io</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Clarity</td><td><strong>TBC</strong></td><td></td></tr><tr><td>DexHunter</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Encoins</td><td><strong>TBC</strong></td><td></td></tr><tr><td>JPG.Store</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Lending Pond</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Moneta</td><td><strong>TBC</strong></td><td></td></tr><tr><td>MyUSD</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Revuto</td><td><strong>TBC</strong></td><td></td></tr><tr><td>Rosenbridge</td><td><strong>TBC</strong></td><td></td></tr><tr><td>USDM</td><td><strong>TBC</strong></td><td></td></tr></tbody></table>
 
 TVL Numbers supplied via [Defi Lama](https://defillama.com/chain/Cardano).
 
 {% hint style="info" %}
 Section maintained by Anatasia Labs
 
-Last updated; 2024-08-22
+Last updated; 2024-08-30
 {% endhint %}
 
 ### Supporting Governance Initiatives - Readiness
@@ -216,7 +226,7 @@ High-level status: <mark style="color:orange;">**In Progress**</mark>
 {% hint style="info" %}
 Section maintained by the Governance Tools Working Group
 
-Last Updated; 2024-08-20
+Last Updated; 2024-08-30
 {% endhint %}
 
 #### Interim Constitutional Committee Readiness
@@ -246,8 +256,6 @@ High-level status: <mark style="color:green;">**Ready**</mark>
 
 {% hint style="info" %}
 Section maintained by Intersect DRep Pioneer Program lead
-
-Last Updated; 2024-08-16
 {% endhint %}
 
 ***
