@@ -8,6 +8,8 @@ _This is the latest version of the Draft Cardano Constitution_&#x20;
 
 {% file src="../../../../.gitbook/assets/Cardano Draft Constitution.pdf" %}
 
+To view the draft constitution in Spanish, please see [here.](https://docs.google.com/document/d/1BNYkJ1DuVp9SPPfp3CX8mzdZrUV-DvTClH0Cbduqpns/edit?usp=sharing)
+
 ***
 
 The Chang upgrade marks a significant milestone for Cardano this year, as it puts the community at the forefront of blockchain governance.  Following the Chang upgrade, the Interim Constitution will be on-chain and in effect until the community ratifies another constitution.  The Interim Constitution is intended to be minimal and temporary, allowing for the Chang upgrade to proceed by fulfilling the requirement of CIP-1694 to have a Cardano Constitution.  The Interim Constitution therefore allows time for the community to converge on a more holistic constitution for Cardano.
