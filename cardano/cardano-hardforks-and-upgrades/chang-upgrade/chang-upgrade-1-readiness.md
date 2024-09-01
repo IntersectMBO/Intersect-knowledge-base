@@ -13,8 +13,8 @@ The Chang #1 hardfork will take place on Cardano mainnet at
 
 To report any Chang issues:
 
+* `Message: chang-hf-issues` channel via the Intersect discord ([join](https://members.intersectmbo.org/registration) to receive an invite)
 * Email: [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org)
-* `Message: wg-hard-fork` channel via the Intersect discord ([join](https://members.intersectmbo.org/registration) to receive an invite)
 {% endhint %}
 
 ## 👉 Key Updates
