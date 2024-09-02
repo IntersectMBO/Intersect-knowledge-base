@@ -6,14 +6,28 @@ description: >-
 
 # Chang upgrade #1 - Readiness
 
+{% hint style="danger" %}
+**Notice for node users**
+
+The hard fork working group has identified an issue with ledger state snapshots - requiring a hotfix to prevent longer syncs when nodes restart. A hotfix is already underway and will be available in the coming hours!
+
+* Nodes restarted within 14 hours after the Chang hard fork (approx. 12:00 UTC Sept 2nd, 2024) should be unimpacted.
+* Nodes restarted after that time will require a replay from genesis.
+* A hotfix (node version 9.1.1) is in preparation and due to be released in the coming hours.
+
+For technical support jump into our dedicated hard fork Discord channel
+
+* [`chang-hf-issues`](https://discord.com/channels/1136727663583698984/1279758934684471387)
+
+The hotfix will be released via our github
+
+* [https://github.com/IntersectMBO/cardano-node/releases](https://github.com/IntersectMBO/cardano-node/releases)
+{% endhint %}
+
 {% hint style="warning" %}
-The Chang #1 hardfork will take place on Cardano mainnet at
-
-* `2024-09-01 21:44:51 UTC`
-
 To report any Chang issues:
 
-* `Message: chang-hf-issues` channel via the Intersect discord ([join](https://members.intersectmbo.org/registration) to receive an invite)
+* Message:`chang-hf-issues` channel via the Intersect discord ([join](https://members.intersectmbo.org/registration) to receive an invite)
 * Email: [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org)
 {% endhint %}
 
