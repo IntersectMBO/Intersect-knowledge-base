@@ -11,9 +11,14 @@ description: >-
 
 The hard fork working group has identified an issue with ledger state snapshots - requiring a hotfix to prevent longer syncs when nodes restart. A hotfix is already underway and will be available in the coming hours!
 
-* Nodes restarted within 14 hours after the Chang hard fork (approx. 12:00 UTC Sept 2nd, 2024) should be unimpacted.
-* Nodes restarted after that time will require a replay from genesis.
-* A hotfix (node version 9.1.1) is in preparation and due to be released in the coming hours.
+* If you restart your node with node version 9.0.0 or node version 9.1.0 following the Chang hard fork, you must replay the chain from the genesis block each time it restarts. This can take around 90 minutes.
+* The hotfix (node version 9.1.1) will prevent nodes from replaying from Genesis and instead replay as normal. If an upgrade is made from an earlier version than node 9.0.0, then one replay from Genesis will be required, but the node will behave normally.
+
+**Action**
+
+* It is recommended that you avoid restarting your node until this hotfix is applied (including automated restarts). Tool providers may stagger node restarts until they have upgraded to maintain adequate service.
+* Node v.9.1.1 is available at: [https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.1](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.1)&#x20;
+* Details of the hotfix and other possible mitigations can be found in the following document: [https://bit.ly/MCLSD](https://bit.ly/MCLSD)
 
 For technical support jump into our dedicated hard fork Discord channel
 
