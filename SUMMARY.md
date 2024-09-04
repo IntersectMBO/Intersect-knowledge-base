@@ -13,7 +13,7 @@
   * [Managing delivery partners](intersect-overview/working-on-cardano/managing-delivery-partners/README.md)
     * [Change Management Process Overview](intersect-overview/working-on-cardano/managing-delivery-partners/change-management-process-overview.md)
 * [Intersect committees](intersect-overview/intersect-committees/README.md)
-  * [Committee elections - 2024](intersect-overview/intersect-committees/committee-elections-2024.md)
+  * [Intersect elections - 2024](intersect-overview/intersect-committees/intersect-elections-2024.md)
   * [Civics committee](intersect-overview/intersect-committees/civics-committee.md)
   * [Membership and Community committee (MCC)](intersect-overview/intersect-committees/membership-and-community-committee-mcc.md)
   * [Technical Steering committee (TSC)](intersect-overview/intersect-committees/technical-steering-committee-tsc.md)
