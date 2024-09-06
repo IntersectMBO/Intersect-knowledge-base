@@ -1,42 +1,22 @@
 ---
 description: >-
-  Be part of the community taking an active role in the next generation of
-  Cardano—and make positive change a reality.
+  Be part of the community, take an active role in the next generation of
+  Cardano, and make positive change a reality.
 ---
 
 # Intersect membership
 
-## Join as a Founding Member
+Intersect is your opportunity to be part of a community driving the next generation of Cardano. As a member, you'll play a vital role in influencing governance, supporting key projects, and strengthening the ecosystem. Whether through participating in committees, voting on critical decisions, or gaining exclusive access to grants and networking opportunities, Intersect membership offers numerous ways to make a meaningful impact. Join us today and be part of a community committed to positive change and innovation in the blockchain space.
 
-As Intersect launches, join as a Founding Member today to:
+#### Exclusive benefits for members:
 
-#### Shape the future
+* **Committees, groups, and boards:** Participate in forming Cardano governance recommendations.
+* **Voting rights:** Influence critical decisions by participating in board elections and governance committees.
+* **Access to funding:** Apply for community grants and funding to drive forward utility projects and ecosystem growth.
+* **Networking opportunities:** Engage with other members at exclusive events and gain early insights on upcoming projects.
+* **Increased visibility:** Showcase your contributions and gain recognition within the ecosystem.
 
-Guide the strategic direction of Cardano by participating in steering groups, committees, and advisory boards. As a Founding Member, establish new committees and shape the future of Cardano’s governance.&#x20;
 
-#### Develop and build
-
-Access grants and work packages to continue to develop Cardano’s codebase and build the next generation of the blockchain. Help guide a comprehensive grant program with fellow members to support and enhance the protocol and ecosystem.
-
-#### Strengthen your network
-
-Collaborate with a diverse network of like-minded professionals dedicated to ushering in a brighter Cardano future. Work with other members to strengthen connections, foster new partnerships, and work together.
-
-#### Elevate your profile
-
-Showcase your contributions and successes in the Cardano ecosystem through member events, Cardano developer conferences, marketing, website presence, periodic reports highlights and much more.
-
-## Monthly Town Halls & an Annual Member Meeting
-
-Intersect hosts monthly Town Halls where progress and committee updates are shared, and other news relating to events, community, and funding opportunities are presented. Check our [Discord](https://discord.gg/GuwcQzc9Hm) for more information.
-
-In addition, Intersect members will be invited to attend and participate in an annual member meeting in the second half of 2024. The annual meeting will focus on Intersect’s activity and affairs, including voting on motions if applicable. Members will be able to participate both digitally and in person depending on the confirmed location. Details will be communicated to all members in the Spring of 2024.&#x20;
-
-## Intersect Membership Governance amendments
-
-An Intersect Membership Governance amendment must include clear documentation highlighting the proposed changes.
-
-An Intersect Membership Governance amendment may be executed by a Simple majority Board Decision.
 
 
 

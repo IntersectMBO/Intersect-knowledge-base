@@ -8,7 +8,7 @@
   * [Intersect governance](intersect-overview/intersects-structure/intersect-governance.md)
   * [Intersect funding](intersect-overview/intersects-structure/intersect-funding.md)
 * [Intersect membership](intersect-overview/intersect-membership/README.md)
-  * [Annual Member Meetings (AMM)](intersect-overview/intersect-membership/annual-member-meetings-amm/README.md)
+  * [Annual member meetings (AMM)](intersect-overview/intersect-membership/annual-member-meetings-amm/README.md)
     * [Intersect elections - 2024](intersect-overview/intersect-membership/annual-member-meetings-amm/intersect-elections-2024.md)
   * [Membership tiers and benefits](intersect-overview/intersect-membership/membership-tiers-and-benefits.md)
 * [Working on Cardano](intersect-overview/working-on-cardano/README.md)
