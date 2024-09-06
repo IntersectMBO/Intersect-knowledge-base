@@ -28,12 +28,12 @@ You can an overview of the committee and their respective ways of working [here]
 [membership-and-community-committee-mcc.md](membership-and-community-committee-mcc.md)
 {% endcontent-ref %}
 
-{% content-ref url="technical-steering-committee-tsc.md" %}
-[technical-steering-committee-tsc.md](technical-steering-committee-tsc.md)
+{% content-ref url="technical-steering-committee-tsc/" %}
+[technical-steering-committee-tsc](technical-steering-committee-tsc/)
 {% endcontent-ref %}
 
-{% content-ref url="parameter-committee-pc.md" %}
-[parameter-committee-pc.md](parameter-committee-pc.md)
+{% content-ref url="technical-steering-committee-tsc/parameter-committee-pc.md" %}
+[parameter-committee-pc.md](technical-steering-committee-tsc/parameter-committee-pc.md)
 {% endcontent-ref %}
 
 {% content-ref url="open-source-committee-osc.md" %}

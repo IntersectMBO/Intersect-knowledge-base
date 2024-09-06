@@ -37,7 +37,7 @@ Together, these and other updates from the continuity suppliers ensure the new n
 
 <figure><img src="https://lh7-us.googleusercontent.com/yzoSoimOX6N_e7-V3EJN7Zxp8-hj6FyqPPv_cdgdsx6_RVd8IZW9QdTzmvgTF1B1rG-l-xACP1IcUdn8og1Joe9Fxq69vGnoALCR2VHLyZ5X4veHF8E8VLpkFsCAkBSRJ5u_qtdAYOVoTAI=s2048" alt=""><figcaption><p>Release 2</p></figcaption></figure>
 
-Intersect coordinates major releases, such as a hard fork, through its community led [Technical Steering Committee](../../intersect-overview/intersect-committees/technical-steering-committee-tsc.md) and associated working groups. &#x20;
+Intersect coordinates major releases, such as a hard fork, through its community led [Technical Steering Committee](../../intersect-overview/intersect-committees/technical-steering-committee-tsc/) and associated working groups. &#x20;
 
 **Technical Steering Committee** - ensures that governance of Cardano is based upon sound technical awareness and best practices. The committee is a rally point for key members, suppliers and third parties to coordinate delivery of development services to support the Cardano blockchain.
 
