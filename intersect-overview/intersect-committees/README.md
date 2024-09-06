@@ -1,11 +1,11 @@
 # Intersect committees
 
 {% hint style="info" %}
-Find all detailed committee spaces [here](https://intersect.gitbook.io/intersect-committee-spaces)
+👉🏻 Info about **committee elections** can be found [here](../intersect-membership/annual-member-meetings-amm/intersect-elections-2024.md) 👈
 {% endhint %}
 
 {% hint style="info" %}
-Info about committee elections can be found [here](../intersect-membership/annual-member-meetings-amm/intersect-elections-2024.md)
+Find all detailed committee spaces [here](https://intersect.gitbook.io/intersect-committee-spaces)
 {% endhint %}
 
 Intersect is designed to be steered by its members so the future of Cardano is community-led. The membership body provides this steering via standing committees. Standing committees are designed to be community-led, with community members taking an active role influencing the future of Cardano.
