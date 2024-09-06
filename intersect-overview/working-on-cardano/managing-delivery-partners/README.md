@@ -8,7 +8,7 @@ description: >-
 
 ## How do we manage contracts?
 
-Intersect facilitates and administrates the management and oversight of all supplier contracts on behalf of [DevTrust](../../intersects-structure/funding.md). This captures an extensive role in the facilitation, execution, and ongoing administration of contractual agreements between DevTrust and its suppliers. Intersect will actively engage in the negotiation process, ensuring that contractual terms align with DevTrust's objectives.&#x20;
+Intersect facilitates and administrates the management and oversight of all supplier contracts on behalf of [DevTrust](../../intersects-structure/intersect-funding.md). This captures an extensive role in the facilitation, execution, and ongoing administration of contractual agreements between DevTrust and its suppliers. Intersect will actively engage in the negotiation process, ensuring that contractual terms align with DevTrust's objectives.&#x20;
 
 Furthermore, Intersect will monitor the compliance and performance of suppliers, implementing necessary measures to uphold contractual obligations, optimize operational efficiency, and provide community transparency.
 

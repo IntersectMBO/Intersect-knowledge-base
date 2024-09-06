@@ -4,6 +4,10 @@
 Find all detailed committee spaces [here](https://intersect.gitbook.io/intersect-committee-spaces)
 {% endhint %}
 
+{% hint style="info" %}
+Info about committee elections can be found [here](../intersect-membership/annual-member-meetings-amm/intersect-elections-2024.md)
+{% endhint %}
+
 Intersect is designed to be steered by its members so the future of Cardano is community-led. The membership body provides this steering via standing committees. Standing committees are designed to be community-led, with community members taking an active role influencing the future of Cardano.
 
 Intersect will initiate seven standing committees in 2024, covering the functional operations required to steer the delivery of "[continuity](https://www.intersectmbo.org/news/cardano-continuity)", provide steering direction to the drafting of Cardano's constitution,  support the internal membership, and more.  A standing committee is expected to be a permanent fixture, although, changes may be required as the committees mature and the objectives evolve. The [governing board](../intersects-structure/intersect-governance.md) will review proposed changes and support the membership. &#x20;
