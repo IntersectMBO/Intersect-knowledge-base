@@ -12,12 +12,19 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 ## - 2024 -
 
+<details>
 
+<summary>September</summary>
+
+* [Development Update #30 - September 6th 2024](https://mpc.intersectmbo.org/intersect-development-update-30-september-6)
+
+</details>
 
 <details>
 
 <summary>August</summary>
 
+* [Development Update #29 - August 30th 2024](https://mpc.intersectmbo.org/intersect-development-update-29-august-30)
 * [Development Update #28 - August 23rd 2024](https://mpc.intersectmbo.org/intersect-development-update-28-august-23rd)
 * [Development Update #27 - August 16th 2024](https://mpc.intersectmbo.org/intersect-development-update-27-august-16th)
 * [Development Update #26 - August 9th 2024](https://mpc.intersectmbo.org/intersect-development-update-26-august-9th)
