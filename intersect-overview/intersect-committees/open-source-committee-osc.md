@@ -29,4 +29,4 @@ The committee acts as a rallying point for members to get advice on building in 
 
 _To find out more details about this committee view the committee space_
 
-{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-open-source-committee" %}
+{% embed url="https://committees.docs.intersectmbo.org/v/intersect-open-source-committee" %}

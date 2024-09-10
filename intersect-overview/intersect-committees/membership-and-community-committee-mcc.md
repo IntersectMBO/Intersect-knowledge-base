@@ -24,4 +24,5 @@ Send an email to [membership-and-community-committee@intersectmbo.org](mailto:me
 
 _To find out more details about this committee view the committee space_
 
-{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-membership-and-community-committee-mcc" %}
+{% embed url="https://committees.docs.intersectmbo.org/v/intersect-membership-and-community-committee-mcc" %}
+

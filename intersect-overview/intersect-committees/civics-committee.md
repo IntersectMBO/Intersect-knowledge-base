@@ -26,4 +26,6 @@ The Cardano Civics Committee will participate in Intersect committee elections t
 
 _To find out more details about this committee view the committee space_
 
-{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-civics-committee" %}
+
+
+{% embed url="https://committees.docs.intersectmbo.org/v/intersect-civics-committee" %}

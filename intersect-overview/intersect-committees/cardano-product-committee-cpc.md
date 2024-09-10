@@ -24,4 +24,4 @@ Any member of Intersect can run for election to become a voting seat, and any me
 
 _To find out more details about this committee view the committee space_
 
-{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-cardano-product-committee" %}
+{% embed url="https://committees.docs.intersectmbo.org/v/intersect-product-committee" %}

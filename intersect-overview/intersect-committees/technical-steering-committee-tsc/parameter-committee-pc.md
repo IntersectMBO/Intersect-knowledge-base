@@ -32,4 +32,4 @@ The committee meets every three weeks to discuss all Cardano protocol parameters
 
 _To find out more details about this committee view the committee space_
 
-{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-parameter-committee" %}
+{% embed url="https://committees.docs.intersectmbo.org/v/intersect-parameter-committee-1" %}

@@ -27,4 +27,4 @@ Interested parties can join the Intersect discord and utilize the [#budget-commi
 
 _To find out more details about this committee view the committee space_
 
-{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-budget-committee" %}
+{% embed url="https://committees.docs.intersectmbo.org/v/intersect-budget-committee" %}

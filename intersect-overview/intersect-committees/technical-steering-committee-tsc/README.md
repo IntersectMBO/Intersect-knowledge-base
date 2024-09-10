@@ -16,4 +16,4 @@ Takes a leading role in defining and advising on Cardano Continuity development 
 
 _To find out more details about this committee view the committee space_
 
-{% embed url="https://intersect.gitbook.io/intersect-committee-spaces/v/intersect-technical-steering-committee" %}
+{% embed url="https://committees.docs.intersectmbo.org/v/intersect-technical-steering-committee" %}
