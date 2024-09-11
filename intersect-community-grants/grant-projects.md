@@ -46,6 +46,10 @@ The need for inclusion and accessibility cuts across all processes, tools, commu
 
 ***
 
+## Cohort 3- Inclusion & Accessibility (Phase 2)
+
+<table><thead><tr><th width="178">Grantee Name</th><th width="127">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-3/inclusion-and-accessibility/poeditor">Programmer Assist doo</a></td><td>Complete</td><td>Integrate a robust Translation Management System (TMS) to help the community contributors with translating the default English (en-UK) version into various languages. Configured to support translations for Govtool and the Constitutional Committee Portal.</td></tr><tr><td><a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/interim-cardano-constitution/translated-interim-constitution">See here</a></td><td>4/6 complete</td><td>Translated Interim Constitutions to benefit our global Community</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
 ## Cohort 4 - **Membership NFT platform**
 
 Intersect aims to establish a seamless, user-friendly membership portal on the Intersect MBO website, incorporating wallet connections, payment options, and NFT issuance for membership verification.
