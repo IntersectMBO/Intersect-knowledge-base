@@ -1,7 +1,7 @@
 # Intersect committees
 
 {% hint style="info" %}
-👉🏻 Info about **committee elections** can be found [here](../intersect-membership/annual-member-meetings-amm/intersect-elections-2024.md) 👈
+👉🏻 Info about **committee elections** can be found [here](../../annual-member-meetings/2024-annual-member-meetings/intersect-elections-2024.md) 👈
 {% endhint %}
 
 {% hint style="info" %}
