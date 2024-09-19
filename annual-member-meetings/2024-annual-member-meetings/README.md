@@ -14,9 +14,13 @@ In addition to the in-person member summits, we’ll be hosting a special town h
 
 ## Locations
 
+[Intersect Luma Calendar](https://lu.ma/intersectmbo)
+
 <details>
 
 <summary>Tokyo, Japan</summary>
+
+![](../../.gitbook/assets/f23d6bb8-bacb-4229-be2e-35a14192e50a.jpeg)
 
 * Date: Thursday 3rd October 2024
 * [Register here](https://lu.ma/giusvhux)
@@ -26,6 +30,8 @@ In addition to the in-person member summits, we’ll be hosting a special town h
 <details>
 
 <summary>Lisbon, Portugal</summary>
+
+![](../../.gitbook/assets/f725dd09-7193-487a-9440-e8b38449a8a8.jpeg)
 
 * Saturday 5th October 2024
 * [Register here](https://lu.ma/urc17dpb)
@@ -43,7 +49,9 @@ In addition to the in-person member summits, we’ll be hosting a special town h
 
 <details>
 
-<summary>Ghana, Africa</summary>
+<summary>Accra, Ghana</summary>
+
+![](../../.gitbook/assets/e5ac3978-b0ca-472e-948b-028bd2cb523e.jpeg)
 
 * Friday 11th October 2024
 * [Register here](https://lu.ma/aa273b76)
@@ -54,6 +62,8 @@ In addition to the in-person member summits, we’ll be hosting a special town h
 
 <summary>Colombo, Sri Lanka</summary>
 
+![](../../.gitbook/assets/8b70c0bf-fc4a-4bfe-b458-f48d6a53c6ed.jpeg)
+
 * Saturday 12th October 2024
 * [Register here](https://lu.ma/k94fjdrh)
 
@@ -63,6 +73,8 @@ In addition to the in-person member summits, we’ll be hosting a special town h
 
 <summary>Mexico City, Mexico</summary>
 
+![](../../.gitbook/assets/2d873e71-6952-4b52-9847-4940bf6ca744.jpeg)
+
 * Thursday 17th October 2024
 * [Register here](https://lu.ma/sps4hiiy)
 
@@ -71,6 +83,8 @@ In addition to the in-person member summits, we’ll be hosting a special town h
 <details>
 
 <summary>Austin, Texas</summary>
+
+![](../../.gitbook/assets/fff7e832-6e8e-4fe1-b419-5bb67485cc03.jpeg)
 
 * Date: Saturday 19th October 2024
 * [Register here](https://lu.ma/67wrmo10)
