@@ -9,9 +9,9 @@ Held in checks and balances through the governance design described in CIP-1694,
 
 ### Composition and remit of the interim CC
 
-The interim CC initially comprises of seven members, all on a 73-epoch (one-year) term from the date of the Chang upgrade. As a result of the technical focus relating to the interim Constitution, the interim CC is composed of the pioneer entities: Input Output Global, the Cardano Foundation and EMURGO. To ensure broad community representation and diversity on the interim CC, Intersect holds the fourth seat.
+The interim CC initially comprises seven members, all on a 73-epoch (one-year) term from the date of the Chang upgrade. As a result of the technical focus relating to the interim Constitution, the interim CC is composed of the pioneer entities: Input Output Global, the Cardano Foundation and EMURGO. To ensure broad community representation and diversity on the interim CC, Intersect holds the fourth seat.
 
-The three remaining seats are elected from the Cardano community. The interim CC will strive to conduct itself within a set of guiding principles:
+The three remaining seats were elected from the Cardano community. The interim CC strives to conduct itself within a set of guiding principles:
 
 * Uphold the interim Constitution - the primary and most fundamental principle of the interim CC is to uphold the interim Cardano Constitution. The interim Constitution provides the framework and guardrails for collective decision making. The interim CC, above all else, must fulfill its role to ensure the Constitution is upheld when making any decision.
 * Must be an ada holder - to ensure the interim CC member is a member of the Cardano community, as well as to enable participation in on-chain voting, every CC member must be an ada holder.
@@ -20,7 +20,7 @@ The three remaining seats are elected from the Cardano community. The interim CC
 * Publish rationale - when accepting or rejecting a proposal, the interim CC may publish in writing a rationale for decisions made, justifying the reasons why a particular governance action is or is not constitutional.
 * Stay informed - the interim CC (and the individual members) should stay abreast of important issues impacting on the network.
 
-Interim CC members are not remunerated; however a support package via an administrative function at Intersect will help cover such expenses as for administration, communications, technical and legal support, and education and training.
+Interim CC members are not remunerated; however a support package via an administrative function at Intersect helps to cover such expenses as for administration, communications, technical and legal support, and education and training.
 
 \
 The Interim Constitution Committee Election
