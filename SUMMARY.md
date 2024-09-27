@@ -38,6 +38,7 @@
       * [Interim CC elections](cardano/cardano-governance/cardano-constitution/interim-constitution-committee-cc/interim-cc-elections.md)
       * [Constitutional Council of Intersect](cardano/cardano-governance/cardano-constitution/interim-constitution-committee-cc/constitutional-council-of-intersect/README.md)
         * [Intersect Constitutional Council Charter](cardano/cardano-governance/cardano-constitution/interim-constitution-committee-cc/constitutional-council-of-intersect/intersect-constitutional-council-charter.md)
+        * [Governance action rationales](cardano/cardano-governance/cardano-constitution/interim-constitution-committee-cc/constitutional-council-of-intersect/governance-action-rationales.md)
         * [Intersect Constitutional Council FAQs](cardano/cardano-governance/cardano-constitution/interim-constitution-committee-cc/constitutional-council-of-intersect/intersect-constitutional-council-faqs.md)
   * [Governance roles](cardano/cardano-governance/governance-roles/README.md)
     * [General ada holders](cardano/cardano-governance/governance-roles/general-ada-holders.md)
