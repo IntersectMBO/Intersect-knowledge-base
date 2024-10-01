@@ -10,4 +10,4 @@ Once implemented, the Cardano community will be empowered with new tools to cont
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)\
+[Click here to return to the glossary index](../)\

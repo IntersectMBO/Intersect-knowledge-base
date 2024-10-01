@@ -2,10 +2,10 @@
 description: 'Cardano’s Voltaire - Glossary: key terms explained'
 ---
 
-# V
+# A
 
-{% content-ref url="voltaire.md" %}
-[voltaire.md](voltaire.md)
+{% content-ref url="../../../../../glossary/general-glossary/a/ada.md" %}
+[ada.md](../../../../../glossary/general-glossary/a/ada.md)
 {% endcontent-ref %}
 
 ***

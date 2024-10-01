@@ -8,4 +8,4 @@ A fully formed Constitution will be developed and ratified through a series of c
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

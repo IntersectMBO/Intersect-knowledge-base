@@ -8,4 +8,4 @@ Based at Intersect, the Technical Steering Committee (TSC) is an advisory group 
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

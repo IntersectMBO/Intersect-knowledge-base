@@ -8,4 +8,4 @@ Vital to Cardano’s open-source maturity and overall growth is the maintenance 
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

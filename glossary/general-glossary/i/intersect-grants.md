@@ -8,4 +8,4 @@ Intersect members can apply for grants for specific projects and initiatives per
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

@@ -10,4 +10,4 @@ CIPs are intended as the primary mechanisms for proposing new features, collecti
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

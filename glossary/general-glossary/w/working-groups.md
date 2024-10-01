@@ -10,4 +10,4 @@ Intersect is currently facilitating the creation and bootstrapping of these expe
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

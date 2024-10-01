@@ -8,4 +8,4 @@ The Parameter Committee will be one of the standing committees under Intersect. 
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

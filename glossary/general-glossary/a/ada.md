@@ -10,4 +10,4 @@ ada can be used to pay transaction fees on the Cardano network and can also be d
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

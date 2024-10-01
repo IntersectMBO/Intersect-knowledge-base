@@ -8,4 +8,4 @@ A person or organization responsible for setting up and keeping the pool running
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

@@ -10,4 +10,4 @@ DReps will play a crucial role in the decision-making process within the Cardano
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

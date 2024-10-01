@@ -120,7 +120,7 @@ For the latest info on _Exchanges by Liquidity_ please visit: [Cardanoscan](http
 
 
 
-<figure><img src="../../../.gitbook/assets/CardanoScan.png" alt=""><figcaption><p>Cardanoscan as at August 29, 2024</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CardanoScan (4).png" alt=""><figcaption><p>Cardanoscan as at August 29, 2024</p></figcaption></figure>
 
 {% hint style="info" %}
 High-level status: <mark style="color:orange;">**In Progress**</mark>

@@ -8,4 +8,4 @@ Cardano Ballot is a hybrid on/off-chain polling system created by the Cardano Fo
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

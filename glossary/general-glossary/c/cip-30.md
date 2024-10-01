@@ -10,4 +10,4 @@ This CIP defines how web pages and DApps access the injected Java Script code an
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

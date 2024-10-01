@@ -8,4 +8,4 @@ A [Cardano Problem Statement (CPS)](https://cips.cardano.org/cips/cip9999) is a 
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)

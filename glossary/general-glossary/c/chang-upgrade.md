@@ -8,4 +8,4 @@ The Chang upgrade, to be enabled by a hard fork combinator event in 2024, will a
 
 ***
 
-[Click here to return to the glossary index](../../../cardano/cardano-governance/key-terms/general-glossary/)
+[Click here to return to the glossary index](../)
