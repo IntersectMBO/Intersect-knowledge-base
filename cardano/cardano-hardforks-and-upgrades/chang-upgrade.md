@@ -1,4 +1,10 @@
-# Chang Upgrade
+# Chang upgrade
+
+View details on Chang upgrade #1 and Chang upgrade #2 in the dedicated space
+
+{% embed url="https://intersect.gitbook.io/cardano-chang-upgrades" %}
+
+***
 
 The Chang upgrade is the culmination of many years of hard work, including all the community participation that has taken place through community workshops and testing on SanchoNet. This moment represents a significant step towards minimum viable on-chain governance as defined in [CIP-1694](https://github.com/cardano-foundation/CIPs/blob/master/CIP-1694/README.md). As stake pools upgrade their nodes to support the new protocol, Cardano will have moved into the Voltaire Era, creating a self-sustaining blockchain and trailblazing the way forward for the industry.
 
