@@ -12,4 +12,6 @@ For the interim constitution in **French**, please see [here.](https://drive.goo
 
 For the interim constitution in **Swahili**, please see [here.](https://drive.google.com/file/d/1qqGpZ2SLxw\_STaIL-Pe2ow7UntRHSQPo/view?usp=sharing)
 
-Please check back for **Spanish, and Portugese.**
+For the interim constitution in **Spanish**, please see [here.](https://drive.google.com/file/d/1VHOVvV1uTRz1e\_CQjAb8rj7Ob5UTzzeO/view)
+
+For the interim constitution in **Portugese**, please see [here.](https://drive.google.com/file/d/1LCZk3MRwmmTx8iYKdz7jDkZiKPg7PoL4/view)
