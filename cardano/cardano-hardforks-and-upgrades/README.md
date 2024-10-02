@@ -10,8 +10,6 @@ Once a capable, updated node is available there are a series of required activit
 
 To learn more about hard forks please read the Cardano Docs article, [here](https://docs.cardano.org/learn/about-hard-forks/). Further information, and an overview of the last major hard fork, Vasil, can also be found on [here](https://docs.cardano.org/cardano-testnet/about/testnet-introduction/) Cardano Docs and previous[ state-of-play updates](https://iohk.io/en/blog/posts/2022/06/20/vasil-upgrade-the-state-of-play/).
 
-## How to get involved&#x20;
+## Cardano Upgrades&#x20;
 
-Regular updates will be provided to Intersect Members on the progress of hard fork related activity, followed by public updates. Progress will be updated through Intersects Committees, Working Groups and regular Intersect Development Updates, then through public updates on our usual channels.
-
-For information on how to become a member please join the our community and the discussion here: [https://www.intersectmbo.org/join](https://www.intersectmbo.org/join)
+Further details and attestations of community readiness for major upgrades such as hard forks can be found in our dedicated [Cardano Upgrades](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/fG95RnHsh9rCfE922MpZ/) space.
