@@ -16,6 +16,9 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 <summary>September</summary>
 
+* [Development Update #33 - September 27th](https://mpc.intersectmbo.org/intersect-development-update-33-september-27th)
+* [Development Update #32 - September 20th](https://mpc.intersectmbo.org/intersect-development-update-32-september-20th)
+* [Development Update #31 - September 13th](https://mpc.intersectmbo.org/intersect-development-update-31-september-13th)
 * [Development Update #30 - September 6th 2024](https://mpc.intersectmbo.org/intersect-development-update-30-september-6)
 
 </details>
