@@ -4,7 +4,7 @@ description: Welcome to the Development Updates Archive!
 
 # Intersect development updates
 
-Here, you'll find a comprehensive record of all our development updates, neatly organized by month. Each month's updates are accessible through a convenient drop-down menu, allowing you to find and review our progress and changes quickly. Whether you're looking for specific improvements, new features, or historical progress, our categorized archive makes it easy to stay informed and up-to-date with all our development activities.&#x20;
+Here, you'll find a comprehensive record of all our development updates, neatly organized by month. Each month's updates are accessible through a convenient drop-down menu, allowing you to quickly find and review our progress and changes. Whether you're looking for specific improvements, new features, or historical progress, our categorized archive makes it easy to stay informed and up-to-date with all our development activities.&#x20;
 
 Become a member to receive this newsletter directly in your inbox. [Join Now](https://www.intersectmbo.org/join)
 
@@ -19,7 +19,7 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 * [Development Update #33 - September 27th](https://mpc.intersectmbo.org/intersect-development-update-33-september-27th)
 * [Development Update #32 - September 20th](https://mpc.intersectmbo.org/intersect-development-update-32-september-20th)
 * [Development Update #31 - September 13th](https://mpc.intersectmbo.org/intersect-development-update-31-september-13th)
-* [Development Update #30 - September 6th 2024](https://mpc.intersectmbo.org/intersect-development-update-30-september-6)
+* [Development Update #30 - September 6th](https://mpc.intersectmbo.org/intersect-development-update-30-september-6)
 
 </details>
 
@@ -63,7 +63,8 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 * [Development Update #16 - May 31st 2024](https://mpc.intersectmbo.org/intersect-development-update-16-may-31st)
 * [Development Update #15 - May 24th 2024\
-  ](https://mpc.intersectmbo.org/intersect-development-update-15-may-24th)[Development Update #14 - May 17th 2024](https://mpc.intersectmbo.org/intersect-development-update-14-may-17th)
+  ](https://mpc.intersectmbo.org/intersect-development-update-15-may-24th)
+* [Development Update #14 - May 17th 2024](https://mpc.intersectmbo.org/intersect-development-update-14-may-17th)
 * [Development Update #13 - May 10th 2024](https://mpc.intersectmbo.org/intersect-development-update-13-may-10th)
 * [Development Update #12 - May 3rd 2024](https://mpc.intersectmbo.org/intersect-development-update-12-may-3rd)
 
