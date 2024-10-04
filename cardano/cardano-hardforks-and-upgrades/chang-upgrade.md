@@ -2,7 +2,9 @@
 
 View details on Chang upgrade #1 and Chang upgrade #2 in the dedicated space
 
-{% embed url="https://intersect.gitbook.io/cardano-chang-upgrades" %}
+{% content-ref url="https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/fG95RnHsh9rCfE922MpZ/" %}
+[Cardano - Upgrades](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/fG95RnHsh9rCfE922MpZ/)
+{% endcontent-ref %}
 
 ***
 
