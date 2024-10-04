@@ -1,5 +1,5 @@
-name: Feature idea
-description: Idea or request for some update to a Working Group Section
+name: General idea for Knowledge Base
+description: Idea or request for some update to a specific Section
 labels: [':thought_balloon: idea']
 body:
   - type: markdown
@@ -7,14 +7,14 @@ body:
       value: |
         **Thank you for contributing to our project!** :green_heart:
 
-        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/xxxx-committee-documentation/discussions/new?category=ideas).
+        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/intersect-knowledge-base/discussions/new?category=ideas).
         That way, we can discuss & refine your idea together, before we adopt it as a feature into the roadmap.
 
   - type: textarea
     id: which
     attributes:
       label: Which
-      description: Which Working Group needs or wants this update
+      description: Which area of the Knowledge Base would you like to be updated?
       placeholder: |
         Give context and describe the problem, challenge or opportunity you see
     validations:
@@ -24,10 +24,9 @@ body:
     id: what
     attributes:
       label: What
-      description: What is this update roughly about
+      description: What changes does this update entail?
       placeholder: |
-        For example describe a change in members, a change in lead member,
-        a new meeting minute update, ...
+        For example describe a change of data, timely report updates, general documentation ...
     validations:
       required: true
 
