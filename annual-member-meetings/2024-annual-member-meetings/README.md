@@ -42,8 +42,10 @@ In addition to the in-person member summits, we’ll be hosting a special town h
 
 <summary>Virtual - Special Town Hall </summary>
 
+![](../../.gitbook/assets/8f444815-ef40-4f55-9a90-5cbe06e7b8ea.jpeg)
+
 * Tuesday 8th October 2024
-* (link coming soon)
+* [Register here](https://lu.ma/9ydajznf)
 
 </details>
 
