@@ -91,7 +91,7 @@
     * [How we manage our continuity suppliers](cardano/cardano-continuity/cardano-continuity-suppliers/how-we-manage-our-continuity-suppliers.md)
   * [Cardano continuity reports](cardano/cardano-continuity/cardano-continuity-reports/README.md)
     * [What work has been completed since the start of Intersect](cardano/cardano-continuity/cardano-continuity-reports/what-work-has-been-completed-since-the-start-of-intersect.md)
-    * [Quarterly reports](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/README.md)
+    * [Milestone completion reports](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/README.md)
       * [Milestone report Q1 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-q1-2024.md)
       * [Retrospective Q1 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/retrospective-q1-2024.md)
       * [Milestone report Q2 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-q2-2024.md)
