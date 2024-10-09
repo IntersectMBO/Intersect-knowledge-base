@@ -219,7 +219,7 @@
   * [Intersect Open-Source Antitrust Statement](legal/policies-and-conditions/intersect-open-source-antitrust-statement.md)
   * [Intersect Open-Source Glossary](legal/policies-and-conditions/intersect-open-source-glossary.md)
   * [Roberts Rules of Order – Simplified](legal/policies-and-conditions/roberts-rules-of-order-simplified.md)
-  * [Conflict of Intereset](legal/policies-and-conditions/conflict-of-intereset.md)
+  * [Conflict of Interest](legal/policies-and-conditions/conflict-of-intereset.md)
   * [Transparent Dealings Policy](legal/policies-and-conditions/transparent-dealings-policy.md)
 * [Intersect Membership Agreements](legal/intersect-membership-agreements/README.md)
   * [13th May 2024 - Intersect Membership Agreement](legal/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement.md)
