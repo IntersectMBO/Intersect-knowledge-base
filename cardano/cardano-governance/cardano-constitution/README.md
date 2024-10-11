@@ -1,4 +1,4 @@
-# Cardano Constituion
+# Cardano Constitution
 
 {% embed url="https://youtu.be/6T6OT90yeyk?feature=shared" %}
 
@@ -42,6 +42,6 @@ The final version of the constitution will be both ratified at a constitutional 
 
 ## What is the role of Intersect in supporting the Cardano constitution?
 
-Intersect is responsible for facilitating the overall Cardano Governance which also includes creation of the Cardano constitution, in its interim, draft, and final states. Furthermore, Intersect facilitates and supports the [Constitutional Committee](../governance-roles/constitutional-committee.md) and at the moment Intersect (via its members) is one of the interim Constitutional Committee members.
+Intersect is responsible for facilitating the overall Cardano Governance which also includes creation of the Cardano constitution, in its interim, draft, and final states. Furthermore, Intersect facilitates and supports the [Constitutional Committee](../governance-roles/constitutional-committee/) and at the moment Intersect (via its members) is one of the interim Constitutional Committee members.
 
 \

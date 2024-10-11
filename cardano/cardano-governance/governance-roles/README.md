@@ -11,4 +11,4 @@ These are the 4 key one described in CIP-1694:
 
 [stake-pool-operators-spos.md](stake-pool-operators-spos.md "mention")
 
-[constitutional-committee.md](constitutional-committee.md "mention")
+[constitutional-committee](constitutional-committee/ "mention")
