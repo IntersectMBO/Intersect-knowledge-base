@@ -107,6 +107,11 @@
 ## Intersect Community Grants
 
 * [Open grants](intersect-community-grants/open-grants/README.md)
+  * [Constitutional Convention Voting Tool](intersect-community-grants/open-grants/constitutional-convention-voting-tool/README.md)
+    * [Application](intersect-community-grants/open-grants/constitutional-convention-voting-tool/application.md)
+    * [Functional Requirements](intersect-community-grants/open-grants/constitutional-convention-voting-tool/functional-requirements.md)
+    * [Non Functional Requirements](intersect-community-grants/open-grants/constitutional-convention-voting-tool/non-functional-requirements.md)
+    * [Expectations](intersect-community-grants/open-grants/constitutional-convention-voting-tool/expectations.md)
   * [GovTool Governance Action Outcome](intersect-community-grants/open-grants/govtool-governance-action-outcome/README.md)
     * [Application](intersect-community-grants/open-grants/govtool-governance-action-outcome/application.md)
     * [Functional Requirements](intersect-community-grants/open-grants/govtool-governance-action-outcome/functional-requirements.md)
