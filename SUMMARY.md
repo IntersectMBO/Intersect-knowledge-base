@@ -23,6 +23,7 @@
   * [Product committee](intersect-overview/intersect-committees/product-committee.md)
 * [Intersect groups (working & special interest)](intersect-overview/intersect-groups-working-and-special-interest.md)
 * [Intersect development updates](intersect-overview/intersect-development-updates.md)
+* [Support and contacts](intersect-overview/support-and-contacts.md)
 
 ## Cardano
 
