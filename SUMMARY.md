@@ -207,6 +207,7 @@
 
 * [Open positions](intersect-team/open-positions/README.md)
   * [Platform/DevOps Engineer](intersect-team/open-positions/platform-devops-engineer.md)
+  * [Design System Lead](intersect-team/open-positions/design-system-lead.md)
   * [Financial Controller](intersect-team/open-positions/financial-controller.md)
   * [Grant Analysis & Support](intersect-team/open-positions/grant-analysis-and-support.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
