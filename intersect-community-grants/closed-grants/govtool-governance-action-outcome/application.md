@@ -1,7 +1,7 @@
 # Application
 
 {% hint style="info" %}
-Applications are now closed whilst we undergo evaluation.
+Applications are now closed.
 {% endhint %}
 
 Application opened on 29th August for 3 weeks, until 9am UTC on 23rd September.&#x20;

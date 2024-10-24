@@ -109,11 +109,6 @@
 ## Intersect Community Grants
 
 * [Open grants](intersect-community-grants/open-grants/README.md)
-  * [Constitutional Convention Voting Tool](intersect-community-grants/open-grants/constitutional-convention-voting-tool/README.md)
-    * [Application](intersect-community-grants/open-grants/constitutional-convention-voting-tool/application.md)
-    * [Functional Requirements](intersect-community-grants/open-grants/constitutional-convention-voting-tool/functional-requirements.md)
-    * [Non Functional Requirements](intersect-community-grants/open-grants/constitutional-convention-voting-tool/non-functional-requirements.md)
-    * [Expectations](intersect-community-grants/open-grants/constitutional-convention-voting-tool/expectations.md)
   * [Community hubs](intersect-community-grants/open-grants/community-hubs.md)
   * [Inclusion and Accessibility phase 2](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/README.md)
     * [A Grant to implement the translation tool](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/a-grant-to-implement-the-translation-tool.md)
@@ -173,6 +168,11 @@
     * [Non Functional Requirements](intersect-community-grants/closed-grants/govtool-governance-action-outcome/non-functional-requirements.md)
     * [Considerations](intersect-community-grants/closed-grants/govtool-governance-action-outcome/considerations.md)
     * [Expected cost range](intersect-community-grants/closed-grants/govtool-governance-action-outcome/expected-cost-range.md)
+  * [Constitutional Convention Voting Tool](intersect-community-grants/closed-grants/constitutional-convention-voting-tool/README.md)
+    * [Application](intersect-community-grants/closed-grants/constitutional-convention-voting-tool/application.md)
+    * [Functional Requirements](intersect-community-grants/closed-grants/constitutional-convention-voting-tool/functional-requirements.md)
+    * [Non Functional Requirements](intersect-community-grants/closed-grants/constitutional-convention-voting-tool/non-functional-requirements.md)
+    * [Expectations](intersect-community-grants/closed-grants/constitutional-convention-voting-tool/expectations.md)
 * [Grant projects](intersect-community-grants/grant-projects.md)
 * [Key terms](intersect-community-grants/key-terms/README.md)
   * [Cardano Improvement Proposal (CIP)](intersect-community-grants/key-terms/cardano-improvement-proposal-cip.md)
