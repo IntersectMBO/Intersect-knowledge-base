@@ -205,14 +205,14 @@
 
 ## Intersect Team
 
-* [Open positions](intersect-team/open-positions/README.md)
-  * [Platform/DevOps Engineer](intersect-team/open-positions/platform-devops-engineer.md)
-  * [Financial Controller](intersect-team/open-positions/financial-controller.md)
-  * [Grant Analysis & Support](intersect-team/open-positions/grant-analysis-and-support.md)
+* [Open positions](intersect-team/open-positions.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
+  * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)
+  * [Financial Controller](intersect-team/closed-positions/financial-controller.md)
   * [Community Engagement Manager - Cardano constitution consultation](intersect-team/closed-positions/community-engagement-manager-cardano-constitution-consultation.md)
   * [Senior Project Manager - Cardano Governance Tools](intersect-team/closed-positions/senior-project-manager-cardano-governance-tools.md)
   * [Design System Lead](intersect-team/closed-positions/design-system-lead.md)
+  * [Platform/DevOps Engineer](intersect-team/closed-positions/platform-devops-engineer.md)
 
 ## LEGAL
 
