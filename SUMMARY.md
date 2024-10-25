@@ -205,7 +205,8 @@
 
 ## Intersect Team
 
-* [Open positions](intersect-team/open-positions.md)
+* [Open positions](intersect-team/open-positions/README.md)
+  * [Programme Support](intersect-team/open-positions/programme-support.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
   * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)
   * [Financial Controller](intersect-team/closed-positions/financial-controller.md)
