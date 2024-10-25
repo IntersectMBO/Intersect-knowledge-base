@@ -21,6 +21,7 @@
   * [Open Source committee (OSC)](intersect-overview/intersect-committees/open-source-committee-osc.md)
   * [Budget committee](intersect-overview/intersect-committees/budget-committee.md)
   * [Product committee](intersect-overview/intersect-committees/product-committee.md)
+  * [October 2024 election results](intersect-overview/intersect-committees/october-2024-election-results.md)
 * [Intersect groups (working & special interest)](intersect-overview/intersect-groups-working-and-special-interest.md)
 * [Intersect development updates](intersect-overview/intersect-development-updates.md)
 * [Support and contacts](intersect-overview/support-and-contacts.md)
