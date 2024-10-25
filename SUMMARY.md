@@ -79,6 +79,7 @@
     * [Constitutional Committee](cardano/cardano-governance/key-terms/constitutional-committee.md)
     * [Constitution](cardano/cardano-governance/key-terms/constitution.md)
     * [SanchoNet](cardano/cardano-governance/key-terms/sanchonet.md)
+  * [Weekly governance bulletin](cardano/cardano-governance/weekly-governance-bulletin.md)
 * [Cardano hardforks and upgrades](cardano/cardano-hardforks-and-upgrades/README.md)
   * [Chang upgrade](cardano/cardano-hardforks-and-upgrades/chang-upgrade.md)
   * [Major release process](cardano/cardano-hardforks-and-upgrades/major-release-process.md)
