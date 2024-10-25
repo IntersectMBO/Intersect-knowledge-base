@@ -1,3 +1,5 @@
 # Open positions
 
-Currently, there are no open positions; please check again later.&#x20;
+{% content-ref url="programme-support.md" %}
+[programme-support.md](programme-support.md)
+{% endcontent-ref %}
