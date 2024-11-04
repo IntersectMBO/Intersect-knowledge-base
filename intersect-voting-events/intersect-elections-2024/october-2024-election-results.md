@@ -1,7 +1,7 @@
 # October 2024 election results
 
 {% hint style="info" %}
-**If you want to explore all the candidates who stood, voting methodology, and how the vote was conducted head over to our dedicated** [**elections page** ](../../annual-member-meetings/2024-annual-member-meetings/intersect-elections-2024.md)
+**If you want to explore all the candidates who stood, voting methodology, and how the vote was conducted head over to our dedicated** [**elections page** ](./)
 {% endhint %}
 
 ## Election overview

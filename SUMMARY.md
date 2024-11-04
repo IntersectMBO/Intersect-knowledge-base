@@ -21,7 +21,6 @@
   * [Open Source committee (OSC)](intersect-overview/intersect-committees/open-source-committee-osc.md)
   * [Budget committee](intersect-overview/intersect-committees/budget-committee.md)
   * [Product committee](intersect-overview/intersect-committees/product-committee.md)
-  * [October 2024 election results](intersect-overview/intersect-committees/october-2024-election-results.md)
 * [Intersect groups (working & special interest)](intersect-overview/intersect-groups-working-and-special-interest.md)
 * [Intersect development updates](intersect-overview/intersect-development-updates.md)
 * [Support and contacts](intersect-overview/support-and-contacts.md)
@@ -105,8 +104,12 @@
 ## Annual member meetings
 
 * [Annual member meetings (AMM)](annual-member-meetings/annual-member-meetings-amm.md)
-* [2024 Annual Member Meetings](annual-member-meetings/2024-annual-member-meetings/README.md)
-  * [Intersect elections - 2024](annual-member-meetings/2024-annual-member-meetings/intersect-elections-2024.md)
+* [2024 Annual Member Meetings](annual-member-meetings/2024-annual-member-meetings.md)
+
+## Intersect voting events
+
+* [Intersect elections - 2024](intersect-voting-events/intersect-elections-2024/README.md)
+  * [October 2024 election results](intersect-voting-events/intersect-elections-2024/october-2024-election-results.md)
 
 ## Intersect Community Grants
 

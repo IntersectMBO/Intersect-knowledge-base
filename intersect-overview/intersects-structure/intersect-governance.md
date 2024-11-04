@@ -1,7 +1,7 @@
 # Intersect governance
 
 {% hint style="info" %}
-👉🏻 Info about **board elections** can be found [here](../../annual-member-meetings/2024-annual-member-meetings/intersect-elections-2024.md) 👈
+👉🏻 Info about **board elections** can be found [here](../../intersect-voting-events/intersect-elections-2024/) 👈
 {% endhint %}
 
 ## **The Governing Board**
