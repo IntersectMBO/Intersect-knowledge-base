@@ -54,9 +54,11 @@ For anyone who would like to check the individual votes submitted and confirm th
 
 ### Elected Members
 
-* Kavinda Kariyapperuma
+* Kavinda Kariyapperuma (resigned seat in light of board seat appointment)\*
 * Yuki Oishi
-* Kevin Hammond
+* Kevin Hammond\
+
+* Phil Lewis\* (Phil joins the ISC in light of Kavinda resigning)
 
 ### Voting Results Table
 
@@ -119,6 +121,7 @@ For anyone who would like to check the individual votes submitted and confirm th
 * Taichi Yokoyama
 * Eystein Magnus Hansen
 * Daniela Alves
+* Takeshi Ohishi (appointed due to Adam Rusch resigning his seat in light of Board seat appointment)
 
 ### Voting Results Table
 
