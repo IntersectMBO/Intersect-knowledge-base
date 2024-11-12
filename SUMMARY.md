@@ -98,6 +98,7 @@
       * [Open Source Developer Maturity Report May 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/open-source-developer-maturity-report-may-2024.md)
       * [Milestone report July 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-july-2024.md)
       * [Milestone report August 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-august-2024.md)
+      * [Milestone report October 2024](cardano/cardano-continuity/cardano-continuity-reports/quarterly-reports/milestone-report-october-2024.md)
 * [Cardano economy](cardano/cardano-economy/README.md)
   * [Cardano treasury](cardano/cardano-economy/cardano-treasury.md)
 
