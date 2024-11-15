@@ -65,7 +65,7 @@ Once a contract has been signed by all parties, the Core Services Delivery Assur
 
 ## The Budget Process
 
-Below is a diagram showign how the Committee's budgets will be managed:
+Below is a diagram showing how the Committee's budgets will be managed:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-11-12 121033.png" alt=""><figcaption></figcaption></figure>
 
