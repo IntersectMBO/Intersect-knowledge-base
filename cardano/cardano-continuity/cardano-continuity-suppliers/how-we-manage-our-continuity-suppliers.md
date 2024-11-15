@@ -1,6 +1,4 @@
-# How we manage our suppliers
-
-## Change management process
+# Change management process
 
 Welcome to the Change Management Process for the Cardano Continuity contract managed by Intersect. This process ensures clarity on how changes can be introduced, providing certainty in our operations.
 
