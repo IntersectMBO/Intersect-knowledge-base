@@ -19,6 +19,12 @@ The Cardano Constitution requires an annual budget process. This committee facil
 * Evaluate the output of working groups and the Budget Committee
 * Communicate the work of the committee to the wider Cardano community
 
+## How does Intersect's Core Services support the budget management process for each committee?
+
+Please find further information detailed on the following page.
+
+{% embed url="https://docs.intersectmbo.org/cardano/cardano-continuity/cardano-continuity-suppliers/budget-and-contract-management" %}
+
 ## How to join?
 
 Interested parties can join the Intersect discord and utilize the [#budget-committee-area](https://discord.com/channels/1136727663583698984/1243451569492725760) channel for more information and to interact with the committee.&#x20;
