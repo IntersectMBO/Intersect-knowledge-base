@@ -1,2 +1,0 @@
-# Cardano continuity reports
-

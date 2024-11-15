@@ -2,7 +2,7 @@
 
 ## Who are our continuity suppliers?
 
-Bitergia, DQuadrant, Emurgo, Galois, Input Output Global (IOI), Tweag, VacuumLabs, Well-Typed
+Bitergia, Byron, DQuadrant, Emurgo, Galois, Input Output Global (IOI), Tweag, VacuumLabs, Well-Typed
 
 <figure><img src="../../../.gitbook/assets/Suppliers.png" alt=""><figcaption></figcaption></figure>
 
