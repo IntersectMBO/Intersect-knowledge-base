@@ -6,7 +6,7 @@ This page showcases the dedication and collaboration of our partners in driving 
 
 Below, you will find a live update displaying the number of milestones completed across all continuity contracts within the DevTrust. You can also find weekly updates in the weekly Dev Report. _This page is updated on a Monthly basis._
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Below is a comprehensive list of completed projects and milestones achieved by our Cardano Continuity suppliers.&#x20;
 
