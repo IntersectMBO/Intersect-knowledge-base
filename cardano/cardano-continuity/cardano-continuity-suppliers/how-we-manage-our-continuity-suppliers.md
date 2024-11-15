@@ -1,10 +1,4 @@
-# How we manage our continuity suppliers
-
-## Our supplier management strategy
-
-Intersect facilitates and administrates the management and oversight of all supplier contracts on behalf of [DevTrust](https://docs.intersectmbo.org/intersect-overview/intersects-structure/funding). This captures an extensive role in the facilitation, execution, and ongoing administration of contractual agreements between DevTrust and its suppliers. Intersect will actively engage in the negotiation process, ensuring that contractual terms align with DevTrust's objectives, on behalf of the community.
-
-Furthermore, Intersect will monitor the compliance and performance of suppliers, implementing necessary measures to uphold contractual obligations, optimize operational efficiency, and provide community transparency.
+# How we manage our suppliers
 
 ## Change management process
 
