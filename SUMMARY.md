@@ -85,7 +85,6 @@
   * [Quality and feedback](cardano/cardano-hardforks-and-upgrades/quality-and-feedback.md)
 * [Cardano continuity](cardano/cardano-continuity/README.md)
   * [Cardano continuity suppliers](cardano/cardano-continuity/cardano-continuity-suppliers/README.md)
-    * [Budget and contract management](cardano/cardano-continuity/cardano-continuity-suppliers/budget-and-contract-management.md)
     * [Change management process](cardano/cardano-continuity/cardano-continuity-suppliers/how-we-manage-our-continuity-suppliers.md)
     * [Cardano continuity progress](cardano/cardano-continuity/cardano-continuity-reports/README.md)
       * [What work has been completed since the start of Intersect](cardano/cardano-continuity/cardano-continuity-reports/what-work-has-been-completed-since-the-start-of-intersect.md)
