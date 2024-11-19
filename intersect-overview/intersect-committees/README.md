@@ -1,11 +1,11 @@
 # Intersect committees
 
 {% hint style="info" %}
-👉🏻 Info about **committee elections** can be found [here](../../intersect-voting-events/intersect-elections-2024/) 👈
+Find all detailed committee spaces [here](https://committees.docs.intersectmbo.org/)
 {% endhint %}
 
 {% hint style="info" %}
-Find all detailed committee spaces [here](https://committees.docs.intersectmbo.org/)
+The bi-weekly committee reports can be found [here](https://committees.docs.intersectmbo.org/committee-overview/readme/committee-reporting)
 {% endhint %}
 
 Intersect is designed to be steered by its members so the future of Cardano is community-led. The membership body provides this steering via standing committees. Standing committees are designed to be community-led, with community members taking an active role influencing the future of Cardano.
@@ -52,10 +52,9 @@ You can an overview of the committee and their respective ways of working [here]
 [product-committee.md](product-committee.md)
 {% endcontent-ref %}
 
+👉🏻 Info about committee elections can be found [here](../../intersect-voting-events/intersect-elections-2024/) 👈
 
 
-### **2023 Interim Committee Report**
 
-Read the latest update from the committees in our Interim Committee Report - wrapping up 2023.
 
-{% file src="../../.gitbook/assets/Interim Commitee Update - December 2023.pdf" %}
+
