@@ -7,7 +7,7 @@ description: This page provides ways to connect with Intersect
 ## Contacts <a href="#contacts" id="contacts"></a>
 
 * Support - [support@intersectmbo.org](mailto:support@intersectmbo.org)\
-  _This email is to get support on any issue you are experiencing. To get faster support please use the email associated with your membership if you have it_
+  &#xNAN;_&#x54;his email is to get support on any issue you are experiencing. To get faster support please use the email associated with your membership if you have it_
 * General inquiries - [contact@intersectmbo.org](mailto:contact@intersectmbo.org)
 * Membership - [members@intersectmbo.org](mailto:members@intersectmbo.org)
 
