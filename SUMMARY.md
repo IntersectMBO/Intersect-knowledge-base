@@ -32,7 +32,7 @@
   * [Cardano Constitution](cardano/cardano-governance/cardano-constitution/README.md)
     * [Interim Cardano Constitution](cardano/cardano-governance/cardano-constitution/interim-cardano-constitution/README.md)
       * [Translated Interim Constitution](cardano/cardano-governance/cardano-constitution/interim-cardano-constitution/translated-interim-constitution.md)
-    * [Draft Cardano Constitution](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution.md)
+    * [Draft Cardano Constitution](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/README.md)
   * [Governance roles](cardano/cardano-governance/governance-roles/README.md)
     * [General ada holders](cardano/cardano-governance/governance-roles/general-ada-holders.md)
     * [Delegated Representatives (DReps)](cardano/cardano-governance/governance-roles/delegated-representatives-dreps.md)

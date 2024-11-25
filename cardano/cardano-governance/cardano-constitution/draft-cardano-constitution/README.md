@@ -4,17 +4,17 @@ description: Overview about the draft constitution
 
 # Draft Cardano Constitution
 
-_This is the latest version of the Draft Cardano Constitution_&#x20;
+{% hint style="info" %}
+**Find the latest version of the draft Cardano Constitution below. To dive into the consultation period, including workshops and previous versions of the draft Constitution, check out the dedicated knowledge base space** [**here**](https://2024constitutionalconsultation.docs.intersectmbo.org/)**.**
+{% endhint %}
 
-{% file src="../../../.gitbook/assets/Nov 20 2024 - Draft Cardano Constitution" %}
-
-***
+{% file src="../../../../.gitbook/assets/Nov 20 2024 - Draft Cardano Constitution" %}
 
 The draft Cardano Constitution is the ongoing product of the Cardano Constitution Consultation period.
 
-The Cardano Constitution Consultation period span all of 2024, summarised in the roadmap:
+The Cardano Constitution Consultation period spans all of 2024 and summarised in the roadmap below:
 
-<figure><img src="../../../.gitbook/assets/Timeline (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Timeline (1).jpg" alt=""><figcaption></figcaption></figure>
 
 The first half of 2024 included work across Intersect committees and staff to prepare for the latter half of 2024 where broad community engagement is taking place. The Cardano Civics Committee and Parameters Committee have collaborated to prepare the Interim Constitution for the Chang upgrade.  The Cardano Civics Committee, working with several relevant experts, have evaluated the Interim Constitution to identify areas for improvement, and develop a draft Constitution that align with Cardano’s vision for a decentralised, inclusive, and transparent governance structure.  The Draft Constitution serves as critical input for the Constitutional Workshops.
 
