@@ -4,13 +4,35 @@ description: Welcome to the Development Updates Archive!
 
 # Intersect development updates
 
-Here, you'll find a comprehensive record of all our development updates, neatly organized by month. Each month's updates are accessible through a convenient drop-down menu, allowing you to quickly find and review our progress and changes. Whether you're looking for specific improvements, new features, or historical progress, our categorized archive makes it easy to stay informed and up-to-date with all our development activities.&#x20;
+Here, you'll find a comprehensive record of all our development updates, neatly organized by month. Each month's updates are accessible through a convenient drop-down menu, allowing you to find and review our progress and changes quickly. Whether you're looking for specific improvements, new features, or historical progress, our categorized archive makes it easy to stay informed and up-to-date with all our development activities.&#x20;
 
 Become a member to receive this newsletter directly in your inbox. [Join Now](https://www.intersectmbo.org/join)
 
 ***
 
 ## - 2024 -
+
+<details>
+
+<summary>November</summary>
+
+* [Development Update #41 - November 22nd](https://mpc.intersectmbo.org/intersect-development-update-41-november-22)
+* [Development Update #40 - November 15th](https://mpc.intersectmbo.org/intersect-development-update-40-november-8)
+* [Development Update #39 - November 8th](https://mpc.intersectmbo.org/intersect-development-update-39-november-8)
+* [Development Update #38 - November 1st](https://mpc.intersectmbo.org/intersect-development-update-38-november-1)
+
+</details>
+
+<details>
+
+<summary>October</summary>
+
+* [Development Update #37 - October 25th](https://mpc.intersectmbo.org/intersect-development-update-37-october-25)
+* [Development Update #36 - October 18th](https://mpc.intersectmbo.org/intersect-development-update-36-october-18)
+* [Development Update #35 - October 11th](https://mpc.intersectmbo.org/intersect-development-update-35-october-11th)
+* [Development Update #34 - October 4th](https://mpc.intersectmbo.org/intersect-development-update-34-october-4th)
+
+</details>
 
 <details>
 
@@ -40,7 +62,7 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 <summary>July</summary>
 
 * [Development Update #24 - July 26th 2024](https://mpc.intersectmbo.org/intersect-development-update-23-july-18th-1)
-* [Development Update #23 - July 18th 2024](https://mpc.intersectmbo.org/intersect-development-update-23-july-18th?ecid=\&utm\_source=hs\_email\&utm\_medium=email&\_hsenc=p2ANqtz-9vxGRm3QSRv7uIoZBqt5VMvpVSkY-6GtO0L6qGRBz42dXfVGJy2LlXeVhneyL\_JXYSRj0R)
+* [Development Update #23 - July 18th 2024](https://mpc.intersectmbo.org/intersect-development-update-23-july-18th?ecid=\&utm_source=hs_email\&utm_medium=email&_hsenc=p2ANqtz-9vxGRm3QSRv7uIoZBqt5VMvpVSkY-6GtO0L6qGRBz42dXfVGJy2LlXeVhneyL_JXYSRj0R)
 * [Development Update #22 - July 12th 2024](https://mpc.intersectmbo.org/intersect-development-update-22-july-12th)
 * [Development Update #21 - July 5th 2024](https://mpc.intersectmbo.org/intersect-development-update-21-july-5th)
 
@@ -85,7 +107,7 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 <summary>March</summary>
 
-* [Development Update #7 - 29th Mar 2024](https://mpc.intersectmbo.org/intersect-development-update-march-29th-1?hs\_preview=kyCYmbPL-162535931788)
+* [Development Update #7 - 29th Mar 2024](https://mpc.intersectmbo.org/intersect-development-update-march-29th-1?hs_preview=kyCYmbPL-162535931788)
 * [Development Update #6 - 22nd Mar 2024](https://www.intersectmbo.org/news/intersect-development-update-6-march-22nd)
 * [Development Update #5 - 15th Mar 2024](https://mpc.intersectmbo.org/intersect-development-update-#5)
 * [Development Update #4 - 8th Mar 2024](https://mpc.intersectmbo.org/intersect-development-update-4)
