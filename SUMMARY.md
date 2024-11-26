@@ -112,11 +112,7 @@
 
 ## Intersect Community Grants
 
-* [Open grants](intersect-community-grants/open-grants/README.md)
-  * [Inclusion and Accessibility phase 2](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/README.md)
-    * [A Grant to implement the translation tool](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/a-grant-to-implement-the-translation-tool.md)
-    * [Grants to translate GovTool and the Constitutional Committee Portal](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/grants-to-translate-govtool-and-the-constitutional-committee-portal.md)
-    * [Grants to translate the Interim Constitution](intersect-community-grants/open-grants/inclusion-and-accessibility-phase-2/grants-to-translate-the-interim-constitution.md)
+* [Open grants](intersect-community-grants/open-grants.md)
 * [Closed grants](intersect-community-grants/closed-grants/README.md)
   * [Proposal discussion forum](intersect-community-grants/closed-grants/proposal-discussion-forum/README.md)
     * [Functional requirements](intersect-community-grants/closed-grants/proposal-discussion-forum/functional-requirements.md)
@@ -177,6 +173,10 @@
     * [Non Functional Requirements](intersect-community-grants/closed-grants/constitutional-convention-voting-tool/non-functional-requirements.md)
     * [Expectations](intersect-community-grants/closed-grants/constitutional-convention-voting-tool/expectations.md)
   * [Community hubs](intersect-community-grants/closed-grants/community-hubs.md)
+  * [Inclusion and Accessibility phase 2](intersect-community-grants/closed-grants/inclusion-and-accessibility-phase-2/README.md)
+    * [A Grant to implement the translation tool](intersect-community-grants/closed-grants/inclusion-and-accessibility-phase-2/a-grant-to-implement-the-translation-tool.md)
+    * [Grants to translate GovTool and the Constitutional Committee Portal](intersect-community-grants/closed-grants/inclusion-and-accessibility-phase-2/grants-to-translate-govtool-and-the-constitutional-committee-portal.md)
+    * [Grants to translate the Interim Constitution](intersect-community-grants/closed-grants/inclusion-and-accessibility-phase-2/grants-to-translate-the-interim-constitution.md)
 * [Grant projects](intersect-community-grants/grant-projects.md)
 * [Key terms](intersect-community-grants/key-terms/README.md)
   * [Cardano Improvement Proposal (CIP)](intersect-community-grants/key-terms/cardano-improvement-proposal-cip.md)
