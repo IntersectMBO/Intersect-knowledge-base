@@ -8,9 +8,13 @@ description: >-
 
 ## Current Intersect membership tiers and costs:
 
-* Enterprise member - $1,000
-* Individual member - $10
-* Associate - Free
+<table><thead><tr><th width="226">Type</th><th>Cost</th></tr></thead><tbody><tr><td>Enterprise member</td><td>$1,000</td></tr><tr><td>Individual member</td><td>$10</td></tr><tr><td>Associate</td><td>Free</td></tr></tbody></table>
+
+### Seats costs within an organization with an Enterprise membership
+
+<table><thead><tr><th width="139">Type</th><th width="250">Amount</th><th>Cost</th></tr></thead><tbody><tr><td>Associate</td><td>Unlimited</td><td>Free</td></tr><tr><td>Member</td><td>between 1 and 10 seats</td><td>$10</td></tr><tr><td>Member</td><td>between 11 and 20 seats</td><td>$25</td></tr><tr><td>Member</td><td>between 21 and 50 seats</td><td>$50</td></tr><tr><td>Member</td><td>between 51 and 100 seats</td><td>$75</td></tr><tr><td>Member</td><td>between 101 seats and over</td><td>$125</td></tr></tbody></table>
+
+
 
 ## Benefits
 
