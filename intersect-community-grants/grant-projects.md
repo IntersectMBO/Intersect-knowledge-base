@@ -120,7 +120,7 @@ Intersect is providing grants to support local face-to-face meet-ups that cover 
 
 Grants for wallet updates to support the Conway ledger era and CIP-95. Furthermore, any other Conway/Voltiare related upgrades to libraries or tooling.
 
-<table><thead><tr><th width="161">Builder Name</th><th width="166">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/additional-governance-features">Vespr</a></td><td>In progress</td><td>Upgrade the Vespr wallet to support standard functionalities within the Conway ledger era.</td></tr></tbody></table>
+<table><thead><tr><th width="161">Builder Name</th><th width="166">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/additional-governance-features">Vespr</a></td><td>Complete</td><td>Upgrade the Vespr wallet to support standard functionalities within the Conway ledger era.</td></tr></tbody></table>
 
 ## Cohort 4 - GovTool Governance Action Outcome
 
