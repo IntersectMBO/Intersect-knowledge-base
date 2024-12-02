@@ -78,7 +78,7 @@
     * [SanchoNet](cardano/cardano-governance/key-terms/sanchonet.md)
   * [Weekly governance bulletin](cardano/cardano-governance/weekly-governance-bulletin.md)
 * [Cardano hardforks and upgrades](cardano/cardano-hardforks-and-upgrades/README.md)
-  * [Chang upgrade](cardano/cardano-hardforks-and-upgrades/chang-upgrade.md)
+  * [Chang & Plomin upgrades](cardano/cardano-hardforks-and-upgrades/chang-upgrade.md)
   * [Major release process](cardano/cardano-hardforks-and-upgrades/major-release-process.md)
   * [Quality and feedback](cardano/cardano-hardforks-and-upgrades/quality-and-feedback.md)
 * [Cardano continuity](cardano/cardano-continuity/README.md)
