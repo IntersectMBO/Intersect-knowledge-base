@@ -10,6 +10,10 @@ description: Overview about the draft constitution
 
 {% file src="../../../../.gitbook/assets/Nov 20 2024 Draft Cardano Constitution (Japanese).pdf" %}
 
+Supporting material to aid the reading and interpretation of the draft text&#x20;
+
+{% embed url="https://docs.google.com/document/d/1D2qPQBmrgKMvPcKwcSpO3g1DO7NFj89sM0ZYDcGDLyU/edit?tab=t.0" %}
+
 The draft Cardano Constitution is the ongoing product of the Cardano Constitution Consultation period.
 
 The Cardano Constitution Consultation period spans all of 2024 and summarised in the roadmap below:
