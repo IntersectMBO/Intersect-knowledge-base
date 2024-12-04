@@ -1,5 +1,6 @@
 ---
 description: Overview about the draft constitution
+hidden: true
 ---
 
 # Draft Cardano Constitution
