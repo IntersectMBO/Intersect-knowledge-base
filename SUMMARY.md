@@ -32,7 +32,7 @@
   * [Cardano Constitution](cardano/cardano-governance/cardano-constitution/README.md)
     * [Interim Cardano Constitution](cardano/cardano-governance/cardano-constitution/interim-cardano-constitution/README.md)
       * [Translated Interim Constitution](cardano/cardano-governance/cardano-constitution/interim-cardano-constitution/translated-interim-constitution.md)
-    * [The draft constitution consultation phase](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/README.md)
+    * [The draft Constitution consultation phase](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/README.md)
       * [Draft Cardano Constitution](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/draft-cardano-constitution.md)
       * [Convention draft working version](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/convention-draft-working-version.md)
   * [Governance roles](cardano/cardano-governance/governance-roles/README.md)
