@@ -34,7 +34,7 @@
       * [Translated Interim Constitution](cardano/cardano-governance/cardano-constitution/interim-cardano-constitution/translated-interim-constitution.md)
     * [The draft Constitution consultation phase](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/README.md)
       * [Draft Cardano Constitution](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/draft-cardano-constitution.md)
-      * [Convention draft working version](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/convention-draft-working-version.md)
+      * [Constitutional Convention draft working version](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/constitutional-convention-draft-working-version.md)
   * [Governance roles](cardano/cardano-governance/governance-roles/README.md)
     * [General ada holders](cardano/cardano-governance/governance-roles/general-ada-holders.md)
     * [Delegated Representatives (DReps)](cardano/cardano-governance/governance-roles/delegated-representatives-dreps.md)
