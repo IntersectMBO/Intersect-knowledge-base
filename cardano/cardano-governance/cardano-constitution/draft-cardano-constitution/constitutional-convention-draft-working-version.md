@@ -13,3 +13,11 @@ The below version is the updated text based off these deliberations, and will be
 {% endhint %}
 
 {% file src="../../../../.gitbook/assets/Draft Constitution Markup -- Dec 04 2024.pdf" %}
+
+## Additional material
+
+{% file src="../../../../.gitbook/assets/Summary of Future Workstreams Identified.pdf" %}
+
+{% file src="../../../../.gitbook/assets/Constitution Changelog Nov 20 to Dec 03 2024.pdf" %}
+
+{% file src="../../../../.gitbook/assets/Background Materials to Support the Draft Constitution, Nov 20 2024_Public.pdf" %}
