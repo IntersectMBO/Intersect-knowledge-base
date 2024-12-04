@@ -8,6 +8,8 @@ The below version is the updated text based off these deliberations, and will be
 
 {% hint style="warning" %}
 **Note:** the text below includes the markups in strikethrough, and remains a working version for Day 1 of the Convention (December 4, 2024).&#x20;
+
+**Additional note:** a new appendix has been added with definitions.
 {% endhint %}
 
 {% file src="../../../../.gitbook/assets/Draft Constitution Markup -- Dec 04 2024.pdf" %}
