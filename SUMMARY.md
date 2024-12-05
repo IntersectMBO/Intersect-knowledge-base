@@ -36,6 +36,7 @@
       * [Constitutional Convention draft working version - Day 1](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/constitutional-convention-draft-working-version-day-1.md)
       * [Constitutional Convention draft working version - Day 0](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/constitutional-convention-draft-working-version.md)
       * [Draft Cardano Constitution](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/draft-cardano-constitution.md)
+      * [Constitutional Convention Draft version - Day 2](cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/constitutional-convention-draft-version-day-2.md)
   * [Governance roles](cardano/cardano-governance/governance-roles/README.md)
     * [General ada holders](cardano/cardano-governance/governance-roles/general-ada-holders.md)
     * [Delegated Representatives (DReps)](cardano/cardano-governance/governance-roles/delegated-representatives-dreps.md)
