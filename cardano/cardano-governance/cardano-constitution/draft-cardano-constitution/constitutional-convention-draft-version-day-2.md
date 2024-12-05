@@ -1,8 +1,8 @@
 # Constitutional Convention Draft version - Day 2
 
-See the latest version as per December 5th. Provided in three variants; clean, with markups, and in markdown.
+See the latest version as per December 5th and delegate vote.
 
-{% file src="../../../../.gitbook/assets/cardano-constitution-1.txt" %}
+{% file src="../../../../.gitbook/assets/cardano-constitution-1.download" %}
 
 For a rendered markdown view, you can see;
 
