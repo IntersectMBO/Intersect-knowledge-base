@@ -1,4 +1,4 @@
-# Constitutional Convention draft working version
+# Constitutional Convention draft working version - Day 0
 
 The Cardano Constitutional Convention is being held between December 4-6 2024. On December 3, delegates, alternates, and members from the interim Constitutional Committee held a final in-person synthesis session to make further refinements to the draft text published on November 20th.
 
@@ -12,7 +12,9 @@ The below version is the updated text based off these deliberations, and will be
 **Additional note:** a new appendix has been added with definitions.
 {% endhint %}
 
-{% file src="../../../../.gitbook/assets/Draft Constitution Markup -- Dec 04 2024.pdf" %}
+{% file src="../../../../.gitbook/assets/Draft Constitution Markup -- Dec 04 2024 -- V2.pdf" %}
+
+
 
 ## Additional material
 

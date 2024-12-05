@@ -16,8 +16,6 @@ For the markdown version of the "clean" version - [**see here**](https://github.
 
 ## Additional material
 
-
-
 {% file src="../../../../.gitbook/assets/Summary of Future Workstreams.pdf" %}
 
 {% file src="../../../../.gitbook/assets/Background Materials to Support the Draft Constitution, Nov 20 2024_Public.pdf" %}
