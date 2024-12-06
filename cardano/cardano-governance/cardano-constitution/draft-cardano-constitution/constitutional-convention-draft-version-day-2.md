@@ -1,6 +1,8 @@
 # Constitutional Convention Draft version - Day 2
 
-See the latest version as per December 5th and delegate vote.
+Following Day 2 of the Constitutional Convention, delegates reached a decision to approve the Constitution below. 60 out of 63 delegates voted YES and represents a 95% majority decision.&#x20;
+
+{% file src="../../../../.gitbook/assets/Cardano Blockchain Ecosystem Constitution - Delegate Approved.pdf" %}
 
 {% file src="../../../../.gitbook/assets/cardano-constitution-1.download" %}
 
