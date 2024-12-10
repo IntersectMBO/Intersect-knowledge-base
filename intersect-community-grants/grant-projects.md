@@ -124,9 +124,9 @@ Grants for wallet updates to support the Conway ledger era and CIP-95. Furthermo
 
 ## Cohort 4 - GovTool Governance Action Outcome
 
-<table><thead><tr><th width="185">Builder Name</th><th width="154">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td>LidoNation</td><td>In progress</td><td>Create a Governance Action (GA) Outcomes section in Govtool empowering ADA holders to submit a GA directly onto the Cardano mainnet.</td></tr></tbody></table>
+<table><thead><tr><th width="185">Builder Name</th><th width="154">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/govtool-governance-action-outcome">LidoNation</a></td><td>In progress</td><td>Create a Governance Action (GA) Outcomes section in Govtool empowering ADA holders to submit a GA directly onto the Cardano mainnet.</td></tr></tbody></table>
 
 ## Cohort 4 - Voting Tool for the Constitutional Convention
 
-<table><thead><tr><th width="196">Builder Name</th><th width="152">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td>Clarity/Clear Contracts</td><td>In progress</td><td>Facilitate a poll (voting on chain) to approve the Constitution.</td></tr></tbody></table>
+<table><thead><tr><th width="196">Builder Name</th><th width="152">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/voting-tool-for-the-constitutional-convention">Clarity/Clear Contracts</a></td><td>In progress</td><td>Facilitate a poll (voting on chain) to approve the Constitution.</td></tr></tbody></table>
 
