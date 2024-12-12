@@ -2,6 +2,7 @@
 description: >-
   This page gives an overview of the status and readiness for the Cardano Chang
   Upgrade #1
+hidden: true
 ---
 
 # Chang upgrade #1 - Readiness

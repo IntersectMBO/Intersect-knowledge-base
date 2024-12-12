@@ -2,6 +2,7 @@
 description: >-
   This page outlines high-level the dependencies and context for the Chang #1
   hardfork.
+hidden: true
 ---
 
 # Chang upgrade #1 - Dependencies & Timeline
