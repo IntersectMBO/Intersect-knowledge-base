@@ -12,6 +12,10 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 ## - 2024 -
 
+Read our end-of-year special report, published December 13th 2024
+
+{% file src="../.gitbook/assets/Intersect 2024 Development Report.pdf" %}
+
 <details>
 
 <summary>November</summary>
