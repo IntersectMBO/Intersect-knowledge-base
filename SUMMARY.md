@@ -108,6 +108,7 @@
         * [Milestone report July 2024](cardano/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-july-2024.md)
         * [Milestone report August 2024](cardano/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-august-2024.md)
         * [Milestone report October 2024](cardano/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-october-2024.md)
+        * [Milestone report November 2024](cardano/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-november-2024.md)
 * [Cardano economy](cardano/cardano-economy/README.md)
   * [Cardano treasury](cardano/cardano-economy/cardano-treasury.md)
 
