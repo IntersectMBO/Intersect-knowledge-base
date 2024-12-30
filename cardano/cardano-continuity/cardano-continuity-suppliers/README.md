@@ -11,6 +11,7 @@ Bitergia, Byron, DQuadrant, Emurgo, Galois, Input Output Global (IOI), Tweag, Va
 ## **Contract management**
 
 * Our contract management process involves careful planning, monitoring, and evaluation to ensure all obligations are met and projects are completed on time and within budget, on behalf of the community.
+* Intersect charges a flat 5% administrator fee to cover operational overhead for contract management. As a not-for-profit, all proceedings are reinvested and support various initiatives across our organization.
 
 ## **What work are our cardano continuity suppliers doing?**
 
