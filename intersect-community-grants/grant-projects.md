@@ -4,7 +4,7 @@ description: >-
   on the project can be found by clicking on the name of the builder.
 ---
 
-# Grant projects
+# Grant projects 2024
 
 ## Cohort 1 - **Governance Tech**
 
@@ -34,7 +34,7 @@ The education and multimedia category has been set up for builders to develop mu
 
 The “Open” grant category is available for members to propose new tools that have not already been funded through any other categories, are not adequately addressed, or are not built at all. These proposals should aim to create new features and complement other tools being built in the ecosystem.
 
-<table><thead><tr><th width="157">Builder Name</th><th width="125">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-3/open-category/cardano-governance-minimum-attack-vector-mav-dashboard">Ryan Wiley</a></td><td>In progress</td><td>Cardano Governance MAV Dashboard: To display real-time governance action data through donut charts.</td></tr><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-3/open-category/cip-95-support-for-cardano-transaction-library-ctl">MLabs</a></td><td>Complete</td><td>Update the The Cardano-Transaction-Library to support new Conway primitives and implement a CIP-95-enabled wallet connector.</td></tr><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-3/open-category/stable-coin">Appold</a></td><td>In progress</td><td>Research paper into the feasibility, advantages, and challenges of onboarding USDT (Tether) and USDC (USD Coin) natively onto the Cardano blockchain. This research aims to explore potential benefits, risks, technical considerations and costs associated with integrating these stablecoins into the Cardano ecosystem.</td></tr></tbody></table>
+<table><thead><tr><th width="157">Builder Name</th><th width="125">Status</th><th>End Deliverable</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-3/open-category/cardano-governance-minimum-attack-vector-mav-dashboard">Ryan Wiley</a></td><td>In progress</td><td>Cardano Governance MAV Dashboard: To display real-time governance action data through donut charts.</td></tr><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-3/open-category/cip-95-support-for-cardano-transaction-library-ctl">MLabs</a></td><td>Complete</td><td>Update the The Cardano-Transaction-Library to support new Conway primitives and implement a CIP-95-enabled wallet connector.</td></tr><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-3/open-category/stable-coin">Appold</a></td><td>Complete</td><td>Research paper into the feasibility, advantages, and challenges of onboarding USDT (Tether) and USDC (USD Coin) natively onto the Cardano blockchain. This research aims to explore potential benefits, risks, technical considerations and costs associated with integrating these stablecoins into the Cardano ecosystem.</td></tr></tbody></table>
 
 ***
 
