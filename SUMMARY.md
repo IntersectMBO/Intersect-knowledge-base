@@ -189,7 +189,7 @@
     * [A Grant to implement the translation tool](intersect-community-grants/closed-grants/inclusion-and-accessibility-phase-2/a-grant-to-implement-the-translation-tool.md)
     * [Grants to translate GovTool and the Constitutional Committee Portal](intersect-community-grants/closed-grants/inclusion-and-accessibility-phase-2/grants-to-translate-govtool-and-the-constitutional-committee-portal.md)
     * [Grants to translate the Interim Constitution](intersect-community-grants/closed-grants/inclusion-and-accessibility-phase-2/grants-to-translate-the-interim-constitution.md)
-* [Grant projects](intersect-community-grants/grant-projects.md)
+* [Grant projects 2024](intersect-community-grants/grant-projects.md)
 * [Key terms](intersect-community-grants/key-terms/README.md)
   * [Cardano Improvement Proposal (CIP)](intersect-community-grants/key-terms/cardano-improvement-proposal-cip.md)
   * [CIP-1694](intersect-community-grants/key-terms/cip-1694.md)
