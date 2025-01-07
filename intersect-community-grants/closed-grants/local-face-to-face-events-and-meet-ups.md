@@ -25,7 +25,7 @@ _Following the constitutional workshop, the host will be required to:_
 
 As with any other grant, the same [application and review process will apply](https://docs.intersectmbo.org/intersect-community-grants/application-process). If you are successful, all liability and responsibility for the event will be with the host, not Intersect.
 
-If you are interested in running an event like this, please complete [this form](https://mpc.intersectmbo.org/local-events) and we will get back to you. **This grant category is currently capped at 40 workshops**. **We have already awarded 10.**
+If you are interested in running an event like this, please complete [this form](https://mpc.intersectmbo.org/local-events). **This category is currently closed.**
 
 {% hint style="info" %}
 Please schedule your event for no earlier than mid-July to allow us time to award and set you up to go!&#x20;
