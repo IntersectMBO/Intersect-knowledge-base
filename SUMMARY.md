@@ -222,6 +222,7 @@
 ## Intersect Team
 
 * [Open positions](intersect-team/open-positions/README.md)
+  * [Social media and content manager](intersect-team/open-positions/social-media-and-content-manager.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
   * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)
   * [Financial Controller](intersect-team/closed-positions/financial-controller.md)
