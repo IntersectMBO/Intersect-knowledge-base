@@ -111,6 +111,7 @@
         * [Milestone report November 2024](cardano/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-november-2024.md)
 * [Cardano economy](cardano/cardano-economy/README.md)
   * [Cardano treasury](cardano/cardano-economy/cardano-treasury.md)
+* [Cardano Ecosystem - DReps](cardano/cardano-ecosystem-dreps.md)
 
 ## Annual member meetings
 
