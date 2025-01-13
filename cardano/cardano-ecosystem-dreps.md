@@ -1,8 +1,8 @@
 # Cardano Ecosystem - DReps
 
-This snapshot provides an overview of the DReps ecosystem within the Cardano governance framework, as of January 10, 2025.
+This snapshot provides an overview of the DReps ecosystem within the Cardano governance framework, as of January 13, 2025.
 
-<figure><img src="../.gitbook/assets/Dreps.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jan 13.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Influence Power represents the proportion of total active voting power held by a DRep. It is calculated by dividing the DRep's total active voting power by the total ADA delegated to all DReps.
