@@ -1,4 +1,8 @@
-# 13th May 2024 - Intersect Membership Agreement
+---
+description: This version is from the 13th of May 2024
+---
+
+# Intersect Membership Agreement V1
 
 ## MEMBERSHIP AGREEMENT
 

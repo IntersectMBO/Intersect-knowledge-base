@@ -248,7 +248,7 @@
   * [Conflict of Interest](legal/policies-and-conditions/conflict-of-intereset.md)
   * [Transparent Dealings Policy](legal/policies-and-conditions/transparent-dealings-policy.md)
 * [Intersect Membership Agreements](legal/intersect-membership-agreements/README.md)
-  * [13th May 2024 - Intersect Membership Agreement](legal/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement.md)
+  * [Intersect Membership Agreement V1](legal/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement.md)
 
 ## Glossary
 
