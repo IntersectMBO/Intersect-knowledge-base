@@ -1,3 +1,9 @@
+---
+description: >-
+  The following information relates to the Interim Constitutional Committee
+  elections that were held in 2024 and are being kept for archival purposes.
+---
+
 # Interim CC elections
 
 **\*Voting is now closed**

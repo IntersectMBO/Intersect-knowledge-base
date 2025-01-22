@@ -20,7 +20,9 @@ Currently, an interim constitution is in place to keep the blockchain safe and s
 
 <summary>Interim constitution</summary>
 
-In Q2 2024, the interim Cardano constitution will be published for community review and included in the genesis files when the community approves Chang update #1. The interim constitution is not a fully elaborated constitution, but a set of essential rules that are designed to ensure Cardano maintains stability during the interim period that Cardano’s governance will go through during 2024. The interim constitution will be interpreted by the interim constitutional committee who will vote on the constitutionality of governance actions (as described in CIP-1694).
+This interim constitution provides the basic rules needed to implement CIP-1694. It's temporary and will be replaced by a final constitution, which Ada holders will ratify in late 2024 or early 2025. The final version may be quite different, depending on what the Cardano community wants.
+
+With these guardrails in place, the interim Constitutional Committee will focus on the technicality and base constitutionality of the very first community-submitted on-chain governance actions, upholding the interim constitution.
 
 </details>
 
