@@ -6,15 +6,13 @@
 
 ### About Intersect <a href="#about-intersect" id="about-intersect"></a>
 
-Intersect’s mission for 2025 is to empower and enable its members to actively shape Cardano’s future by delivering Cardano’s budget and product roadmap, enhancing Cardano’s on-chain governance, and fostering the developer ecosystem. Underpinning the latter, we want to further build out Cardano’s open-source resilience and innovation by expanding support for projects and creating new opportunities for ecosystem growth through networking, collaboration, and partnerships.
-
-Our commitment to delivering Cardano’s product roadmap and enhancing Cardano’s on-chain governance, will empower our members to shape a decentralized future that is adaptable, secure, and open.
-
-We’re looking for a skilled social media & content manager to ensure our members’ progress, outputs, and contributions are effectively communicated across all our channels. Read more about our [values](https://docs.intersectmbo.org/intersect-team/open-positions/social-media-and-content-manager#about-intersect)
+Cardano was founded on the belief that the current global legacy architecture is outdated and no longer fit for purpose. Intersect, as a non-profit member-based organization, is here to support the evolution of Cardano’s on-chain governance and advance its core infrastructure development through our members and distributed development. \
+\
+This also includes facilitating a budget process to propose to fund a diverse roadmap that matches ecosystem priorities-submitted as governance actions for on-chain approval by ada holders.&#x20;
 
 ### **Job Summary**
 
-We are seeking an experienced and detail-oriented Finance Lead to oversee and manage the financial operations of our organization. The ideal candidate will have a strong accounting background, an in-depth understanding of financial management principles, and a proven track record of leadership in finance roles. This position is integral to ensuring financial health, compliance, and strategic planning for the company.
+We are seeking an experienced and detail-oriented Finance Lead to oversee and manage the financial operations of our member-based organization. The ideal candidate will have a strong accounting background, an in-depth understanding of financial management principles, and a proven track record of leadership in finance roles. This position is integral to ensuring financial health, compliance, and strategic planning for the organization, and in-turn, providing rigorous and transparent finance leadership for the Cardano ecosystem.
 
 ### **Key Responsibilities**
 
@@ -32,7 +30,7 @@ We are seeking an experienced and detail-oriented Finance Lead to oversee and ma
    * Develop and monitor key performance indicators (KPIs) to measure financial health.
    * Assess financial risks and develop strategies to mitigate them.
 4. **Compliance and Audit:**
-   * Ensure compliance with all financial regulations and company policies.
+   * Ensure compliance with all financial regulations and organization policies.
    * Coordinate and manage internal and external audits.
    * Stay updated on changes in tax laws, accounting standards, and financial regulations.
 5. **Team Leadership:**
@@ -64,6 +62,8 @@ We are seeking an experienced and detail-oriented Finance Lead to oversee and ma
 * Growth opportunities: Collaborate with community and ecosystem domain experts, benefit from ongoing learning, and explore career advancement.
 * Collaborative environment: Join a passionate team focused on supporting our members and the Cardano ecosystem.
 * Flexible working: Remote-friendly setup with the possibility of in-person meetups, depending on location and preference.
+
+Read more about our values [here](finance-lead.md#about-intersect)
 
 ***
 
