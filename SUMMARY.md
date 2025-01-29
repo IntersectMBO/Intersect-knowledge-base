@@ -27,6 +27,7 @@
 * [Intersect groups (working & special interest)](intersect-overview/intersect-groups-working-and-special-interest.md)
 * [Intersect development updates](intersect-overview/intersect-development-updates.md)
 * [Support and contacts](intersect-overview/support-and-contacts.md)
+* [Jump in - key member initiatives](intersect-overview/jump-in-key-member-initiatives.md)
 
 ## Cardano
 
@@ -37,7 +38,9 @@
       * [Translated Interim Constitution](cardano/cardano-governance/cardano-constitution/interim-cardano-constitution/translated-interim-constitution.md)
     * [Delegate Endorsed Cardano Constitution](cardano/cardano-governance/cardano-constitution/delegate-endorsed-cardano-constitution/README.md)
       * [Hash](cardano/cardano-governance/cardano-constitution/delegate-endorsed-cardano-constitution/hash.md)
+      * [Translations](cardano/cardano-governance/cardano-constitution/delegate-endorsed-cardano-constitution/translations.md)
       * [Previous versions of the Cardano Constitution](cardano/cardano-governance/cardano-constitution/delegate-endorsed-cardano-constitution/previous-versions-of-the-cardano-constitution.md)
+    * [Constitution Vote - All you need to know](cardano/cardano-governance/cardano-constitution/constitution-vote-all-you-need-to-know.md)
   * [Governance roles](cardano/cardano-governance/governance-roles/README.md)
     * [General ada holders](cardano/cardano-governance/governance-roles/general-ada-holders.md)
     * [Delegated Representatives (DReps)](cardano/cardano-governance/governance-roles/delegated-representatives-dreps.md)
