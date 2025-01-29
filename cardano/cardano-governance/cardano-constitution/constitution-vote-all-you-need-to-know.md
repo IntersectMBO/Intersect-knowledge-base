@@ -95,11 +95,9 @@ Ada owners who do not want to actively vote on governance actions can select a D
 
 Many regular DReps are available to choose from. You can differentiate DReps based on their published profile, voting stances, existing ada delegation, and whether they have published a Code of Conduct or voting procedures.
 
-For reference, here is a draft Code of Conduct produced by members of the community.
+For reference, here is a draft [Code of Conduct](https://github.com/IntersectMBO/drep-code-of-conduct) produced by members of the community.
 
-[English DRep Code of Conduct](https://docs.google.com/document/d/1kkQci-LbM8GLHuNacnfvvj4bgSeOuBqa/edit?usp=drive_link\&ouid=116765686612355127759\&rtpof=true\&sd=true)
 
-[Portuguese DRep Code of Conduct](https://docs.google.com/document/d/1VVxfM6REvVHkorMOKbxsiXKj-D4TOyjl/edit?usp=drive_link\&ouid=116765686612355127759\&rtpof=true\&sd=true)
 
 \
 
