@@ -28,17 +28,19 @@ Depending on the type of governance action, a combination of the three roles abo
 
 ### The Cardano Constitution
 
-#### **Interim**
+#### [**Interim**](cardano-constitution/interim-cardano-constitution/)
 
-In Q2 2024, the Interim Cardano Constitution will be published for community review and included in the genesis files when the community approves Chang Update #1. The Interim Constitution is not a fully elaborated constitution, but rather a set of essential rules that are designed to ensure Cardano maintains stability during the interim period that Cardano’s governance will go through during 2024. The Interim Constitution will be interpreted by the Interim Constitutional Committee who will vote on the constitutionality of governance actions (as described in CIP-1694).
+In Q2 2024, the Interim Cardano Constitution was published for community review and included in the genesis files when the community approved Chang Update #1. The Interim Constitution is not a fully elaborated constitution, but rather a set of essential rules that were designed to ensure Cardano maintained stability during the interim period that Cardano’s governance would go through during 2024. For now, the Interim Constitution is still in effect and is being interpreted by the Interim Constitutional Committee who votes on the constitutionality of governance actions (as described in CIP-1694).
 
-#### **Draft**
+#### [**Draft**](cardano-constitution/delegate-endorsed-cardano-constitution/)
 
-Later in Q2 of 2024, the drafting process will begin with the aim to move towards a final version ratified later in the year. The draft will serve as the primary input to global community workshops throughout 2024. With community input, the Draft Constitution may build upon the essential guardrails described in the Interim into a more holistic set of principles and rules. &#x20;
+Later in Q2 of 2024, the drafting process began with the aim to move towards a final version ratified later in the year. The draft served as the primary input to global community workshops throughout 2024. With community input, the Draft Constitution built upon the essential guardrails described in the Interim into a more holistic set of principles and rules.
 
-#### **Final**
+A total of 63 workshops were held with more than 1400 contributors. The final version of the draft was voted on by elected delegates from every workshop during the [Constitutional Convention](https://cardanoconvention.com/) held in Buenos Aires and Nairobi in December 2024 with a resounding 95% votes in favor.
 
-The final version of the constitution will be both ratified at a constitutional convention composed of community delegates, and voted on by ada holders and ratified using the on-chain mechanisms described in democratic consent. The final version of the constitution will, like the draft, set forth principles and rules for Cardano, but will be the version suggested by the community through a year long consultation process&#x20;
+#### [**Cardano Blockchain Ecosystem Constitution**](cardano-constitution/delegate-endorsed-cardano-constitution/)
+
+Following the Constitutional Convention, the delegate-approved Cardano Blockchain Ecosystem Constitution will be submitted as an Update Constitution governance action that will be voted on by DReps and the Interim Constitutional Committee for its ratification and thereby replacing the Interim Constitution, signalling Cardano fully entering the age of Voltaire.
 
 ### Institutions
 
