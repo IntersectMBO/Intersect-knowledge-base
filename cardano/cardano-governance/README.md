@@ -7,6 +7,3 @@ Via its committees and working groups, Intersect provides support to the Cardano
 Furthermore, Intersect is one member of the Interim Constitutional Committee. This is seat is managed by the Intersect Constitutional Council.
 
 More information about the Intersect Constitutional Council can be found below
-
-{% embed url="https://intersect.gitbook.io/constitutional-council-of-intersect" %}
-

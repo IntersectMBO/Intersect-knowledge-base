@@ -55,7 +55,9 @@ _Jo Allum, Mark Byers, Oscar Hong, Phil Lewis, Ha Nguyen, Yuki Oishi_
 ### 7. Intersect
 
 _Intersect's Council is led by the following voting members:_\
-_Eystein Hansen, Ian Hartwell, HOSKY, Mauro Andreoli, Juan Sierra, Ubio Obu, Jose Gamboa, and Nicodemus Rodriguez_&#x20;
+_Eystein Hansen, Ian Hartwell, HOSKY, Mauro Andreoli, Juan Sierra, Ubio Obu, Jose Gamboa, and Nicodemus Rodriguez._&#x20;
+
+_You can recap minutes and voting history with rationales_ [_here_](https://intersect.gitbook.io/constitutional-council-of-intersect)_._
 
 _---_
 
