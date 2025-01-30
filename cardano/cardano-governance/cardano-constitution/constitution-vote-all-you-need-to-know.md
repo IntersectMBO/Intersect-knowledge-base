@@ -54,9 +54,9 @@ Translations
 
 
 
-_<mark style="color:orange;">If you want to better understand the background, rationale, or meaning of the text, read these explainer documents.</mark>_
+If you want to better understand the background, rationale, or meaning of the text, read these explainer documents.
 
-
+[Supplemental information for the Constitution text](https://drive.google.com/file/d/1-LYzFLu6G6KR-AozJ-JhPSvkAvRbyoEQ/view?usp=drive_link)
 
 [Technical Rationale for the Cardano Blockchain Guardrails Appendix](https://docs.google.com/document/d/1FDVnDwugtA5RlgH8a-_8pWL_W-VGvMYA/edit#heading=h.nwl3m6aco3bb)
 
