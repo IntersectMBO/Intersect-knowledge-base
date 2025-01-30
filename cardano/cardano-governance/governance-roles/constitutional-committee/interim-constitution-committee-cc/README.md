@@ -4,8 +4,7 @@
 
 Like the interim Constitution, there is an interim Constitutional Committee (ICC) to enable the first stage of the Chang upgrade. The ICC focuses on the technicality and base constitutionality of the very first community-submitted on-chain governance actions. Through the technical aptitude and expertise required to interpret the interim constitution and to submit CC votes, the ICC fulfills an important role in maintaining the Cardano blockchain’s stability and security during the[ interim period.](https://www.intersectmbo.org/news/cardanos-governance-key-terms-and-milestones)
 
-Held in checks and balances through the governance design described in CIP-1694, the ICC is bound by the thresholds and safeguards put upon it, and has a limited scope while the final constitution continues to be drafted through its consultation period.\
-
+Held in checks and balances through the governance design described in CIP-1694, the ICC is bound by the thresholds and safeguards put upon it, and has a limited scope while the final constitution continues to be drafted through its consultation period.
 
 ### Composition and remit of the ICC
 
@@ -22,9 +21,7 @@ The three remaining seats were elected from the Cardano community. The iCC striv
 
 ICC members are not remunerated; however a support package via an administrative function at Intersect helps to cover such expenses as for administration, communications, technical and legal support, and education and training.
 
-\
-The Interim Constitution Committee Election
--------------------------------------------
+### The Interim Constitution Committee Election
 
 The ICC election saw 455, 779, 792, 149, 846 (455, 779, 792 ada) staked and 1947 unique votes. We are pleased to announce the outcome, and confirm the remaining three seats on Cardano’s interim Constitutional Committee.
 
@@ -56,6 +53,11 @@ _Jo Allum, Mark Byers, Oscar Hong, Phil Lewis, Ha Nguyen, Yuki Oishi_
 ### 6. EMURGO
 
 ### 7. Intersect
+
+_Intersect's Council is led by the following voting members:_\
+_Eystein Hansen, Ian Hartwell, HOSKY, Mauro Andreoli, Juan Sierra, Ubio Obu, Jose Gamboa, and Nicodemus Rodriguez_&#x20;
+
+_---_
 
 Our sincere congratulations to the [Cardano Atlantic Council](https://intersect.gitbook.io/2024-constitutional-committee-members-election/candidates/the-cardano-atlantic-council), [Cardano Japan](https://intersect.gitbook.io/2024-constitutional-committee-members-election/candidates/cardano-japan), and [Eastern Cardano Council](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LQX9Yzpr2CgxQjPsjkZf/candidates/eastern-cardano-council) who have been elected by the community as their top three preferred candidates. In addition, congratulations to Mauro Agustín Andreoli, Scientific Analytical Tools LLC, and Joshua Stone who are confirmed as alternates in the event one (or more) from the top 3 decline to sit on the ICC.
 
