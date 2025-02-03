@@ -1,6 +1,6 @@
 # Translations
 
-
+The following translations have been provided by community members [Ha Nguyen](https://x.com/Hahero7), [Oscar West](https://x.com/OscarW3st), and various Cardano Ambassadors via the Cardano Foundation.
 
 {% file src="../../../../.gitbook/assets/French (legal translation of the articles only)" %}
 
