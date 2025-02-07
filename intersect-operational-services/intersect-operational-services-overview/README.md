@@ -20,8 +20,11 @@ Below is a diagram showing how the Intersect Operational Services Team has been 
 
 Below is a 6 month timeline representing at a high level:
 
-* When funding will become available&#x20;
-* When tenders can be open
+* When funding will become available (subject to treasury withdrawal)
+* When tendering can commence
 * When new procurement tooling will be ready to support the process
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+
+
