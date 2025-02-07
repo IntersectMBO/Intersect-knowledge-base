@@ -9,11 +9,11 @@ The Budget Committee is responsible for ensuring that the community-approved bud
 
 ## The Budget Process <a href="#the-budget-process" id="the-budget-process"></a>
 
-Cardano Development Holdings (CDH _previously known as CDF)_ operates a pool of funds for use to benefit the Cardano blockchain and the development of the Cardano ecosystem. All project funding will come from the CDH with Intersect appointed to administer the funds on its behalf.
+Cardano Development Holdings (CDH) operates a pool of funds for use to benefit the Cardano blockchain and the development of the Cardano ecosystem. All project funding will come from the CDH with Intersect appointed to administer the funds on its behalf.
 
 Below is a diagram showing how the Committee's budgets will be managed:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Financial Transparency <a href="#financial-transparency" id="financial-transparency"></a>
 
