@@ -19,7 +19,7 @@ Cardano's treasury is funded through two methods {[source](https://quality-assur
 
 **Blockchain fees to process transactions** - the proportion of the treasury funded from blockchain fees rather than from Cardano reserves will increase over time. There is also the unspent treasury carried forward from the previous period. The temporal units in Cardano are Epochs. Which means the treasury gets topped up every Epoch by expansion from the reserves and fees.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Source: <a href="https://quality-assurance-dao.gitbook.io/community-governance-oversight/catalyst-parameters/governance-parameters/cardano-treasury-with-kevin-hammond">Cardano Treasury - Community Governance Oversight</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Source: <a href="https://quality-assurance-dao.gitbook.io/community-governance-oversight/catalyst-parameters/governance-parameters/cardano-treasury-with-kevin-hammond">Cardano Treasury - Community Governance Oversight</a></p></figcaption></figure>
 
 {Source [CEX explorer](https://cexplorer.io/supply)}; Every 5 days, 0.3% is taken from the reserve together with collected fees and both are used for the epoch reward. From this amount, 20% is taken and put into the treasury. That's roughly 5.5M ADA every epoch. As the reserve declines, so do the contributions to the treasury. It is expected that in the future the income from the reserve will be gradually replaced by the income from fees, and subsequently network growth.
 
