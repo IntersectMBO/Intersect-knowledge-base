@@ -13,7 +13,7 @@
   * [Intersect support for Cardano's Governance](intersect-overview/working-on-cardano/intersect-support-for-cardanos-governance.md)
   * [Intersect support for Cardano Product](intersect-overview/working-on-cardano/intersect-support-for-cardano-product.md)
   * [Intersect support for Cardano Budget](intersect-overview/working-on-cardano/intersect-support-for-cardano-budget.md)
-  * [Managing delivery partners](intersect-overview/working-on-cardano/managing-delivery-partners/README.md)
+  * [Delivery Assurance](intersect-overview/working-on-cardano/managing-delivery-partners/README.md)
     * [Change Management Process Overview](intersect-overview/working-on-cardano/managing-delivery-partners/change-management-process-overview.md)
 * [Intersect committees](intersect-overview/intersect-committees/README.md)
   * [Intersect Steering committee](intersect-overview/intersect-committees/intersect-steering-committee.md)
