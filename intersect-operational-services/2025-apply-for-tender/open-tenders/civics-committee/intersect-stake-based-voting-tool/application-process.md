@@ -11,3 +11,5 @@ Generally, we consider the following criteria:
 * **Impact:** Does the proposal have the potential to positively impact the Cardano Community?
 * **Feasibility / Capability:** Is the proposal feasible, and does the proposer have the capability to deliver the project successfully and manage Treasury funds properly?
 * **Resources / Value for money:** Does the proposal represent good value for the treasury and community?
+
+**If you'd like to apply, please go to the application form** [**here**](https://mpc.intersectmbo.org/funding-application)**.**

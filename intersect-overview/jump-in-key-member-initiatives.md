@@ -4,6 +4,11 @@ description: This page gives quick access to current most important topics
 
 # Jump in - key member initiatives
 
+## Intersect Operational Services
+
+* Read about [Intersect Operational Services Team](https://docs.intersectmbo.org/intersect-operational-services/intersect-operational-services-overview) and how we can support you.
+* 2025 Apply for Tender - [see what's open](https://docs.intersectmbo.org/intersect-operational-services/2025-apply-for-tender/open-tenders)
+
 ## Plomin Upgrade
 
 The latest Cardano Upgrade which brings full governance
