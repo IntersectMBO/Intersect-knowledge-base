@@ -25,7 +25,7 @@
 
 Key open source requirements
 
-1. The section needs to follow the same apache 2.0 of the overall govtool
+1. The section needs to follow the same apache 2.0
 2. The applicant accepts to create full documentation to allow open contribution
 
 #### IP rights

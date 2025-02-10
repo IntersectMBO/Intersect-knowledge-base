@@ -15,8 +15,8 @@ Starting from the CC elections, which would be a regular event, Intersect needs 
 The ideal outcome of this tender is a user-friendly, secure, and adaptable open-source voting tool that can be readily deployed for voting events within the Cardano community. The tool should be:
 
 * **Based on an existing open-source platform** (ex. [Cardano Ballot](https://github.com/cardano-foundation/cf-cardano-ballot)): This will ensure a solid foundation, minimize development time, and avoid adding another voting tool to the ecosystem.
-* **Customizable:** The tool should be easily adaptable to different voting scenarios, including varying electorates, candidate slates, and voting mechanisms. It should support different types of voting types such as simple majority, simple majority multiselection voting, ranked choice, threshold
-* **Secure and Transparent:** The voting process must be secure and transparent, ensuring the integrity of the results and maintaining voter confidence.
+* **Customizable:** The tool should be easily adaptable to different voting scenarios, including varying electorates, candidate slates, and voting mechanisms. It should support different types of voting types such as simple majority, simple majority multiselection voting, ranked choice, threshold. Supporting running multiple parallel voting events at once.
+* **Secure and Transparent:** The voting process must be secure and transparent, ensuring the integrity of the results and maintaining voter confidence. The votes should be able to be verified by a third party and should have the option for public and private votes.
 * **Open Source:** The final product should remain open source, allowing other organizations and communities within the Cardano ecosystem to benefit from and contribute to its development.\
 
 
