@@ -1,6 +1,6 @@
 # 2025 Apply for tender
 
-Please visit the Open Tender board on the next page to see which categories are currently open.
+Please visit the [Open Tender board](https://docs.intersectmbo.org/intersect-operational-services/2025-apply-for-tender/open-tenders) on the next page to see which categories are currently open.
 
 ## Application Process
 
