@@ -8,19 +8,19 @@ description: Definitions and explanations to help level-set
 
 A few key terms and definitions mentioned in this brief related to Cardano’s on-chain governance:
 
-[cardano-improvement-proposal-cip.md](../../key-terms/cardano-improvement-proposal-cip.md "mention")
+[cardano-improvement-proposal-cip.md](../../../2025-apply-for-tender/key-terms/cardano-improvement-proposal-cip.md "mention")
 
-[cip-1694.md](../../key-terms/cip-1694.md "mention")
+[cip-1694.md](../../../2025-apply-for-tender/key-terms/cip-1694.md "mention")
 
-[governance-action-ga.md](../../key-terms/governance-action-ga.md "mention")
+[governance-action-ga.md](../../../2025-apply-for-tender/key-terms/governance-action-ga.md "mention")
 
-[anchor.md](../../key-terms/anchor.md "mention")
+[anchor.md](../../../2025-apply-for-tender/key-terms/anchor.md "mention")
 
-[metadata-from-anchor.md](../../key-terms/metadata-from-anchor.md "mention")
+[metadata-from-anchor.md](../../../2025-apply-for-tender/key-terms/metadata-from-anchor.md "mention")
 
-[proposal.md](../../key-terms/proposal.md "mention")
+[proposal.md](../../../2025-apply-for-tender/key-terms/proposal.md "mention")
 
-[proposal-id.md](../../key-terms/proposal-id.md "mention")
+[proposal-id.md](../../../2025-apply-for-tender/key-terms/proposal-id.md "mention")
 
 ## Resources
 
@@ -28,7 +28,7 @@ A few key terms and definitions mentioned in this brief related to Cardano’s o
 
 * [CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380)
 * [CIP-0095](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0095/README.md)
-* [Governance metadata standard CIP](https://gist.github.com/Quantumplation/56ef2ffccb05f5d2974fd17240dc406c?permalink\_comment\_id=4555999)
+* [Governance metadata standard CIP](https://gist.github.com/Quantumplation/56ef2ffccb05f5d2974fd17240dc406c?permalink_comment_id=4555999)
 
 #### Ledger and SanchoNet
 
