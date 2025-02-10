@@ -1,5 +1,7 @@
 # 2025 Apply for tender
 
+Please visit the Open Tender board on the next page to see which categories are currently open.
+
 ## Application Process
 
 1. Before applying, all members are expected to read and understand the eligibility criteria.
