@@ -1,6 +1,6 @@
 # Budget Management
 
-The Budget Committee is responsible for ensuring that the community-approved budget is effectively managed, tracked, and delivered according to mandates. While they oversee these budgets, Intersect’s Core Services team handles the operational day-to-day expenditures. Their key responsibilities include:
+[The Budget Committee](https://budgetcommittee.docs.intersectmbo.org/) is responsible for ensuring that the community-approved budget is effectively managed, tracked, and delivered according to mandates. While they oversee these budgets, Intersect’s Core Services team handles the operational day-to-day expenditures. Their key responsibilities include:
 
 * **Budget Sheet Management**: Each committee has a dedicated budget sheet tracking expenditures.
 * **Procurement & Delivery Tracking**: Monitoring each phase of contract completion.
