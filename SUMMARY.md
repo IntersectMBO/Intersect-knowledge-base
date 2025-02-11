@@ -264,6 +264,7 @@
   * [Roberts Rules of Order – Simplified](legal/policies-and-conditions/roberts-rules-of-order-simplified.md)
   * [Conflict of Interest](legal/policies-and-conditions/conflict-of-intereset.md)
   * [Transparent Dealings Policy](legal/policies-and-conditions/transparent-dealings-policy.md)
+  * [Data Access and Confidentiality Policy](legal/policies-and-conditions/data-access-and-confidentiality-policy.md)
 * [Intersect Membership Agreements](legal/intersect-membership-agreements/README.md)
   * [Intersect Membership Agreement V1](legal/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement.md)
 
