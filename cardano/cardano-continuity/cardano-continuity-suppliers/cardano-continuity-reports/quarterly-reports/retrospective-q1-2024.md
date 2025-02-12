@@ -44,4 +44,4 @@ In a little over three months we have achieved a lot, but we understand that the
 * More regular delivery assurance updates and blog posts - we challenge ourselves to produce more regular and informative monthly and quarterly updates.
 * Introduction of members to the TSC to start shaping the future.&#x20;
 
-You can read about the delivery assurance team [here](../../../../../intersect-overview/working-on-cardano/managing-delivery-partners/), on our Intersect knowledge base. In case you missed it, our last continuity update blog post is [here](https://www.intersectmbo.org/news/cardano-continuity).
+You can read about the delivery assurance team [here](../../../../../intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/), on our Intersect knowledge base. In case you missed it, our last continuity update blog post is [here](https://www.intersectmbo.org/news/cardano-continuity).

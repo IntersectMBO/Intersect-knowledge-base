@@ -1,4 +1,4 @@
-# Delivery Assurance
+# Milestone Acceptance Process
 
 ## Milestone Acceptance Form Review & Sign-Off Process
 
@@ -17,15 +17,6 @@
 * F**inal Documentation & Distribution**\
   The signed milestone acceptance form is recorded and distributed to relevant stakeholders.
 
-## Delivery Assurance Responsibilities&#x20;
+## &#x20;Delivery Assurance Responsibilities&#x20;
 
-| Task                                                                         | Responsible               |
-| ---------------------------------------------------------------------------- | ------------------------- |
-| <ol><li>Submit milestone acceptance form</li></ol>                           | Supplier                  |
-| <ol start="2"><li>Validate and circulate to committee members</li></ol>      | Delivery Assurance        |
-| <ol start="3"><li>Review and provide feedback</li></ol>                      | Committee Members         |
-| <ol start="4"><li>Discuss in committee meeting</li></ol>                     | Committee Chair & Members |
-| <ol start="5"><li>If required, make final adjustments and resubmit</li></ol> | Supplier                  |
-| <ol start="6"><li>Sign off on the milestone acceptance form</li></ol>        | Committee Chair           |
-| <ol start="7"><li>Document and distribute signed form</li></ol>              | Delivery Assurance        |
-
+<table><thead><tr><th width="86" data-type="number">Step</th><th>Task</th><th>Responsible</th></tr></thead><tbody><tr><td>1</td><td>Submit milestone acceptance form</td><td>Supplier</td></tr><tr><td>2</td><td>Validate and circulate to committee members</td><td>Delivery Assurance</td></tr><tr><td>3</td><td>Review and provide feedback</td><td>Committee Members</td></tr><tr><td>4</td><td>Discuss in committee meeting</td><td>Committee Chair &#x26; Members</td></tr><tr><td>4</td><td>If required, make final adjustments and resubmit</td><td>Supplier</td></tr><tr><td>5</td><td>Sign off on the milestone acceptance form</td><td>Committee Chair</td></tr><tr><td>6</td><td>Document and distribute signed form</td><td>Delivery Assurance</td></tr></tbody></table>
