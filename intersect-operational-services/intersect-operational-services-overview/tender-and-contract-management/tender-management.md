@@ -6,7 +6,7 @@ Below is a diagram of how the Tender process works step by step:
 
 
 
-_Please note that this process can be tailored to the requirements of the committee._
+_Please note that this process can be tailored to the requirements of the committee_ and will be iterated and optimized as we progres&#x73;_._
 
 ## Timeline (8-10 weeks)
 
