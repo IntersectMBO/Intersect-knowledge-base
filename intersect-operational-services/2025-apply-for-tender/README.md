@@ -9,6 +9,6 @@ Please visit the [Open Tender board](https://docs.intersectmbo.org/intersect-ope
 3. Proposals will be reviewed to select the winner(s).
 4. All decisions are reviewed and ratified by an Intersect Committee.
 5. All proposers will be notified of the tender decision using the contact email provided in the submission. Decisions are expected \~4 weeks after applications close.
-6. Winners will be contacted to finalize contract details and initaite the process.
+6. Winners will be contacted to finalize contract details.
 
 To find answers to Frequently Asked Questions (FAQs), please click [here](https://intersect.gitbook.io/intersect-community-grants/overview/list-of-grant-faqs)
