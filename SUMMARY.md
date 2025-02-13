@@ -160,6 +160,7 @@
   * [Technical steering committee contracts](intersect-operational-services/2025-delivery-assurance-contract-updates/technical-steering-committee-contracts/README.md)
     * [Tweag - Ouroborus Peras protocol](intersect-operational-services/2025-delivery-assurance-contract-updates/technical-steering-committee-contracts/tweag-ouroborus-peras-protocol.md)
   * [Membership & community committee contracts](intersect-operational-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts.md)
+  * [Civics Committee](intersect-operational-services/2025-delivery-assurance-contract-updates/civics-committee.md)
 * [2024 Intersect Grants](intersect-operational-services/2024-intersect-grants/README.md)
   * [Closed grants](intersect-operational-services/2024-intersect-grants/closed-grants/README.md)
     * [Proposal discussion forum](intersect-operational-services/2024-intersect-grants/closed-grants/proposal-discussion-forum/README.md)
