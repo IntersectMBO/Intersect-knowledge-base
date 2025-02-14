@@ -17,6 +17,7 @@
   * [Intersect Steering committee](intersect-overview/intersect-committees/intersect-steering-committee.md)
   * [Civics committee](intersect-overview/intersect-committees/civics-committee.md)
   * [Membership and Community committee (MCC)](intersect-overview/intersect-committees/membership-and-community-committee-mcc.md)
+  * [Growth & Marketing Committee (GMC)](intersect-overview/intersect-committees/growth-and-marketing-committee-gmc.md)
   * [Technical Steering committee (TSC)](intersect-overview/intersect-committees/technical-steering-committee-tsc/README.md)
     * [Parameter committee (PC)](intersect-overview/intersect-committees/technical-steering-committee-tsc/parameter-committee-pc.md)
   * [Open Source committee (OSC)](intersect-overview/intersect-committees/open-source-committee-osc.md)
