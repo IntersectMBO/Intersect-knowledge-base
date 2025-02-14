@@ -14,7 +14,7 @@ The purpose of Intersect’s Operational Services is to support committee projec
 
 Below is a diagram showing how the Intersect Operational Services Team has been set up to support the committees with their contracts and budgets.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ## 6-month timeline - January to June 2025
 
