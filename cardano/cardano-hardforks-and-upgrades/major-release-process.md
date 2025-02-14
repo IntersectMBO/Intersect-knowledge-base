@@ -18,7 +18,7 @@ The below provides an outline of the role different roles that Intersect committ
 
 <figure><img src="https://lh7-us.googleusercontent.com/_pm-76XatL2iPHXSVhkovkyiNrCuKkbtZ8MIEANexJen4ux_w_Asj-v8zmi8It5vI1MhjJZ26rtmf72tY5WHhZ6xlYM7gh_sYyWQu3lbReyBBUGHAuPXIUFEu-kAPl6p4YTzlZV3asa5PxY=s2048" alt=""><figcaption><p>Release 1</p></figcaption></figure>
 
-[Continuity suppliers](../cardano-continuity/) play a crucial role in preparing for the upcoming hard fork by building a node that's ready for release.
+[Continuity suppliers](../../intersect-operational-services/cardano-continuity/) play a crucial role in preparing for the upcoming hard fork by building a node that's ready for release.
 
 <details>
 
@@ -64,17 +64,11 @@ When preparing for major updates such as hard forks, community feedback and prep
 
 * **SPOs (Stake Pool Operators) -** play a crucial role in maintaining the blockchain network. Testing with SPOs helps ensure that the new updates will work smoothly in the live network environment. It checks the stability and efficiency of the network from the perspective of those who operate the network nodes.
 
-<!---->
-
-* **Wallets -** are tested to ensure that they can safely and effectively manage and store the new types of transactions that might be introduced by the update. This testing helps prevent issues that could affect users' funds.
-
-<!---->
+- **Wallets -** are tested to ensure that they can safely and effectively manage and store the new types of transactions that might be introduced by the update. This testing helps prevent issues that could affect users' funds.
 
 * **Exchanges -** need to integrate seamlessly with any new blockchain features to allow for smooth trading and liquidity. Testing with exchanges ensures that they can handle transactions without any disruptions or security risks.
 
-<!---->
-
-* **DApps (Decentralized Applications) -** Since dApps operate directly on the blockchain, testing with dApps checks for compatibility issues and ensures that they continue to operate efficiently even after the updates are applied.&#x20;
+- **DApps (Decentralized Applications) -** Since dApps operate directly on the blockchain, testing with dApps checks for compatibility issues and ensures that they continue to operate efficiently even after the updates are applied.&#x20;
 
 </details>
 
@@ -90,11 +84,7 @@ Feedback and issues are iteratively collected, triaged, categorised and resolved
 
 * **Collecting Feedback -** continuity suppliers actively gather feedback from users, stakeholders, and the community. This feedback is essential as it provides insights into quality and what needs improvement.
 
-<!---->
-
-* **Major Issues -** using the feedback collected, continuity suppliers work to resolve all major issues that could disrupt the service or product performance. These could include technical issues, performance inefficiencies, or community deployment problems.
-
-<!---->
+- **Major Issues -** using the feedback collected, continuity suppliers work to resolve all major issues that could disrupt the service or product performance. These could include technical issues, performance inefficiencies, or community deployment problems.
 
 * **Resolving Issues -** once major issues are identified, the suppliers work on resolving them promptly. They prioritize these issues based on their impact and complexity.&#x20;
 
