@@ -18,7 +18,7 @@ The below provides an outline of the role different roles that Intersect committ
 
 <figure><img src="https://lh7-us.googleusercontent.com/_pm-76XatL2iPHXSVhkovkyiNrCuKkbtZ8MIEANexJen4ux_w_Asj-v8zmi8It5vI1MhjJZ26rtmf72tY5WHhZ6xlYM7gh_sYyWQu3lbReyBBUGHAuPXIUFEu-kAPl6p4YTzlZV3asa5PxY=s2048" alt=""><figcaption><p>Release 1</p></figcaption></figure>
 
-[Continuity suppliers](../../intersect-operational-services/cardano-continuity/) play a crucial role in preparing for the upcoming hard fork by building a node that's ready for release.
+[Continuity suppliers](../cardano-continuity/) play a crucial role in preparing for the upcoming hard fork by building a node that's ready for release.
 
 <details>
 

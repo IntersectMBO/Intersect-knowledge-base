@@ -44,7 +44,7 @@ Input Output Engineering is developing and testing the Cardano governance node i
 
 Over the month of August IOE engineering teams have supported the final checks and balances required prior to initiating the community-driven Chang hard fork into the Conway era.\
 \
-This includes management and completion of User story testing – results of which can be found here CIP 1694 User Story Testing \[[https://tests.cardano.intersectmbo.org/test\_results/requirements/chang\_user\_stories\_system\_tests.html#cip1694-user-stories](https://tests.cardano.intersectmbo.org/test\_results/requirements/chang\_user\_stories\_system\_tests.html#cip1694-user-stories)].\
+This includes management and completion of User story testing – results of which can be found here CIP 1694 User Story Testing \[[https://tests.cardano.intersectmbo.org/test\_results/requirements/chang\_user\_stories\_system\_tests.html#cip1694-user-stories](https://tests.cardano.intersectmbo.org/test_results/requirements/chang_user_stories_system_tests.html#cip1694-user-stories)].\
 \
 Final amendments, peer review and external audit of key scripts for governance guardrails and credentials management required for hard fork.\
 \

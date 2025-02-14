@@ -6,4 +6,4 @@ Utilizing Bitergia analytics, the report highlights significant updates and tren
 
 It details contributions from organizations like IOHK, Intersect MBO, and BinarApps, showing variations in their development efforts. The report also examines geographical distribution, project-specific insights, and repository activities, concluding with an emphasis on the robust and diverse open-source development within the Cardano community.
 
-{% file src="../../../../.gitbook/assets/Monthly Maturity Report - May 24 Published Version.pdf" %}
+{% file src="../../../../../.gitbook/assets/Monthly Maturity Report - May 24 Published Version.pdf" %}
