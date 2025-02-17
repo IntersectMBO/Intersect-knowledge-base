@@ -1,8 +1,8 @@
 # Tender Management
 
-Below is a diagram of how the Tender process works step by step:
+Below is a diagram of how the procurement process works step by step:
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3pPpH_cP5JeclkUeemUz73NKIuS8X1WnkuT-ajkdawjkgBqa0mTRfHY-3SnU1QRuHVJV3T4AMV7Sfd35ipQuoCHPHSB6QohvoZy9IRrvAeBkG6GmazZ954YEgF8LbTu_QH2j7WQ?key=Sy1QIGFEJ2GYOk-GMd7fErwO" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe29kWxBBeyBXGCUkzr1CC3ICv6svxOhjpgbBhiyUe4xkwaur2oGiOdvfl_v4e07yKql43lUUntz3g6Hi8ViobMt6sWhisgSnWS7mSXF8WdmLymdi9w-Ji4beeSucy4SEMVG51t3Q?key=Sy1QIGFEJ2GYOk-GMd7fErwO" alt=""><figcaption></figcaption></figure>
 
 _Please note that this process can be tailored to the requirements of the committee and will be iterated and optimized as we progress._
 

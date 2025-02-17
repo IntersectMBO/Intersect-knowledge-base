@@ -1,4 +1,4 @@
-# Grants evaluation criteria
+# Proposal evaluation criteria
 
 Proposals will be evaluated based on quality, and this includes the proposed solution and plan to execute. We will evaluate proposals using all of the information provided in the application, and are specifically looking for proposals with both a solution that meets or exceeds the requirements, as well as a demonstrated capability to execute, staying broadly aligned to the [public CIP-1694 roadmap.](https://www.intersectmbo.org/roadmap)
 

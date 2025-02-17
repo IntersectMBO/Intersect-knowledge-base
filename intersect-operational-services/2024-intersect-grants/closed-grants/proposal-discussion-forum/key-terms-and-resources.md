@@ -8,19 +8,19 @@ description: Definitions and explanations to help level-set
 
 A few key terms and definitions mentioned in this brief related to Cardano’s on-chain governance:
 
-[cardano-improvement-proposal-cip.md](../../../2025-request-for-proposal/key-terms/cardano-improvement-proposal-cip.md "mention")
+[cardano-improvement-proposal-cip.md](../../../2025-apply-for-tender/key-terms/cardano-improvement-proposal-cip.md "mention")
 
-[cip-1694.md](../../../2025-request-for-proposal/key-terms/cip-1694.md "mention")
+[cip-1694.md](../../../2025-apply-for-tender/key-terms/cip-1694.md "mention")
 
-[governance-action-ga.md](../../../2025-request-for-proposal/key-terms/governance-action-ga.md "mention")
+[governance-action-ga.md](../../../2025-apply-for-tender/key-terms/governance-action-ga.md "mention")
 
-[anchor.md](../../../2025-request-for-proposal/key-terms/anchor.md "mention")
+[anchor.md](../../../2025-apply-for-tender/key-terms/anchor.md "mention")
 
-[metadata-from-anchor.md](../../../2025-request-for-proposal/key-terms/metadata-from-anchor.md "mention")
+[metadata-from-anchor.md](../../../2025-apply-for-tender/key-terms/metadata-from-anchor.md "mention")
 
-[proposal.md](../../../2025-request-for-proposal/key-terms/proposal.md "mention")
+[proposal.md](../../../2025-apply-for-tender/key-terms/proposal.md "mention")
 
-[proposal-id.md](../../../2025-request-for-proposal/key-terms/proposal-id.md "mention")
+[proposal-id.md](../../../2025-apply-for-tender/key-terms/proposal-id.md "mention")
 
 ## Resources
 
