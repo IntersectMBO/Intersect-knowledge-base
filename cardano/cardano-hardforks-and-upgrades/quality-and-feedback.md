@@ -10,6 +10,6 @@ To raise a ticket, simply log an appropriate ticket on GitHub under the 'cardano
 
 A number of options are available, and select what you believe a best fit. All tickets will be triaged by a member of the joint technical teams and assigned a severity.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Example of Issue and Bug tickets available</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Example of Issue and Bug tickets available</p></figcaption></figure>
 
 Soon we hope to provide analytics, to track a wealth of health information associated with the repositories. As well as history and volume trending of issues and bugs, by a number of measures.

@@ -108,8 +108,7 @@
 ## Intersect Operational Services
 
 * [Intersect Operational Services Overview](intersect-operational-services/intersect-operational-services-overview/README.md)
-  * [Procurement Management](intersect-operational-services/intersect-operational-services-overview/procurement-management/README.md)
-    * [Tender Management](intersect-operational-services/intersect-operational-services-overview/procurement-management/tender-management.md)
+  * [Procurement Management](intersect-operational-services/intersect-operational-services-overview/procurement-management.md)
   * [Budget Management](intersect-operational-services/intersect-operational-services-overview/budget-management.md)
   * [Delivery Assurance](intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/README.md)
     * [Milestone Acceptance Process](intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/milestone-acceptance-process.md)
