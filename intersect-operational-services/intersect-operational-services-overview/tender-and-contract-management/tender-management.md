@@ -2,9 +2,7 @@
 
 Below is a diagram of how the Tender process works step by step:
 
-<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfmQB7AzGSfnXEeYVDvoa7LwJh6-F1dark5SX0kg80spVOb43WF3FTk9vkBNS0gtVvHsBVsS5gCymIEF_PRcdTh9jnWqkW69b3zC6uKcaB7151bRU4c75VcOhAc_GFYO-sqLGox8w=s2048?key=fOyo8gsidlkeIU38kOP4XYrE" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdGGiO96VKOz7fA2ftLpPz0MBHoG4UcTmHJRbzrc1TzWPR3sliLpzv8FKM7SHVm3ZBYL05MmoRUWUsDWAsNZHhhtdwFjc7vzKwBV8H_q9Iht_Yi5qNYRNFEm2lKtVOZBIsT8emjxg=s2048?key=RuBAl2IV6hXWifXoogYhFllb" alt=""><figcaption></figcaption></figure>
 
 _Please note that this process can be tailored to the requirements of the committee and will be iterated and optimized as we progress._
 
