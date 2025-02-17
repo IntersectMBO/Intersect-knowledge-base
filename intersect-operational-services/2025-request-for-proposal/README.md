@@ -1,6 +1,6 @@
-# 2025 Apply for tender
+# 2025 Request for Proposal
 
-Please visit the [Open Tender board](https://docs.intersectmbo.org/intersect-operational-services/2025-apply-for-tender/open-tenders) on the next page to see which categories are currently open.
+Please visit the [Open Proposal Board](https://docs.intersectmbo.org/intersect-operational-services/2025-apply-for-tender/open-tenders) on the next page to see which categories are currently open.
 
 ## Application Process
 

@@ -32,16 +32,16 @@ description: 'Cardano’s Voltaire - Glossary: key terms explained'
 [chang-upgrade.md](../../../cardano/cardano-governance/key-terms/chang-upgrade.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../intersect-operational-services/2025-apply-for-tender/key-terms/cip-30.md" %}
-[cip-30.md](../../../intersect-operational-services/2025-apply-for-tender/key-terms/cip-30.md)
+{% content-ref url="../../../intersect-operational-services/2025-request-for-proposal/key-terms/cip-30.md" %}
+[cip-30.md](../../../intersect-operational-services/2025-request-for-proposal/key-terms/cip-30.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../intersect-operational-services/2025-apply-for-tender/key-terms/cip-95.md" %}
-[cip-95.md](../../../intersect-operational-services/2025-apply-for-tender/key-terms/cip-95.md)
+{% content-ref url="../../../intersect-operational-services/2025-request-for-proposal/key-terms/cip-95.md" %}
+[cip-95.md](../../../intersect-operational-services/2025-request-for-proposal/key-terms/cip-95.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../intersect-operational-services/2025-apply-for-tender/key-terms/cip-1694.md" %}
-[cip-1694.md](../../../intersect-operational-services/2025-apply-for-tender/key-terms/cip-1694.md)
+{% content-ref url="../../../intersect-operational-services/2025-request-for-proposal/key-terms/cip-1694.md" %}
+[cip-1694.md](../../../intersect-operational-services/2025-request-for-proposal/key-terms/cip-1694.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../cardano/cardano-governance/key-terms/constitution.md" %}
