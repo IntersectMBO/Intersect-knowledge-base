@@ -108,12 +108,13 @@
 ## Intersect Operational Services
 
 * [Intersect Operational Services Overview](intersect-operational-services/intersect-operational-services-overview/README.md)
+  * [Key Terms](intersect-operational-services/intersect-operational-services-overview/key-terms.md)
   * [Procurement Management](intersect-operational-services/intersect-operational-services-overview/procurement-management.md)
   * [Budget Management](intersect-operational-services/intersect-operational-services-overview/budget-management.md)
   * [Delivery Assurance](intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/README.md)
     * [Milestone Acceptance Process](intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/milestone-acceptance-process.md)
-* [2025 Request for Proposal](intersect-operational-services/2025-apply-for-tender/README.md)
-  * [Open Tenders](intersect-operational-services/2025-apply-for-tender/open-tenders/README.md)
+* [2025 Request For Proposal (RFP)](intersect-operational-services/2025-apply-for-tender/README.md)
+  * [Open RFPs](intersect-operational-services/2025-apply-for-tender/open-tenders/README.md)
     * [Technical Steering Commitee](intersect-operational-services/2025-apply-for-tender/open-tenders/technical-steering-commitee.md)
     * [Product Committee](intersect-operational-services/2025-apply-for-tender/open-tenders/product-committee.md)
     * [Open Source Committee](intersect-operational-services/2025-apply-for-tender/open-tenders/open-source-committee.md)
