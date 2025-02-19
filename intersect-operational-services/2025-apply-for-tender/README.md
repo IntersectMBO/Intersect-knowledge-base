@@ -1,6 +1,6 @@
-# 2025 Request for Proposal
+# 2025 Request For Proposal (RFP)
 
-Please visit the [Open Tender Board](https://docs.intersectmbo.org/intersect-operational-services/2025-apply-for-tender/open-tenders) on the next page to see which categories are currently open.
+Please visit the [Open RFP Board](https://docs.intersectmbo.org/intersect-operational-services/2025-apply-for-tender/open-tenders) on the next page to see which categories are currently open.
 
 ## Application Process
 

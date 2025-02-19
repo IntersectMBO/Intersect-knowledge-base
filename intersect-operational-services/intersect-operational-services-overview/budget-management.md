@@ -13,7 +13,7 @@ Cardano Development Holdings (CDH) operates a pool of funds for use to benefit t
 
 Below is a diagram showing how the Committee's budgets will be managed:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Financial Transparency <a href="#financial-transparency" id="financial-transparency"></a>
 

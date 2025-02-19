@@ -4,11 +4,11 @@ Intersect Operational Services team oversees the entire procurement process, fro
 
 The Operational Services team facilitates each phase of the tender and contract lifecycle. Below is a diagram of how the process works.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 With a more in-depth view on the Request For Proposal (RFP) cycle below:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 _Please note that this process can be tailored to the requirements of the committee and will be iterated and optimized as we progress._
 
