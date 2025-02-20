@@ -43,6 +43,7 @@
   * [Governance roles](cardano/cardano-governance/governance-roles/README.md)
     * [General ada holders](cardano/cardano-governance/governance-roles/general-ada-holders.md)
     * [Delegated Representatives (DReps)](cardano/cardano-governance/governance-roles/delegated-representatives-dreps.md)
+      * [Register as a DRep](https://docs.gov.tools/cardano-govtool/using-govtool/dreps/register-as-a-drep)
     * [Stake Pool Operators (SPOs)](cardano/cardano-governance/governance-roles/stake-pool-operators-spos.md)
     * [Constitutional Committee](cardano/cardano-governance/governance-roles/constitutional-committee/README.md)
       * [Interim Constitution Committee (ICC)](cardano/cardano-governance/governance-roles/constitutional-committee/interim-constitution-committee-cc/README.md)
