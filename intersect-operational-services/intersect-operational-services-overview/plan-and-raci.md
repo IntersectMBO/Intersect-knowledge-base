@@ -58,4 +58,4 @@ Below is a 6 month timeline representing at a high level:
 
 Please click on table below for a closer look.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
