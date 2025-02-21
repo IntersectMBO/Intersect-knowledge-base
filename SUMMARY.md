@@ -152,6 +152,7 @@
     * [Byron Network - GovTool maintenance - voting & delegation pillars](intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/byron-network-govtool-maintenance-voting-and-delegation-pillars.md)
     * [Bloxico Group - DevOps support for governance tooling](intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/bloxico-group-devops-support-for-governance-tooling.md)
     * [Bloxico Group - CC Portal Maintenance](intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/bloxico-group-cc-portal-maintenance.md)
+  * [Budget committee](intersect-operational-services/2025-delivery-assurance-contract-updates/budget-committee.md)
   * [Growth & Marketing committee](intersect-operational-services/2025-delivery-assurance-contract-updates/growth-and-marketing-committee.md)
   * [Open source committee](intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/README.md)
     * [Bitergia - Analytics Subscription](intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/bitergia-analytics-subscription.md)
