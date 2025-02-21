@@ -30,7 +30,7 @@ By fulfilling these requirements, the chosen community builder will empower Inte
 
 ### Application Process:
 
-Interested developers should submit their application [here.](https://docs.intersectmbo.org/intersect-operational-services/2025-apply-for-tender/open-tenders/civics-committee/intersect-stake-based-voting-tool)
+Interested developers should submit their application [here](https://mpc.intersectmbo.org/funding-application).
 
 ### Information Sessions:
 
