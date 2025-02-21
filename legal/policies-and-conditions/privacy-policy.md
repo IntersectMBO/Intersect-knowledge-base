@@ -1,18 +1,18 @@
 # Privacy Policy
 
-Last updated July 11, 2023&#x20;
+Last updated February 18, 2025&#x20;
 
-Thank you for choosing to be part of our community at Intersect (“**Company**”, “**we**”, “**us**”, or “**our**”). This Privacy Policy applies to all personal information collected through this website and all of Company’s related websites, mobile apps, products, services, sales, marketing or events, including our plug-ins and browser extensions (collectively, the "**Products**"). We are committed to protecting your personal information. When you access or use our Products, you trust us with your personal information. In this Privacy Policy, we describe how we collect, use, store and share your personal information and what rights you have in relation to it. If there are any terms in this Privacy Policy that you do not agree with, please discontinue access and use of our Products. . Please read this Privacy Policy carefully as it will help you make informed decisions about sharing your personal information with us.&#x20;
+Thank you for choosing to be part of our community at Intersect (“**Company**”, “**we**”, “**us**”, or “**our**”). This Privacy Policy applies to all personal information collected through this website and all of Company’s related websites, mobile apps, products, services, sales, marketing or events, including our plug-ins and browser extensions (collectively, the "**Products**"). It also applies to our processing of the personal data of our members. We are committed to protecting your personal information. When you access or use our Products or become a member of Intersect (“Member”), you trust us with your personal information. In this Privacy Policy, we describe how we collect, use, store and share your personal information and what rights you have in relation to it. If there are any terms in this Privacy Policy that you do not agree with, please discontinue access and use of our Products. . Please read this Privacy Policy carefully as it will help you make informed decisions about sharing your personal information with us.&#x20;
 
 ## **1. Collection of Data**&#x20;
 
-Company collects several different types of information for various purposes in order to provide and improve the Product for your use.&#x20;
+Company collects several different types of information for various purposes in order to provide and improve the Product for your use and to interact with Members.&#x20;
 
 ### **Types of Data Collected**&#x20;
 
 #### **Personal Data**&#x20;
 
-While using the Product, Company may ask you to provide certain personally identifiable information that can be used to contact or identify you ("**Personal Data**"), which may include, but is not limited to:&#x20;
+While using the Product or engaging with us as a Member, we may ask you to provide certain personally identifiable information that can be used to contact or identify you ("**Personal Data**"), which may include, but is not limited to:&#x20;
 
 * Email address
 * First name and last name
@@ -28,7 +28,7 @@ Usage Information refers to all information collected from the Product such as w
 
 #### **IP Address**&#x20;
 
-When you use the Product, we may automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognized by our server.&#x20;
+When you use the Product or engage with us as a Member, we may automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognized by our server.&#x20;
 
 ## **2. Use of Data**&#x20;
 
@@ -41,6 +41,8 @@ Specifically Company uses your information for the purpose for which you provide
 * To monitor the usage of this Product.&#x20;
 * To detect, prevent and address technical issues.&#x20;
 * To provide you with news, special offers and general information about other goods, services and events which Company offers that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information.&#x20;
+
+We may also use your information in the course of monitoring or auditing data flows in connection with our business activities, in accordance with section 6 below. We may disclose your personal data to third party contractors for these purposes, but will always seek to anonymise and aggregate data used for such purposes wherever possible.
 
 Where and as permitted under applicable law, Company may process your contact information for direct marketing purposes (e.g. show invitations, newsletters) and to carry out customer satisfaction surveys, in each case also by email. You may object to the processing of your contact data for these purposes at any time by writing to [legal@inersectmbo.org](mailto:legal@inersectmbo.org) or by using the opt-out mechanism provided in the respective communication you received.&#x20;
 
@@ -73,13 +75,14 @@ Your information, including Personal Data, may be transferred to — and maintai
 
 ### **Legal Requirements**&#x20;
 
-Company may disclose your Personal Data in good faith belief that such disclosure is necessary to:&#x20;
+Company may disclose your Personal Data in good faith belief that such disclosure is necessary:&#x20;
 
 * To comply with a legal obligation.&#x20;
 * To protect and defend the rights or property of Company.&#x20;
 * To prevent or investigate possible wrongdoing in connection with the Product.
 * To protect the personal safety of users of the Product or the public.
-* To protect against legal liability.&#x20;
+* To protect against legal liability.
+* To monitor and audit data flows in connection with our business activities.
 
 ### _**Disclosure of Personal Information Within The EU**_&#x20;
 
@@ -87,7 +90,7 @@ Insofar as we employ the services of service providers to implement or fulfil an
 
 ## **7. Security Of Data**&#x20;
 
-We use reasonable technical and organizational methods to safeguard your information, for example, by password protecting (via usernames and passwords unique to you) certain parts of the Product and by using SSL encryption and firewalls to protect against unauthorized access, disclosure, alteration or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.&#x20;
+We use reasonable technical and organizational methods to safeguard your information, for example, by password protecting (via usernames and passwords unique to you) certain parts of the Product and by using SSL encryption and firewalls to protect against unauthorized access, disclosure, alteration or destruction. . When we disclose your personal data to third parties for any of the purposes set out in section 6 above we require the recipient to use equivalent measures to ensure the security of the data entrusted to them, However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.&#x20;
 
 Whilst we will use all reasonable efforts to safeguard your information, you acknowledge that data transmissions over the internet cannot be guaranteed to be 100% secure and for this reason we cannot guarantee the security or integrity of any Personal Information that is transferred from you or to you via the internet and as such, any information you transfer to Company is done at your own risk.&#x20;
 
@@ -97,7 +100,7 @@ If we learn of a security systems breach we may attempt to notify you electronic
 
 ## **8. Rights Under General Data Protection Regulation (GDPR)**&#x20;
 
-If you are a citizen or resident of a member country of the European Union (EU) or the European Economic Area (EEA), you have certain data protection rights. Company aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. If you wish to be informed what Personal Data Company holds about you and if you want it to be removed from our systems, please contact us [legal@intersectmbo.org](mailto:legal@intersectmbo.org) In certain circumstances, you have the following data protection rights:&#x20;
+If you are a citizen or resident of a member country of the European Union (EU) or the European Economic Area (EEA), you have certain data protection rights. Similar rights are given to citizens and residents of the UK by UK law. Company aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. If you wish to be informed what Personal Data Company holds about you and if you want it to be removed from our systems, please contact us [legal@intersectmbo.org](mailto:legal@intersectmbo.org) In certain circumstances, you have the following data protection rights:&#x20;
 
 * **The right to access:** You have the right to request information concerning the personal information we hold that relates to you.&#x20;
 * **The right of rectification:** You have the right to have your information rectified if that information is inaccurate or incomplete.&#x20;
@@ -106,7 +109,7 @@ If you are a citizen or resident of a member country of the European Union (EU) 
 * **The right to data portability:** You have the right to be provided with a copy of the information Company has on you in a structured, machine-readable and commonly used format.&#x20;
 * **The right to withdraw consent:** You also have the right to withdraw your consent at any time where Company relied on your consent to process your personal information.&#x20;
 
-Please note that Company may ask you to verify your identity before responding to such requests. You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the EU or EEA.&#x20;
+Please note that Company may ask you to verify your identity before responding to such requests. You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the EU or EEA, or in the UK.&#x20;
 
 ## **9. California Residents**&#x20;
 
@@ -120,7 +123,7 @@ We will not discriminate against any consumer for exercising their CCPA rights. 
 
 ## **10. Service Providers, Plugins and Tools**&#x20;
 
-Company may employ third party companies and individuals to facilitate the Product, to provide the Product on our behalf, to perform website-related services or to assist us in analyzing how the Product is used ("**Service Providers**"). These Service Providers have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.&#x20;
+Company may employ third party companies and individuals to facilitate the Product and the provision of services to Members, to provide the Product or Member services on our behalf, to perform website-related services or to assist us in analyzing how the Product or Member services are used ("**Service Providers**"). These Service Providers have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
 ### _**Social Media**_&#x20;
 

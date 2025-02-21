@@ -1,5 +1,5 @@
 ---
-description: This version is from the 13th of May 2024
+description: This version is from the 18th February 2025
 ---
 
 # Intersect Membership Agreement V1
@@ -109,9 +109,11 @@ The Member hereby represents and warrants to the Company that the following repr
 
 Subject to applicable privacy laws, the Company may use and publish member information and images, including names, logos, aliases and similar identifying information, in marketing materials and on external facing platforms, including the Company website, GitBooks pages and Social Media channels. The Member shall not use the Company’s tradenames, service marks, logos or any other intellectual property, without the prior, express written consent of the Company.
 
-### Section 8. Confidentiality.&#x20;
+### Section 8. Confidentiality and Data Protection.&#x20;
 
 From and after the date hereof, the Member shall keep confidential any non-public or proprietary information (“Confidential Information”) that the Member or any Affiliate or Representative of such Member may receive from the Company (or have access to) and shall not disclose such Confidential Information. Confidential Information excludes information that: (i) is released into the public domain by the Company; or (ii) such Member is required to disclose pursuant to court order (provided, that, such Member shall promptly notify the Company of such court order, so that the Company can take legal measures to protect such disclosure).&#x20;
+
+[Members’ personal data will be processed in accordance with the Company’s Privacy Policy | Intersect - Knowledge Base .](https://docs.intersectmbo.org/legal/policies-and-conditions/privacy-policy)
 
 ### Section 9. Miscellaneous.
 

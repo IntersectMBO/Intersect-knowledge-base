@@ -1,5 +1,9 @@
 # Key Terms
 
+{% hint style="info" %}
+Please read the [Procurement Guidance & FAQs](https://drive.google.com/file/d/1vymzF0RUNItt97TcNFYIjOJI2jNAgpLZ/view?usp=sharing) for detailed information about the procurement end to end process, including key standards, principles and expectations of Intersect Operational Services.
+{% endhint %}
+
 * [Intersect Operational Services](https://docs.intersectmbo.org/intersect-operational-services/intersect-operational-services-overview)**:** Intersect’s Operational Services support committee projects by managing the procurement process and overseeing the budget. Our approach ensures compliance, transparency, and effective resource management, enabling committees to focus on their objectives.
 *   **Tenders** and **proposals** are both used in the procurement process but serve different purposes and have distinct characteristics:
 
