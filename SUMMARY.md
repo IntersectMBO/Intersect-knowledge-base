@@ -110,6 +110,7 @@
 
 * [Intersect Operational Services Overview](intersect-operational-services/intersect-operational-services-overview/README.md)
   * [Key Terms](intersect-operational-services/intersect-operational-services-overview/key-terms.md)
+  * [Plan & RACI](intersect-operational-services/intersect-operational-services-overview/plan-and-raci.md)
   * [Procurement Management](intersect-operational-services/intersect-operational-services-overview/procurement-management/README.md)
     * [Procurement Tooling](intersect-operational-services/intersect-operational-services-overview/procurement-management/procurement-tooling.md)
   * [Budget Management](intersect-operational-services/intersect-operational-services-overview/budget-management.md)
