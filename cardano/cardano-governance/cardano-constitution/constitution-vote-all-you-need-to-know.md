@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Constitution Vote - All you need to know
 
 <details>
@@ -44,13 +48,13 @@ At the convention, the delegates acknowledged that there is still work to do. No
 
 Read the constitution text, as approved by delegates at the convention. This matches the text proposed in the on-chain Constitution governance action.
 
-[Delegate Endorsed Cardano Constitution](delegate-endorsed-cardano-constitution/)
+[Delegate Endorsed Cardano Constitution](read-the-cardano-constitution/)
 
 
 
 Translations
 
-[_These versions_](delegate-endorsed-cardano-constitution/translations.md) _<mark style="color:orange;">of the Cardano Constitution have been translated with generous support from various community members and organizations. However, only the version that matches the on-chain hash is the official Cardano Constitution.</mark>_
+[_These versions_](read-the-cardano-constitution/translations.md) _<mark style="color:orange;">of the Cardano Constitution have been translated with generous support from various community members and organizations. However, only the version that matches the on-chain hash is the official Cardano Constitution.</mark>_
 
 
 
@@ -165,7 +169,7 @@ No, unlike the Chang Hard Fork, the currently proposed Hard Fork does not includ
 
 
 **What version of the Cardano Constitution is being proposed?**\
-The Cardano Civics Committee (CCC) has officially recommended a new Cardano Blockchain Ecosystem Constitution for on-chain ratification. The delegate-approved Constitution is available at [this link](delegate-endorsed-cardano-constitution/) with a [blake2b-256 hash](delegate-endorsed-cardano-constitution/hash.md) of 2a61e2f4b63442978140c77a70daab3961b22b12b63b13949a390c097214d1c5.
+The Cardano Civics Committee (CCC) has officially recommended a new Cardano Blockchain Ecosystem Constitution for on-chain ratification. The delegate-approved Constitution is available at [this link](read-the-cardano-constitution/) with a [blake2b-256 hash](read-the-cardano-constitution/hash.md) of 2a61e2f4b63442978140c77a70daab3961b22b12b63b13949a390c097214d1c5.
 
 
 

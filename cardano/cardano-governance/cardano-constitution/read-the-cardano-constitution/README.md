@@ -1,10 +1,6 @@
-# Delegate Endorsed Cardano Constitution
+# Read the Cardano Constitution
 
-You can also read the Delegate Endorsed Cardano Constitution [here](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-12-05).
-
-
-
-This document presents the Cardano Blockchain Ecosystem Constitution, endorsed by an overwhelming majority of delegates (95%) during the Constitutional Convention. It will be formally submitted as an "update constitution governance action" to replace the current interim constitution, pending approval by Delegated Representatives (DReps) and the Interim Constitutional Committee (ICC).
+You can also read the Cardano Blockchain Ecosystem Constitution on our [Github pages](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-12-05)
 
 ## CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION
 

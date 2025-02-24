@@ -1,7 +1,3 @@
----
-description: How Cardano's proposed future governance model will work
----
-
 # Overview
 
 ## Cardano's governance - three defining pillars
@@ -9,7 +5,7 @@ description: How Cardano's proposed future governance model will work
 Cardano's governance structure is made up of three areas of interest:
 
 * On-chain decision making (best described in the specification, CIP-1694)
-* A Cardano Constitution
+* [A Cardano Constitution](cardano-constitution/read-the-cardano-constitution/)
 * Institutions (such as the member-based organization, Intersect)
 
 Each area delivers complementary features to the others and are intertwined to drive better outcomes both on and off chain.
@@ -28,19 +24,19 @@ Depending on the type of governance action, a combination of the three roles abo
 
 ### The Cardano Constitution
 
-#### [**Interim**](cardano-constitution/interim-cardano-constitution/)
+#### [**Interim**](cardano-constitution/read-the-cardano-constitution/previous-versions-of-the-cardano-constitution/interim-cardano-constitution/)
 
 In Q2 2024, the Interim Cardano Constitution was published for community review and included in the genesis files when the community approved Chang Update #1. The Interim Constitution is not a fully elaborated constitution, but rather a set of essential rules that were designed to ensure Cardano maintained stability during the interim period that Cardano’s governance would go through during 2024. For now, the Interim Constitution is still in effect and is being interpreted by the Interim Constitutional Committee who votes on the constitutionality of governance actions (as described in CIP-1694).
 
-#### [**Draft**](cardano-constitution/delegate-endorsed-cardano-constitution/)
+#### [**Draft**](cardano-constitution/read-the-cardano-constitution/previous-versions-of-the-cardano-constitution/)
 
 Later in Q2 of 2024, the drafting process began with the aim to move towards a final version ratified later in the year. The draft served as the primary input to global community workshops throughout 2024. With community input, the Draft Constitution built upon the essential guardrails described in the Interim into a more holistic set of principles and rules.
 
 A total of 63 workshops were held with more than 1400 contributors. The final version of the draft was voted on by elected delegates from every workshop during the [Constitutional Convention](https://cardanoconvention.com/) held in Buenos Aires and Nairobi in December 2024 with a resounding 95% votes in favor.
 
-#### [**Cardano Blockchain Ecosystem Constitution**](cardano-constitution/delegate-endorsed-cardano-constitution/)
+#### [**Cardano Blockchain Ecosystem Constitution**](cardano-constitution/read-the-cardano-constitution/)
 
-Following the Constitutional Convention, the delegate-approved Cardano Blockchain Ecosystem Constitution will be submitted as an Update Constitution governance action that will be voted on by DReps and the Interim Constitutional Committee for its ratification and thereby replacing the Interim Constitution, signalling Cardano fully entering the age of Voltaire.
+Following the Constitutional Convention, the delegate-approved Cardano Blockchain Ecosystem Constitution was submitted as an Update Constitution governance action that was approved by [DReps](governance-roles/delegated-representatives-dreps.md) and the [Interim Constitutional Committee](governance-roles/constitutional-committee/) for its ratification and thereby replacing the Interim Constitution, signalling Cardano fully entering the age of Voltaire.
 
 ### Institutions
 
@@ -50,6 +46,4 @@ Institutions support the feedback loop to ultimately drive better outcomes on-ch
 
 ### Looking Ahead
 
-With these three overarching governance features, the ecosystem will have the foundation of a governance system that can be observed and refined over time by the ecosystem itself. The age of Voltaire has only just begun.
-
-\
+With these three overarching governance features, the ecosystem now has the foundations of a governance system that can be observed and refined over time by the ecosystem itself. \

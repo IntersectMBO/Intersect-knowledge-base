@@ -14,7 +14,7 @@ Yes. Candidates will be required to answer a short set of questions to confirm t
 
 ### What roles will the pioneer entities and Intersect play on the committee?&#x20;
 
-It is for each interim CC member individually to decide how to perform its role, within the remit of the committee.
+It is for each ICC member individually to decide how to perform its role, within the remit of the committee.
 
 ### How else can I get my voice heard?
 
@@ -22,5 +22,6 @@ There are many ways to have your say on the development of Cardano’s governanc
 
 * Join [Intersect](https://intersectmbo.org/), and contribute through community-focused committees, and working groups, including groups involved in creating a constitution draft that feeds into a broad community consultation process leading up to ratification.
 * Continue to test governance features on [sanchonet.md](../../../sanchonet.md "mention")
-* Find out how you can attend one of 50 global workshops to input on the draft Constitution [here](https://www.intersectmbo.org/news/have-your-say-kicking-off-global-workshops-to-draft-the-final-constitution).
-* Apply for[ funding opportunities](https://www.intersectmbo.org/grants) at Intersect to support the rollout through community tooling and other community initiatives.
+* [Register to become a DRep](https://docs.gov.tools/cardano-govtool/using-govtool/dreps/register-as-a-drep)
+* [Delegate to a DRep](https://docs.gov.tools/cardano-govtool/using-govtool/delegating/delegate-to-a-drep)
+
