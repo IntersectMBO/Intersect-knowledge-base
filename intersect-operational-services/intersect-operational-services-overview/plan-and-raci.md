@@ -58,4 +58,4 @@ Below is a 6 month timeline representing at a high level:
 
 Draft RACI for membership feedback.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Proposal for review </p></figcaption></figure>
