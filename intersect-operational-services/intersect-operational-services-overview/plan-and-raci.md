@@ -56,6 +56,6 @@ Below is a 6 month timeline representing at a high level:
 
 ## RACI - Responsible, Accountable, Consulted, Informed
 
-Please click on table below for a closer look.
+Draf RACI following membership feedback.
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
