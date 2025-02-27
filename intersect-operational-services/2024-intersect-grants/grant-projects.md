@@ -54,7 +54,7 @@ The need for inclusion and accessibility cuts across all processes, tools, commu
 
 Intersect aims to establish a seamless, user-friendly membership portal on the Intersect MBO website, incorporating wallet connections, payment options, and NFT issuance for membership verification.
 
-<table><thead><tr><th width="170">Builder Name</th><th width="121">Status</th><th>End Deliverable </th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/membership-nft-platform">Anvil</a></td><td>In progress</td><td>To provide access and support for the current Anvil SDK and expansion of the SDK to support the Intersect Member area</td></tr></tbody></table>
+<table><thead><tr><th width="170">Builder Name</th><th width="121">Status</th><th>End Deliverable </th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/membership-nft-platform">Anvil</a></td><td>Complete</td><td>To provide access and support for the current Anvil SDK and expansion of the SDK to support the Intersect Member area</td></tr></tbody></table>
 
 ***
 
