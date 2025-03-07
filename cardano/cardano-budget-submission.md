@@ -6,6 +6,10 @@ description: >-
 
 # Cardano Budget Submission
 
+{% hint style="info" %}
+Submit your proposal [here](https://mpc.intersectmbo.org/cardano-proposal-submission)
+{% endhint %}
+
 ## Recalibrating Cardano’s Budget Process: We’ve heard you&#x20;
 
 Cardano’s budget process is new and evolving, and we recognize that the first year will not be perfect. There have been challenges; at times, the process has been more complex than necessary. Based on community feedback, we are making, and will continue to make, necessary adjustments, including:
