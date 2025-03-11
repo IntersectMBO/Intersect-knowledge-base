@@ -103,8 +103,12 @@
 
 ## Intersect voting events
 
-* [Intersect elections - 2024](intersect-voting-events/intersect-elections-2024/README.md)
-  * [October 2024 election results](intersect-voting-events/intersect-elections-2024/october-2024-election-results.md)
+* [2025 - Intersect elections](intersect-voting-events/intersect-elections-2024/README.md)
+  * [April 2025 - Committee elections](intersect-voting-events/intersect-elections-2024/april-2025-committee-elections/README.md)
+    * [Committees key info](intersect-voting-events/intersect-elections-2024/april-2025-committee-elections/committees-key-info.md)
+    * [Committee elections FAQs](intersect-voting-events/intersect-elections-2024/april-2025-committee-elections/committee-elections-faqs.md)
+* [2024 - Intersect elections](intersect-voting-events/intersect-elections-2024-1/README.md)
+  * [October 2024 election results](intersect-voting-events/intersect-elections-2024-1/october-2024-election-results.md)
 
 ## Intersect Operational Services
 
