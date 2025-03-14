@@ -52,7 +52,7 @@ You can an overview of the committee and their respective ways of working [here]
 [product-committee.md](product-committee.md)
 {% endcontent-ref %}
 
-👉🏻 Info about committee elections can be found [here](../../intersect-voting-events/intersect-elections-2024-1/) 👈
+👉🏻 Info about committee elections can be found [here](../../intersect-voting-events/intersect-elections-2024/) 👈
 
 
 
