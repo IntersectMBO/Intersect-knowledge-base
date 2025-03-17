@@ -8,7 +8,7 @@ We’ve created an **Application Pack** with detailed one-pagers for each commit
 
 Ready to contribute to the future of Cardano? [**Apply now!**](https://members.intersectmbo.org/)
 
-We will also be holding a number of [engagement events](committees-key-info.md) and posting key messages across our social media platforms.
+We will also be holding a number of [engagement events](../../intersect-elections-2025/april-2025-committee-elections/committees-key-info/committee-x-space-events.md) and posting key messages across our social media platforms.
 
 We have set up a [Discord Election Channel](https://discord.com/channels/1136727663583698984/1270677346743222337) so you can post any questions you may have. You can also email [committees@intersectmbo.org](mailto:committees@intersectmbo.org).
 
