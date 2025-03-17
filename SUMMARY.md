@@ -105,7 +105,7 @@
 
 * [2025 - Intersect elections](intersect-voting-events/intersect-elections-2025/README.md)
   * [April 2025 - Committee elections](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/README.md)
-    * [Committees key info](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/README.md)
+    * [Committees key info](intersect-voting-events/intersect-elections-2024/april-2025-committee-elections/committees-key-info.md)
       * [Committee X-Space Events](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/committee-x-space-events.md)
       * [Application Form - Translations](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/README.md)
         * [Spanish](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/spanish.md)
