@@ -18,7 +18,7 @@
 <summary>Intersect steering committee </summary>
 
 1. Comment proposeriez-vous d'améliorer le processus actuel d'intégration des commentaires de la communauté dans le processus de prise de décision d'Intersect ?
-2. Quelles compétences ou expériences spécifiques pensez-vous posséder qui seraient les plus précieuses pour le comité directeur d'Intersect, et comment les exploiteriez-vous pour contribuer à ses objectifs ?
+2. Quelles compétences ou expériences spécifiques pensez-vous posséder qui seraient les plus importante pour le comité directeur d'Intersect, et comment les exploiteriez-vous pour contribuer à ses objectifs ?
 3. En tant que membre élu, vous représenteriez la communauté Cardano au sein du comité directeur d'Intersect. Comment assureriez-vous une communication cohérente et efficace entre le(s) comité(s) et la communauté, et comment recueilleriez-vous et intégreriez-vous les commentaires de la communauté dans la prise de décision du comité ?
 
 </details>
@@ -27,9 +27,9 @@
 
 <summary>Cardano budget committee</summary>
 
-1. Pourriez-vous décrire une expérience passée qui illustre votre compréhension des principes financiers et de la gestion budgétaire, y compris la manière dont vous avez surveillé les performances budgétaires et effectué les ajustements nécessaires ?
-2. Comment avez-vous déjà aligné les priorités budgétaires sur les objectifs plus larges d'une organisation, et quelles méthodes avez-vous utilisées pour garantir l'exactitude et la transparence des dossiers et des projections financières ?
-3. Quelle est votre approche de la collaboration avec diverses parties prenantes, telles que les équipes financières et les chefs de service, pour identifier les opportunités d'économies, gérer les risques financiers et maintenir la responsabilité ?
+1. Pouvez-vous décrire une expérience passée qui illustre votre compréhension des principes financiers et de la gestion budgétaire, y compris la manière dont vous avez surveillé les performances budgétaires et effectué les ajustements nécessaires ?
+2. Précédemment comment avez-vous aligné les priorités budgétaires avec les grandes objectifs d'une organisation, et quelles méthodes avez-vous utilisées pour garantir l'exactitude et la transparence des dossiers et des projections financières ?
+3. Quelle est votre approche/méthode pour collaboration avec diverses parties prenantes, telles que les équipes financières et les chefs de service, pour identifier les opportunités d'économies, gérer les risques financiers et maintenir la responsabilité ?
 
 </details>
 
@@ -37,9 +37,9 @@
 
 <summary>Cardano civics committee</summary>
 
-1. Quelle est votre vision de la manière d'améliorer le modèle de gouvernance de Cardano et sur quoi suggérez-vous que nous nous concentrions en premier ? Soyez bref
-2. Comment avez-vous contribué à la transformation de la gouvernance sur Cardano, et pourquoi cela fait-il de vous un bon candidat pour le Comité civique ? Soyez bref
-3. Quelles stratégies mettriez-vous en œuvre pour engager et éduquer la communauté Cardano au sens large sur les processus de gouvernance ?
+1. Quelle est votre vision pour améliorer le modèle de gouvernance de Cardano et sur quoi suggérez-vous que nous nous concentrions en premier ? Soyez bref
+2. Comment avez-vous contribué à la transformation de la gouvernance de Cardano, et pourquoi cela fait-il de vous un bon candidat pour le Comité civique ? Soyez bref
+3. Quelles stratégies mettriez-vous en œuvre pour engager et éduquer la communauté Cardano sur les processus de gouvernance ?
 
 </details>
 
@@ -47,7 +47,7 @@
 
 <summary>Technical steering committee</summary>
 
-1. Décrivez votre expérience dans le développement et la mise en œuvre de la technologie Core Cardando Blockchain ? (Ou toute autre blockchain, le cas échéant) (Par exemple...)
+1. Décrivez votre expérience dans le développement et la mise en œuvre de la technologie Core Cardano Blockchain ? (Ou toute autre blockchain, le cas échéant) (Par exemple...)
 2. Décrivez votre expérience dans la rédaction ou l'évaluation de propositions complexes de blockchain ? (Par exemple, documents de recherche, briefs de projet, appels d'offres, évaluation des offres)
 3. Décrivez toute autre expérience pertinente que vous avez liée à d'autres responsabilités du TSC ? (Par exemple, appels d'offres, assurance qualité, gestion de programme, communications techniques)
 
@@ -57,9 +57,9 @@
 
 <summary>Open source committee</summary>
 
-1. ¿Quelle est votre expérience en matière de participation à des projets open source ?
-2. Quelle est votre expérience en matière de participation à des communautés ouvertes ?
-3. Quelle est votre expérience en matière de gestion de budget/contrat liée à des projets ?
+1. Quelle est votre expérience avec les projets open source ?
+2. Quelle est votre expérience avec les communautés ouvertes ?
+3. Quelle est votre expérience avec la gestion de budget/contrat liée à des projets ?
 
 </details>
 
@@ -77,9 +77,9 @@
 
 <summary>Membership and community committee</summary>
 
-1. Parlez-nous des ressources dont vous disposez pour contribuer aux activités du comité : par exemple : combien d'heures par semaine pouvez-vous y consacrer ? À quelle fréquence pouvez-vous participer aux canaux de communication désignés par le comité ?
-2. Quelles sont les initiatives clés du MCC qui vous enthousiasment le plus ou auxquelles vous êtes le plus disposé à contribuer ?
-3. Pouvez-vous nous faire part de vos réflexions sur la transparence et la responsabilité en ce qui concerne votre travail au sein du MCC et le travail du MCC dans son ensemble ? - Comment communiquez-vous à la communauté ce que vous faites au sein du MCC et avez-vous l'intention de garder les discussions au sein du MCC aussi publiques que possible ?
+1. Quelles sont les ressources dont vous disposez pour contribuer aux activités du comité : par exemple : combien d'heures par semaine pouvez-vous y consacrer ? À quelle fréquence pouvez-vous participer aux canaux de communication désignés par le comité ?
+2. Quelles sont les initiatives clés du MCC qui vous plaise le plus ou auxquelles vous êtes le plus disposé à contribuer ?
+3. Pouvez-vous nous faire part de vos réflexions sur la transparence et la responsabilité en ce qui concerne votre travail au sein du MCC et sur le travail du MCC dans son ensemble ? - Comment communiquez-vous avec la communauté sur ce que vous faites au sein du MCC et avez-vous l'intention de rendre le plus publique que possible les discussions du MCC?
 
 </details>
 
@@ -87,7 +87,7 @@
 
 <summary>Growth and marketing committee</summary>
 
-1. Pouvez-vous décrire votre expérience marketing dans le Web3 et le Web2, y compris le nombre d'années pendant lesquelles vous avez travaillé dans chacun d'eux ? Donnez des exemples de campagnes de croissance marketing que vous avez déployées ou élaborées dans le passé, y compris des liens vers des travaux si possible
+1. Pouvez-vous décrire votre expérience marketing dans le Web3 et le Web2, y compris le nombre d'années pendant lesquelles vous avez travaillé dans chacun d'eux ? Donnez des exemples de campagnes de croissance marketing que vous avez déployées ou élaborées dans le passé, y compris des liens sur votre travail si possible
 2. À votre avis, quels sont les principaux défis auxquels Cardano est confronté dans ses efforts de croissance aujourd'hui, et comment proposeriez-vous de les relever en tant que membre du comité marketing ?
 3. Décrivez une campagne/activité marketing réussie que vous avez menée ou à laquelle vous avez contribué dans un contexte lié au marketing technologique. Quelles stratégies avez-vous mises en œuvre et quels ont été les résultats mesurables ?
 

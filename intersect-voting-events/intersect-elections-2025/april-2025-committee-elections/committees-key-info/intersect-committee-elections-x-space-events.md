@@ -1,4 +1,4 @@
-# Committee X-Space Events
+# Intersect Committee Elections  X-Space Events
 
 Here are the details of the X Spaces we’re hosting. Recordings and transcripts will be added below. We have organised them at different times to accommodate our global membership.
 
@@ -30,5 +30,8 @@ Here are the details of the X Spaces we’re hosting. Recordings and transcripts
 
 
 
-## Committee X-Space recordings
+## Intersect Committee Elections X-Space recordings
 
+
+
+<table><thead><tr><th width="165.20001220703125">Date</th><th width="420.4000244140625">Session</th><th>Recording Link</th></tr></thead><tbody><tr><td>March 18, 2025</td><td><ul><li>Open source committee</li></ul><ul><li>Membership and community committee</li></ul></td><td><a href="https://x.com/i/spaces/1yoKMonkByzJQ">Listen here</a></td></tr><tr><td>March 20, 2025</td><td><ul><li>Cardano civics committee</li></ul><ul><li>Cardano budget committee</li></ul></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
