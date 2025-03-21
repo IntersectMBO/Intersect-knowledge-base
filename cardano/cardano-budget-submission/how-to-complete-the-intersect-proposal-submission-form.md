@@ -48,6 +48,12 @@ If you are submitting on behalf of a committee, please follow the below instruct
 
 **Note:** The same person can act as both the Beneficiary and Submission Lead. In Section 2, you will select who you wish to be the proposal public champion and person responsible and contactable for providing further information on the proposal.
 
+### Intersect Committee Guidance: Section 1
+
+If you are submitting a proposal on behalf of an Intersect Committee, please take a look at how to structure the first section in the video below.
+
+{% embed url="https://www.loom.com/share/7d7a2983750b4f24804cfecfbb59c75d?sid=dd527fc8-ee6b-4a4c-921b-77aa736f01ad" %}
+
 ## Section 2: Proposal Ownership
 
 This section helps define who will represent the proposal publicly.
@@ -107,6 +113,12 @@ This section captures specific details about your proposal.
   * If you are submitting on behalf of an Intersect Committee, please choose this option;
   * If you do not have a vendor in mind, please select this option and Intersect will support you in the procurement process to find a suitable vendor.
 * **Other** - If you wish to use another contract type, please select ‘other’.
+
+### Intersect Committee Guidance: Section 4
+
+If you are submitting on behalf of an Intersect Committee, please choose 'Intersect Procurement Process' when you reach the dropdown for Contracting Type.
+
+{% embed url="https://www.loom.com/share/7c17eeea393f420989bf3faf9489927b?sid=a9b5ab64-6901-4e86-a088-edea283ebd1d" %}
 
 **Currency & Budget**:
 
