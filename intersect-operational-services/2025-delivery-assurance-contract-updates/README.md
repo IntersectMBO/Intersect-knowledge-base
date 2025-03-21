@@ -3,10 +3,12 @@
 Welcome to the central place for all contracts managed through each committee. Here, you'll find information on contracts facilitated by the following committees:
 
 * **Technical Steering Committee**
-* **Product Committee**
-* **Open Source Committee**
 * **Membership and Community Committee**
 * **Civics Committee**
+* **Product Committee**
+* **Budget Committee**
+* **Growth & Marketing committee**
+* **Open Source Committee**
 
 These pages are regularly updated to provide updates on contractual progress and key milestones. You can also explore completed work and access **Milestone Acceptance Forms (MAFs)** linked to each milestone.
 

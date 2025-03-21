@@ -1,11 +1,10 @@
 ---
 description: To be updated once contracts have been awarded.
-hidden: true
 ---
 
 # Membership & Community committee contracts
 
-This page covers everything related to the contracts that were proposed by the community to be contracted via the Membership & Community Committee. _Note that some of these contracts were established through the original 2024 contracting process, with funding provided by the CDH. Any contracts awarded from June 2025 onward will be financed through the Treasury withdrawal, in alignment with the committee's budget process._
+This page covers everything related to the contracts that were proposed by the community to be contracted via the Membership & Community Committee. _Note that some of these contracts were established through the original 2024 contracting process, with funding provided by the CDH. Any contracts awarded from June 2025 onward will be financed through the Treasury withdrawal, in alignment with the budget process._
 
 ## **Contract overview section**
 

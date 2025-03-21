@@ -52,7 +52,7 @@ Below is a 6 month timeline representing at a high level:
 
 </details>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## RACI - Responsible, Accountable, Consulted, Informed
 
