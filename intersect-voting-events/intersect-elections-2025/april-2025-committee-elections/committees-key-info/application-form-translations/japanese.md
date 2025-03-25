@@ -8,7 +8,7 @@
 6. 現在、応募している委員会に既に参加していますか?
 7. Si es así, ¿en qué capacidad? (Miembro del comite/Experto)
 8. Intersect メンバーとしてどのように参加しているかについて説明してください
-9. ¿Cuáles son sus experiencias dentro de la Comunidad de Cardano?
+9. カルダノコミュニティでのご経験はどのようなものですか？
 10. コミュニティがあなたに投票するべき理由は何ですか?
 11. 個人または関係する企業を含め、Cardano と他の関係や利益相反の可能性はありますか。
 12. IntersectまたはCardanoから資金提供や助成金を現在または過去に受けたことがありますか？
