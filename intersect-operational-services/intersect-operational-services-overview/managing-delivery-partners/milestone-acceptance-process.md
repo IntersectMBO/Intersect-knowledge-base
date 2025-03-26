@@ -1,8 +1,8 @@
 # Milestone Acceptance Process
 
-## Milestone Acceptance Form Review & Sign-Off Process
+Milestone Acceptance Form Review & Sign-Off Process
 
-* **Submission of Milestone Acceptance Form - template** [**here**](https://docs.google.com/document/d/1LpZKribSu97mXYPQtl7SQAIApdYCoKjBeU2LjbmCaqk/edit?usp=sharing)\
+* **Submission of Milestone Acceptance Form -** (_Downloadable template below)_\
   The completed milestone acceptance form is submitted to the Operational Services team (via [billing@intersectmbo.org](mailto:billing@intersectmbo.org)).
 * **Initial Validation & Circulation to Committee Members**\
   A preliminary validation is conducted to ensure the form is complete and aligns with contract terms. The form is then circulated to committee members for review.
@@ -16,6 +16,10 @@
   The committee chair formally reviews and signs off the milestone acceptance form if all requirements are met.
 * F**inal Documentation & Distribution**\
   The signed milestone acceptance form is recorded and distributed to relevant stakeholders.
+
+{% file src="../../../.gitbook/assets/Milestone Acceptance Form Template 2025 (4).docx" %}
+Milestone Acceptance Form (MAF) Template
+{% endfile %}
 
 ## &#x20;Delivery Assurance Responsibilities&#x20;
 
