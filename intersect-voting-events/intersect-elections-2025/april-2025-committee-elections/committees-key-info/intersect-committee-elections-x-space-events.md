@@ -34,11 +34,19 @@ Here are the details of the X Spaces we’re hosting. Recordings and transcripts
 * Cardano civics committee
 * Technical steering committee
 
+[**April 3, 2025 – 12 PM UTC**](https://lu.ma/65sczoq2)
 
+* Open source committee
+* Growth and marketing committee
 
-**April 3, 2025 – 12 PM UTC**
+[**April 4, 2025 – 18 PM UTC**](https://lu.ma/y73h9hmp)
 
-**April 4, 2025 – 6 PM UTC**
+* General Call
+
+[**April 8, 2025 – 16 PM UTC**](https://lu.ma/guegrn45)
+
+* Product committee
+* Membership and community committee
 
 
 
@@ -46,4 +54,5 @@ Here are the details of the X Spaces we’re hosting. Recordings and transcripts
 
 
 
-<table data-full-width="true"><thead><tr><th width="196">Date</th><th>Session</th><th width="147.5999755859375">Recording Link</th></tr></thead><tbody><tr><td>March 18, 2025</td><td><ul><li>Open source committee</li></ul><ul><li>Membership and community committee</li></ul></td><td><a href="https://x.com/i/spaces/1yoKMonkByzJQ">Listen here</a></td></tr><tr><td>March 20, 2025</td><td><ul><li>Cardano civics committee</li></ul><ul><li>Cardano budget committee</li></ul></td><td><a href="https://x.com/i/spaces/1BRJjmOryDvGw">Listen here</a></td></tr><tr><td>March 25, 2025</td><td><p></p><ul><li>Intersect steering committee</li></ul><ul><li>Cardano budget committee</li><li>Growth and marketing committee</li></ul></td><td><a href="https://x.com/i/spaces/1ypKdZyAwOgJW">Listen here</a></td></tr><tr><td>March 27, 2025</td><td><p></p><ul><li>Product committee</li></ul><ul><li>Technical steering committee</li></ul></td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="196">Date</th><th>Session</th><th width="147.5999755859375">Recording Link</th></tr></thead><tbody><tr><td>March 18, 2025</td><td><ul><li>Open source committee</li></ul><ul><li>Membership and community committee</li></ul></td><td><a href="https://x.com/i/spaces/1yoKMonkByzJQ">Listen here</a></td></tr><tr><td>March 20, 2025</td><td><ul><li>Cardano civics committee</li></ul><ul><li>Cardano budget committee</li></ul></td><td><a href="https://x.com/i/spaces/1BRJjmOryDvGw">Listen here</a></td></tr><tr><td>March 25, 2025</td><td><p></p><ul><li>Intersect steering committee</li></ul><ul><li>Cardano budget committee</li><li>Growth and marketing committee</li></ul></td><td><a href="https://x.com/i/spaces/1ypKdZyAwOgJW">Listen here</a></td></tr><tr><td>March 27, 2025</td><td><p></p><ul><li>Product committee</li></ul><ul><li>Technical steering committee</li></ul></td><td><a href="https://x.com/i/spaces/1OyKALROgVMxb">Listen here</a></td></tr><tr><td>March 28, 2025</td><td>Intersect committee election discussion in Japanese</td><td><a href="https://x.com/IntersectJapan/status/1905590603200778402">Listen here</a></td></tr></tbody></table>
+
