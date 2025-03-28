@@ -17,7 +17,7 @@ Only Individual and Enterprise members or employees of our seed founding organis
 Associates **are not** eligible to apply as they do not hold this benefit.
 
 {% hint style="info" %}
-The deadline to join as an individual or enterprise member to run for a committee seat or vote in the election is **April 04th at 12PM UTC.**
+The deadline to join as an individual or enterprise member to run for a committee seat or vote in the election is **April 11th at 12PM UTC.**
 {% endhint %}
 
 ## Key Dates
@@ -26,7 +26,7 @@ The deadline to join as an individual or enterprise member to run for a committe
 
 <summary>Application period</summary>
 
-The application period will be open from **March 24th** at 12 PM UTC to **April 4th** at 12 PM UT&#x43;**.**
+The application period will be open from **March 24th** at 12 PM UTC to **April 11th** at 12 PM UT&#x43;**.**
 
 </details>
 
@@ -34,7 +34,7 @@ The application period will be open from **March 24th** at 12 PM UTC to **April 
 
 <summary>Voting Period</summary>
 
-The voting period, will be held from the **9th of April** at 12 PM UTC  to the **23rd of April** at 12 PM UTC.
+The voting period, will be held from the **16th of April** at 12 PM UTC  to the **7th of May** at 12 PM UTC.
 
 </details>
 
@@ -42,7 +42,7 @@ The voting period, will be held from the **9th of April** at 12 PM UTC  to the *
 
 <summary>Voting Results</summary>
 
-The results will be published on **April 30th**.
+The results will be published on **May 12**.
 
 </details>
 

@@ -27,7 +27,7 @@ No, it is one member one vote so each member will have one vote for each seat
 
 <summary>When are the application deadlines?</summary>
 
-Applications will open on March 24 and close on April 4 at 12PM UTC.
+Applications will open on March 24 and close on April 11 at 12PM UTC.
 
 </details>
 
