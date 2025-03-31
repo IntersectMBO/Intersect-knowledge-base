@@ -32,6 +32,8 @@ You can an overview of the committee and their respective ways of working [here]
 [membership-and-community-committee-mcc.md](membership-and-community-committee-mcc.md)
 {% endcontent-ref %}
 
+{% embed url="https://docs.intersectmbo.org/intersect-overview/intersect-committees/growth-and-marketing-committee-gmc" %}
+
 {% content-ref url="technical-steering-committee-tsc/" %}
 [technical-steering-committee-tsc](technical-steering-committee-tsc/)
 {% endcontent-ref %}
