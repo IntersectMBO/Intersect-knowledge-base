@@ -3,9 +3,6 @@
 * Supplier: Dquadrant
 * Contract Name: GovTool Maintenance - Integrated Testing
 * Contract Date: 1st Jan 2025 - 31st March 2025
-* Supplier: Dquadrant
-* Contract Name: GovTool Maintenance - Integrated Testing
-* Contract Date: 1st Jan 2025 - 31st March 2025
 
 ### Contract Details
 
