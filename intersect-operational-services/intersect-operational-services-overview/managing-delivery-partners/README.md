@@ -12,11 +12,13 @@ These actions will often involve doing some work, whether organizing an event or
 
 ### What is delivery assurance?
 
-Delivery assurance exists to provide assurance that projects will be delivered. By adhering to documented, transparent processes that reflect industry best practices, delivery assurance works to earn and maintain the trust of all stakeholders at minimal cost.
+By adhering to documented, transparent processes that reflect industry best practices, delivery assurance works to earn and maintain the trust of all stakeholders.
 
-The delivery assurance function at Intersect provides committees with processes and expertise in project management, who sit within a broader operational services team who can provide support in commercial, legal, and financial matters. Providing these services to all committees in a common way allows for economies of scale. It’s a service that allows committees to focus on their primary purposes, making steering recommendations on behalf of the membership, without needing to spend time undertaking these delivery tasks, which can be heavily administrative.
+Delivery Assurance acts on behalf of Intersect Committees and those who have chosen Intersect to be their named administrator.
 
-Intersect’s delivery assurance professionals set expectations, accept deliverables and provide them to the committees for their review and evaluation, disburse payments to suppliers, and deliver extensive reporting to committees, suppliers, and members. These reports provide committees with the necessary information to make decisions and manage risk regarding the work undertaken, ensuring community transparency.
+The delivery assurance function provides Intersect committees and any budget proposer who has selected Intersect to be their administrator with processes and expertise in project management, who sit within a broader operational services team Intersect will be able to provide the following services; Contract management, Delivery assurance and Communications, Fund management, Fiat conversion, Legal, KYC / KYB, Dispute resolution, Technical and Financial auditing. It’s a service that allows committees to focus on their primary purposes, making recommendations on behalf of the membership, without needing to spend time undertaking these delivery tasks, which can be heavily administrative.
+
+Intersect’s delivery assurance professionals set expectations, engages the right people to review deliverables and provide them to the committees for their review and evaluation, disburse payments to suppliers, and deliver extensive reporting to committees, suppliers, and members. These reports provide committees with the necessary information to make decisions and manage risk regarding the work undertaken, ensuring community transparency.
 
 ### **History**
 

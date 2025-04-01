@@ -1,20 +1,29 @@
 ---
 description: >-
   Here, you will find an overview of how Intersect's Operational Services will
-  manage tenders, contracts and committee budgets.
+  manage budget proposal submissions, contracts, delivery assurance and billing.
 ---
 
 # Intersect Operational Services Overview
 
 **Introduction**
 
-The purpose of Intersect’s Operational Services is to support committee projects by managing the tender, contract processes and overseeing the budget. Our approach ensures compliance, transparency, and effective management of resources, enabling committees to focus on their objectives.&#x20;
+The purpose of Intersect’s Operational Services is to support any individual or organization within the Cardano ecosystem that wishes to submit a proposal related to the Cardano blockchain ecosystem for inclusion in a Cardano Budget. If the proposer is successful in securing funding and Intersect has been named as the administrator, then Operational services will include the following:&#x20;
+
+* Contract management&#x20;
+* Delivery assurance and Communications&#x20;
+* Fund management&#x20;
+* Fiat conversion&#x20;
+* Legal
+* KYC / KYB
+* Dispute resolution&#x20;
+* Technical and Financial auditing
+
+Our approach ensures compliance, transparency, and effective management of resources, enabling selected vendors to focus on their objectives.
 
 ## Operational Services Team Structure <a href="#core-services-team-structure" id="core-services-team-structure"></a>
 
-Below is a diagram showing how the Intersect Operational Services Team has been set up to support the committees with their contracts and budgets.
-
-
+Below is a diagram showing the services provided by Intersect Operational Services to support vendors and Intersect committees with budget proposal management, contracts, delivery assurance and billing.
 
 <figure><img src="../../.gitbook/assets/Core services.jpg" alt=""><figcaption></figcaption></figure>
 

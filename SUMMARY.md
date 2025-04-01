@@ -122,11 +122,8 @@
 ## Intersect Operational Services
 
 * [Intersect Operational Services Overview](intersect-operational-services/intersect-operational-services-overview/README.md)
-  * [Key Terms](intersect-operational-services/intersect-operational-services-overview/key-terms.md)
-  * [Plan & RACI](intersect-operational-services/intersect-operational-services-overview/plan-and-raci.md)
-  * [Procurement Management](intersect-operational-services/intersect-operational-services-overview/procurement-management/README.md)
-    * [Procurement Tooling](intersect-operational-services/intersect-operational-services-overview/procurement-management/procurement-tooling.md)
-  * [Budget Management](intersect-operational-services/intersect-operational-services-overview/budget-management.md)
+  * [Procurement Management](intersect-operational-services/intersect-operational-services-overview/procurement-management.md)
+  * [Budget Process](intersect-operational-services/intersect-operational-services-overview/budget-process.md)
   * [Delivery Assurance](intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/README.md)
     * [Milestone Acceptance Process](intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/milestone-acceptance-process.md)
 * [2025 Request For Proposal (RFP)](intersect-operational-services/2025-apply-for-tender/README.md)
