@@ -21,10 +21,6 @@ The more information you provide, the better we will be able to help you.
 
 If you have any questions on the updated 2025 Cardano budget process look out for updates on Intersect X/Twitter or join one of the upcoming Cardano budget committee AMAs.
 
-## Navigating to the Proposal Form
-
-{% embed url="https://www.loom.com/share/7da5b8bbfb3b4ea79629aab9bda61876?sid=c992567d-1907-4763-ab58-f6cf86b2cf0a" %}
-
 ## Section 1: Contact Information
 
 In this section, you must provide details for two roles:
@@ -39,20 +35,8 @@ In this section, you must provide details for two roles:
 * Select the Beneficiary's country of residence and nationality from the dropdown menu.
 * Enter the Submission Lead's first and last name.
 * Provide the Submission Lead’s email address.
-* Specify whether this proposal is submitted on behalf of an individual, company, or group (choose from the dropdown).
-
-If you are submitting on behalf of a committee, please follow the below instructions:
-
-* The Committee Chair will be the beneficiary and the Committee Secretary will be the submission lead. Please submit the Intersect Committee’s email as the beneficiary email.
-* Please select 'Group'. The Group Name would be the “Name of the Committee (e.g. MCC, TSC)”. The Type of Group would be “Intersect Committee”. The Key Information to Identify the Group would be the names of the Voting members of the Committee.
 
 **Note:** The same person can act as both the Beneficiary and Submission Lead. In Section 2, you will select who you wish to be the proposal public champion and person responsible and contactable for providing further information on the proposal.
-
-### Intersect Committee Guidance: Section 1
-
-If you are submitting a proposal on behalf of an Intersect Committee, please take a look at how to structure the first section in the video below.
-
-{% embed url="https://www.loom.com/share/7d7a2983750b4f24804cfecfbb59c75d?sid=dd527fc8-ee6b-4a4c-921b-77aa736f01ad" %}
 
 ## Section 2: Proposal Ownership
 
@@ -60,12 +44,11 @@ This section helps define who will represent the proposal publicly.
 
 ### How to Fill Out This Section
 
-* **Select a Proposal Public Champion:** This person will advocate for the proposal, respond to questions, and engage the community. It must be the beneficiary or submission lead listed in this proposal.
+* **Specify whether this proposal is submitted on behalf of an individual, company, or group** (choose from the dropdown).
+* **Select a Proposal Public Champion:** This person will advocate for the proposal, respond to questions, and engage the community.&#x20;
 * **Provide social handles** (e.g., GitHub, X/Twitter) for visibility.
 
-**Important: The Proposal Champion’s name and email will be made public to facilitate discussions with the Cardano community.**
-
-{% embed url="https://www.loom.com/share/ebb51549f85443cc8b53034d61a41be0?sid=c6dcbe94-8282-497c-a558-aff2036f742c" %}
+**Important: The Proposal Champion’s preferred contact details will be made public to facilitate discussions with the Cardano community.**
 
 ## Section 3: Problem Statements and Proposal Benefits
 
@@ -82,8 +65,6 @@ Here, you must clearly define the problem your proposal aims to solve and how it
 * **Committee Alignment:** Select the Intersect Committee that aligns with your proposal. Try to align it to an Intersect committee to encourage further endorsement from the community. This will also enable you to seek expertise and support from that committee. If applicable, please include any details of existing endorsements for this proposal within the wider community (add links where available).
 
 _Tip: Providing a strong, data-backed case for why your proposal is needed will increase its chances of support and approval from the community._
-
-{% embed url="https://www.loom.com/share/c61b91d8e391469a918038dd8a8faf51?sid=39667909-5e2d-4caf-9a11-dfdc998c71ca" %}
 
 ## Section 4: Proposal Details
 
@@ -114,11 +95,7 @@ This section captures specific details about your proposal.
   * If you do not have a vendor in mind, please select this option and Intersect will support you in the procurement process to find a suitable vendor.
 * **Other** - If you wish to use another contract type, please select ‘other’.
 
-### Intersect Committee Guidance: Section 4
-
-If you are submitting on behalf of an Intersect Committee, please choose 'Intersect Procurement Process' when you reach the dropdown for Contracting Type.
-
-{% embed url="https://www.loom.com/share/7c17eeea393f420989bf3faf9489927b?sid=a9b5ab64-6901-4e86-a088-edea283ebd1d" %}
+## Section 5: Costing
 
 **Currency & Budget**:
 
@@ -129,16 +106,19 @@ If you are submitting on behalf of an Intersect Committee, please choose 'Inters
 * Enter a cost breakdown in both USD and ada.
 * When providing a cost breakdown, consider categorising it into line items / cost components (such as labour costs or materials). Show both the USD and ada amounts for every budget line item. Use the same ada/USD conversion rate for all calculations.
 
-{% embed url="https://www.loom.com/share/7d14c3d6ebe04faa8efe352c9a368bc7?sid=94dec37d-caa3-47ed-9554-d6d29905bd82" %}
-
 _Tip: Be transparent with costs—this increases the likelihood of approval._
+
+
+
+## Section 6: Further information
 
 You can upload any relevant documents to support your proposal.
 
 * **Provide links** to specifications, videos, or other supporting materials. Please provide a description of what the links are and/or how they are relevant to your proposal.
-* **Upload your proposal file** - please upload any further information that you think may be relevant to support your proposal - this is optional but recommended. You can upload multiple files if you wish.
 
 _Tip: Including additional documents can strengthen your proposal’s credibility._
+
+## Section 7: Administration and Auditing
 
 Intersect plays a role in managing approved proposals, including contract management, auditing, and fund management. It is required that you have an administrator for administering your contract (if successful) as they ensure compliance, financial integrity, and effective project execution by overseeing contractual obligations, fund distribution, and performance auditing, reducing risk and enhancing transparency.
 
@@ -152,21 +132,6 @@ Before submitting, you must agree to Intersect’s privacy policies.
 * Tick the box to allow Intersect to store and process your data.
 
 Click "**Submit**" to finalize your proposal.
-
-{% embed url="https://www.loom.com/share/c5034dcb815c45c8929d211640c24f7f?sid=81bc207f-21ea-49ba-b4a5-312b8c17e6cd" %}
-
-Next Steps:
-
-* Once you submit your proposal you will receive an email to verify your email address. If you do not confirm your email address, we will not be able to process your application.
-* All proposals, except private contact details, will be made public to facilitate **community and DRep review and decision-making**. We will notify you with details regarding where and when these will be published.
-* The Proposal Champion will need to be the main POC for any comms, and will also be responsible for public engagement - so please ensure they are responsive to any public questions or concerns.
-* Public discussion and endorsements increase credibility amongst the community.
-* Please ensure that all your responses directly answer the questions.
-* If your proposal aligns with the Cardano Roadmap and supports Cardano’s growth they will have a higher chance of approval.
-
-Thank you for your continued support to Intersect and Cardano - Good Luck!
-
-{% embed url="https://www.loom.com/share/a48d8b81278c48ce9774e4f9af83925e?sid=64a63709-2814-450f-b316-998d34835ef4" %}
 
 \
 \
