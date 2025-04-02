@@ -122,7 +122,7 @@ _Tip: Including additional documents can strengthen your proposal’s credibilit
 
 Intersect plays a role in managing approved proposals, including contract management, auditing, and fund management. It is required that you have an administrator for administering your contract (if successful) as they ensure compliance, financial integrity, and effective project execution by overseeing contractual obligations, fund distribution, and performance auditing, reducing risk and enhancing transparency.
 
-* **Would you like Intersect to be your Administrator?** Choose Yes or No. Intersect will be able to provide the following services; Contract management, Delivery assurance and Communications, Fund management, Fiat conversion, Legal, KYC / KYB, Dispute resolution, Technical and Financial auditing.&#x20;
+* **Would you like Intersect to be your Administrator?** Choose Yes or No. Intersect will be able to provide the following services; Contract management, Delivery assurance and Communications, Fund management, Fiat conversion, Legal, KYC / KYB, Dispute resolution, Technical and Financial auditing.  _**Please note:** if you select Intersect as your administrator, there will not be a Delivery Assurance fee included in the contract._
 * If you do not select Intersect as your administrator, you must explain who will conduct the listed services on your behalf, whether that be your organization or another vendor.
 * **Confidentiality**: If your proposal contains information that should not be publicly disclosed, such as for security or intellectual property reasons, please indicate this clearly.
 
