@@ -128,3 +128,11 @@ Associates are very much welcome to participate in Town Halls, Working Groups an
 As an employee of a seed funder organisation you are not eligible to vote, however if you personally join Intersect as an individual member then you will be able to vote through this membership.
 
 </details>
+
+<details>
+
+<summary>Is there a limit on the number of seats that enterprise members, including founding organizations, can occupy per committee?</summary>
+
+Yes, the current rule states that an enterprise member can hold a maximum of one seat per committee. However, this is still under review, so there may be future adjustments. There is an exception for the Product Committee and the Technical Steering Committee, where an enterprise member can hold up to two seats.
+
+</details>
