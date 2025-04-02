@@ -33,6 +33,7 @@
 * [Cardano Budget Submission](cardano/cardano-budget-submission/README.md)
   * [How to complete the Intersect Proposal Submission form](cardano/cardano-budget-submission/how-to-complete-the-intersect-proposal-submission-form.md)
   * [Track on Budget Submissions](cardano/cardano-budget-submission/track-on-budget-submissions.md)
+  * [FAQs](cardano/cardano-budget-submission/faqs.md)
 * [Cardano governance](cardano/cardano-governance/README.md)
   * [Overview](cardano/cardano-governance/overview.md)
   * [Cardano Constitution](cardano/cardano-governance/cardano-constitution/README.md)
