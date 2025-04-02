@@ -1,9 +1,18 @@
-# How to complete the Intersect Proposal Submission form
+# How to complete the Budget Proposal Submission form
 
-This form allows individuals or organizations within the Cardano ecosystem to submit proposals for funding through Intersect.
+**How to use the Cardano Budget Proposal Section in GovTool:** Click [here](https://docs.gov.tools/cardano-govtool/using-govtool/cardano-budget-proposals).
 
-* You do not need to be a member of Intersect to apply.
-* All proposals, except private contact details, will be made public to facilitate community and DRep review and decision-making.
+## Submit a Budget Proposal
+
+Once you are connected with your wallet in GovTool, follow the steps below **to submit a Budget Proposal. Click on Submit a Budget Proposal at the top of the page.**
+
+## **Step 0: General information**
+
+**Read the information on page**&#x20;
+
+This process is open to any individual or organization within the Cardano ecosystem that wishes to submit a proposal related to the Cardano blockchain ecosystem for inclusion in a Cardano Budget facilitated by Intersect.
+
+* All proposals, except private contact details in section 1, will be made public to facilitate community and DRep review and decision-making.
 * If you have submitted or are already receiving funding for your proposal from Project Catalyst, you are not eligible to apply for funding through Intersect.
 
 If you have made a prior proposal submission through an Intersect Committee, you will need to either;&#x20;
@@ -19,16 +28,18 @@ If you have made a prior proposal submission through an Intersect Committee, you
 
 The more information you provide, the better we will be able to help you.
 
-If you have any questions on the updated 2025 Cardano budget process look out for updates on Intersect X/Twitter or join one of the upcoming Cardano budget committee AMAs.
+
 
 ## Section 1: Contact Information
+
+This section will be kept confidential and will not be publicly shared.
 
 In this section, you must provide details for two roles:
 
 1. **The Beneficiary:** The person responsible for signing the legal contract if the proposal is approved on-chain.
 2. **The Submission Lead:** The person submitting the proposal.
 
-### How to Fill Out This Section
+**How to Fill Out This Section?**
 
 * Enter the Beneficiary's first and last name.
 * Provide the Beneficiary’s email address.
@@ -38,6 +49,8 @@ In this section, you must provide details for two roles:
 
 **Note:** The same person can act as both the Beneficiary and Submission Lead. In Section 2, you will select who you wish to be the proposal public champion and person responsible and contactable for providing further information on the proposal.
 
+
+
 ## Section 2: Proposal Ownership
 
 This section helps define who will represent the proposal publicly.
@@ -46,9 +59,11 @@ This section helps define who will represent the proposal publicly.
 
 * **Specify whether this proposal is submitted on behalf of an individual, company, or group** (choose from the dropdown).
 * **Select a Proposal Public Champion:** This person will advocate for the proposal, respond to questions, and engage the community.&#x20;
-* **Provide social handles** (e.g., GitHub, X/Twitter) for visibility.
+* **Provide preferred contact details that will be shared publicly** (e.g., email, GitHub, X/Twitter).
 
 **Important: The Proposal Champion’s preferred contact details will be made public to facilitate discussions with the Cardano community.**
+
+
 
 ## Section 3: Problem Statements and Proposal Benefits
 
@@ -66,13 +81,15 @@ Here, you must clearly define the problem your proposal aims to solve and how it
 
 _Tip: Providing a strong, data-backed case for why your proposal is needed will increase its chances of support and approval from the community._
 
+
+
 ## Section 4: Proposal Details
 
 This section captures specific details about your proposal.
 
 ### How to Fill Out This Section
 
-* **Proposal Name:** Choose a name that clearly reflects the work being proposed.
+* **Proposal Name:** Choose a name that clearly reflects the work being proposed. **This will be shared publicly.**
 * **Proposal Description:** Provide an abstract (up to 2500 words) summarizing your proposal. Consider the following when writing; key requirements, objectives, scope, risk and mitigation strategies, background and context.&#x20;
 * **Dependencies:** List any dependencies that must be met before the proposal can be completed.
 * **Maintenance Plan:** Explain how the project will be supported after initial development. Consider whether the project will require any maintenance or support once the project has completed. If so, please explain how the maintenance will be managed, who will be responsible for it and provide maintenance durations and costs.
@@ -95,14 +112,13 @@ This section captures specific details about your proposal.
   * If you do not have a vendor in mind, please select this option and Intersect will support you in the procurement process to find a suitable vendor.
 * **Other** - If you wish to use another contract type, please select ‘other’.
 
+
+
 ## Section 5: Costing
 
-**Currency & Budget**:
-
-* Select your preferred currency.
-* Enter the amount requested in preferred currency.
-* Enter the equivalent amount in USD and provide the conversion rate used.
-* Enter the equivalent amount in ada and provide the conversion rate used.
+* Enter the amount requested in ADA.
+* Enter the USD to ADA Conversion Rate.
+* Enter your preferred currency and the amount - If your preferred currency is ADA, for now please enter USD and tell us in the cost breakdown that your preferred currency is ADA - we are working on fixing this!
 * Enter a cost breakdown in both USD and ada.
 * When providing a cost breakdown, consider categorising it into line items / cost components (such as labour costs or materials). Show both the USD and ada amounts for every budget line item. Use the same ada/USD conversion rate for all calculations.
 
@@ -112,11 +128,13 @@ _Tip: Be transparent with costs—this increases the likelihood of approval._
 
 ## Section 6: Further information
 
-You can upload any relevant documents to support your proposal.
+You can upload the links to any relevant documents to support your proposal.
 
 * **Provide links** to specifications, videos, or other supporting materials. Please provide a description of what the links are and/or how they are relevant to your proposal.
 
 _Tip: Including additional documents can strengthen your proposal’s credibility._
+
+
 
 ## Section 7: Administration and Auditing
 
@@ -126,12 +144,11 @@ Intersect plays a role in managing approved proposals, including contract manage
 * If you do not select Intersect as your administrator, you must explain who will conduct the listed services on your behalf, whether that be your organization or another vendor.
 * **Confidentiality**: If your proposal contains information that should not be publicly disclosed, such as for security or intellectual property reasons, please indicate this clearly.
 
-Before submitting, you must agree to Intersect’s privacy policies.
+Before submitting, you must agree to  consent to the public sharing of all information provided in this form, except for Section 1 (Participant Details), in accordance with the [Privacy Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/privacy-policy) and [Terms of Use](https://docs.intersectmbo.org/legal/policies-and-conditions/terms-of-use).
 
-* Tick the box to receive Intersect communications.
-* Tick the box to allow Intersect to store and process your data.
+Click "**Continue**" to verify all your proposal details. Once you're happy, click "**Submit**" to finalize your proposal.
 
-Click "**Submit**" to finalize your proposal.
+**Note**: If you wish to edit your proposal after submission, you will be able to do this by clicking on your proposal and finding the 3 dots on the top right hand corner of your screen. Click **EDIT**.
 
 \
 \
