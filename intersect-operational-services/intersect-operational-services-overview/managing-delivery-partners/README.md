@@ -18,7 +18,7 @@ Delivery Assurance acts on behalf of Intersect Committees and those who have cho
 
 The delivery assurance function provides Intersect committees and any budget proposer who has selected Intersect to be their administrator with processes and expertise in project management, who sit within a broader operational services team Intersect will be able to provide the following services; Contract management, Delivery assurance and Communications, Fund management, Fiat conversion, Legal, KYC / KYB, Dispute resolution, Technical and Financial auditing. It’s a service that allows committees to focus on their primary purposes, making recommendations on behalf of the membership, without needing to spend time undertaking these delivery tasks, which can be heavily administrative.
 
-Intersect’s delivery assurance professionals set expectations, engages the right people to review deliverables and provide them to the committees for their review and evaluation, disburse payments to suppliers, and deliver extensive reporting to committees, suppliers, and members. These reports provide committees with the necessary information to make decisions and manage risk regarding the work undertaken, ensuring community transparency.
+Intersect’s delivery assurance professionals set expectations, engages the right people to review deliverables by providing them to the DReps for review, and the committees for their final evaluation. Delivery Assurance manage the payments to suppliers, and deliver regular reporting to committees, community, suppliers, and members.
 
 ### **History**
 
@@ -28,7 +28,7 @@ Initially established to manage contracts with the remit of 'core continuity' te
 
 Originally, delivery assurance focused on overseeing technical contracts, ensuring projects were managed efficiently and effectively on behalf of the community. Over time, however, the team's responsibilities have expanded to provide broader support across various contract types, serving more of our steering committees.
 
-As we step into the future, delivery assurance remains focused on ensuring that every project undertaken by our committees is delivered successfully, supporting the continued growth and success of Intersect and the wider ecosystem.
+As we step into the future, delivery assurance remains focused on ensuring that every project administered by Intersect is delivered successfully, supporting the continued growth and success of Intersect and the wider ecosystem.
 
 Delivery assurance monitors the delivery of contracted updates to Cardano on behalf of the community. Its processes and procedures are building a body of knowledge that will ensure continuing improvement by and on behalf of the entire community. By identifying risks early, confirming the quality of deliverables, and helping contributors meet their milestones, delivery assurance fills an essential role in the ongoing success of Cardano.
 
@@ -68,8 +68,8 @@ At Intersect, delivery assurance plays a key role in ensuring transparency and a
 
 To keep stakeholders informed, we provide:
 
-* **Monthly reports** – Delivered directly to relevant committees, these reports offer a concise overview of contract status, key developments, and any risks or challenges that need to be addressed.
-* **Quarterly reports** – A more holistic view of progress and achievements across the committees, which will be publicly available, ensuring full transparency on project progress and outcomes.&#x20;
+* **Monthly reports** – Delivered to the community, these reports offer a concise overview of contract status, key developments, and any risks or challenges.
+* **Quarterly reports** – A more holistic view of progress and achievements across Intersect administered contracts, which will be publicly available, ensuring full transparency on project progress and outcomes.&#x20;
 
 Link to where this information will be stored is TBC.
 
