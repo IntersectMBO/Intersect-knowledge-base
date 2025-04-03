@@ -19,7 +19,7 @@
 
 _Below is a high level timeline of the process_
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfh0qUlTmB6DDbcOdqhUiw-1jHyXJsygCeQVGQNoSsLuj4QbFD2ffA89XakzBO5LtiLYXFkyQEV6563q2IpSRBXN6Q0anZQYOQS6FcqfnSDJ6jo-QyYV0Io763ljzWq7Ez7QwYWDA?key=dwHRG3rKqosaYJHaoE6M8ITX" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## A budget reconciliation workshop
 
