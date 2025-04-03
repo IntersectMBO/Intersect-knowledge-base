@@ -107,32 +107,4 @@ More to come on what tooling will be available for the Cardano community to clea
 * Submissions open in early March. The Cardano community and DReps  - supported by the appropriate Intersect committees - will then review all proposals for funding.
 * If selected and using Intersect as your administrator, funding will be managed via a multi-signature smart contract, ensuring transparency and stability.
 
-## Next steps & timeline
-
-* Early March: Proposal submission window opens for community members, vendors, and ecosystem builders.
-* End of March: Submissions are organized, made public, and reviewed by the community and DReps.
-* March-April: In parallel to vendor proposals being available, the Net-Change-Limit will be submitted on-chain with greater clarity as to how much funding the ecosystem has requested via proposal, helping to establish a starting point for Cardano’s first NCL.&#x20;
-* April-May: DReps signal preferred vendors; a Budget Info Action is finalized for on-chain approval. Budget workshops may be held to reconcile complex decision-making (which may be online-only or in-person TBD), focused to decide on all critical funding.
-* May-June: Following the reconciliation efforts, it’s anticipated that relevant governance actions will be raised and follow-up work is organized if needed to make decisions on unresolved funding requests.
-
-## Recalibrating and setting the right precedent
-
-This approach is designed to balance urgency with openness - enabling critical funding today with a commitment to improvement and accessibility. Intersect and its members are here to serve and support the wider ecosystem. The process will also remain adaptive and responsive, adjusting dynamically based on community and DRep feedback to ensure it continues to meet the needs of the ecosystem.
-
-We want to hear your early feedback on the changes&#x20;
-
-These changes mark a shift in approach, but it's equally important to remain agile and responsive to community feedback. Stay tuned to our X account for upcoming Spaces next week, covering both U.S. and Asian time zones.
-
-Additionally, the Product Committee is hosting a workshop on Thursday, March 14, at 16:00 UTC to discuss Cardano’s vision and product roadmap. RSVP [here](https://lu.ma/872m8ypa)!
-
-TLDR:
-
-* Strategy setting (Now): Align on the product roadmap and reference committee block budgets, debate the Net-Change-Limit &#x20;
-* Proposals open in early March. Community and vendors should prepare to submit.
-* The Cardano community via DReps, makes all final funding decisions, with Intersect committees providing guidance on feasibility and alignment.
-
-This new approach simplifies the process while reinforcing DRep authority, transparency, and community engagement.&#x20;
-
-Let’s keep building the future of Cardano - together.
-
 \

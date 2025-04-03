@@ -31,6 +31,7 @@
 ## Cardano
 
 * [Cardano Budget Submission](cardano/cardano-budget-submission/README.md)
+  * [Cardano Budget Process](cardano/cardano-budget-submission/cardano-budget-process.md)
   * [How to complete the Budget Proposal Submission form](cardano/cardano-budget-submission/how-to-complete-the-budget-proposal-submission-form.md)
   * [Track on Budget Submissions](cardano/cardano-budget-submission/track-on-budget-submissions.md)
   * [FAQs](cardano/cardano-budget-submission/faqs.md)
