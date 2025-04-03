@@ -1,10 +1,10 @@
 # Cardano Budget Process
 
-## **Below are the steps driving forward the Cardano Budget Process**
+**Below are the steps driving forward the Cardano Budget Process**
 
 
 
-* **Budget Proposal Submissions:** Throughout March and up to April 24th, the community can submit proposals that directly support the delivery of the proposed product roadmap. Additionally, any open ideas or proposals, including committee proposals, can be submitted via the [intake form](https://www.intersectmbo.org/cardano-budget-submission). Submitting proposals earlier gives DReps more time to consider the proposal and may increase the likelihood of Intersect’s committees providing reviews and feedback.&#x20;
+* **Budget Proposal Submissions:** Throughout March and up until April 24th, the community can submit proposals that directly support the delivery of the proposed product roadmap, if they wish to be included in the first round of the 2025 Cardano Budget. Additionally, any open ideas or proposals, including committee proposals, can be submitted via the [intake form](https://www.intersectmbo.org/cardano-budget-submission). Submitting proposals earlier gives DReps more time to consider the proposal and may increase the likelihood of Intersect’s committees providing reviews and feedback. After April 24th, the community can still submit proposals, however these will be included the following budget, likely to be in 2026.
 * **Public Display of Proposals:** Since 1st April, a new dashboard has been created in [Cardano GovTool](https://gov.tools/budget_discussion) to publicly display the proposals received so far, providing committees and the community with an early opportunity to give feedback.
 * **Net-Change-Limit:** In parallel, the Net-Change-Limit will need to be agreed to allow us to move towards submitting a Budget Info Action.&#x20;
 * **DRep Sentiment Signalling:** In mid-to-late April, new functionality will be released into the GovTool stack (with open APIs), where the tooling, mirroring mainnet conditions, will utilize DRep stake-based signaling to effectively build consensus on submitted proposals, creating implicit consent for budget items before submission on-chain.
@@ -13,17 +13,19 @@
   * Topic 2: Apr 14 @ 4–7 pm UTC & Apr 15 @ 2–5 am UTC
   * Topic 3: TBD
   * Topic 4: Apr 24 @ 4–7 pm UTC & Apr 25 @ 2–5 am UTC
-* **Virtual Reconciliation Workshop:** In late April, we anticipate hosting a virtual two or three-day reconciliation workshop to align proposals that have strong to borderline community support. Following this event, we plan to submit a consolidated Budget Info Action for DReps and the interim Constitutional Committee to officially consider. More on this below.
+* **Virtual Reconciliation Workshops:** In late April and early May, we anticipate hosting two virtual reconciliation workshops to align proposals that have strong to borderline community support. Following these event, we plan to submit a consolidated Budget Info Action for DReps to officially consider. Proposed dates are:
+  * 26th-28th April
+  * 3rd-4th May
 * **Budget Info Action:** If approved on-chain, the Budget Info Action will take effect. Proposals with identified vendors can be streamlined into Treasury Withdrawal Actions. For committee or external proposals without an identified vendor, Intersect can facilitate procurement if specified by the applicant and subsequently approved by DReps as part of the Budget Info Action.&#x20;
 * **Treasury Withdrawal Actions:** Given the procedural on-chain steps, we expect initial Treasury Withdrawal Actions to be submitted on-chain in June to July.
 
 _Below is a high level timeline of the process_
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-## A budget reconciliation workshop
+## Budget reconciliation workshops
 
-Following the proposal review stage, a reconciliation event can facilitate informed discussion and consensus-building among DReps, vendors, and the broader Cardano community. This event aims to further reconcile and align proposals, culminating in a robust Budget Info Action that secures strong implicit consent and addresses ecosystem priorities with greater accuracy. Currently this is scheduled to be a virtual event taking place from 26th-28th April.
+Following the proposal review stage, two reconciliation events will facilitate informed discussion and consensus-building among DReps, vendors, and the broader Cardano community. These events aims to further reconcile and align proposals, culminating in a robust Budget Info Action that secures strong implicit consent and addresses ecosystem priorities with greater accuracy. Currently these are scheduled to be virtual events taking place on 26th-28th April and 3-4th May.
 
 ## Role of DReps in our budget process
 
