@@ -1,14 +1,14 @@
 # Current Proposals Analysis
 
-_Last updated on 6th April at 11:15 BST_
+_Last updated on 7th April at 22:15 BST_
 
-Our proposal portal has been open for 16 working days, with 85 proposals submitted. The process of submitting proposals is now in [Cardano GovTool](https://gov.tools/budget_discussion), where proposals are public and Community feedback can be provided.
+Our proposal portal has been open for 17 working days, with 86 proposals submitted. The process of submitting proposals is now in [Cardano GovTool](https://gov.tools/budget_discussion), where proposals are public and Community feedback can be provided.
 
-## **Total proposals received: 85**
+## **Total proposals received: 86**
 
 **Split by Category:**
 
-* Core: 25
+* Core: 26
 * Governance Support: 10
 * Marketing and Innovation: 33
 * Research: 8
@@ -22,14 +22,14 @@ Our proposal portal has been open for 16 working days, with 85 proposals submitt
 * Civics Committee: 2
 * Open Source Committee: 20
 * Product Committee: 13
-* Technical Steering Committee: 15
+* Technical Steering Committee: 16
 * None: 2
 * Unsure: 2
 
 **Total value of proposals:**
 
-* ADA: 67,476,243.12
-* USD: $46,705,443.34
+* ADA: 164,293,323.12
+* USD: $95,113,983.34
 
 
 
