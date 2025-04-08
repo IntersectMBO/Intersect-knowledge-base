@@ -1,6 +1,6 @@
 # Intersect's structure
 
-## Intersect's Structure
+## Intersect's structure
 
 Similar to municipalities, local councils, and other member-based organizations, Intersect has a governing board occupied and administered by its members, with various committees and working groups focused on specific domains and interests.
 
@@ -8,6 +8,6 @@ The design of Intersect’s governance and membership structure helps identify s
 
 ### **Incorporation**
 
-Intersect is incorporated in the United States Wyoming, as a Mutual Benefit Nonprofit organization in accordance with Wyoming’s state laws. Given the State’s warmness to innovation and new technology, specifically around blockchain and DAOs, it was the ideal jurisdiction to incorporate Intersect.&#x20;
+Intersect is incorporated in Wyoming, United States, as a Mutual Benefit Nonprofit organization in accordance with applicable state laws. Given the state’s receptiveness to innovation and new technology, specifically around blockchain and DAOs, it was the ideal jurisdiction to incorporate Intersect.&#x20;
 
-Intersect was incorporated on December 8th, 2023.
+Intersect was incorporated on December 8, 2023.

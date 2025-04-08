@@ -2,7 +2,7 @@
 
 ## INTERSECT OVERVIEW
 
-* [What is Intersect](README.md)
+* [What is Intersect?](README.md)
 * [Intersect's structure](intersect-overview/intersects-structure/README.md)
   * [Intersect values](intersect-overview/intersects-structure/intersect-values.md)
   * [Intersect governance](intersect-overview/intersects-structure/intersect-governance.md)
@@ -34,6 +34,7 @@
   * [Cardano Budget Process](cardano/cardano-budget-submission/cardano-budget-process.md)
   * [How to complete the Budget Proposal Submission form](cardano/cardano-budget-submission/how-to-complete-the-budget-proposal-submission-form.md)
   * [Current Proposals Analysis](cardano/cardano-budget-submission/current-proposals-analysis.md)
+  * [Cardano's treasury governance](cardano/cardano-budget-submission/cardanos-treasury-governance.md)
   * [FAQs](cardano/cardano-budget-submission/faqs.md)
 * [Cardano governance](cardano/cardano-governance/README.md)
   * [Overview](cardano/cardano-governance/overview.md)
