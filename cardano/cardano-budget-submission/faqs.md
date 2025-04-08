@@ -8,14 +8,15 @@
 
 Read the latest news release here: https://intersectmbo.org/news/understanding-committees-in-intersect-0
 
+\
 In summary:
 
-* Proposal Submission: Fill out the Intersect form; if submitted by March 31, the proposal appears in the first public release in Gov.Tools.
-* Community Review: During April, the proposals undergo comment, AMA sessions, focus groups, and iterative feedback.
-* Reconciliation Events: Likely in late April or early May (venue and dates TBA), offering deeper collaborative review and final adjustments.
-* Consolidation & Single Deposit: Proposals that gain strong consensus bundle together in a budget proposal, with one 100,000 ADA deposit covering the package.
-* On-Chain Vote: DReps give final approval or rejection.
-* Funding & Audits: Approved proposals require one more on-chain vote for the treasury withdrawals and will be subject to audits and oversight.
+* Proposal submission: fill out the Intersect form. If submitted by March 31, the proposal appears in the first public release in Gov.Tools. Proposals are now submitted via [Cardano GovTool](https://gov.tools/budget_discussion) and appear immediately for community and DRep review.
+* Community review: during April, the proposals undergo comment, AMA sessions, focus groups, and iterative feedback.
+* Reconciliation events: likely in late April or early May (dates TBA), offering deeper collaborative review and final adjustments.
+* Consolidation & single deposit: proposals that gain strong consensus with participating DReps, bundle together in a budget proposal, with one 100,000 ada deposit covering the package.
+* On-chain vote: DReps give final approval or rejection.
+* Funding & audits: approved proposals require one more on-chain vote for the treasury withdrawals and will be subject to audits and oversight.
 
 The process is iterative, and will be adjusted to suit DRep needs. Even after a core set of proposals is funded, the Cardano community can introduce and vote on further proposals in subsequent cycles.
 
@@ -43,7 +44,7 @@ The timing of when the Net Change Limit, budget and subsequent treasury withdraw
 
 <summary>Has The Overall Budget Timeline Changed?</summary>
 
-No. The target is still the end-of-March to gather most proposals, and we aim for the first Treasury withdrawal vote around early June.
+No. We aim for the first treasury withdrawal vote around early June.
 
 </details>
 
@@ -51,18 +52,19 @@ No. The target is still the end-of-March to gather most proposals, and we aim fo
 
 <summary>What Happens If Consensus Isn’t Reached By The Early June Target?</summary>
 
-Not every funding request has to be 100% perfect or unanimously approved before a budget moves forward. If a strong majority (around 70–80%) of the key proposals can be bundled, they can proceed while other items continue discussion. The thinking is to develop a budget that funds the essential items - the ‘70% budget’. Then more time can be taken to review and decide on the remaining items, possibly generating a second budget proposal.
+Not every funding request has to be 100% perfect or unanimously approved before a budget moves forward. If a strong majority (around 70–80%) of the key proposals can be bundled, they can proceed while other items remain under discussion. The thinking is to develop a budget that funds the essential items - the ‘70% budget’. Then more time can be taken to review and decide on the remaining items, possibly generating a second budget proposal.
 
 </details>
 
 <details>
 
-<summary>How Can Dreps And The Broader Cardano Community Stay Engaged?</summary>
+<summary>How Can DReps And The Broader Cardano Community Stay Engaged?</summary>
 
 * Monitor Intersect’s Discord & X for announcements, including the public release of proposals to receive treasury funding on Gov.Tools.
 * Review and provide feedback on proposals: Gov.Tools.
 * Join scheduled budget sessions: https://lu.ma/cardanobudgetprocess
-* Committee Meetings are announced in the Intersect Discord and on the official Intersect calendar. Recordings and minutes for many sessions are posted later on YouTube and the Committee knowledge base (https://committees.docs.intersectmbo.org/).
+* Committee meetings are announced in the Intersect Discord and on the official Intersect calendar. Recordings and minutes for many sessions are posted later on YouTube and the committee knowledge base (https://committees.docs.intersectmbo.org/).\
+
 
 Direct feedback from DReps and community members is encouraged and shapes how the budget process evolves.
 
@@ -119,7 +121,7 @@ Yes, more than one budget can be passed. Any budget proposal that reaches the >5
 
 <summary>How Will The Budget Process Handle Shifting Needs?</summary>
 
-DReps can approve shifting funds from one bucket to another, or to allocate additional funds to a previously approved budget item. This will be done through info actions.
+DReps can approve shifting funds from one bucket to another, or allocate additional funds to a previously approved budget item. This will be done through info actions.
 
 </details>
 
@@ -129,11 +131,11 @@ DReps can approve shifting funds from one bucket to another, or to allocate addi
 
 The budget will be discussed by topic, anchoring on but not limited to these budget buckets established by Intersect:
 
-* **Core:** Node development and related fundamental infrastructure.
-* **Research:** Advanced protocol research, previously handled mainly by IOG, but now open to other contributors.
-* **Innovation:** Community grants, including Project Catalyst.
-* **Governance:** Funding items like DRep or Constitutional Committee compensation and governance tooling.
-* **Growth & Marketing:** Marketing, events, and hubs (regional or topical) to grow the Cardano ecosystem.
+* **Core**: node development and related fundamental infrastructure.
+* **Research**: advanced protocol research, previously handled mainly by Input I Output, but now open to other contributors.
+* **Innovation**: community grants, including Project Catalyst.
+* **Governance**: funding items like DRep or Constitutional Committee compensation and governance tooling.
+* **Growth & marketing**: marketing, events, and hubs (regional or topical) to grow the Cardano ecosystem.
 
 </details>
 
@@ -243,7 +245,7 @@ Intersect has commissioned the development of a multi-sig smart contract to bett
 
 <summary>How Will Budget Administrators Minimize Ada Sell Pressure?</summary>
 
-Treasury and financial experts from CF, IOG, EMURGO, and Intersect have been testing over-the-counter sales for ADA to avoid large order-book dumps. Most contractors quote fees in fiat terms, so Intersect's goal is a measured, consistent conversion schedule without spiking volatility on retail exchanges. Internal policies ensure that no single party can draw the entirety of the allocation without multi-stakeholder approval.
+Treasury and financial experts from the Cardano Foundation,, Input I Output, EMURGO, and Intersect have been testing over-the-counter sales for ada to avoid large order-book dumps. Most contractors quote fees in fiat terms, so Intersect’s goal is a measured, consistent conversion schedule without spiking volatility on retail exchanges. Internal policies ensure that no single party can draw the entirety of the allocation without multi-stakeholder approval.
 
 </details>
 
@@ -259,7 +261,7 @@ Intersect has been exploring various treasury management strategies, including p
 
 <summary>What Is This Stablecoin Proposal That Keeps Coming Up?</summary>
 
-A group in the community wants to explore using stablecoins as a hedge—sort of like a sovereign wealth strategy—to mitigate ADA’s price volatility. They propose depositing some Treasury funds into stablecoins, possibly earning yields. It’s not Intersect’s official idea; it’s an independent group’s proposal. Ultimately, the DReps will decide on it.
+A group in the community wants to explore using stablecoins as a hedge—sort of like a sovereign wealth strategy—to mitigate ada’s price volatility. They propose depositing some treasury funds into stablecoins, possibly earning yields. It’s not Intersect’s official idea. Rather, it’s an independent group’s proposal. Ultimately, the DReps will decide on it.
 
 </details>
 
@@ -327,23 +329,15 @@ Intersect can facilitate audits—both financial (for treasury integrity) and te
 
 </details>
 
-<details>
-
-<summary>How Do The Auditing Fees Work With Intersect?</summary>
-
-The cost for administration and auditing has to be included in your proposal. Contact Intersect to help set the audit fee.
-
-</details>
-
 ***
 
-## Net Change Limit (NCL)
+## Net Change Limit
 
 <details>
 
 <summary>What Is The Net Change Limit, And Why Is It Important?</summary>
 
-The Net Change Limit places an upper boundary on how much ADA can be withdrawn from the Treasury within a given time period. It’s a safeguard against treasury withdrawals that exceed what the community agrees to spend. DReps can vote to increase or decrease the limit later, though each on-chain change requires time (six epochs) and alignment.
+The Net Change Limit (NCL) places an upper boundary on how much ada can be withdrawn from the treasury within a given time period. It’s a safeguard against treasury withdrawals that exceed what the community agrees to spend. DReps can vote to increase or decrease the limit later, though each on-chain change requires time (six epochs) and alignment.
 
 </details>
 
@@ -351,11 +345,10 @@ The Net Change Limit places an upper boundary on how much ADA can be withdrawn f
 
 <summary>How Is The Net Change Limit Calculated?</summary>
 
-If a NCL for period x is 100, withdrawals during period x cannot exceed 100.
+If a NCL for period x is 100 ada, withdrawals during period x cannot exceed 100 ada.
 
-The active NCL sets the maximum amount of treasury withdrawals per period of time. The constitution states:
-
-“Withdrawals from the Cardano Blockchain treasury made pursuant to an approved Cardano Blockchain ecosystem budget must not exceed the net change limit for the Cardano Treasury's balance per period of time” Cardano Constitution, Guardrail TREASURY-02a (x)."
+The active NCL sets the maximum amount of treasury withdrawals per period of time. The constitution states:\
+“Withdrawals from the Cardano Blockchain treasury made pursuant to an approved Cardano Blockchain ecosystem budget must not exceed the net change limit for the Cardano Treasury's balance per period of time” Cardano Constitution, Guardrail TREASURY-02a.
 
 </details>
 
@@ -387,14 +380,9 @@ Yes. If the DReps and the community realize they need a higher limit, anyone can
 
 <summary>What Happens If Two Net Change Limits Are Approved?</summary>
 
-This will require the Constitutional Committee's interpretation of the Constitution as to what determines the NCL in effect. Ex) the most recently approved vs the one with the higher approval.  The Constitution states:
+This will require the Constitutional Committee's interpretation of this section of the constitution as to what determines the NCL in effect. For example, the most recently approved v the one with the higher approval. The Constitution states:
 
-"Withdrawals from the Cardano Blockchain treasury that would cause the Cardano Blockchain\
-treasury balance to violate the then applicable net change limit shall not be permitted."
-
-and
-
-"A net change limit for the Cardano treasury's balance per period of time must be agreed by the DReps via an on-chain governance action with a threshold of greater than 50% of the active voting stake"
+"A net change limit for the Cardano treasury's balance per period of time must be agreed by the DReps via an on-chain governance action with a threshold of greater than 50% of the active voting stake" Cardano Constitution, Guardrail TREASURY-01a.
 
 </details>
 
@@ -402,9 +390,7 @@ and
 
 <summary>How Was The Net Change Limit Of 350 Million Ada Determined And Is It The Right Number?</summary>
 
-The figure of \~350 million ADA reflects recent one-year inflows, so spending in 2025 does not outpace the treasury’s replenishment rate. It is sized to ensure vital projects (like ongoing node upgrades, governance improvements, and community initiatives) receive adequate funding without draining the treasury.
-
-Ultimately, DReps will vote on whether 350 million ADA is an appropriate cap.
+The figure of \~350m ada reflects recent one-year inflows, so spending in 2025 does not outpace the treasury’s replenishment rate. It is sized to ensure vital projects (like ongoing node upgrades, governance improvements, and community initiatives) receive adequate funding without draining the treasury. Ultimately, DReps will vote on whether 350m ada is an appropriate cap.
 
 </details>
 
@@ -412,7 +398,7 @@ Ultimately, DReps will vote on whether 350 million ADA is an appropriate cap.
 
 <summary>Why Not Use A Percentage Of The Treasury Balance Rather Than A Fixed Ada Amount?</summary>
 
-A percentage-based approach was considered. For this first cycle, the Budget Committee chose a fixed amount (350 million ADA) because it is straightforward and transparent. As Cardano’s governance evolves, a percentage system may be revisited and potentially replace the fixed cap.
+A percentage-based approach was considered. For this first cycle, the Budget Committee chose a fixed amount (350m ada) because it is straightforward and transparent. As Cardano’s governance evolves, a percentage system may be revisited and potentially replace the fixed cap.
 
 </details>
 
@@ -420,7 +406,7 @@ A percentage-based approach was considered. For this first cycle, the Budget Com
 
 <summary>How Do Potential Changes To The Protocol Tax Rate Affect The Net Change Limit?</summary>
 
-If the tax rate (currently \~20%) changes—e.g., to 10%—the treasury would accrue ADA slower. That might merit adjusting the net change limit to prevent drawing down principal.
+If the tax rate (currently \~20%) changes—eg to 10%—the treasury would accrue ada slower. That might merit adjusting the NCL to prevent drawing down principal.
 
 </details>
 
@@ -452,7 +438,7 @@ Proposals submitted by March 31 are consolidated and made available for DRep rev
 
 <summary>Does Each Proposal Require Its Own 100,000 Ada On-Chain Deposit?</summary>
 
-No. Submitting via the form on the Intersect website does not require any deposit. When proposals reach consensus and are bundled together, only one 100,000 ADA deposit is required to submit the budget which will contain multiple proposals. Once proposals are consolidated into a single “budget bundle,” Intersect (on behalf of the community) will handle the on-chain deposit.
+No. Submitting a proposal to receive treasury funding via the form on the Intersect website or through GovTools does not require any deposit. When proposals reach consensus and are bundled together, only one 100,000 ada deposit is required to submit the budget, which will include multiple proposals. Once proposals are consolidated into a single ‘budget bundle,’ Intersect (on behalf of the community) will handle the on-chain deposit.
 
 </details>
 
@@ -468,13 +454,12 @@ Intersect opened a form to gather all proposals to receive treasury funding. DRe
 
 <summary>What Happens Next After Proposals Are Submitted?</summary>
 
-* Proposal Submission: Fill out the Intersect form; if submitted by March 31, the proposal appears in the first public release in Gov.Tools.
-
-- Community Review: During April, the proposals undergo comment, AMA sessions, focus groups, and iterative feedback.
-- Reconciliation Events: Likely in late April or early May (venue and dates TBA), offering deeper collaborative review and final adjustments.
-- Consolidation & Single Deposit: Proposals that gain strong consensus bundle together in a budget proposal, with one 100,000 ADA deposit covering the package.
-- On-Chain Vote: DReps give final approval or rejection.
-- Funding & Audits: Approved proposals require one more on-chain vote for the treasury withdrawals and will be subject to audits and oversight.
+* Proposal submission: fill out the Intersect form. If submitted by March 31, the proposal appears in the first public release in Gov.Tools. Proposals are now submitted via [Cardano GovTool](https://gov.tools/budget_discussion) and appear immediately for community and DRep review.
+* Community review: during April, the proposals undergo comment, AMA sessions, focus groups, and iterative feedback.
+* Reconciliation events: likely in late April or early May (venue and dates TBA), offering deeper collaborative review and final adjustments.
+* Consolidation & single deposit: proposals that gain strong DRep consensus bundle together in a budget proposal, with one 100,000 ada deposit covering the package.
+* On-chain vote: DReps give final approval or rejection.
+* Funding & audits: approved proposals require one more on-chain vote for the treasury withdrawals and will be subject to audits and oversight.
 
 The process is iterative. Even after a core set of proposals is funded, the Cardano community can introduce and vote on further proposals in subsequent cycles.
 
