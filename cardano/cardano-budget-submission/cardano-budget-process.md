@@ -8,11 +8,14 @@
 * **Public Display of Proposals:** Since 1st April, a new dashboard has been created in [Cardano GovTool](https://gov.tools/budget_discussion) to publicly display the proposals received so far, providing committees and the community with an early opportunity to give feedback.
 * **Net-Change-Limit:** In parallel, the Net-Change-Limit will need to be agreed to allow us to move towards submitting a Budget Info Action.&#x20;
 * **DRep Sentiment Signalling:** In mid-to-late April, new functionality will be released into the GovTool stack (with open APIs), where the tooling, mirroring mainnet conditions, will utilize DRep stake-based signaling to effectively build consensus on submitted proposals, creating implicit consent for budget items before submission on-chain.
-* **Proposal Review - Topic Based Workshops:** Topic based workshops will be taking place throughout April with the aim to provide DReps with an opportunity to explore proposals and deliberate with peers. During this time, Committees and vendors will be able to support DReps in casting initial up/down votes on individual proposals (non-binding) and gather category-level guidance on budget scope, priorities, and success metrics. These workshops will support in identifying key questions or gaps that will need to be followed-up on before reconciliation. Tentative Workshop Schedule:
-  * Topic 1: Apr 10 @ 4–7 pm UTC & Apr 11 @ 2–5 am UTC
-  * Topic 2: Apr 14 @ 4–7 pm UTC & Apr 15 @ 2–5 am UTC
-  * Topic 3: TBD
-  * Topic 4: Apr 24 @ 4–7 pm UTC & Apr 25 @ 2–5 am UTC
+*   **Proposal Review - Topic Based Workshops:** Topic based workshops will be taking place throughout April with the aim to provide DReps with an opportunity to explore proposals and deliberate with peers. During this time, Committees and vendors will be able to support DReps in casting initial up/down votes on individual proposals (non-binding) and gather category-level guidance on budget scope, priorities, and success metrics. These workshops will support in identifying key questions or gaps that will need to be followed-up on before reconciliation. Tentative Workshop Schedule:
+
+
+* Sign up and subscribe to receive updates: [https://lu.ma/cardanobudget](https://lu.ma/cardanobudget)
+  * Budget Orientation: Apr 10 @ 4–7 pm UTC & Apr 11 @ 2–5 am UTC
+  * Proposal review: Marketing & Innovation: Apr 14 @ 4–7 pm UTC & Apr 15 @ 2–5 am UTC
+  * Proposal review: Governance, Research, No Category: Apr 17 @ 4-7 pm UTC & Apr 18 @ 2-5 am UTC
+  * Proposal review: Core: Apr 24 @ 4–7 pm UTC & Apr 25 @ 2–5 am UTC
 * **Virtual Reconciliation Workshops:** In late April and early May, we anticipate hosting two virtual reconciliation workshops to align proposals that have strong to borderline community support. Following these event, we plan to submit a consolidated Budget Info Action for DReps to officially consider. Proposed dates are:
   * 26th-28th April
   * 3rd-4th May
