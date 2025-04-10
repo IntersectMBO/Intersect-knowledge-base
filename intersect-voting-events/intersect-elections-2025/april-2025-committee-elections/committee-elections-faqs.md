@@ -136,3 +136,11 @@ As an employee of a seed funder organisation you are not eligible to vote, howev
 Yes, the current rule states that an enterprise member can hold a maximum of one seat per committee. However, this is still under review, so there may be future adjustments. There is an exception for the Product Committee and the Technical Steering Committee, where an enterprise member can hold up to two seats.
 
 </details>
+
+<details>
+
+<summary>What happens if I’m elected to both the ISC and another committee?</summary>
+
+If a candidate is nominated or elected to both the ISC and another committee, they are encouraged to prioritize their seat on the ISC. In this case, the candidate would step down from their seat on the other committee, allowing the next eligible candidate to take their place.
+
+</details>
