@@ -1,49 +1,65 @@
-# Overview
+# Governance Overview
 
-## Cardano's governance - three defining pillars
+### Governance overview
 
-Cardano's governance structure is made up of three areas of interest:
+Governance in Cardano has evolved significantly since the introduction of Cardano Improvement Proposal #1694 ([CIP-1694](https://cips.cardano.org/cip/CIP-1694)), which laid the foundation for a more decentralized and community-driven decision-making process. Named after the birth year of the philosopher Voltaire, this proposal marks the transition to the [Voltaire development phase](https://roadmap.cardano.org/en/voltaire/), where governance is self-sustaining and controlled by the Cardano community.
 
-* On-chain decision making (best described in the specification, CIP-1694)
-* [A Cardano Constitution](cardano-constitution/read-the-cardano-constitution/)
-* Institutions (such as the member-based organization, Intersect)
+CIP-1694 introduces a tripartite governance structure consisting of delegated representatives (DReps), the constitutional committee, and [stake pool operators (SPOs)](https://docs.cardano.org/about-cardano/learn/stake-pools). These bodies work together to review and approve governance actions, which can be submitted by anyone, ensuring a transparent and democratic process.&#x20;
 
-Each area delivers complementary features to the others and are intertwined to drive better outcomes both on and off chain.
+Cardano’s self-sustaining governance requires the following roles to function properly:
 
-### On-chain Decision Making
+* **Ada owners:**  the ones who have ‘skin in the game’
+* **DReps:** the ones delegated voting power by ada owners
+* **SPOs**: the block producers who maintain the network and vote on certain governance actions
+* **Constitutional committee:** the elected representatives who ensure governance actions comply with the Cardano constitution.
 
-Cardano Improvement Proposal-1694 ([CIP-1694](https://github.com/cardano-foundation/CIPs/blob/master/CIP-1694/README.md)) describes a governance system to bring decision making for the Cardano network on-chain. It seeks to advance the current governance system ensuring every ada holder has a voice in Cardano’s governance.
+As with stake pools, any ada owner may register to be a DRep and represent themselves and/or others. Also, as with stake pools, ada owners may, instead, delegate their voting rights to any DRep. Voting rights are based on the total ada that is delegated, as a whole number of lovelaces (one ada = 1,000,000 lovelaces).
 
-There are three key governing bodies with roles on-chain to secure consent on proposals submitted by the community (otherwise known as governance actions). The three roles played by stakeholders are:
+### Driven by the Cardano constitution&#x20;
 
-* Delegate Representatives (DReps)
-* Constitutional Committee (CC)
-* Stake Pool Operators (SPOs)
+The Cardano Blockchain Ecosystem Constitution (‘[Cardano constitution](https://constitution.gov.tools/en/constitution)') is designed to be the founding document that brings together the community’s values and vision and puts them into text as a set of rules and principles to abide by to maintain the sustainability of the Cardano network.
 
-Depending on the type of governance action, a combination of the three roles above will vote to either accept or reject a proposal.
+### Why bother?
 
-### The Cardano Constitution
+The pioneer entities of Cardano – EMURGO, Input | Output, and the Cardano Foundation – have relinquished the genesis keys of the blockchain, handing a more mature governance system to the community. Now, the community must take up the challenge and take Cardano to the next level, which means all ada owners must get involved.
 
-#### [**Interim**](cardano-constitution/read-the-cardano-constitution/previous-versions-of-the-cardano-constitution/interim-cardano-constitution/)
+These off-chain elements are where Intersect fits in. Becoming an Intersect member offers many opportunities to be involved in framing and maturing Cardano’s governance, much of which happens off-chain.&#x20;
 
-In Q2 2024, the Interim Cardano Constitution was published for community review and included in the genesis files when the community approved Chang Update #1. The Interim Constitution is not a fully elaborated constitution, but rather a set of essential rules that were designed to ensure Cardano maintained stability during the interim period that Cardano’s governance would go through during 2024. For now, the Interim Constitution is still in effect and is being interpreted by the Interim Constitutional Committee who votes on the constitutionality of governance actions (as described in CIP-1694).
+In addition to Intersect membership, other opportunities include participating in the [Cardano forum](https://forum.cardano.org/) and social networks.
 
-#### [**Draft**](cardano-constitution/read-the-cardano-constitution/previous-versions-of-the-cardano-constitution/)
+Join Cardano’s community in guiding its future and encouraging its mass adoption to ensure the success of the most decentralized blockchain. See the sections below for more details.
 
-Later in Q2 of 2024, the drafting process began with the aim to move towards a final version ratified later in the year. The draft served as the primary input to global community workshops throughout 2024. With community input, the Draft Constitution built upon the essential guardrails described in the Interim into a more holistic set of principles and rules.
+### How to participate
 
-A total of 63 workshops were held with more than 1400 contributors. The final version of the draft was voted on by elected delegates from every workshop during the [Constitutional Convention](https://cardanoconvention.com/) held in Buenos Aires and Nairobi in December 2024 with a resounding 95% votes in favor.
+To get involved with decentralized decision-making,  start with choosing and installing a governance-compatible wallet. Intersect MBO maintains a [current list](https://docs.gov.tools/cardano-govtool/using-govtool/getting-started/compatible-wallets). Then, check out the [governance tools documentation](https://docs.gov.tools) to see what you can do and how.
 
-#### [**Cardano Blockchain Ecosystem Constitution**](cardano-constitution/read-the-cardano-constitution/)
+You can use governance tools to delegate your voting power to a DRep, become a DRep yourself, review and vote on governance actions, submit your own governance action, and more.
 
-Following the Constitutional Convention, the delegate-approved Cardano Blockchain Ecosystem Constitution was submitted as an Update Constitution governance action that was approved by [DReps](governance-roles/delegated-representatives-dreps.md) and the [Interim Constitutional Committee](governance-roles/constitutional-committee/) for its ratification and thereby replacing the Interim Constitution, signalling Cardano fully entering the age of Voltaire.
+**Useful resources:**
 
-### Institutions
+* [How to become a DRep](https://docs.intersectmbo.org/cardano/cardano-governance/governance-roles/delegated-representatives-dreps)
+* [DRep Pioneer program](https://dreppioneeringprogram.docs.intersectmbo.org/)
+* [How to delegate your voting powe](https://docs.gov.tools/cardano-govtool/using-govtool/delegating)r
+* [How to vote on governance actions](https://docs.gov.tools/cardano-govtool/using-govtool/governance-actions/vote-on-governance-actions).
 
-Institutions create the spaces and structures for the ecosystem to ideate, deliberate and recommend changes to the Cardano network. They can be informal collectives and alliances such as the many working groups formed by the community since Cardano launched, to newer larger organizations such as Intersect. In the example of Intersect, it will not only develop into a rallying point for community discussion, but will also work towards maintaining Cardano’s open source repositories and product backlogs.
+### Governance in more detail
 
-Institutions support the feedback loop to ultimately drive better outcomes on-chain for the wider benefit of the Cardano ecosystem.&#x20;
+Any ada owner can submit a governance action on the Cardano blockchain. Every governance action must be ratified by at least two of the three governance bodies by on-chain votes. The type of action and the state of the governance system determine which bodies must ratify it.
 
-### Looking Ahead
+The constitutional committee votes on the basis of one member, one vote. SPOs and DReps vote on the basis of one lovelace, one vote.&#x20;
 
-With these three overarching governance features, the ecosystem now has the foundations of a governance system that can be observed and refined over time by the ecosystem itself. \
+<table><thead><tr><th>Governance Action</th><th width="245.46875">Name</th><th width="102.28125">CC Vote</th><th width="113.671875">DRep Vote</th><th width="85.37109375">SPO Vote</th></tr></thead><tbody><tr><td>1</td><td>Motion of no-confidence</td><td>-</td><td>✓</td><td>✓</td></tr><tr><td>2a</td><td>Update committee/threshold (normal state)</td><td>-</td><td>✓</td><td>✓</td></tr><tr><td>2b</td><td>Update committee/threshold (state of no-confidence)</td><td>-</td><td>✓</td><td>✓</td></tr><tr><td>3</td><td>New constitution or guardrails script</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>4</td><td>Hard fork initiation</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>5a</td><td>Protocol parameter changes, network group</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>5b</td><td>Protocol parameter changes, economic group</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>5c</td><td>Protocol parameter changes, technical group</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>5d</td><td>Protocol parameter changes, governance group</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>6</td><td>Treasury withdrawal</td><td>✓</td><td>✓</td><td>-</td></tr><tr><td>7</td><td>Info</td><td>✓</td><td>✓</td><td>✓</td></tr></tbody></table>
+
+There is a separate protocol parameter that sets the minimum yes vote for each DRep and SPO vote for each governance action. Some parameters are relevant to security properties of the system. Any proposal attempting to change such a parameter requires an additional vote of the SPO. For more details, see [CIP-1694](https://cips.cardano.org/cip/CIP-1694).
+
+### The Intersect member-based organization
+
+[Intersect MBO](https://www.intersectmbo.org/) is a not-for-profit organization incorporated in Wyoming, USA. Created to support the new governance system, Intersect helps ensure the continuity and future development of Cardano and facilitates governance processes. It fulfills this role with a management board and a number of advisory [committees](https://docs.intersectmbo.org/intersect-overview/intersect-committees) that coordinate the ongoing maintenance and development of the Cardano blockchain and ecosystem. Committees are elected by Intersect members in [elections ](https://www.intersectmbo.org/news/intersect-committee-elections-april-2025)that Intersect facilitates twice a year. Any interested community member or organization can become an [Intersect member](https://www.intersectmbo.org/membership). Members vote in committee elections on the basis of one member, one vote, regardless of ada holdings.
+
+There are three membership tiers:
+
+* Associate level: free to join, invited to community events and kept informed of community news
+* Individual level: a small fee to join (currently US$10.00), entitled to vote in Intersect elections, eligible to serve on Intersect committees, and can apply for grants
+* Enterprise level: a larger fee to join (currently US$1,000), all the benefits of an individual, with company profile posted on the Intersect website and the annual report.
+
+The benefits listed above are a summary; for details and how to join, see the [Intersect website](https://www.intersectmbo.org/membership).\

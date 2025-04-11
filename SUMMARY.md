@@ -38,7 +38,7 @@
   * [Cardano's treasury governance](cardano/cardano-budget-submission/cardanos-treasury-governance.md)
   * [FAQs](cardano/cardano-budget-submission/faqs.md)
 * [Cardano governance](cardano/cardano-governance/README.md)
-  * [Overview](cardano/cardano-governance/overview.md)
+  * [Governance Overview](cardano/cardano-governance/overview.md)
   * [Cardano Constitution](cardano/cardano-governance/cardano-constitution/README.md)
     * [Read the Cardano Constitution](cardano/cardano-governance/cardano-constitution/read-the-cardano-constitution/README.md)
       * [Hash](cardano/cardano-governance/cardano-constitution/read-the-cardano-constitution/hash.md)
