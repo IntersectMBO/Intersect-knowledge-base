@@ -144,3 +144,19 @@ Yes, the current rule states that an enterprise member can hold a maximum of one
 If a candidate is nominated or elected to both the ISC and another committee, they are encouraged to prioritize their seat on the ISC. In this case, the candidate would step down from their seat on the other committee, allowing the next eligible candidate to take their place.
 
 </details>
+
+<details>
+
+<summary>Can I be part of more than one committee if elected?</summary>
+
+While it’s possible, we strongly recommend that community members join no more than two elected committees. Each role typically requires around 20 hours of commitment per month, and taking on more than two could affect your ability to contribute effectively and sustainably.
+
+</details>
+
+<details>
+
+<summary>Will the Intersect Committee Elections be audited?</summary>
+
+Yes, the entire end-to-end Intersect Committee Elections process will be audited by DQuadrant. All relevant information and datasets will be appropriately shared with the audit team to ensure transparency and accountability.
+
+</details>
