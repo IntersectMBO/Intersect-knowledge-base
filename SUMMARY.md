@@ -173,7 +173,7 @@
   * [Growth & Marketing committee](intersect-operational-services/2025-delivery-assurance-contract-updates/growth-and-marketing-committee.md)
   * [Open source committee](intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/README.md)
     * [Bitergia - Analytics Subscription](intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/bitergia-analytics-subscription.md)
-* [2024 Intersect contracts](cardano/cardano-continuity/README.md)
+* [2024 Cardano Continuity contracts](cardano/cardano-continuity/README.md)
   * [Cardano continuity suppliers](cardano/cardano-continuity/cardano-continuity-suppliers/README.md)
     * [Cardano continuity progress](cardano/cardano-continuity/cardano-continuity-reports/README.md)
       * [What work has been completed since the start of Intersect](cardano/cardano-continuity/cardano-continuity-reports/what-work-has-been-completed-since-the-start-of-intersect.md)
@@ -256,6 +256,9 @@
       * [Grants to translate GovTool and the Constitutional Committee Portal](intersect-operational-services/2024-intersect-grants/closed-grants/inclusion-and-accessibility-phase-2/grants-to-translate-govtool-and-the-constitutional-committee-portal.md)
       * [Grants to translate the Interim Constitution](intersect-operational-services/2024-intersect-grants/closed-grants/inclusion-and-accessibility-phase-2/grants-to-translate-the-interim-constitution.md)
   * [Grant projects 2024](intersect-operational-services/2024-intersect-grants/grant-projects.md)
+* [2024 Intersect and CDH Contracts](intersect-operational-services/2024-intersect-and-cdh-contracts/README.md)
+  * [2024 Intersect Contracts](intersect-operational-services/2024-intersect-and-cdh-contracts/2024-intersect-contracts.md)
+  * [2024 CDH Contracts](intersect-operational-services/2024-intersect-and-cdh-contracts/2024-cdh-contracts.md)
 
 ## Intersect Website and Member area
 
