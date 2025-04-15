@@ -101,18 +101,13 @@ This section captures specific details about your proposal.
 
 **Note:** This section should be as detailed as possible to give reviewers a clear understanding of your project.
 
-**Contracting Type:** Choose how you expect to be contracted. If you are unsure, please provide an indicative response. This is to help understand the type of arrangement you are looking to be contracted for.&#x20;
+**Contracting Type:** Select the type of contract you believe is most appropriate. . This is to help us understand the type of arrangement you would like to enter. Please note any final decision on the type of contract will be within our discretion.
 
-* **Milestone Based Fixed Price** - divides a project into distinct, measurable stages. Payments are released only upon successful completion and verification of each predetermined milestone. Best suited for complex, long-term projects.
-* **Time and Material**s -  is a type of agreement used when the scope of work cannot be precisely defined at the outset or when projects may evolve during execution. Under this contract type, the client agrees to pay the contractor for the actual time spent working on a project (labour costs) and any materials or expenses used (provided such is agreed in advance and evidenced with third party invoices).
-* **Service Level Agreemen**t - this is typically a standalone contract that covers both the general terms of the relationship and the specific details of the services being provided in one document. Best used for ongoing, measurable services where consistent performance is critical.
-* **Reimbursement** - If you have already completed the work and wish to be reimbursed for the work  and such was agreed in writing in .
+* **Services Agreement to be paid on completion of milestones based on a fixed price** -  type of agreement is based on our standard services agreement and divides a project into distinct, measurable stages. Payments are released only upon successful completion and verification of each predetermined milestone. Please note that we reserve the right to decide whether to move to the next milestone. &#x20;
+* **Services Agreement to be paid on a time and materials basis** -  this type of agreement is based on our  standard services agreement and used when the scope of work cannot be precisely defined at the outset or when projects may evolve during execution. Under this contract type, we will pay you an agreed amount for the actual time spent working on a project (labour costs) and any materials or expenses used (provided such is agreed in advance and evidenced with third party invoices).
 * **Intersect Procurement Process -**
   * If you are submitting on behalf of an Intersect Committee, please choose this option;
   * If you do not have a vendor in mind, please select this option and Intersect will support you in the procurement process to find a suitable vendor.
-* **Other** - If you wish to use another contract type, please select ‘other’.
-
-
 
 ## Section 5: Costing
 
