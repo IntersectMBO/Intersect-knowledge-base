@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Milestone report October 2024
 
 ## Delivery Assurance Completed Milestone Report - October 2024

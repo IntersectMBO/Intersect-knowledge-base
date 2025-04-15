@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Milestone report April 2024
 
 ## **Continuity April achievements**

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Milestone report July 2024
 
 ## Continuity July Achievements

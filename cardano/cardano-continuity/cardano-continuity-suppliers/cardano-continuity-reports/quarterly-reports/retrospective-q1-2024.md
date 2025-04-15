@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Retrospective Q1 2024
 
 The Intersect Delivery Assurance team is one of the supportive, servant-leader, functional teams at Intersect. They support the Technical Steering Committee (TSC) in the operation and oversight of contracts which are in delivery. In Intersect, the delivery assurance team sits within the Technical Operations function.&#x20;

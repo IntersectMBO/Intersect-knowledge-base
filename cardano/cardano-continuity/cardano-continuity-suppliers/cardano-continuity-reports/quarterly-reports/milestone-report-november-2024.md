@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Milestone report November 2024
 
 ### Continuity November Achievements

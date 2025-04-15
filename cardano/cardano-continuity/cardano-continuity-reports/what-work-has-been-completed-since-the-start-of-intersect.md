@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What work has been completed since the start of Intersect
 
 This page showcases the dedication and collaboration of our partners in driving the growth and success of Cardano.
