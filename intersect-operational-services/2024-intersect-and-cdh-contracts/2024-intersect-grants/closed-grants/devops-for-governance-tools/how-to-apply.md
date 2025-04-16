@@ -1,6 +1,6 @@
 # How to apply
 
-Before applying, please consider the [eligibility criteria](../../../2025-apply-for-tender/eligibility-criteria.md).
+Before applying, please consider the [eligibility criteria](../../../../2025-apply-for-tender/eligibility-criteria.md).
 
 ***
 
