@@ -11,7 +11,7 @@
 *   **Proposal Review - Topic Based Workshops:** Topic based workshops will be taking place throughout April with the aim to provide DReps with an opportunity to explore proposals and deliberate with peers. During this time, Committees and vendors will be able to support DReps in casting initial up/down votes on individual proposals (non-binding) and gather category-level guidance on budget scope, priorities, and success metrics. These workshops will support in identifying key questions or gaps that will need to be followed-up on before reconciliation. Tentative Workshop Schedule:
 
 
-* Sign up and subscribe to receive updates: [https://lu.ma/cardanobudget](https://lu.ma/cardanobudget)
+* Sign up and subscribe to receive updates: [https://lu.ma/cardanobudgetprocess](https://lu.ma/cardanobudgetprocess)
   * Budget Orientation: Apr 10 @ 4–7 pm UTC & Apr 11 @ 2–5 am UTC
   * Proposal review: Marketing & Innovation: Apr 14 @ 4–7 pm UTC & Apr 15 @ 2–5 am UTC
   * Proposal review: Governance, Research, No Category: Apr 17 @ 4-7 pm UTC & Apr 18 @ 2-5 am UTC
