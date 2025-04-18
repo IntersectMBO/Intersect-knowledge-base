@@ -4,7 +4,7 @@ description: Welcome to the Intersect updates archive!
 
 # Intersect development updates
 
-Intersect is committed to transparency. Here, you'll find a comprehensive record of all our important updates, neatly organized by year and month. . Whether you're looking for specific improvements, new features, or historical progress, our categorized archive makes it easy to stay informed and up-to-date with all our development activities.&#x20;
+Intersect is committed to transparency. Here, you'll find a comprehensive record of all our important updates, neatly organized by year and month. Whether you're looking for specific improvements, new features, or historical progress, our categorized archive makes it easy to stay informed and up-to-date with all our development activities.&#x20;
 
 Become a member to receive this newsletter directly in your inbox. [Join Now](https://www.intersectmbo.org/join)
 
@@ -16,7 +16,7 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 <details>
 
-<summary>2025 - Development updates</summary>
+<summary><strong>2025 - Development updates</strong></summary>
 
 April\
 
