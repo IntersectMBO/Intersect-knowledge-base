@@ -22,10 +22,14 @@ Reconciliation #2: May 3-4, 2025
 
 <summary>Vendors who selected Intersect as their administrator</summary>
 
-* Have all proposal edits done by April 24th at 0:00 UTC. This is when the proposals will be exported for reconciliation workshop purposes and used to create soft proposal prioritization.
+* Have all proposal edits done by April 24th at 5pm UTC. This is when the proposals will be exported for reconciliation workshop purposes and used to create soft proposal prioritization.
 
 - Attend the workshops during the category relevant to your proposal(s) and finalization, if possible.
-  * Agenda:  <mark style="background-color:yellow;">Forthcoming</mark>
+  * April 26th:  Marketing & Innovation, Governance Support
+  * April 27th: Core, Research, No Category
+  * April 28th: Finalization Across Categories
+  * May 3:  All proposal categories
+  * May 4:  Spillover proposal categories & Finalization across categories
 
 * Monitor your emails from operational-services@intersectmbo.org.  Intersect will notify you of any changes debated by DReps. Responses should be shared back to this email, and will be summarized for the DReps in the next workshop day. If you do not respond by the time the workshop ends, DReps will decide based on the proposal as-is. Any proposals that do not get included in the first budget following April 28th will be carried into May 3-4.
 
@@ -35,15 +39,12 @@ Reconciliation #2: May 3-4, 2025
 
 <summary>DReps</summary>
 
-
-
-* Add final comments and temp check in [Gov.Tools](https://gov.tools/budget_discussion) before April 24 at 0:00 UTC.
-  * The proposals, temp checks and comments will be exported at 0:00 UTC to create soft proposal prioritization based on the aggregate proposal feedback. This prioritization will be the starting point for the reconciliation workshops.
+* Add final comments and temp check in [Gov.Tools](https://gov.tools/budget_discussion) before April 24 at 5pm UTC.
+  * The proposals, temp checks and comments will be exported at 5pm UTC to create soft proposal prioritization based on the aggregate proposal feedback. This prioritization will be the starting point for the reconciliation workshops.
 
 - Pre-workshop homework:
   * Read all proposals, or at least all those of interest to you, in [Gov.Tools](https://gov.tools/budget_discussion).  TIME TO READ PROPOSALS WILL NOT BE PROVIDED DURING THE WORKSHOP.
-  * Review the summary provided by Intersect
-    * <mark style="background-color:yellow;">Intersect summary doc forthcoming</mark>
+  * [Review the summary provided by Intersect](current-proposals-analysis.md)
   * Identify any discussion points that you want to surface in the reconciliation workshop. Discussion points must be seconded by another DRep to be discussed. Discussion points should be focused:
     * The Budget Committee will determine a threshold (ex, % yes on a proposal) that determines if a proposal goes into a budget info action.  Discussion can be around whether a proposal should/should not be in the info action, comparison between proposals, and/or specific changes requested for a proposal.
 
@@ -53,8 +54,8 @@ Reconciliation #2: May 3-4, 2025
   * DReps who cannot attend are free to ask another DRep to bring their discussion point to the floor, and will still require a second from another DRep.
   * Workshop recordings will be available [here](https://youtube.com/playlist?list=PL0vPOqkVcEDeOXivs9bAd45gayqSTsiVE\&si=ZUTytuzeapM6cUz-).
   * Participate in polls generated throughout the reconciliation workshop. <mark style="background-color:yellow;">Voting tool URL and demo video forthcoming</mark>
-    * Polls will remain open for all DReps until 5hrs prior to workshop start the next day. Polls on the final workshop day will close on 12:59 UTC that day.
-      * <mark style="background-color:yellow;">Deadline for each poll forthcoming</mark>
+    * Polls will remain open for all DReps until \~5hrs prior to the final workshop day of each cycle (April 28 and May 4).  Polls on the final workshop day (April 28 and May 4) will close on 12:59 UTC that day.
+      * <mark style="background-color:yellow;">Exact Deadline for each poll forthcoming</mark>
 
 </details>
 
@@ -62,7 +63,7 @@ Reconciliation #2: May 3-4, 2025
 
 <summary>Intersect Committees</summary>
 
-* Secretaries must final comments on behalf of their committee in [Gov.Tools](https://gov.tools/budget_discussion) before April 24 at 0:00 UTC. This is when the proposals will be exported for reconciliation workshop purposes and used to create soft proposal prioritization.
+* Secretaries must submit final comments on behalf of their committee in [Gov.Tools](https://gov.tools/budget_discussion) before April 24 at 5pm UTC. This is when the proposals will be exported for reconciliation workshop purposes and used to create soft proposal prioritization.
 
 - Attend the reconciliation workshops to add your expert perspectives
 
