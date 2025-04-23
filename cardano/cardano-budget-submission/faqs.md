@@ -1,6 +1,6 @@
 # FAQs
 
-## Budget Timeline
+Budget Timeline
 
 <details>
 
@@ -478,6 +478,219 @@ Ultimately, DReps decide based on whether the benefit to Cardano justifies treas
 <summary>What About Intersect’s Own Budget Request?</summary>
 
 Intersect’s operating budget—around USD 10 million—is a proposal. DReps still have to vote on it. Intersect’s request covers committee stipends, administrative costs, and general operational expenses.
+
+</details>
+
+***
+
+## Intersect 2025 Budget Proposal
+
+<details>
+
+<summary>Where can I read the proposal?</summary>
+
+You can read the full text here - [https://gov.tools/budget\_discussion/516](https://gov.tools/budget_discussion/516)
+
+</details>
+
+<details>
+
+<summary>Why This Proposal Matters</summary>
+
+As Cardano enters the Voltaire era, decentralized governance relies on three pillars:
+
+1. A constitution
+2. On-chain voting
+3. Voluntary, community-aligned coordination
+
+That third pillar is what Intersect provides.
+
+In 2024, Intersect:
+
+* Delivered the Chang and Plomin upgrades
+* Hosted 64 Constitution workshops across 51 countries
+* Supported the ratification of the first Cardano Constitution
+* Launched GovTool and community hubs
+* Enabled elections, onboarding, and coordination across eight elected committees
+
+In 2025, Intersect will build on this foundation through a $10M proposal to fund continued ecosystem stewardship, tool development, and governance enablement.
+
+</details>
+
+<details>
+
+<summary>What are the defined KPIs for this $10M budget, and how will success be measured?</summary>
+
+The Intersect role remains focused on supporting the governance process, as it is, so far, the only member-based organization. The requested funds are for 12 months, which will enable the governance process to stabilize and new MBOs to emerge.\
+\
+Q1 delivered outcomes and Q2 delivered and planned outcomes have been documented in the proposal for context. Regarding what the funds will cover, we can provide a clear overview of Q3 and Q4 2025, as well as a longer-term plan for Q1 and Q2 2026.
+
+\
+**Q3 2025 key deliverables**
+
+* Start the Budget process for 2026 and beyond.
+* Open Source fellowship program launched - (fostering development, innovation, and growing dev polls for Haskell)
+* The Cardano product roadmap proposal for 2026 is ready
+* Hub's presence and support have been expanded to support other regions
+* Quarterly finance and governance reviews/reports
+* Support the community at RareEvo
+* Finalise the Cardano Constitutional committee election and onboard new members
+* Support to easily join committees and working groups directly from the Intersect member area
+
+**Q4 2025 key deliverables**
+
+* Intersect committee and Board elections
+* 2025 Annual member meeting
+* 2026 Annual Budget GA submitted on-chain
+* Quarterly finance and governance reviews/reports
+* Token 2049
+* Approved budget for 2026
+* Rise or confirm Net Change Limit for 2026
+* Start the procurement process for 2025 budget proposals that have been chosen to be administered by Intersect.
+
+**Q1 2026 plan**
+
+* Prepare for April committee elections
+* Quarterly finance and governance reviews/reports
+* Define community plan to support creation of new MBOs
+
+**Q2 2026 plan**
+
+* Start the process of updating and adjusting the Cardano long-term vision based on data collected.
+* Start to define Cardano 2027 roadmap based on 2030 vision via consultation to get approved on chain
+
+Quarterly finance and governance reviews/reports
+
+</details>
+
+<details>
+
+<summary>What is the long-term sustainability plan beyond the $10M?</summary>
+
+The age of Voltaire brings with it the concept of self-sustaining mechanisms. Given that Intersect is the custodian of the core Cardano protocol repositories, its request for funding from the treasury aligns with the original vision of CIP1694. However, in addition to treasury funding, Intersect is transitioning to a multi-stream funding model:
+
+* Tiered membership fees
+* Event sponsorships and ecosystem services
+* Grants and public goods funding
+* The Paid Open Source Model (POSM) to sustain repo governance and development
+
+This is to ensure that member benefits are not, in any way attached to treasury funds. Intersect also supports the emergence of new MBOs to decentralize coordination and management.
+
+Cardano is currently in a transitional period. We are in the very early stages of governance; new processes need to be created, and existing processes designed in 2024 require refinement. As a result, the current effort to develop and support these processes is both high and manual. However, as we progress through 2025 and into 2026, complex processes such as roadmap and budget definition, as well as elections, will be made more efficient and automated.
+
+As a result, Intersect itself will run more efficiently, increasing membership options and participation, and subsequently enhancing membership revenue. This should also be aimed at the emerging or other specialised MBO, which will help distribute the work. We do still envision that Intersect, as well as other MBOs, will request funding from Cardano for the following 12 months to support, coordinate, and facilitate Cardano-specific processes.
+
+</details>
+
+<details>
+
+<summary>Can we obtain a more detailed breakdown of the 2025 versus 2024 costs?</summary>
+
+AAbsolutely — here’s a department-aligned comparison using the same categories across both years:
+
+| Department                          | 2024 | 2025 |
+| ----------------------------------- | ---- | ---- |
+| Delivery Assurance & TSC Support    | 15%  | 18%  |
+| Ecosystem & Governance Support      | 23%  | 16%  |
+| Membership & Community Hubs Support | 15%  | 16%  |
+| Membership Tooling                  | 8%   | 7%   |
+| Open Source Office (OSO)            | 14%  | 7%   |
+| Operational Services                | 20%  | 24%  |
+| Product Curation                    | 15%  | 15%  |
+
+This provides a clearer view of growth in line with deliverables, not bloated operations. Each area ties directly to a roadmap item, election cycle, tool deployment, or upgrade facilitation.
+
+</details>
+
+<details>
+
+<summary>In your 2024 financial report, you mentioned that you have 44 full-time staff; are all of them necessary?</summary>
+
+Yes, the number of staff reported in the 2024 report includes:
+
+* Full-time Intersect employees
+* Long-term contractors and consultants
+* Seconded service providers
+
+These individuals support:
+
+* 7 elected committees
+* Operational Services
+* 30+ active working groups
+* Ecosystem & Governance Support
+* Membership Tooling
+* 6 (expanding to 10) regional hubs
+* Delivery Assurance & TSC Support
+* Over 180 ecosystem contracts
+* Open Source Office (OSO)
+* Cardano Constitution support
+
+Reducing resources at this stage would directly impact the delivery of core responsibilities such as the elections process, GovTool, the Constitution lifecycle, and broader governance tooling efforts.
+
+Cardano governance is still in its early phases. Most processes are either newly established or in the process of development, meaning a significant amount of work remains manual and requires active oversight. The current staffing levels are projected to remain stable over the next 12 months as processes become more efficient and automated.
+
+Each team member contributes across multiple functions and areas of responsibility, providing stability and cohesion to the systems being built. The 2025 budget proposal categorizes staff by name, role, and area of expertise to provide transparency around contributions.
+
+With over 1,800 members and 2,700+ associates, this equates to 1 FTE per 100 participants, underscoring the need for a well-resourced team to ensure meaningful support and engagement across the ecosystem.
+
+### Team Transition
+
+Intersect recognizes the need to transition to a more community-embedded model of governance. As such, beginning in July 2025, there is a clear plan to gradually transition consultants and contractors out, replacing them with qualified community members.
+
+This change will be phased to ensure continuity and quality of delivery. During the transition or "handover" period, there may be a temporary overlap in resource costs, where both outgoing consultants and incoming community contributors are compensated.
+
+This approach supports knowledge transfer and capacity building within the community while maintaining stability in ongoing programs. The shift aligns with the long-term vision of a decentralized, community-led governance framework and will be an essential step in distributing responsibility more broadly across emerging MBOs (Member-Based Organizations).
+
+</details>
+
+<details>
+
+<summary>Have success metrics been defined for new staff and program areas?</summary>
+
+Yes — examples include:
+
+* GovTool: feature-complete voting and treasury flows
+* Governance Support: 50+ workshops, CC onboarding, global training
+* Open Source Office: repo growth, POSM deployment, OS fellowships
+* Product & Roadmap: delivery of 2026 roadmap & Cardano Vision
+
+All metrics are tied to deliverables and tracked via quarterly updates.
+
+</details>
+
+<details>
+
+<summary>Why request $10M upfront rather than in phases?</summary>
+
+We created a cost estimate based on our known costs for roadmap delivery in 2024, and then examined the roadmap items for 2025, resulting in a revised cost estimate. This is where we arrive at a value of $10 million. We asked for an upfront value allocation to ensure:
+
+* Staff continuity
+* Contract security
+* Scheduling of events, elections, and workshops
+
+Please note that Intersect is committed to both transparency and delivering value to the Cardano community. If we can achieve the roadmap items for less and end the year with a surplus, those funds will return to the treasury. Intersect supports community-led budgeting and welcomes DRep input on how future funding cycles can evolve.
+
+</details>
+
+<details>
+
+<summary>$10M still feels high — what exactly is being funded?</summary>
+
+Here’s the projected high-level cost structure for 2025:
+
+| Breakdown                                           | Projected Cost Breakdown |
+| --------------------------------------------------- | ------------------------ |
+| Personnel & Contractors                             | $6.50m                   |
+| Software & Tooling                                  | $0.60m                   |
+| Legal, Compliance & Board Services                  | $0.95m                   |
+| Membership, Marketing, & Community                  | $0.45m                   |
+| Cardano Development Holdings (Operations & Support) | $1.50m                   |
+
+Every line item is tied to a deliverable and reported quarterly. A new financial transparency dashboard is also in development.
+
+In 2024, the revised constitution and budget process timeline led to a change in Intersect’s financial strategy, which included extending the company’s financial runway. Therefore, to ensure Intersect has sustained funding, we have allowed for a 10% contingency for non-projected circumstances - our risk appetite is averse.&#x20;
+
+The Cardano Development holdings include new expenditures that have not been funded throughout 2024 by Intersect, which include Custodian, Legal, and Financial entity services and administration. To ensure we can administer and facilitate all additional requirements and requests, we need to provision infrastructure, such as custodian services, to enable effective facilitation.&#x20;
 
 </details>
 
