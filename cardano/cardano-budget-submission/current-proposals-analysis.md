@@ -1,30 +1,30 @@
 # Current Proposals Analysis
 
-_Last updated on 21st April at 17:00 UTC_
+_Last updated on 22nd April at 22:00 UTC_
 
-Our proposal portal has been open for 31 working days, with 147 proposals submitted. The process of submitting proposals is now in [Cardano GovTool](https://gov.tools/budget_discussion), where proposals are public and Community feedback can be provided.
+Our proposal portal has been open for 32 working days, with 152 proposals submitted. The process of submitting proposals is now in [Cardano GovTool](https://gov.tools/budget_discussion), where proposals are public and Community feedback can be provided.
 
-## **Total proposals received: 147**&#x20;
+## **Total proposals received: 152**&#x20;
 
 **Split by Category:**
 
-* Core: 39&#x20;
-* Governance Support: 19&#x20;
-* Marketing and Innovation: 62 &#x20;
+* Core: 38&#x20;
+* Governance Support: 20&#x20;
+* Marketing and Innovation: 58 &#x20;
 * Research: 12 &#x20;
-* None of these: 15 &#x20;
+* None of these: 24 &#x20;
 
 **Split by Committee:**
 
 * Growth and Marketing Committee: 34
 * Budget Committee: 5
-* Membership & Community Committee: 20
-* Civics Committee: 6 &#x20;
+* Membership & Community Committee: 21
+* Civics Committee: 7&#x20;
 * Open Source Committee: 27
 * Product Committee: 20&#x20;
 * Technical Steering Committee: 24&#x20;
 * None: 6&#x20;
-* Unsure: 5
+* Unsure: 8
 
 
 
