@@ -46,14 +46,14 @@ Reconciliation #2: May 3-4, 2025
   * Read all proposals, or at least all those of interest to you, in [Gov.Tools](https://gov.tools/budget_discussion).  TIME TO READ PROPOSALS WILL NOT BE PROVIDED DURING THE WORKSHOP.
   * [Review the summary provided by Intersect](current-proposals-analysis.md)
   * Identify any discussion points that you want to surface in the reconciliation workshop. Discussion points must be seconded by another DRep to be discussed. Discussion points should be focused:
-    * The Budget Committee will determine a threshold (ex, % yes on a proposal) that determines if a proposal goes into a budget info action.  Discussion can be around whether a proposal should/should not be in the info action, comparison between proposals, and/or specific changes requested for a proposal.
+    * Discussion can be around whether a proposal should/should not be in the info action, comparison between proposals, and/or specific changes requested for a proposal.
 
 * Attend the reconciliation workshops. THIS ALLOWS YOU TO ADD DISCUSSION POINTS AND DISCUSS WHICH PROPOSALS SHOULD GO INTO THE BUDGET INFO ACTION.
 
-- If you cannot attend, reconciliation workshops, participate in polls asynchronously.
+- If you cannot attend reconciliation workshops, participate in polls asynchronously.
   * DReps who cannot attend are free to ask another DRep to bring their discussion point to the floor, and will still require a second from another DRep.
   * Workshop recordings will be available [here](https://youtube.com/playlist?list=PL0vPOqkVcEDeOXivs9bAd45gayqSTsiVE\&si=ZUTytuzeapM6cUz-).
-  * Participate in polls generated throughout the reconciliation workshop. <mark style="background-color:yellow;">Voting tool URL and demo video forthcoming</mark>
+  * Participate in polls generated throughout the reconciliation workshop: [2025budget.intersectmbo.org](http://2025budget.intersectmbo.org/)
     * Polls will remain open for all DReps until \~5hrs prior to the final workshop day of each cycle (April 28 and May 4).  Polls on the final workshop day (April 28 and May 4) will close on 12:59 UTC that day.
       * <mark style="background-color:yellow;">Exact Deadline for each poll forthcoming</mark>
 
