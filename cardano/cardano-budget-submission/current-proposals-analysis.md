@@ -1,30 +1,30 @@
 # Current Proposals Analysis
 
-_Last updated on 23rd April at 11:00 UTC_
+_Last updated on 25th April at 11:00 UTC_
 
-Our proposal portal has been open for 33 working days, with 153 proposals submitted. The process of submitting proposals is now in [Cardano GovTool](https://gov.tools/budget_discussion), where proposals are public and Community feedback can be provided.
+Our proposal portal has been open for 36 working days, where 197 proposals were submitted before DRep temp checks and comments were exported at 5pm UTC  24th April, to create a soft proposal prioritization based on proposal feedback. This prioritization is the starting point for the reconciliation workshops.
 
-## **Total proposals received: 153**&#x20;
+## **Total proposals received: 197**&#x20;
 
 **Split by Category:**
 
-* Core: 38&#x20;
-* Governance Support: 20&#x20;
-* Marketing and Innovation: 58 &#x20;
-* Research: 12 &#x20;
-* None of these: 25 &#x20;
+* Core: 54&#x20;
+* Governance Support: 28&#x20;
+* Marketing and Innovation: 78 &#x20;
+* Research: 20 &#x20;
+* None of these: 17 &#x20;
 
 **Split by Committee:**
 
-* Growth and Marketing Committee: 34
-* Budget Committee: 5
-* Membership & Community Committee: 21
-* Civics Committee: 7&#x20;
-* Open Source Committee: 27
-* Product Committee: 20&#x20;
-* Technical Steering Committee: 24&#x20;
-* None: 6&#x20;
-* Unsure: 9
+* Growth and Marketing Committee: 46
+* Budget Committee: 7
+* Membership & Community Committee: 25
+* Civics Committee: 10
+* Open Source Committee: 33
+* Product Committee: 30&#x20;
+* Technical Steering Committee: 26&#x20;
+* None: 7
+* Unsure: 13
 
 
 
@@ -124,26 +124,14 @@ In February 2025, seven Intersect committees each published their Draft Bucket P
 \
 Based on the proposals submitted to receive treasury funding, these self-reported alignment to a committee’s priority and may indicate alignment to the committee members’ opinions of what is critical for the ecosystem:
 
-\
-
-
-\
-\
 
 
 #### Proposals that self-report alignment to product roadmap
 
-As of April 22, 2025
-
-\
-\
+As of April 22, 2025\
 
 
 In March 2025, a vision and [product roadmap for Cardano was submitted as an info-action on-chain](https://gov.tools/outcomes/governance_actions/56f39054758f1a3cedc1de9225d66bf270b62dfdbfbc5399f1d6d43aceffc636#0) and received 63% DRep support. Developed by Cardano Product Committee of Intersect with consultation from key technical stakeholders, the roadmap outlines key development priorities, technological advancements, and strategic goals for the Cardano ecosystem. Proposers were asked to report if their proposal is aligned to any of these roadmap items.
-
-\
-\
-
 
 | Deploy XPort, Wanchain's cross-chain data transfer protocol, to Cardano                                                                                                | Architectural Excellence        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
