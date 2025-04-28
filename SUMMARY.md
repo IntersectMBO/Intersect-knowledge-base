@@ -174,6 +174,7 @@
   * [Growth & Marketing committee](intersect-operational-services/2025-delivery-assurance-contract-updates/growth-and-marketing-committee.md)
   * [Open source committee](intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/README.md)
     * [Bitergia - Analytics Subscription](intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/bitergia-analytics-subscription.md)
+* [2025 Template Contracts](intersect-operational-services/2025-template-contracts.md)
 * [2024 Cardano Continuity contracts](cardano/cardano-continuity/README.md)
   * [Cardano continuity suppliers](cardano/cardano-continuity/cardano-continuity-suppliers/README.md)
     * [Cardano continuity progress](cardano/cardano-continuity/cardano-continuity-reports/README.md)
