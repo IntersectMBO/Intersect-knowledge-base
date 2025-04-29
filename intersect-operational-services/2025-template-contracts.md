@@ -22,3 +22,5 @@ description: >-
 **Services Agreement Template**
 
 {% file src="../.gitbook/assets/Services Agreement Template.pdf" %}
+
+Please contact the Intersect Procurement team at procurement@intersectmbo.org for any enquiries.&#x20;
