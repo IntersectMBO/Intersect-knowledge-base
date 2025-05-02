@@ -7,20 +7,13 @@ description: >-
 
 # 2025 Template Contracts
 
-**Grant Milestone Delivery Template**
+{% hint style="info" %}
+The contracts are being amended over the weekend (3rd-4th May 25). They will be made public on this page by Wednesday 7th May. Apologies for any inconvenience this may cause.&#x20;
+{% endhint %}
 
-{% file src="../.gitbook/assets/Grant Milestone Delivery Template.docx (1).pdf" %}
-
-**Software MSA and SoW Template**
-
-{% file src="../.gitbook/assets/Software MSA and SoW Template.docx (2).pdf" %}
-
-**General MSA and SoW Template**
-
-{% file src="../.gitbook/assets/General Services MSA and SoW Template.docx.pdf" %}
-
-**Services Agreement Template**
-
-{% file src="../.gitbook/assets/Services Agreement Template.pdf" %}
+* **Grant Milestone Delivery Template**
+* **Software MSA and SoW Template**
+* **General MSA and SoW Template**
+* **Services Agreement Template**
 
 Please contact the Intersect Procurement team at procurement@intersectmbo.org for any enquiries.&#x20;
