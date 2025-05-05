@@ -38,12 +38,15 @@ Step 3: Evaluate, Justify and Vote on Governance Action
   2. 114 Million Ada has already been withdrawn under this NCL.
   3. A budget corresponding to the proposal is assumed approved.
   4. Reference the current Cardano Blockchain Ecosystem Constitution.
-* Governance Action to Evaluate: "Project Nova Funding Proposal”.
+* Governance Action to Evaluate: "Project Nova Funding Proposal”.\
+  `cardano-cli conway query gov-state --testnet-magic 4 | jq '.proposals[] | select(.actionId.txId == "931a13c62bd2645feaff143302170b41a49dd3bc9527bee00b3e646fbd50ca41" and .actionId.govActionIx == 0)'`
+* &#x20;
 * Task:
-*
-  1. Evaluate: Assess if the "Project Nova Funding Proposal" is constitutional or unconstitutional, based solely on the provided prerequisites.
-  2. Vote: Use the hot credentials authorized in Step 2 to cast your vote (Constitutional/Unconstitutional/Abstain) for this proposal on the SanchoNet environment.
-  3. Justify: Write a clear rationale explaining your constitutionality decision.
+
+1. Evaluate: Assess if the "Project Nova Funding Proposal" is constitutional or unconstitutional, based solely on the provided prerequisites.
+2. Vote: Use the hot credentials authorized in Step 2 to cast your vote (Constitutional/Unconstitutional/Abstain) for this proposal on the SanchoNet environment.
+3. Justify: Write a clear rationale explaining your constitutionality decision.
+
 * Submission Deliverable (from this step): Submit a copy of your vote rationale in the application form. Use CIP-136 Governance Metadata standard.&#x20;
 
 ***
