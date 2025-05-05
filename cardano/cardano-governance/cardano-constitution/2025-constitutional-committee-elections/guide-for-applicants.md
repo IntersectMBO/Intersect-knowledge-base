@@ -53,13 +53,10 @@ Applications for the Constitutional Committee are welcome from various participa
 Please take note of the following key dates for the Constitutional Committee election process:
 
 * Registration Period: May 5th – May 31st
-*
   * This is the window for prospective candidates (individuals, consortia, or companies) to submit their applications.
 * Voting Period: June 10th – July 1st
-*
   * During this time, Ada holders will be able to cast their votes for their preferred candidates using the stake-based system.
 * Results Announcement: July 5th
-*
   * Audited results of the election, identifying the seven new Constitutional Committee members and their term lengths, will be announced. All voting data will be publicly available from voting close for anyone to self audit should they want to.
 
 Serving on the Constitutional Committee is a significant opportunity to contribute directly to Cardano governance. We encourage all eligible Ada owners, consortia, and companies who are passionate about Cardano's principles and future direction to carefully review the requirements outlined in this guide and prepare their candidacy.
