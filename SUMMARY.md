@@ -163,6 +163,7 @@
     * [Metadata Anchor](intersect-operational-services/2025-apply-for-tender/key-terms/metadata-anchor.md)
   * [If your project is delayed](intersect-operational-services/2025-apply-for-tender/if-your-project-is-delayed.md)
 * [2025 Delivery assurance contract updates](intersect-operational-services/2025-delivery-assurance-contract-updates/README.md)
+  * [Delivery Assurance quarterly reports](intersect-operational-services/2025-delivery-assurance-contract-updates/delivery-assurance-quarterly-reports.md)
   * [Technical steering committee contracts](intersect-operational-services/2025-delivery-assurance-contract-updates/technical-steering-committee-contracts/README.md)
     * [Tweag - Ouroborus Peras protocol](intersect-operational-services/2025-delivery-assurance-contract-updates/technical-steering-committee-contracts/tweag-ouroborus-peras-protocol.md)
   * [Membership & Community committee contracts](intersect-operational-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts.md)
