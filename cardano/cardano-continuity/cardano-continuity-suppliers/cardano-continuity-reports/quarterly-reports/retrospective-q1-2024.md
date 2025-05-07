@@ -6,7 +6,7 @@ hidden: true
 
 The Intersect Delivery Assurance team is one of the supportive, servant-leader, functional teams at Intersect. They support the Technical Steering Committee (TSC) in the operation and oversight of contracts which are in delivery. In Intersect, the delivery assurance team sits within the Technical Operations function.&#x20;
 
-As Intersect formed, a number of [continuity](https://docs.intersectmbo.org/intersect-overview/working-on-cardano) contracts were novated and to be managed on behalf of the community. Cardano “continuity” is defined or referred to in the contracts as any approved technical service needed to build or fix current and future areas of the Cardano blockchain.&#x20;
+As Intersect formed, a number of continuity contracts were novated and to be managed on behalf of the community. Cardano “continuity” is defined or referred to in the contracts as any approved technical service needed to build or fix current and future areas of the Cardano blockchain.&#x20;
 
 The delivery team was charged with setting up bootstrap and interim processes to facilitate the management of these contacts, as well as being involved in the process of the novation's. This retrospective report is intended to give you an update on what the team has achieved during Q1 and what the team has in store for Q2 2024.
 
@@ -48,4 +48,3 @@ In a little over three months we have achieved a lot, but we understand that the
 * More regular delivery assurance updates and blog posts - we challenge ourselves to produce more regular and informative monthly and quarterly updates.
 * Introduction of members to the TSC to start shaping the future.&#x20;
 
-You can read about the delivery assurance team [here](../../../../../intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/), on our Intersect knowledge base. In case you missed it, our last continuity update blog post is [here](https://www.intersectmbo.org/news/cardano-continuity).

@@ -4,10 +4,10 @@
 
 Since the foundation of Intersect at the start of 2024, the Delivery Assurance team has been coordinating with a multitude of suppliers who are working to develop and maintain core Cardano. Throughout Q1 a number of important milestones have been completed, which are outlined in this summary.
 
-[Delivery Assurance](../../../../../intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/#delivery-assurance-function) forms part of Technical Operations team and coordinates continuity delivery partners to ensure the timely and reliable delivery of products, services, or projects - meeting specified requirements and expectations. You can read more about it [here](../../../../../intersect-operational-services/intersect-operational-services-overview/managing-delivery-partners/).&#x20;
+Delivery Assurance forms part of Technical Operations team and coordinates continuity delivery partners to ensure the timely and reliable delivery of products, services, or projects - meeting specified requirements and expectations. You can read more about it here.&#x20;
 
 {% hint style="info" %}
-Cardano “[**continuity**](../../../)” is defined or referred to as any approved technical service needed to build or fix current and future areas of the Cardano blockchain. Continuity in this definition can include new developments, such as the CIP-1694 governance software, component upgrades, or testing improvements, to name a few.
+Cardano “**continuity**” is defined or referred to as any approved technical service needed to build or fix current and future areas of the Cardano blockchain. Continuity in this definition can include new developments, such as the CIP-1694 governance software, component upgrades, or testing improvements, to name a few.
 {% endhint %}
 
 ***
