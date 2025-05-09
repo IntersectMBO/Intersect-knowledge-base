@@ -20,7 +20,7 @@ The election results will determine both who serves and the length of their init
 #### Optional Tasks to Demonstrate Capabilities
 
 In addition to the main application requirements, candidates have the opportunity to undertake an optional three-step task. Completing this task allows applicants to demonstrate key skills relevant to the CC role: technical proficiency in credential management (Steps 1 & 2) and the analytical ability to evaluate governance actions within Cardano's framework (Step 3), all performed in the SanchoNet environment. The overall objective is to successfully generate cold credentials, authorize hot credentials using them, and then use the hot credentials to evaluate, vote on, and justify a position on a governance action on SanchoNet, submitting a URL to the required evidence.\
-[Read the full task descriptions here.](guide-for-applicants.md#optional-tasks-to-demonstrate-capabilities)
+[Read the full task descriptions here.](multi-stage-task-for-constitutional-committee-applicants.md)
 
 #### What to Include in Your Application
 
