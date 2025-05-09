@@ -125,6 +125,9 @@
         * [Portuguese](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/portuguese.md)
         * [Sinhala](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/sinhala.md)
     * [Committee elections FAQs](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committee-elections-faqs.md)
+    * [April 2025 - Committee Election Results](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README.md)
+      * [Detailed Voting Results (CSV Download)](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/detailed-voting-results-csv-download.md)
+  * [Onboarding Page](intersect-voting-events/intersect-elections-2025/onboarding-page.md)
 * [2024 - Intersect elections](intersect-voting-events/intersect-elections-2024/README.md)
   * [October 2024 election results](intersect-voting-events/intersect-elections-2024/october-2024-election-results.md)
 

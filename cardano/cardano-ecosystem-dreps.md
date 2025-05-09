@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Cardano Ecosystem - DReps
 
 This snapshot provides an overview of the DReps ecosystem within the Cardano governance framework, as of February 3, 2025.
