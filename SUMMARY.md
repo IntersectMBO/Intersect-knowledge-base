@@ -178,6 +178,7 @@
     * [Bloxico Group - CC Portal Maintenance](intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/bloxico-group-cc-portal-maintenance.md)
     * [DQuadrant - GovTool Maintenance](intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/dquadrant-govtool-maintenance.md)
     * [Byron Network - Constitutional Committee Voting Tool](intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/byron-network-constitutional-committee-voting-tool.md)
+    * [Lido Nation - GovTool Maintenance - Governance Action outcomes pillar](intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/lido-nation-govtool-maintenance-governance-action-outcomes-pillar.md)
   * [Budget committee](intersect-operational-services/2025-delivery-assurance-contract-updates/budget-committee.md)
   * [Growth & Marketing committee](intersect-operational-services/2025-delivery-assurance-contract-updates/growth-and-marketing-committee.md)
   * [Open source committee](intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/README.md)
