@@ -1,14 +1,45 @@
 # Budget Info Action FAQs
 
-{% hint style="warning" %}
 **Important note:** Greater than 50% of active delegated DRep stake is required to pass a Budget Info Action. This does not result in the movement of any funds from the Cardano Treasury. If approved, it marks the next step toward funding, with Treasury Withdrawal governance actions required to be passed and enacted. \
 \
 These withdrawals require a higher threshold of over 67% DRep approval to release funds from the Cardano Treasury.
-{% endhint %}
 
 The Budget Info Action is a formal on-chain governance step that allows DReps and the Constitutional Committee to review and ratify an aggregate budget before any Treasury funds can be released. In Intersect’s case, our budget info action reflects the outcome of a community-driven process, where proposals were submitted, refined, and signaled on by DReps using the Ekklesia platform.
 
 This action does not release funds - it authorizes the proposed allocation as a whole. Once approved, individual Treasury Withdrawal Actions must be submitted to release funds, subject to further approval and within the limits of the active Net Change Limit (NCL).
+
+<details>
+
+<summary>Why do we have an omnibus budget proposal instead of individual requests?</summary>
+
+This Budget Info Action takes an omnibus approach, combining 39 proposals into a single submission for on-chain approval. It reflects the outcome of a coordinated, community-led budget process facilitated by Intersect and validated through DRep signaling on the Ekklesia platform, where over ₳3.8 billion in live stake participated.
+
+This structure helped ensure strategic alignment with the Cardano Vision and Roadmap, reduced the risk of decision fatigue for DReps, and allowed for a clearer, more unified picture of the ecosystem’s priorities. Each included proposal was transparently published, timestamped, and stored via IPFS, and disbursements will still require individual governance actions and compliance with due diligence requirements.
+
+That said, the omnibus format has trade-offs. It reduces voting granularity at the final approval stage, requiring DReps to accept or reject the entire bundle rather than each proposal individually. It also introduces greater coordination complexity, especially when managing different timelines and delivery models across the included proposals.
+
+We recognize this may not be the ideal long-term model for Cardano. However, this proposal reflects verified DRep support and upholds the integrity of the signaling process. Not submitting it on-chain would mean acting on sentiment rather than signal - and would risk losing momentum at a pivotal time.
+
+If DReps decide this format isn't suitable, we are ready to explore more modular approaches in future cycles. For now, this submission represents the most accurate and accountable expression of the community’s budget preferences.
+
+</details>
+
+<details>
+
+<summary>Will this move all ₳275 million at once?</summary>
+
+No. This Budget Info Action does not result in the immediate movement of any ADA. It represents the aggregate total of proposals that received over 50% support from participating DReps during the Ekklesia signaling process. Actual disbursement of funds will only occur through separate Treasury Withdrawal governance actions, each of which must be submitted and approved individually. These withdrawals must:
+
+* Receive over 67% support from active voting DReps,
+* Remain within the active Net Change Limit (NCL),
+* Pass due diligence checks, including KYC/KYB and AML where required, and
+* Be supported by a formal agreement between the delivery organization and either Intersect or Cardano Development Holdings.
+
+Where applicable, funds will be distributed via smart contract-based escrow mechanisms, with multisig oversight involving Intersect, auditors, and other appointed parties. These contracts only become active if the corresponding Treasury Withdrawal is approved.
+
+In short, this Budget Info Action enables a coordinated funding framework, but no funds move without a second round of on-chain approval.
+
+</details>
 
 {% include "../../.gitbook/includes/dropdowns.md" %}
 
