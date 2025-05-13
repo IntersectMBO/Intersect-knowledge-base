@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Cardano Budget Process
 
 **Below are the steps driving forward the Cardano Budget Process**

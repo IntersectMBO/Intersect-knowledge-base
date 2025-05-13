@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Current Proposals Analysis
 
 _Last updated on 25th April at 11:00 UTC_

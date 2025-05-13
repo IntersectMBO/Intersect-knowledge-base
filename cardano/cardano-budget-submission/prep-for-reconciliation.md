@@ -1,5 +1,6 @@
 ---
 description: Home page with resources to prepare for budget reconciliation
+hidden: true
 ---
 
 # Prep for Reconciliation
