@@ -14,8 +14,6 @@ description: >-
 
 <table><thead><tr><th width="139">Type</th><th width="250">Amount</th><th>Cost</th></tr></thead><tbody><tr><td>Associate</td><td>Unlimited</td><td>Free</td></tr><tr><td>Member</td><td>between 1 and 10 seats</td><td>$10</td></tr><tr><td>Member</td><td>between 11 and 20 seats</td><td>$25</td></tr><tr><td>Member</td><td>between 21 and 50 seats</td><td>$50</td></tr><tr><td>Member</td><td>between 51 and 100 seats</td><td>$75</td></tr><tr><td>Member</td><td>between 101 seats and over</td><td>$125</td></tr></tbody></table>
 
-
-
 ## Benefits
 
 ### Voting rights
@@ -25,10 +23,6 @@ description: >-
 ### Committees, groups, and boards
 
 <table><thead><tr><th width="338">Benefits</th><th data-type="checkbox">Enterprise</th><th data-type="checkbox">Individual</th><th data-type="checkbox">Associate</th></tr></thead><tbody><tr><td>Able to be elected or appointed to a steering committee</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Able to join or be appointed to a working group</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Eligible to be elected for a board seat for one year</td><td>true</td><td>true</td><td>false</td></tr><tr><td>The ability to participate in Intersect's governance process and have a say in important decisions that shape the ecosystem's future</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Ability to put forward a candidate for board elections (if available)</td><td>true</td><td>true</td><td>false</td></tr><tr><td>The ability to be nominated for a one-year seat on core technical steering committee seated position</td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
-
-### Grants and Funding
-
-<table><thead><tr><th width="338">Benefits</th><th data-type="checkbox">Enterprise</th><th data-type="checkbox">Individual</th><th data-type="checkbox">Associate</th></tr></thead><tbody><tr><td>Ability to apply for Intersect community grants</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Ability to apply for utility project funding</td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
 
 ### Other Benefits
 
