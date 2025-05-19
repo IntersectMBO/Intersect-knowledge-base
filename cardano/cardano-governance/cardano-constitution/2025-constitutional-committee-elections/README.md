@@ -9,7 +9,7 @@ Registration window:
 
 Mark your calendars! Candidate registration will commence on May 5, 2025. The window for submitting candidacies will remain open until May 31, 2025, closing at noon UTC.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxQFKZlXM4l3oytBmw-DWKCmbTjerngBYdHR_yZdiUx5F6_wZducQLrsF-IgFxxX0NX1BJWfl28o2PLq84jZGg21XIfd9tgo8ZKkPGHeqy9tGA0yKkeBLLu1XIu3J5fyE-ghOWkQ?key=Qe6ty6OCYWavtKB37n9PgSqS" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Election-Timeline.pptx (1).png" alt=""><figcaption></figcaption></figure>
 
 Who can register?
 
