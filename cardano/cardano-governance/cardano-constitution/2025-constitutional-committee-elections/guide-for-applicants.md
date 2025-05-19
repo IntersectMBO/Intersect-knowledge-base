@@ -12,10 +12,14 @@ In this election, all seven seats are up for vote.
 
 Election to the Committee is determined through a stake-based voting system. This means that the voting power associated with Ada holdings delegated to specific candidates will determine the outcome. The candidates who garner the most support from the community, weighted by stake, will be elected.
 
-The election results will determine both who serves and the length of their initial term:
+As constitutionally mandated to ensure continuity, there are a total of seven (7) seats available on the Committee, with staggered term lengths for this election only. Three (3) of these seats are for a term of 146 epochs (approximately two years), and four (4) seats are for a term of 73 epochs (approximately one year). It is important for applicants to understand that by registering, they confirm their willingness and ability to serve for the longer term of up to 146 epochs, should they be elected to such a term through the selection process outlined below.
 
-* The top three (3) candidates receiving the highest number of votes will be elected for a term of 126 epochs.
-* The next four (4) candidates, ranked 4th through 7th in the vote count, will be elected for a term of 73 epochs.
+The assignment of these term lengths will be determined by the election results in the following manner:
+
+* The candidate receiving the highest number of votes will have the first choice of selecting either a 146-epoch term or a 73-epoch term.
+* The candidate with the second-highest number of votes will then make their selection from the remaining available term lengths.
+* This process will continue sequentially for all seven elected candidates, based on their vote ranking from highest to lowest.
+* If all terms of a particular length (e.g., all three 146-epoch terms) are selected before all candidates have chosen, the remaining elected candidates will automatically be assigned the other available term length until all seats are filled.
 
 ### Optional Tasks to Demonstrate Capabilities
 
