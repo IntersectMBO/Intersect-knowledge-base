@@ -24,6 +24,8 @@ The criteria determining eligibility to participate in a CC election process are
 
 This election process will follow the procedures and rules set forth by Intersect, ensuring alignment with the Cardano Blockchain Ecosystem Constitution. Intersect retains the capacity to modify aspects of this election process should such changes be necessary to maintain a fair and transparent election.
 
+If the application doesn't look genuine or if it looks incomplete the CC election working group will try contact the applicant to get confirmation. If that step is unsuccessful the working group will be able to make a decision to keep or hide the application (no application will be deleted). If the working group decides to hide one application the decision will be documented and communicated publicly. If the applicant would like the application to be reinstated they will simply have to contact constitution@intersectmbo.org or reply to the original email before the voting period starts.
+
 7\. Privacy and Information Disclosure
 
 Through participation in this election process, applicants consent to the collection, use, and disclosure of their personal information as outlined in [Intersect's privacy policy](https://docs.intersectmbo.org/legal/policies-and-conditions/privacy-policy) and [Terms of Use](https://docs.intersectmbo.org/legal/policies-and-conditions/terms-of-use). Unless indicated differently during the submission stage, any information provided by participants in relation to this election process might become publicly accessible.
