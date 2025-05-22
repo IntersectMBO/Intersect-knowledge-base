@@ -1,9 +1,5 @@
 # Intersect governance
 
-{% hint style="info" %}
-👉🏻 Info about **board elections** can be found [here](../../intersect-voting-events/intersect-elections-2024/) 👈
-{% endhint %}
-
 ## **The governing board**
 
 Intersect’s initial governing board comprises five member seats. To establish operations, three board members have been appointed with representatives from seed funders and members, with [Input Output Global](#user-content-fn-1)[^1], Emurgo, and the COO as interim on the third seat. The third seat has been offered as an academic position to Wyoming University’s Blockchain Center of Excellence. The seed funder seats have a three-year term in consideration of funding given, whilst the academic seat will have a one-year tenure.
