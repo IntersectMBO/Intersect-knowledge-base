@@ -24,9 +24,7 @@ The Governing Board can be contacted via [board@intersectmbo.org](mailto:board@i
 
 Intersect is staffed by a team of experienced professionals with extensive exposure in the Cardano community. You can review teams and team members on the Intersect website ([here](https://www.intersectmbo.org/about-team)). Also below you can see the current org-chart.&#x20;
 
-{% file src="../../.gitbook/assets/May2025_Intersect_org-chart (1).png" %}
-May Org-chart
-{% endfile %}
+<figure><img src="../../.gitbook/assets/May2025_Intersect_org-chart (1).png" alt=""><figcaption><p>May Org-chart</p></figcaption></figure>
 
 Intersect team structure is in a transition phase, so the above is an interim Org Chart and subject to change in near future.
 
