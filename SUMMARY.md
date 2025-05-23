@@ -31,6 +31,7 @@
 ## Cardano
 
 * [Cardano Budget Submission](cardano/cardano-budget-submission/README.md)
+  * [Intersect as an Administrator](cardano/cardano-budget-submission/intersect-as-an-administrator.md)
   * [Budget Info Action FAQs](cardano/cardano-budget-submission/budget-info-action-faqs.md)
   * [Cardano Budget Process](cardano/cardano-budget-submission/cardano-budget-process.md)
   * [How to complete the Budget Proposal Submission form](cardano/cardano-budget-submission/how-to-complete-the-budget-proposal-submission-form.md)

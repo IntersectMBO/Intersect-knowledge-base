@@ -1,12 +1,16 @@
 # Budget Info Action FAQs
 
+{% hint style="warning" %}
 **Important note:** Greater than 50% of active delegated DRep stake is required to pass a Budget Info Action. This does not result in the movement of any funds from the Cardano Treasury. If approved, it marks the next step toward funding, with Treasury Withdrawal governance actions required to be passed and enacted. \
 \
 These withdrawals require a higher threshold of over 67% DRep approval to release funds from the Cardano Treasury.
+{% endhint %}
 
 The Budget Info Action is a formal on-chain governance step that allows DReps and the Constitutional Committee to review and ratify an aggregate budget before any Treasury funds can be released. In Intersect’s case, our budget info action reflects the outcome of a community-driven process, where proposals were submitted, refined, and signaled on by DReps using the Ekklesia platform.
 
 This action does not release funds - it authorizes the proposed allocation as a whole. Once approved, individual Treasury Withdrawal Actions must be submitted to release funds, subject to further approval and within the limits of the active Net Change Limit (NCL).
+
+
 
 <details>
 
