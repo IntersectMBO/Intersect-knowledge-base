@@ -1,0 +1,39 @@
+name: Auto-update Recent Updates Page
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Every day at 9am UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch history
+        run: git fetch --prune --unshallow || true
+
+      - name: Get recently updated .md files
+        run: |
+          git log --since="7 days ago" --name-only --pretty=format: | grep '\.md' | grep -v recent-updates.md | sort | uniq > changed.txt
+
+      - name: Generate recent-updates.md
+        run: |
+          echo "## 🔄 Recently Updated Pages" > intersect-website-and-member-area/releases/recent-updates.md
+          echo "" >> intersect-website-and-member-area/releases/recent-updates.md
+          echo "_Updated on $(date -u '+%Y-%m-%d %H:%M UTC')_" >> intersect-website-and-member-area/releases/recent-updates.md
+          echo "" >> intersect-website-and-member-area/releases/recent-updates.md
+          while IFS= read -r file; do
+            path=${file%.md}
+            echo "- [$path](https://docs.intersectmbo.org/$path)" >> intersect-website-and-member-area/releases/recent-updates.md
+          done < changed.txt
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add intersect-website-and-member-area/releases/recent-updates.md
+          git commit -m "Update recent-updates.md" || echo "No changes to commit"
+          git push
