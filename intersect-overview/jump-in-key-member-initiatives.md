@@ -1,6 +1,5 @@
 ---
 description: This page gives quick access to current most important topics
-hidden: true
 ---
 
 # Jump in - key member initiatives
