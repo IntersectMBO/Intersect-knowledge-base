@@ -17,7 +17,7 @@ jobs:
 
       - name: Get recently updated .md files
         run: |
-          git log --since="7 days ago" --name-only --pretty=format: | grep '\.md' | grep -v -E 'recent-updates.md|summary.md' | sort | uniq > changed.txt
+          git log --since="7 days ago" --name-only --pretty=format: | grep '\.md' | grep -v -i -E 'recent-updates.md|summary.md'| sort | uniq > changed.txt
 
       - name: Generate recent-updates.md
         run: |
