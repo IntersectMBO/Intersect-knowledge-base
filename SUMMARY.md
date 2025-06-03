@@ -27,6 +27,7 @@
 * [Intersect development updates](intersect-overview/intersect-development-updates.md)
 * [Support and contacts](intersect-overview/support-and-contacts.md)
 * [Jump in - key member initiatives](intersect-overview/jump-in-key-member-initiatives.md)
+* [Recent updates](intersect-overview/recent-updates.md)
 
 ## Cardano
 
@@ -119,7 +120,7 @@
 * [2025 - Intersect elections](intersect-voting-events/intersect-elections-2025/README.md)
   * [April 2025 - Committee elections](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/README.md)
     * [Committees key info](intersect-voting-events/intersect-elections-2024/april-2025-committee-elections/committees-key-info.md)
-      * [Intersect Committee Elections  X-Space Events](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/intersect-committee-elections-x-space-events.md)
+      * [Intersect Committee Elections X-Space Events](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/intersect-committee-elections-x-space-events.md)
       * [Application Form - Translations](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/README.md)
         * [Spanish](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/spanish.md)
         * [French](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/french.md)
@@ -288,7 +289,6 @@
   * [June 12th](intersect-website-and-member-area/releases/june-12th.md)
   * [August 6th](intersect-website-and-member-area/releases/august-6th.md)
   * [August 23rd](intersect-website-and-member-area/releases/august-23rd.md)
-  * [Recent updates](intersect-website-and-member-area/releases/recent-updates.md)
 
 ## Intersect Team
 
