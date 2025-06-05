@@ -4,11 +4,11 @@
 
 Cardano’s budgeting process is about managing the outflow of funds from its treasury. The treasury can currently only hold ada. The inputs and outputs of the Cardano treasury include:
 
-<figure><img src="../../.gitbook/assets/Edu Materials_Cardano Budget Process (1).jpg" alt=""><figcaption><p>Cardano treasury inflows and outflows.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Edu Materials_Cardano Budget Process (1).jpg" alt=""><figcaption><p>Cardano treasury inflows and outflows.</p></figcaption></figure>
 
 To manage the treasury outflows, the Cardano Constitution establishes this hierarchy of controls:
 
-<figure><img src="../../.gitbook/assets/Edu Materials_Cardano Budget Process (1) (1).jpg" alt=""><figcaption><p>Controls surrounding the Cardano treasury.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Edu Materials_Cardano Budget Process (1) (1).jpg" alt=""><figcaption><p>Controls surrounding the Cardano treasury.</p></figcaption></figure>
 
 Each layer in this hierarchy is driven by community consensus. The product roadmap was proposed for community review as [an info action](https://gov.tools/governance_actions/56f39054758f1a3cedc1de9225d66bf270b62dfdbfbc5399f1d6d43aceffc636#0). Votes on the product roadmap show DRep alignment to technical development, and presumably funding, of those items. The NCL, budgets, and treasury withdrawals require approval by the DReps and Constitutional Committee. Community consensus through DReps and oversight of the Constitutional Committee protects the treasury from being drained unexpectedly.&#x20;
 
@@ -49,12 +49,12 @@ It is possible for the community to subsequently approve a smaller NCL. If treas
 * Mar 2030 (epoch 910), an new NCL of 200m ada per year (73 epochs), starting on epoch 915 is approved.
 *   Apr 2030 (epoch 915), a treasury withdrawal for 300m ada is proposed and subsequently rejected by the Constitutional Committee because it violates the then applicable NCL.
 
-    <figure><img src="../../.gitbook/assets/Edu Materials_Cardano Budget Process (2).jpg" alt=""><figcaption><p>Scenario with an NCL that is smaller than the previous one, and conflicts with the existing NCL and treasury withdrawals.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Edu Materials_Cardano Budget Process (2).jpg" alt=""><figcaption><p>Scenario with an NCL that is smaller than the previous one, and conflicts with the existing NCL and treasury withdrawals.</p></figcaption></figure>
 
 
 *   The above example’s conflict between the new NCL and treasury withdrawal could be avoided by drafting the new NCL info action so that it starts at epoch 974, after the previous NCL period is completed:
 
-    <figure><img src="../../.gitbook/assets/Edu Materials_Cardano Budget Process (3).jpg" alt=""><figcaption><p>Scenario with a NCL that is smaller than the previous one, but avoids conflict with the existing NCL and treasury withdrawals.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Edu Materials_Cardano Budget Process (3).jpg" alt=""><figcaption><p>Scenario with a NCL that is smaller than the previous one, but avoids conflict with the existing NCL and treasury withdrawals.</p></figcaption></figure>
 
 
 {% endhint %}
