@@ -40,7 +40,7 @@
   * [Prep for Reconciliation](cardano/cardano-budget-submission/prep-for-reconciliation.md)
   * [Budget Glossary](cardano/cardano-budget-submission/budget-glossary.md)
   * [FAQs](cardano/cardano-budget-submission/faqs.md)
-  * [Treasury Withdrawal Poll](cardano/cardano-budget-submission/treasury-withdrawal-poll.md)
+  * [Treasury withdrawal poll - voting pack](cardano/cardano-budget-submission/treasury-withdrawal-poll-voting-pack.md)
 * [Cardano governance](cardano/cardano-governance/README.md)
   * [Governance Overview](cardano/cardano-governance/overview.md)
   * [Cardano Constitution](cardano/cardano-governance/cardano-constitution/README.md)
