@@ -1,4 +1,4 @@
-# Treasury Withdrawal structure - Voting pack
+# Treasury Withdrawal Poll
 
 ## 1. Purpose of this pack
 
