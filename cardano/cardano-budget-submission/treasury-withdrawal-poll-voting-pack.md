@@ -1,5 +1,11 @@
 # Treasury withdrawal poll - voting pack
 
+{% hint style="warning" %}
+This pack is intended as a support guide to inform your decision-making. Our initial assessment of each option - including pros, cons, and consequences - is based on Intersect’s operational understanding and community feedback, but we recognize it may be considered subjective.&#x20;
+
+We also acknowledge that a range of other solutions and combinations may exist beyond the five presented. Please treat this guide as informative rather than prescriptive.
+{% endhint %}
+
 ## 1. Purpose of this pack
 
 This brief is designed to give you a clear, side-by-side view of five possible ways to structure Treasury Withdrawals that will release funds, if approved, for our coordinated ₳275.3 million budget.
@@ -9,8 +15,6 @@ By the end, you should understand:
 * What each option offers
 * Pros, cons, and downstream consequences
 * How your choice impacts the governance workload, risk profile, and business continuity assurance for funded teams
-
-This pack is intended as a support guide to inform your decision-making. Our initial assessment of each option - including pros, cons, and consequences - is based on Intersect’s operational understanding and experience, but we recognize it may be considered subjective. We also acknowledge that a range of other solutions and combinations may exist beyond the five presented. Please treat this guide as informative rather than prescriptive.
 
 ### Polling window and methodology
 
