@@ -14,11 +14,13 @@ This pack is intended as a support guide to inform your decision-making. Our ini
 
 ### Polling window and methodology
 
-The polling window will open on Friday June 6 at 12:00pm UTC and will close on Tuesday June 10 at 23:59 UTC
+The polling window will open on Friday June 6 at 12:00pm UTC and will close on Tuesday June 10 at 23:59 UTC. The link to the poll will be published shortly.
 
 In this first year of governance, we recognise we are dealing with an immature and imperfect process. This is a critical year for ecosystem funding. Trade offs will be required to balance the perfect with the pragmatic, broad consent with compromise and keep the process moving forward. With increasingly varied and competing views on how to proceed following our Budget Info Action, the purpose of the poll is to help and inform Intersect how to present budget items (if approved) as Treasury Withdrawal governance actions - capturing a quantified data point from Dreps before we submit.\
 \
-As a DRep the question you are being asked: **How would you like to see Intersect submit Treasury Withdrawals against our Budget Info Action? Please select a single preferred option.**
+As a DRep the question you are being asked:&#x20;
+
+_**How would you like to see Intersect submit Treasury Withdrawals against our Budget Info Action? Please select a single preferred option.**_
 
 Please use this guide to help unpack the various options and pros and cons to each.&#x20;
 
@@ -284,6 +286,6 @@ Intersect will cover deposits for up to five bundles or actions. Options requiri
 
 ## 9. Action: cast your preference
 
-1. Head over to [Ekklesia](https://intersect.ekklesia.vote)&#x20;
+1. Head over to Ekklesia (link to be released once the poll opens)
 2. Choose one option between Options A–E&#x20;
 3. The polling window will open on Friday June 6 at 12:00pm UTC and will close on Tuesday June 10 at 23:59 UTC
