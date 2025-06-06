@@ -3,7 +3,9 @@
 {% hint style="warning" %}
 This pack is intended as a support guide to inform your decision-making. Our initial assessment of each option - including pros, cons, and consequences - is based on Intersect’s operational understanding and community feedback, but we recognize it may be considered subjective.&#x20;
 
-We also acknowledge that a range of other solutions and combinations may exist beyond the five presented. Please treat this guide as informative rather than prescriptive.
+We also acknowledge that a range of other solutions and combinations may exist beyond the five presented. Please treat this guide as informative rather than prescriptive.\
+\
+The poll is advisory and non-binding.
 {% endhint %}
 
 {% hint style="info" %}
