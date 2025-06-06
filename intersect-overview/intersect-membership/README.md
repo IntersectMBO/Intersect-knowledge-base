@@ -22,7 +22,7 @@ Intersect is your opportunity to be part of a community driving the next generat
 
 ***
 
-[intersect-membership-agreements](../../legal/intersect-membership-agreements/ "mention")\
+[intersect-membership-agreements](../../legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/ "mention")\
 \
 
 
