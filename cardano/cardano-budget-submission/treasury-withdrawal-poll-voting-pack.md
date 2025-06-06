@@ -9,7 +9,7 @@ We also acknowledge that a range of other solutions and combinations may exist b
 {% hint style="info" %}
 The poll will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**.&#x20;
 
-The link to the poll will be published shortly.
+Vote [here](https://bit.ly/withdrawal-poll)!
 {% endhint %}
 
 ## 1. Purpose of this pack
@@ -296,6 +296,6 @@ Intersect will cover deposits for up to five bundles or actions. Options requiri
 
 ## 9. Action: cast your preference
 
-1. Head over to Ekklesia (link to be released once the poll opens)
+1. Head over to Ekklesia to vote: [https://bit.ly/withdrawal-poll](https://bit.ly/withdrawal-poll)
 2. Choose one option between Options A–E&#x20;
 3. The polling window will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**
