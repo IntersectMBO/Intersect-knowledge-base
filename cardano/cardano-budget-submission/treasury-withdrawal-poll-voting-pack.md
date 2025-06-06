@@ -24,7 +24,7 @@ By the end, you should understand:
 
 ### Polling window and methodology
 
-The polling window will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**. The link to the poll will be published shortly.
+The polling window will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**.&#x20;
 
 In this first year of governance, we recognise we are dealing with an immature and imperfect process. This is a critical year for ecosystem funding. Trade offs will be required to balance the perfect with the pragmatic, broad consent with compromise and keep the process moving forward. With increasingly varied and competing views on how to proceed following our Budget Info Action, the purpose of the poll is to help and inform Intersect how to present budget items (if approved) as Treasury Withdrawal governance actions - capturing a quantified data point from Dreps before we submit.\
 \
