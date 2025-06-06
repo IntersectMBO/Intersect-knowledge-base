@@ -223,6 +223,7 @@ What it is: Either Intersect or each proposer submits their own Treasury Withdra
 
 #### Consequences if chosen
 
+* From a capacity and clarity perspective, Intersect cannot support the submission of 39 Treasury Withdrawal governance actions. They will need to be submitted by the vendor directly.
 * Given the scale, may fragment approvals and add delay for some projects
 * Delivery windows may be conflated, depending on on-chain approval timeframe, and add complexity to our role as the Administrator.&#x20;
 * Projects face planning paralysis, potentially losing staff or partnership opportunities.
