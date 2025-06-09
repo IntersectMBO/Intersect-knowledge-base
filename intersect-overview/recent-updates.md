@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-06-08 09:05 UTC_
+_Updated on 2025-06-09 09:06 UTC_
 
 - [cardano/cardano-budget-submission/cardanos-treasury-governance/README](https://docs.intersectmbo.org/cardano/cardano-budget-submission/cardanos-treasury-governance/README)
 - [cardano/cardano-budget-submission/cardanos-treasury-governance/treasury-withdrawal-structure-voting-pack](https://docs.intersectmbo.org/cardano/cardano-budget-submission/cardanos-treasury-governance/treasury-withdrawal-structure-voting-pack)
