@@ -212,7 +212,6 @@
         * [Milestone report August 2024](cardano/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-august-2024.md)
         * [Milestone report October 2024](cardano/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-october-2024.md)
         * [Milestone report November 2024](cardano/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-november-2024.md)
-    * [Change management process](cardano/cardano-continuity/cardano-continuity-suppliers/how-we-manage-our-continuity-suppliers.md)
 * [2024 Intersect, CDH and Grant Contracts](intersect-operational-services/2024-intersect-cdh-and-grant-contracts/README.md)
   * [2024 Intersect Contracts](intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-intersect-contracts.md)
   * [2024 CDH Contracts](intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-contracts.md)
