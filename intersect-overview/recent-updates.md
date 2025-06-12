@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-06-11 09:06 UTC_
+_Updated on 2025-06-12 09:06 UTC_
 
 - [cardano/cardano-budget-submission/cardanos-treasury-governance/README](https://docs.intersectmbo.org/cardano/cardano-budget-submission/cardanos-treasury-governance/README)
 - [cardano/cardano-budget-submission/cardanos-treasury-governance/treasury-withdrawal-structure-voting-pack](https://docs.intersectmbo.org/cardano/cardano-budget-submission/cardanos-treasury-governance/treasury-withdrawal-structure-voting-pack)
@@ -9,11 +9,7 @@ _Updated on 2025-06-11 09:06 UTC_
 - [cardano/cardano-continuity/cardano-continuity-suppliers/how-we-manage-our-continuity-suppliers](https://docs.intersectmbo.org/cardano/cardano-continuity/cardano-continuity-suppliers/how-we-manage-our-continuity-suppliers)
 - [cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-applicants](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-applicants)
 - [intersect-operational-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/africa-community-hub-interim-contract](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/africa-community-hub-interim-contract)
-- [intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/README](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/README)
-- [intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/developer-advocate-aleksei-seregin](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/developer-advocate-aleksei-seregin)
-- [intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/developer-advocate-bernard-sibanda](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/developer-advocate-bernard-sibanda)
-- [intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/developer-advocate-suganya-raju](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/developer-advocate-suganya-raju)
-- [intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/developer-advocate-udai-solanki](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/open-source-committee/developer-advocate-udai-solanki)
+- [intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/README](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/README)
 - [intersect-overview/intersect-membership/README](https://docs.intersectmbo.org/intersect-overview/intersect-membership/README)
 - [legal/policies-and-conditions/intersect-administration-policies](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies)
 - [legal/policies-and-conditions/intersect-internal-policies/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/README)
