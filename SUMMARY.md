@@ -53,6 +53,7 @@
     * [Constitution Vote - All you need to know](cardano/cardano-governance/cardano-constitution/constitution-vote-all-you-need-to-know.md)
     * [2025 Constitutional Committee elections](cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/README.md)
       * [Guide for Applicants](cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-applicants.md)
+      * [Guide for Voting](cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-voting.md)
       * [Multi-Stage Task for Constitutional Committee Applicants](cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/multi-stage-task-for-constitutional-committee-applicants.md)
       * [Guidelines for Participation in a Constitutional Committee Election](cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guidelines-for-participation-in-a-constitutional-committee-election.md)
   * [Governance roles](cardano/cardano-governance/governance-roles/README.md)
