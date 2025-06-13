@@ -4,7 +4,7 @@ description: >-
   on the project can be found by clicking on the name of the builder.
 ---
 
-# 2024 Intersect Grants
+# 2024 CDH Grants
 
 ## Cohort 1 - **Governance Tech**
 
@@ -113,6 +113,10 @@ Grants for wallet updates to support the Conway ledger era and CIP-95. Furthermo
 ## Cohort 4 - GovTool Governance Action Outcome
 
 <table><thead><tr><th width="185">Builder Name</th><th width="154">Status</th><th width="274">End Deliverable</th><th>Total Contract Value (ADA)</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/govtool-governance-action-outcome">LidoNation</a></td><td>In progress</td><td>Create a Governance Action (GA) Outcomes section in Govtool empowering ADA holders to submit a GA directly onto the Cardano mainnet.</td><td>80,000 ADA</td></tr></tbody></table>
+
+## Cohort 4 - Constitutional workshops
+
+<table><thead><tr><th width="307">Cohort</th><th>Nb of workshops</th><th>Status</th><th>Total</th></tr></thead><tbody><tr><td>August Constitutional workshops </td><td>15</td><td>Complete</td><td>179,608 ADA</td></tr><tr><td>September Constitutional workshops</td><td>33</td><td>Complete</td><td>378,273 ADA</td></tr><tr><td>October Constitutional workshops</td><td>15</td><td>Complete</td><td>203,185 ADA</td></tr></tbody></table>
 
 ## Cohort 4 - Voting Tool for the Constitutional Convention
 
