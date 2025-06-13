@@ -1,13 +1,11 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-06-12 09:06 UTC_
+_Updated on 2025-06-13 09:06 UTC_
 
-- [cardano/cardano-budget-submission/cardanos-treasury-governance/README](https://docs.intersectmbo.org/cardano/cardano-budget-submission/cardanos-treasury-governance/README)
-- [cardano/cardano-budget-submission/cardanos-treasury-governance/treasury-withdrawal-structure-voting-pack](https://docs.intersectmbo.org/cardano/cardano-budget-submission/cardanos-treasury-governance/treasury-withdrawal-structure-voting-pack)
 - [cardano/cardano-budget-submission/treasury-withdrawal-poll-voting-pack](https://docs.intersectmbo.org/cardano/cardano-budget-submission/treasury-withdrawal-poll-voting-pack)
-- [cardano/cardano-budget-submission/treasury-withdrawal-poll](https://docs.intersectmbo.org/cardano/cardano-budget-submission/treasury-withdrawal-poll)
 - [cardano/cardano-continuity/cardano-continuity-suppliers/how-we-manage-our-continuity-suppliers](https://docs.intersectmbo.org/cardano/cardano-continuity/cardano-continuity-suppliers/how-we-manage-our-continuity-suppliers)
 - [cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-applicants](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-applicants)
+- [cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-voting](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-voting)
 - [intersect-operational-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/africa-community-hub-interim-contract](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/africa-community-hub-interim-contract)
 - [intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/README](https://docs.intersectmbo.org/intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/README)
 - [intersect-overview/intersect-membership/README](https://docs.intersectmbo.org/intersect-overview/intersect-membership/README)
