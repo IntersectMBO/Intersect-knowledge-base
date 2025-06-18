@@ -99,9 +99,9 @@ This policy should be read in conjunction with the following documents, guidelin
   * [Intersect as an Administrator](https://docs.intersectmbo.org/cardano/cardano-budget-submission/intersect-as-an-administrator)
   * [Cardano Treasury](https://docs.intersectmbo.org/cardano/cardano-economy/cardano-treasury)
   * [Cardano Constitution](https://constitution.gov.tools/en/constitution)
+  * [Technical Review Policy](technical-review-policy.md)
+  * [Delivery Assurance and Best Practice Policy](delivery-assurance-process-and-best-practice-policy.md)
   * Transparency Policy
-  * Technical Review Policy
-  * Delivery Assurance and Best Practice Policy
 * External regulation and best practices
   * [International Financial Reporting Standards (IFRS)](https://www.ifrs.org/)
 

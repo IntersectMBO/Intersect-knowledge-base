@@ -122,8 +122,8 @@ This policy should be read in conjunction with the following documents, guidelin
 * [Intersect as an Administrator](https://docs.intersectmbo.org/cardano/cardano-budget-submission/intersect-as-an-administrator)
 * [Cardano Treasury](https://docs.intersectmbo.org/cardano/cardano-economy/cardano-treasury)
 * [Cardano Constitution](https://constitution.gov.tools/en/constitution)
-* Technical Review Policy
-* Administration Financial Audit Policy
+* [Technical Review Policy](technical-review-policy.md)
+* [Administration Financial Audit Policy](administration-financial-audit-policy.md)
 * Transparency Policy
 
 **17. Examples**

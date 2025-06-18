@@ -94,8 +94,8 @@ This policy should be read in conjunction with the following documents, guidelin
   * [Intersect as an Administrator](https://docs.intersectmbo.org/cardano/cardano-budget-submission/intersect-as-an-administrator)
   * [Cardano Engineering Handbook](https://input-output-hk.github.io/cardano-engineering-handbook/)
   * [Intersect: Project Deliverable Quality Assurance](https://docs.google.com/document/u/0/d/1t9n5VtipFB0OW7E9Imze1F_H8wy8Q7661qiooyZjkjA/edit)
-* Delivery Assurance Policy and Best Practice
-* Administration Financial Audit Policy
-* Transparency Policy
+  * [Delivery Assurance Policy and Best Practice](delivery-assurance-process-and-best-practice-policy.md)
+  * [Administration Financial Audit Policy](administration-financial-audit-policy.md)
+  * Transparency Policy
 
 \
