@@ -16,7 +16,7 @@
 
 **7. Purpose:**
 
-This document is intended to provide guidance to all beneficiaries (as defined below) working under contracts administered by Intersect, including smart contracts and legal contracts. This guidance aims to clarify how beneficiaries can align with Intersect’s Delivery Assurance (DA) process to ensure contracts are executed transparently, with accountability, and in line with community expectations.
+This document is intended to provide guidance to all beneficiaries (as defined below) working under contracts administered by Intersect, including smart contracts and legal contracts. This guidance aims to clarify how beneficiaries can align with Intersect’s Delivery Assurance (DA) processes to ensure contracts are executed transparently, with accountability, and in line with community expectations.
 
 **8. Scope:**
 
