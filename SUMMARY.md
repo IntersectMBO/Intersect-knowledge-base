@@ -330,6 +330,7 @@
   * [Intersect Administration Policies](legal/policies-and-conditions/intersect-administration-policies.md)
     * [Due Diligence Policy](legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy.md)
     * [Delivery Assurance Process and Best Practice Policy](legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy.md)
+    * [Technical Review Policy](legal/policies-and-conditions/intersect-administration-policies/technical-review-policy.md)
 
 ## Glossary
 
