@@ -7,4 +7,4 @@
 
 Coming soon:
 
-* **Transparency Policy:** How Intersect intends to demonstrate transparency through these processes. Some of their parts\
+* **Transparency Policy:** How Intersect intends to demonstrate transparency through these processes.\
