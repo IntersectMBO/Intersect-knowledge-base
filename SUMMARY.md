@@ -327,7 +327,8 @@
     * [Robert's Rules of Order – Simplified](legal/policies-and-conditions/intersect-members-policies/roberts-rules-of-order-simplified.md)
     * [Intersect Open-Source Antitrust Statement](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-antitrust-statement.md)
     * [Intersect Open-Source Glossary](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-glossary.md)
-  * [Intersect Administration Policies](legal/policies-and-conditions/intersect-administration-policies.md)
+  * [Intersect Administration Policies](legal/policies-and-conditions/intersect-administration-policies/README.md)
+    * [Due Diligence Policy](legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy.md)
 
 ## Glossary
 
