@@ -1,8 +1,7 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-06-19 09:06 UTC_
+_Updated on 2025-06-20 09:05 UTC_
 
-- [cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-voting](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/2025-constitutional-committee-elections/guide-for-voting)
 - [intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/README](https://docs.intersectmbo.org/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/README)
 - [legal/policies-and-conditions/intersect-administration-policies](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies)
 - [legal/policies-and-conditions/intersect-administration-policies/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/README)
