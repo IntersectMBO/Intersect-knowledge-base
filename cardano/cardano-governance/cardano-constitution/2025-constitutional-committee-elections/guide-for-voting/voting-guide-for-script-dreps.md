@@ -4,6 +4,13 @@ description: This voting guide is for any script base DReps
 
 # Voting Guide for Script DReps
 
+{% hint style="info" %}
+**Rules to keep in mind**
+
+* Voting will close on the 2nd of July at 12PM UTC
+* Votes can't be changed, so if more than one vote is submitted only the first one will be counted
+{% endhint %}
+
 {% stepper %}
 {% step %}
 ### Review all candidates
