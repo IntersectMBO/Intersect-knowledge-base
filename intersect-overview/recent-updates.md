@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-06-22 09:05 UTC_
+_Updated on 2025-06-23 09:07 UTC_
 
 - [legal/policies-and-conditions/intersect-administration-policies](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies)
 - [legal/policies-and-conditions/intersect-administration-policies/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/README)
