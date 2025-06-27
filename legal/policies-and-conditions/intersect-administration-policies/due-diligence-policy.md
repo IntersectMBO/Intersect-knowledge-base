@@ -12,6 +12,8 @@
 
 **6. Policy sponsor:** Intersect Executive Director&#x20;
 
+_Updated on 27th June 2025_
+
 ***
 
 **7. Purpose:**
@@ -28,7 +30,7 @@
 
 **10. Definitions:**
 
-* **Beneficiary:** Individual or Company who will be receiving funds and/or entering into contractual relationships with Intersect or with CDH where Intersect is acting as its Administrator.
+* **Beneficiary:** Individual and/or Company who will be receiving funds and/or entering into contractual relationships with Intersect or with CDH where Intersect is acting as its Administrator.
 * **Cardano Development Holdings (CDH):** CDH is a legal entity created to support the Cardano ecosystem by acting as the contracting counterparty for approved proposals.
 * **Intersect:** Intersect serves as an Administrator within Cardano’s funding ecosystem, helping to operationalize community-approved proposals by coordinating due diligence, contracting, and on-chain disbursements. This role is grounded in the principles of transparency, decentralization, and adherence to the Cardano Constitution.&#x20;
 * **Know Your Customer (KYC) -** This is a full check designed to identify and verify customers, ensuring compliance and preventing fraud.
@@ -46,7 +48,7 @@
     * **Adverse media (or negative news):** Publicly available information from news articles, online media, social media, and court records that indicates involvement in criminal activity, corruption, financial misconduct, or other reputational risks.
 * **Verification of uploaded company documents:** This process involves cross-referencing and authenticating legal and financial documents (eg, certificates of incorporation, articles of association, financial statements, shareholder registers) submitted by a company. The aim is to confirm the organization's records to match with official records. This ensures validity in the company's legitimacy.
 * **Detailed review of ownership and management structure:** This entails a thorough examination and mapping of a company's hierarchical relationships, including its shareholders, ultimate beneficial owners (UBOs), directors, senior executives, and other key decision-makers. The purpose is to identify who ultimately controls and profits from the company, ensuring transparency and uncovering any complex or opaque structures that could pose risks.
-* **KYC checks on associated individuals:** This refers to the process of verifying the identity and assessing the risk profiles of key individuals connected to a company. These KYC checks typically involve collecting and verifying personal identification documents, and often include screening against sanctions lists, watchlists, and adverse media to comply with AML regulations.
+* **KYC checks on associated individuals:** As described above.
 * **Manual review by legal team (up to 24 hours):** This describes a human-led, in-depth examination of complex or high-risk cases related to company verification and compliance, performed by legal experts at Sumsub. This manual oversight ensures that intricate legal nuances, unusual structures, or flags identified by automated systems are thoroughly assessed and resolved within a specified timeframe, providing an extra layer of scrutiny.
 * **Editable and transparent company structure:** This indicates a feature that allows the visual representation of a company's ownership and management hierarchy to be easily updated and clearly displayed. It ensures that changes in shareholders, directors, or beneficial owners can be accurately reflected and understood, promoting clarity and facilitating ongoing compliance monitoring.
 * **Support for complex compliance needs:** This signifies the ability of a service or platform to handle and provide solutions for intricate and non-standard regulatory requirements faced by businesses. This includes adapting to varying international legal frameworks, managing multi-layered ownership structures, addressing specific industry regulations, and accommodating high-risk compliance scenarios that go beyond standard automated checks.
@@ -56,6 +58,8 @@
 **11. Policy statements:**
 
 * Anyone entering into a business relationship with Intersect or CDH will be required to complete a KYC or KYB, depending on the nature of the agreement.
+  * Intersect prohibits engagement with any beneficiary identified on a sanctions list.
+  * Regarding watchlists, adverse media, PEPs, or negative news, Intersect reserves the right to determine, at its sole discretion, whether to proceed with a business relationship with the beneficiary.
 * In combination, Intersect will also check that the country of incorporation of the beneficiary is not based in a country where cryptocurrency is illegal. A number of sources will be used to keep this list up-to-date (eg [CCN](https://www.ccn.com/education/crypto/10-countries-where-crypto-remains-banned/)).
   * Intersect will not engage with a beneficiary located in a country where cryptocurrency is illegal.
 
@@ -78,7 +82,7 @@
 * Should the check be incomplete, the beneficiary may be requested by Sumsub to resubmit documentation to complement their case.
 * On completion of the check, the Intersect Operational Services Team will inform the individual of the outcome.
 * If the beneficiary fails their KYC or KYB then they will have the right to see the report provided by Sumsub and to challenge inaccuracies in the data findings.
-* If Intersect determines that the beneficiary fails due diligence checks due to legitimate concerns—such as identification as a PEP, links to adverse media, or other significant risk factors—the beneficiary will be deemed too high-risk to proceed with the proposed business action. This decision is made to protect Intersect from potential legal, financial, and reputational exposures.
+* If Intersect determines that the beneficiary fails due diligence checks due to legitimate concerns—such as featuring on a sanctions list or other significant risk factors—the beneficiary will be deemed too high-risk to proceed with the proposed business action. This decision is made to protect Intersect from potential legal, financial, and reputational exposures.
 
 **14. Monitoring and compliance:**
 
