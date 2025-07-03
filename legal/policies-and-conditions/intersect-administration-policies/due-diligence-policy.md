@@ -26,7 +26,7 @@ _Updated on 27th June 2025_
 
 **9. Principles:**
 
-* Key principles include risk-based assessment to vet the beneficiary and make all reasonable endeavours to ensure that legal and regulatory thresholds are met. Accordingly, Intersect will carry out Know Your Customer (KYC) and Know Your Business (KYB) through a third party due diligence provider, [Sumsub](https://sumsub.com/).
+* Key principles include risk-based assessment to vet the beneficiary and make all reasonable endeavours to ensure that legal and regulatory thresholds are met. Accordingly, Intersect will carry out Know Your Customer (KYC) and Know Your Business (KYB) through a third party due diligence provider, [Sumsub](https://sumsub.com/). Should we change our third party due diligence provider, our policy would also be subject to change.
 
 **10. Definitions:**
 
@@ -58,7 +58,7 @@ _Updated on 27th June 2025_
 **11. Policy statements:**
 
 * Anyone entering into a business relationship with Intersect or CDH will be required to complete a KYC or KYB, depending on the nature of the agreement.
-  * Intersect prohibits engagement with any beneficiary identified on a sanctions list.
+  * Intersect prohibits engagement with any beneficiary identified on a US, UK and/or Cayman sanctions list.
   * Regarding watchlists, adverse media, PEPs, or negative news, Intersect reserves the right to determine, at its sole discretion, whether to proceed with a business relationship with the beneficiary.
 * In combination, Intersect will also check that the country of incorporation of the beneficiary is not based in a country where cryptocurrency is illegal. A number of sources will be used to keep this list up-to-date (eg [CCN](https://www.ccn.com/education/crypto/10-countries-where-crypto-remains-banned/)).
   * Intersect will not engage with a beneficiary located in a country where cryptocurrency is illegal.
