@@ -20,7 +20,7 @@
 
 **8. Scope:**
 
-* This policy applies to any deliverable which has the potential to affect the core code responsibilities under Intersects administration.
+* This policy applies to any deliverable which has the potential to affect the core code responsibilities under Intersect's administration.
 * Specifically, any deliverable which affects crypto primitives, ledger, or consensus rules must abide by this policy and any artefacts referenced.&#x20;
 * This policy does not replace any requirements set out by the Cardano Constitution. Where applicable, this must be completed in addition to anything set out in this policy
 * Where a deliverable does not affect any core code, this policy should be undertaken as best practice, where practically possible.
@@ -70,8 +70,8 @@
 **13. Procedures (or referenced procedures):**
 
 * Vendors should seek clarity and requirements prior to any proposal submissions (at the earliest opportunity).
-* Proposal vendors must agree required technical audits and reviews in advance, ahead of any contractual agreements.
-* Any cost associated with a proposals technical review or audit is the responsibility of the vendor
+* Proposal vendors must agree to required technical audits and reviews in advance, ahead of any contractual agreements.
+* Any cost associated with a proposal's technical review or audit is the responsibility of the vendor
 * Where practically possible, all test results should be shared with the administrator and, as appropriate, logged by the Security Council.&#x20;
 * Where practically possible, the outcomes of testing shall be shared with the community to build evidence of quality and encourage adoption.&#x20;
 
