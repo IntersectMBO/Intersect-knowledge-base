@@ -1,4 +1,8 @@
-# Intersect values
+---
+hidden: true
+---
+
+# \[REMOVE] Intersect values
 
 Intersect values represents how our internal staff approach their day-to-day work, and also extends to all members at Intersect with how we interact and treat one another.
 
