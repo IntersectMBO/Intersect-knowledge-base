@@ -16,6 +16,8 @@ You can use the files and criteria below to audit the results yourself.
 
 {% file src="../../../.gitbook/assets/voting_proofs.csv" %}
 
+\[file for script base DReps votes will be added soon or can be checked on-chain following [this guide](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps)]
+
 ### Constitutional Elections 2025 - Audit Criteria
 
 1. Candidate Verification
