@@ -30,7 +30,7 @@ This policy is founded on principles of openness, accountability, and the right 
 
 **10. Definitions:**
 
-* **Beneficiary:** Individual or Company who will be receiving funds and/or entering into contractual relationships with Intersect or with CDH where Intersect is acting as its Administrator.
+* **Beneficiary:** Individual and/or Company who will be receiving funds and/or entering into contractual relationships with Intersect or with CDH where Intersect is acting as its Administrator.
 * **Cardano Budget Proposal:** A request for funding from the Cardano Treasury that will be measured by milestone deliverables.
 * **Cardano Development Holdings (CDH):** CDH is a legal entity created to support the Cardano ecosystem by acting as the contracting counterparty for approved proposals by DReps.
 * **Cardano Treasury:** A treasury system is a community-controlled, decentralized collaborative decision-making mechanism for sustainable funding of the underlying blockchain development and maintenance.

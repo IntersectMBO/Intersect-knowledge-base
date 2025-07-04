@@ -12,6 +12,8 @@
 
 **6. Policy sponsor:** Intersect Executive Director&#x20;
 
+_Updated on 4th July 2025_
+
 ***
 
 **7. Purpose:**
@@ -33,9 +35,11 @@
 
 **10. Definitions:**
 
-* **Audit:** An audit is an independently verifiable examination of information
+* **Beneficiary:** Individual and/or Company who will be receiving funds and/or entering into contractual relationships with Intersect or with CDH where Intersect is acting as its Administrator
 * **Compliance:** Adhering to the terms and conditions in the DRep approved funding allocated contract.
 * **Ecosystem Risk:** Where the security, functionality, performance, or long-term sustainability of the Cardano Blockchain may be affected.
+* **Technical Audit:** A Technical Audit is an independent verifiable examination of technical information undertaken by a designated capable third party, separate to the Beneficiary.
+* **Technical Review:** A Technical Review is a systematic check of technical work undertaken as part of consistent delivery assurance.
 * **Technical audit:** Review of a technical aspect or deliverable undertaken by a capable third party to the creator.
 * **Intersect:** Intersect serves as an Administrator within Cardano’s funding ecosystem, helping to operationalize community-approved proposals by coordinating due diligence, contracting, and on-chain disbursements. This role is grounded in the principles of transparency, decentralization, and adherence to the Cardano Constitution.
 

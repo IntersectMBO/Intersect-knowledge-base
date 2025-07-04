@@ -28,7 +28,7 @@ This policy is founded on principles of openness, accountability, and the right 
 
 **10. Definitions:**
 
-* **Beneficiary:** Individual or Company who will be receiving funds and/or entering into contractual relationships with Intersect or with CDH where Intersect is acting as its Administrator.
+* **Beneficiary:** Individual and/or Company who will be receiving funds and/or entering into contractual relationships with Intersect or with CDH where Intersect is acting as its Administrator.
 * **Cardano Development Holdings (CDH):** CDH is a legal entity created to support the Cardano ecosystem by acting as the contracting counterparty for approved proposals by DReps.
 * **Milestone(s)** means the dates by which a part or all of the Services is to be completed, as set out in **a Statement of Work.**
 * [**Milestone Acceptance Form (MAF):** ](https://docs.google.com/document/d/1c1kC5q7LwHpQNGHdq9uXv5o5LNHXlDbxCJXtvMeenkA/edit?tab=t.0)This is a written attestation in the form of a standard template, submitted by a vendor, for each milestone.
