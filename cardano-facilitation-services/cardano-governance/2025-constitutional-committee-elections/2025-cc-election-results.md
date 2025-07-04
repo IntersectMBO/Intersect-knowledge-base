@@ -1,7 +1,9 @@
-# Results
+# 2025 CC Election - Results
+
+## Results
 
 {% hint style="info" %}
-Currently results are pending audit.\
+Currently **results are pending audit**.\
 \
 You can use the files and criteria below to audit the results yourself.
 {% endhint %}

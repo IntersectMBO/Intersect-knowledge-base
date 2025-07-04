@@ -55,7 +55,7 @@
       * [Voting Guide for Script DReps](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps.md)
     * [Multi-Stage Task for Constitutional Committee Applicants](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/multi-stage-task-for-constitutional-committee-applicants.md)
     * [Guidelines for Participation in a Constitutional Committee Election](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guidelines-for-participation-in-a-constitutional-committee-election.md)
-    * [Results](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/results.md)
+    * [2025 CC Election - Results](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/2025-cc-election-results.md)
 * [Cardano Budget](cardano-facilitation-services/cardano-budget/README.md)
   * [Intersect Administration Services](cardano-facilitation-services/cardano-budget/intersect-administration-services/README.md)
     * [Intersect as an Administrator](cardano-facilitation-services/cardano-budget/intersect-administration-services/intersect-as-an-administrator.md)
