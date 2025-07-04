@@ -139,8 +139,7 @@
 ## Intersect Team
 
 * [Open positions](intersect-team/open-positions/README.md)
-  * [Finance Lead](intersect-team/open-positions/finance-lead.md)
-  * [Social media and content manager](intersect-team/open-positions/social-media-and-content-manager.md)
+  * [People & Culture Lead](intersect-team/open-positions/people-and-culture-lead.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
   * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)
   * [Financial Controller](intersect-team/closed-positions/financial-controller.md)
@@ -149,6 +148,8 @@
   * [Design System Lead](intersect-team/closed-positions/design-system-lead.md)
   * [Platform/DevOps Engineer](intersect-team/closed-positions/platform-devops-engineer.md)
   * [Programme Support](intersect-team/open-positions/programme-support.md)
+  * [Finance Lead](intersect-team/closed-positions/finance-lead.md)
+  * [Social media and content manager](intersect-team/closed-positions/social-media-and-content-manager.md)
 
 ## LEGAL
 

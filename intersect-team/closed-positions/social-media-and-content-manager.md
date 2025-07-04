@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Social media and content manager
 
 **Job title:** Social media & content manager (mid-weight)\

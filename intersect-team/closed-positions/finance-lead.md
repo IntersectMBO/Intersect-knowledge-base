@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Finance Lead
 
 **Job Title:** Finance Lead\
