@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-07-04 09:06 UTC_
+_Updated on 2025-07-05 09:05 UTC_
 
 - [README](https://docs.intersectmbo.org/README)
 - [archive/cardano-budget-archive/README](https://docs.intersectmbo.org/archive/cardano-budget-archive/README)
@@ -227,12 +227,14 @@ _Updated on 2025-07-04 09:06 UTC_
 - [cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/quality-and-feedback](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/quality-and-feedback)
 - [cardano-facilitation-services/cardano-development/cardano-open-source](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-development/cardano-open-source)
 - [cardano-facilitation-services/cardano-development/cardano-vision](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-development/cardano-vision)
+- [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/2025-cc-election-results](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/2025-cc-election-results)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/README)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-applicants](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-applicants)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/README)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guidelines-for-participation-in-a-constitutional-committee-election](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guidelines-for-participation-in-a-constitutional-committee-election)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/multi-stage-task-for-constitutional-committee-applicants](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/multi-stage-task-for-constitutional-committee-applicants)
+- [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/results](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/results)
 - [cardano-facilitation-services/cardano-governance/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/README)
 - [cardano/cardano-economy/README](https://docs.intersectmbo.org/cardano/cardano-economy/README)
 - [cardano/cardano-economy/cardano-treasury](https://docs.intersectmbo.org/cardano/cardano-economy/cardano-treasury)
@@ -322,6 +324,9 @@ _Updated on 2025-07-04 09:06 UTC_
 - [intersect-overview/working-on-cardano/intersect-support-for-cardano-budget](https://docs.intersectmbo.org/intersect-overview/working-on-cardano/intersect-support-for-cardano-budget)
 - [intersect-overview/working-on-cardano/intersect-support-for-cardano-product](https://docs.intersectmbo.org/intersect-overview/working-on-cardano/intersect-support-for-cardano-product)
 - [intersect-overview/working-on-cardano/intersect-support-for-cardanos-governance](https://docs.intersectmbo.org/intersect-overview/working-on-cardano/intersect-support-for-cardanos-governance)
+- [intersect-team/closed-positions/finance-lead](https://docs.intersectmbo.org/intersect-team/closed-positions/finance-lead)
+- [intersect-team/closed-positions/social-media-and-content-manager](https://docs.intersectmbo.org/intersect-team/closed-positions/social-media-and-content-manager)
+- [intersect-team/open-positions/people-and-culture-lead](https://docs.intersectmbo.org/intersect-team/open-positions/people-and-culture-lead)
 - [intersect-website-and-member-area/releases/README](https://docs.intersectmbo.org/intersect-website-and-member-area/releases/README)
 - [intersect-website-and-member-area/releases/august-23rd](https://docs.intersectmbo.org/intersect-website-and-member-area/releases/august-23rd)
 - [intersect-website-and-member-area/releases/august-6th](https://docs.intersectmbo.org/intersect-website-and-member-area/releases/august-6th)
@@ -332,6 +337,7 @@ _Updated on 2025-07-04 09:06 UTC_
 - [intersect-website-and-member-area/roadmaps/intersect-member-area-roadmap](https://docs.intersectmbo.org/intersect-website-and-member-area/roadmaps/intersect-member-area-roadmap)
 - [intersect-website-and-member-area/roadmaps/intersect-website-roadmap](https://docs.intersectmbo.org/intersect-website-and-member-area/roadmaps/intersect-website-roadmap)
 - [legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy)
+- [legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/technical-review-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/technical-review-policy)
 - [updates/budget-administration-services-updates](https://docs.intersectmbo.org/updates/budget-administration-services-updates)
