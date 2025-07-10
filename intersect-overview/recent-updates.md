@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-07-09 09:07 UTC_
+_Updated on 2025-07-10 09:07 UTC_
 
 - [README](https://docs.intersectmbo.org/README)
 - [archive/cardano-budget-archive/README](https://docs.intersectmbo.org/archive/cardano-budget-archive/README)
@@ -338,7 +338,6 @@ _Updated on 2025-07-09 09:07 UTC_
 - [intersect-website-and-member-area/roadmaps/intersect-website-roadmap](https://docs.intersectmbo.org/intersect-website-and-member-area/roadmaps/intersect-website-roadmap)
 - [legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy)
-- [legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/technical-review-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/technical-review-policy)
 - [updates/budget-administration-services-updates](https://docs.intersectmbo.org/updates/budget-administration-services-updates)
 - [updates/ecosystem-governance-support-updates](https://docs.intersectmbo.org/updates/ecosystem-governance-support-updates)
