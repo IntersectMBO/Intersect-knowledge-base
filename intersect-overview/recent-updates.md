@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-07-11 09:06 UTC_
+_Updated on 2025-07-12 09:05 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/considerations-and-feature-backlog](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/considerations-and-feature-backlog)
@@ -9,10 +9,3 @@ _Updated on 2025-07-11 09:06 UTC_
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/2025-cc-election-results](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/2025-cc-election-results)
-- [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/results](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/results)
-- [intersect-team/closed-positions/finance-lead](https://docs.intersectmbo.org/intersect-team/closed-positions/finance-lead)
-- [intersect-team/closed-positions/social-media-and-content-manager](https://docs.intersectmbo.org/intersect-team/closed-positions/social-media-and-content-manager)
-- [intersect-team/open-positions/people-and-culture-lead](https://docs.intersectmbo.org/intersect-team/open-positions/people-and-culture-lead)
-- [legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy)
-- [legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy)
-- [legal/policies-and-conditions/intersect-administration-policies/technical-review-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/technical-review-policy)
