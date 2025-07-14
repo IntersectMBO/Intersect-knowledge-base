@@ -1,24 +1,29 @@
 ---
 description: >-
-  On this page, you will find the 2025 template contracts. Please be aware that
-  these contracts are subject to change and will be tailored to meet specific
-  needs on an individual basis.
+  On this page, you will find the 2025 template contracts (updated on 14th July
+  2025).
 ---
 
 # 2025 Template Contracts
 
+Intersect emphasizes the finality of these agreements. They've been carefully reviewed and balanced for fairness, and we are not currently open to further negotiation on any clauses. We trust the terms align with your expectations as a vendor.
+
+* **General Master Services Agreement (MSA) boilerplate**&#x20;
+
+{% file src="../../../.gitbook/assets/General Master Services Agreement boilerplate.docx.pdf" %}
+
+* **Software Master Services Agreement (MSA) boilerplate**
+
+{% file src="../../../.gitbook/assets/Software Master Services Agreement boilerplate.docx.pdf" %}
+
+* **Grant Agreement boilerplate**&#x20;
+
+_This will be published this week (14th July 2025)_
 
 
-* **Grant Milestone Delivery Template**
 
-{% file src="../.gitbook/assets/Grant Milestone Delivery Template.pdf" %}
+* **Statement of Work (SoW) boilerplate**
 
-* **Software MSA and SoW Template**
-
-{% file src="../.gitbook/assets/Software MSA and SoW Template.pdf" %}
-
-* **General MSA and SoW Template**
-
-{% file src="../.gitbook/assets/General Services MSA and SoW Template.pdf" %}
+{% file src="../../../.gitbook/assets/2025 Statement of Work (SoW) boilerplate.pdf" %}
 
 Please contact the Intersect Procurement team at procurement@intersectmbo.org for any enquiries.&#x20;
