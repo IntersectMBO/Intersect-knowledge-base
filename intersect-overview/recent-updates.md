@@ -1,7 +1,8 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-07-13 09:05 UTC_
+_Updated on 2025-07-14 09:12 UTC_
 
+- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/considerations-and-feature-backlog](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/considerations-and-feature-backlog)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/end-to-end-process](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/end-to-end-process)
