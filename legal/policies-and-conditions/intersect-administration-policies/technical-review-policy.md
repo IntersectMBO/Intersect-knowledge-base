@@ -12,7 +12,7 @@
 
 **6. Policy sponsor:** Intersect Executive Director&#x20;
 
-_Updated on 4th July 2025_
+_Updated on 15th July 2025_
 
 ***
 
