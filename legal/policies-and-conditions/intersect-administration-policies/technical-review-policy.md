@@ -2,7 +2,7 @@
 
 **1. Policy title:** Technical Review Policy
 
-**2. Version:** 1.0
+**2. Version:** 1.1
 
 **3. Effective date:** 15th June 2025
 

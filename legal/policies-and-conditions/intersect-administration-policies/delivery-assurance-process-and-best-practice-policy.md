@@ -2,7 +2,7 @@
 
 **1. Policy title:** Delivery Assurance Process and Best Practice Policy
 
-**2. Version:** 1.0
+**2. Version:** 1.1
 
 **3. Effective date:** 15 June 2025
 
@@ -11,6 +11,8 @@
 **5. Policy owner:** Head of Operations
 
 **6. Policy sponsor:** Intersect Executive Director
+
+_Updated on 15th July 2025_
 
 ***
 
@@ -44,7 +46,7 @@ This policy is founded on principles of openness, accountability, and the right 
 **12. Roles and responsibilities:**
 
 * **The person responsible for producing the work,** e.g. Project Lead / Technical Owner - Responsible for executing the work. They confirm via the MAF that the completed milestone accurately reflects the milestone description and meets all defined acceptance criteria.
-* **Third-party Assurance signature -** Responsible for the secondary verification, ensuring the milestone has been reviewed and that its delivery meets the acceptance criteria defined in the contract ( examples of this are below).
+* **Third-party Assurance signature -** Responsible for the secondary verification, ensuring the milestone has been reviewed and that its delivery meets the acceptance criteria defined in the contract (examples of this are below).
 * **Intersect Delivery Assurance** - Responsible for overseeing the administrative process, ensuring adherence by both the vendor and the second attestor.
 
 **13. Procedures:**
@@ -58,14 +60,17 @@ This policy is founded on principles of openness, accountability, and the right 
   * **Timeline** - provide a realistic timeline that when the milestone will be completed by. Build in contingency to these dates where appropriate.
 * **Acceptance criteria:** Each milestone should have clear and testable acceptance criteria. These serve as the basis for milestone review and approval. Good acceptance criteria should be:
   * **Measurable and objective** – They can be independently verified by reviewers.
-  * Output-driven – Evidence of delivery should be visible and public where appropriate (eg GitHub commits, documentation, videos, working demos).
+  * **Output-driven** – Evidence of delivery should be visible and public where appropriate (e.g. GitHub commits, documentation, videos, working demos).
   * **Binary** – Criteria should define whether the milestone is complete or not, leaving no room for interpretation.
-* **Third-party assurance:** To ensure adequate delivery assurance and oversight, each milestone is required to have a second capable vendor/person/organization who can help attest to the quality delivered and the milestone being complete. From the beneficiary’s perspective, this approach provides increased transparency to the Community and objective verification strengthening the quality of the milestone being delivered. This assurer does not need to be the same person throughout the contract if the beneficiary believes that a better person is suited to a particular milestone. Alternatively, if providing public evidence to the Community better demonstrates the milestone's achievement (eg, a Video, an X-post), this is also acceptable but the beneficiary may be asked to justify the reasoning behind this decision.\
-  \
-  **When selecting the third-party assurer, please ensure:**
-  * The assurance provider is genuinely independent of the delivery team, from a different company, and independent of any key stakeholders with vested interests.
-  * They have the necessary expertise relevant to the deliverable being assessed.
-  * They are independent of an Intersect Committee.
+* **Third-party assurance:** To ensure adequate delivery assurance and oversight, each milestone is required to have a second capable vendor/person/organization who can help attest to the quality delivered and the milestone being complete. From the beneficiary’s perspective, this approach provides increased transparency to the Community and objective verification strengthening the quality of the milestone being delivered. This assurer does not need to be the same person throughout the contract if the beneficiary believes that a better person is suited to a particular milestone. Alternatively, if providing public evidence to the Community better demonstrates the milestone's achievement (eg, a Video, an X-post), this is also acceptable but the beneficiary may be asked to justify the reasoning behind this decision.
+
+**Please note** that **by putting "The Community" as your third party assurer**, you are committing to providing clear, understandable, public evidence that your milestone has been achieved to the Community. You should have clear feedback loops (e.g. github repository, public forum) for the Community to provide open and visible commentary on your milestone achievements, with evidence that where practically possible feedback is acted upon in a timely manner.\
+\
+**When selecting the third-party assurer, please ensure:**
+
+* The assurance provider is genuinely independent of the delivery team, from a different company, and independent of any key stakeholders with vested interests.
+* They have the necessary expertise relevant to the deliverable being assessed.
+* They are independent of an Intersect Committee.
 
 Intersect Delivery Assurance team will verify with the vendor that the third party assurer is acceptable and falls within these conditions.
 

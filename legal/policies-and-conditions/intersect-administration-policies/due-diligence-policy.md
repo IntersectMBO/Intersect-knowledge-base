@@ -2,7 +2,7 @@
 
 **1. Policy title:** Due Diligence Policy
 
-**2. Version:** 1.0
+**2. Version:** 1.1
 
 **3. Effective date:** 15 June 2025
 
