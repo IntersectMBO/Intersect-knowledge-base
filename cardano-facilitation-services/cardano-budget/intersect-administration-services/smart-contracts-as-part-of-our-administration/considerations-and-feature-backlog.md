@@ -21,4 +21,13 @@ You can contribute to this feature backlog at the following Intersect repository
 
 Sundae Labs has developed the smart contracts outlined with support from Input Output Engineering and Intersect. Additional auditing has been commissioned and completed by TxPipe and MLabs.&#x20;
 
-[https://github.com/SundaeSwap-finance/treasury-contracts](https://github.com/SundaeSwap-finance/treasury-contracts)&#x20;
+[https://github.com/SundaeSwap-finance/treasury-contracts](https://github.com/SundaeSwap-finance/treasury-contracts)
+
+## Audit
+
+TxPipe audit report :
+
+{% file src="../../../../.gitbook/assets/TxPipe audit-2.pdf" %}
+
+
+
