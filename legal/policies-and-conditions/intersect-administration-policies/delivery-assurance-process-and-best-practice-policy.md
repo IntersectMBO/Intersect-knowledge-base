@@ -133,6 +133,6 @@ This policy should be read in conjunction with the following documents, guidelin
 
 **17. Examples**
 
-* [How to write Milestones](https://docs.google.com/document/d/1ehI1-F1uxGrrPwr2sIyAPkUZcLd4iE7BPGm2MWgubA0/edit?usp=sharing)
+* [How to write Milestones](https://docs.google.com/document/d/1BTzKG0i_vvPuUYsiEzYOIQDbKrNCd75R0eI_kTh4yXQ/edit?usp=sharing)
 * [How to fill in the Milestone Acceptance Form](https://docs.google.com/document/d/1ehI1-F1uxGrrPwr2sIyAPkUZcLd4iE7BPGm2MWgubA0/edit?usp=sharing)
 
