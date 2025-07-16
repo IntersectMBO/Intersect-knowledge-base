@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-07-15 09:10 UTC_
+_Updated on 2025-07-16 09:08 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/product-committee/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/product-committee/README)
@@ -17,3 +17,7 @@ _Updated on 2025-07-15 09:10 UTC_
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions)
+- [legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy)
+- [legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy)
+- [legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy)
+- [legal/policies-and-conditions/intersect-administration-policies/technical-review-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/technical-review-policy)
