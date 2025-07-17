@@ -16,11 +16,9 @@ Intersect emphasizes the finality of these agreements. They've been carefully re
 
 {% file src="../../../.gitbook/assets/Software Master Services Agreement boilerplate.docx.pdf" %}
 
-* **Grant Agreement boilerplate**&#x20;
+* **Grant Milestone Delivery Agreement boilerplate**&#x20;
 
-_This will be published this week (14th July 2025)_
-
-
+{% file src="../../../.gitbook/assets/Grant Milestone Delivery Agreement boilerplate.pdf" %}
 
 * **Statement of Work (SoW) boilerplate**
 
