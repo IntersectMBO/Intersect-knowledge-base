@@ -10,4 +10,4 @@ The design of Intersect’s governance and membership structure helps identify s
 
 Intersect is incorporated in Wyoming, United States, as a Mutual Benefit Nonprofit organization in accordance with applicable state laws. Given the state’s receptiveness to innovation and new technology, specifically around blockchain and DAOs, it was the ideal jurisdiction to incorporate Intersect.&#x20;
 
-Intersect was incorporated on December 8, 2023.
+Intersect was incorporated on July 13, 2023.
