@@ -112,7 +112,7 @@ Grants for wallet updates to support the Conway ledger era and CIP-95. Furthermo
 
 ## Cohort 4 - GovTool Governance Action Outcome
 
-<table><thead><tr><th width="185">Builder Name</th><th width="154">Status</th><th width="274">End Deliverable</th><th>Total Contract Value (ADA)</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/govtool-governance-action-outcome">LidoNation</a></td><td>In progress</td><td>Create a Governance Action (GA) Outcomes section in Govtool empowering ADA holders to submit a GA directly onto the Cardano mainnet.</td><td>80,000 ADA</td></tr></tbody></table>
+<table><thead><tr><th width="185">Builder Name</th><th width="154">Status</th><th width="274">End Deliverable</th><th>Total Contract Value (ADA)</th></tr></thead><tbody><tr><td><a href="https://intersect.gitbook.io/intersect-community-grants/cohort-4/govtool-governance-action-outcome">LidoNation</a></td><td>Complete</td><td>Create a Governance Action (GA) Outcomes section in Govtool empowering ADA holders to submit a GA directly onto the Cardano mainnet.</td><td>80,000 ADA</td></tr></tbody></table>
 
 ## Cohort 4 - Constitutional workshops
 
