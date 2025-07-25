@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-07-24 09:08 UTC_
+_Updated on 2025-07-25 09:07 UTC_
 
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/README](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/africa-community-hub-interim-contract](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/africa-community-hub-interim-contract)
@@ -8,5 +8,3 @@ _Updated on 2025-07-24 09:08 UTC_
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/latam-community-hub-interim-contract](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/latam-community-hub-interim-contract)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/north-america-community-hub-interim-contract](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/north-america-community-hub-interim-contract)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/sri-lanka-community-hub-interim-contract](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/membership-and-community-committee-contracts/sri-lanka-community-hub-interim-contract)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts)
-- [intersect-overview/intersects-structure/README](https://docs.intersectmbo.org/intersect-overview/intersects-structure/README)
