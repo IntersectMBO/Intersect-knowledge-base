@@ -1,5 +1,8 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-07-29 09:08 UTC_
+_Updated on 2025-07-30 09:09 UTC_
 
-- [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/README](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/README)
+- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/delivery-assurance-quarterly-reports](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/delivery-assurance-quarterly-reports)
+- [intersect-membership/intersect-voting-events/intersect-elections-2025/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/README)
+- [intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections)
+- [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections)
