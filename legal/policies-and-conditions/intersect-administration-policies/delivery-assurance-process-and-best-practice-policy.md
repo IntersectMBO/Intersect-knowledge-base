@@ -124,12 +124,12 @@ To ensure the policy remains current and effective, it will be reviewed at least
 This policy should be read in conjunction with the following documents, guidelines and regulatory frameworks:
 
 * Cardano governance and policy documents
-* [Intersect as an Administrator](https://docs.intersectmbo.org/cardano/cardano-budget-submission/intersect-as-an-administrator)
-* [Cardano Treasury](https://docs.intersectmbo.org/cardano/cardano-economy/cardano-treasury)
-* [Cardano Constitution](https://constitution.gov.tools/en/constitution)
-* [Technical Review Policy](technical-review-policy.md)
-* [Administration Financial Audit Policy](administration-financial-audit-policy.md)
-* Transparency Policy
+  * [Intersect as an Administrator](https://docs.intersectmbo.org/cardano/cardano-budget-submission/intersect-as-an-administrator)
+  * [Cardano Treasury](https://docs.intersectmbo.org/cardano/cardano-economy/cardano-treasury)
+  * [Cardano Constitution](https://constitution.gov.tools/en/constitution)
+  * [Technical Review Policy](technical-review-policy.md)
+  * [Administration Financial Audit Policy](administration-financial-audit-policy.md)
+  * Transparency Policy
 
 **17. Examples**
 
