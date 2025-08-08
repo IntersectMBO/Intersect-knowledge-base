@@ -1,5 +1,6 @@
 ---
 description: To be updated once contracts have been awarded.
+hidden: true
 ---
 
 # Budget committee
