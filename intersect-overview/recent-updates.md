@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-08-12 09:06 UTC_
+_Updated on 2025-08-13 09:07 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/budget-committee](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/budget-committee)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/growth-and-marketing-committee](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/growth-and-marketing-committee)
