@@ -95,7 +95,7 @@
         * [Proposal ID](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/key-terms/proposal-id.md)
         * [Metadata Anchor](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/key-terms/metadata-anchor.md)
       * [If your project is delayed](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/if-your-project-is-delayed.md)
-    * [2025 Treasury Withdrawal Smart Contracts](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/README.md)
+    * [2025 Treasury Withdrawal Smart Contract Updates](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/README.md)
       * [Core Contracts](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts.md)
       * [Marketing & Innovation Contracts](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/marketing-and-innovation-contracts.md)
       * [Governance Contracts](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/governance-contracts.md)
