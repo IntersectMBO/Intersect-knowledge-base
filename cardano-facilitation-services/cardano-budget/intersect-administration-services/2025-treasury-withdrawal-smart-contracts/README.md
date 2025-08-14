@@ -4,14 +4,9 @@ hidden: true
 
 # 2025 Treasury Withdrawal Smart Contract Updates
 
-Here you will find a comprehensive view of all contracts that are being administered by Intersect. They have been split into the 4 key buckets that were selected during the budget proposal process:&#x20;
+Here you will find a comprehensive view of all contracts that are being administered by Intersect. On our Knowledge Base you will find all key contractual information including the SoW's.
 
-* Core
-* Marketing & Innovation
-* Governance
-* Research
-
-All live information on contracts can be found via the Smart Contract dashboard - [https://treasury.sundae.fi/instances](https://treasury.sundae.fi/instances)
+All live on-chain information on contracts can be found via the Smart Contract dashboard - [https://treasury.sundae.fi/instances](https://treasury.sundae.fi/instances)
 
 Through this link you will be able to view project progress, milestone breakdowns, milestone descriptions and all associated milestone payments. Attached to each milestone will be metadata evidence of milestone completion, which is completely open and transparent to the community.
 
