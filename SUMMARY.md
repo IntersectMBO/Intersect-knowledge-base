@@ -61,6 +61,7 @@
 * [Administrating Treasury funding](cardano-facilitation-services/cardano-budget/README.md)
   * [Intersect Administration Services](cardano-facilitation-services/cardano-budget/intersect-administration-services/README.md)
     * [Intersect as an Administrator](cardano-facilitation-services/cardano-budget/intersect-administration-services/intersect-as-an-administrator.md)
+    * [Onboarding & Vendor Information](cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information.md)
     * [Ratification, Enactment, and Smart Contract Creation](cardano-facilitation-services/cardano-budget/intersect-administration-services/ratification-enactment-and-smart-contract-creation.md)
     * [Smart contracts as part of our Administration](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/README.md)
       * [Smart contract types](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types.md)
