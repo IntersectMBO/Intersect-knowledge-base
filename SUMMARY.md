@@ -40,7 +40,7 @@
           * [Portuguese](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/portuguese.md)
           * [Sinhala](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/application-form-translations/sinhala.md)
       * [Committee elections FAQs](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committee-elections-faqs.md)
-      * [April 2025 - Committee Election Results](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README.md)
+      * [April 2025 - Committee Election Results](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README.md)
         * [Voting Results - audit info](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/voting-results-audit-info.md)
     * [Onboarding Page](intersect-membership/intersect-voting-events/intersect-elections-2025/onboarding-page.md)
   * [2024 - Intersect elections](intersect-membership/intersect-voting-events/intersect-elections-2024/README.md)

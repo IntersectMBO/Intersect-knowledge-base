@@ -84,5 +84,13 @@ Elected Members:
 * **Alex Mose**r - No Of Votes: 244
 * **Neil Davies** - No Of Votes: 241
 
+### Growth and Marketing Committee <a href="#single-poll-card-heading" id="single-poll-card-heading"></a>
 
+Elected Members:
+
+* **Tim Harrison** - No Of Votes: 300
+* **Laura Mattiucci** - No Of Votes: 209
+* **Andy Hung** - No Of Votes: 186
+* **Hasitha Raymond** - No Of Votes: 144
+* **Anuj Chaudhary** - No Of Votes: 138
 
