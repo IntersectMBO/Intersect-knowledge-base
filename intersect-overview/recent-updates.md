@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-08-14 09:07 UTC_
+_Updated on 2025-08-15 09:06 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/budget-committee](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/budget-committee)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/growth-and-marketing-committee](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/growth-and-marketing-committee)
@@ -9,5 +9,3 @@ _Updated on 2025-08-14 09:07 UTC_
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/governance-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/governance-contracts)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/marketing-and-innovation-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/marketing-and-innovation-contracts)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/research-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/research-contracts)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/ratification-enactment-and-smart-contract-creation](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/ratification-enactment-and-smart-contract-creation)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/ratification-enactment-and-smart-contracts-creation](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/ratification-enactment-and-smart-contracts-creation)
