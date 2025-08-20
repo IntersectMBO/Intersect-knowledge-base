@@ -24,7 +24,7 @@ Voting period opens: **15th of Sep** at 12 PM UTC &#x20;
 
 Voting period closes: **26th of Sep** at 12 PM UTC.
 
-[Check Voting eligibility](september-2025-board-elections.md#voter-eligibility)
+[Check Voting eligibility](./#voter-eligibility)
 
 </details>
 
