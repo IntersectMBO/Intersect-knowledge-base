@@ -1,4 +1,8 @@
-# Oversight  Committee: How to verify a Fund Smart Contract Action
+---
+hidden: true
+---
+
+# Oversight Committee: How to verify a Fund Smart Contract Action
 
 ## Fund Action Summary:
 
