@@ -4,6 +4,29 @@
 
 In September, the **Intersect Board Elections** will take place — a vital opportunity for members to help select the individuals who will oversee Intersect’s strategic direction and ensure it remains aligned with its mission and community values. During this time members will be able to elect 4 board members out of the 7 that compose the Intersect Board.
 
+#### Why it matters
+
+* **Shape the future** – Influence decisions that impact the Cardano community and governance framework.
+* **Lead with impact** – Represent members and ensure their perspectives are heard at the highest level.
+* **Grow your experience** – Gain valuable governance and leadership expertise in a global, decentralized organization.
+
+#### Roles & Responsibilities
+
+Before applying, we encourage you to review the [Board Roles and Responsibilities](https://board.docs.intersectmbo.org/overview/intersect-board-members/board-member-role-responsibilities-and-expectations) to fully understand the expectations and commitments of the role.
+
+#### Term Length
+
+* The **first two elected candidates** will serve a **2-year term**.
+* The **last two elected candidates** will serve a **1-year term**.
+
+This ensures continuity while allowing new voices to regularly join the Board.
+
+#### Compensation
+
+Board members will receive an annual financial compensation of **$35,000 USD** in recognition of their time, effort, and contributions.
+
+
+
 ## Key Dates
 
 <details>
@@ -138,6 +161,6 @@ You have two options to confirm your identity:
 
 </details>
 
-#### Why It Matters
+####
 
 By offering both verification options, we ensure the process is secure, fair, and flexible, allowing all members to participate in shaping Intersect’s future.
