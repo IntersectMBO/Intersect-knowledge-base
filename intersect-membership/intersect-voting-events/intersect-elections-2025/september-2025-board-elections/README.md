@@ -86,7 +86,7 @@ For candidates, you can **review the application form** [**here** ](board-applic
 
 
 {% hint style="info" %}
-Please note that the form above is for **preparation only**. To officially apply, you must **log into the Intersect Members Area** and submit your application there during the application window.
+Please note that the form above is for preparation purposes only. To officially apply, you must **log into** the **Intersect Members Area** and submit your application there during the application window. Applications must be completed in **English**. The translations provided here in the Knowledge Base are meant only as guidance to support your understanding.
 {% endhint %}
 
 When preparing your application, focus on clearly presenting your background, your vision, and how you plan to contribute to Intersect’s mission. We encourage you to make use of the translated materials and other resources to support your preparation.
