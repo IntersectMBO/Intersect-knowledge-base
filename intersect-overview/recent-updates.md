@@ -1,11 +1,8 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-09-02 09:06 UTC_
+_Updated on 2025-09-03 09:05 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information/README)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information/how-to-sign-your-vendor-smart-contract](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information/how-to-sign-your-vendor-smart-contract)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information/how-to-submit-milestone-evidence-and-withdraw-milestones](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information/how-to-submit-milestone-evidence-and-withdraw-milestones)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-how-to-verify-a-fund-smart-contract-action](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-how-to-verify-a-fund-smart-contract-action)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/README)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-application-form/translations-board-application-form/spanish-board-application-form-1](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-application-form/translations-board-application-form/spanish-board-application-form-1)
