@@ -1,10 +1,9 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-09-09 09:06 UTC_
+_Updated on 2025-09-10 09:06 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/product-committee/byron-network-constitutional-committee-voting-tool](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/product-committee/byron-network-constitutional-committee-voting-tool)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/product-committee/byron-network-govtool-maintenance-voting-and-delegation-pillars](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/product-committee/byron-network-govtool-maintenance-voting-and-delegation-pillars)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/product-committee/we-deliver-it-govtool-maintenance-proposal-discussion-pillar](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-delivery-assurance-contract-updates/product-committee/we-deliver-it-govtool-maintenance-proposal-discussion-pillar)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
-- [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/README)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/intersect-board-elections-x-space-events](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/intersect-board-elections-x-space-events)
+- [intersect-overview/jump-in-key-member-initiatives](https://docs.intersectmbo.org/intersect-overview/jump-in-key-member-initiatives)
