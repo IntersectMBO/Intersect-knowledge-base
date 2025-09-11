@@ -1,5 +1,7 @@
 # Wallet Address Change Policy
 
+### Wallet Address Change Policy&#x20;
+
 **1. Policy Title:** Wallet address change policy
 
 **2. Version:** 1.0
@@ -13,6 +15,8 @@
 **6. Policy Sponsor:** Director of Operations
 
 ***
+
+Please note, following a receipt of change request all subsequent transactions and smart contract payments will be paused, until such time as the change request is verified, proven legitimate and processed.
 
 **7. Purpose:**
 
@@ -42,6 +46,7 @@ This policy is grounded in the principles of:
 **11. Policy Statements:**
 
 * Vendors may request a wallet address change after contract execution through the defined process.&#x20;
+* Any request to update a wallet address must come directly from the authorised contract signatory or a representative with documented delegated authority.
 * All wallet address change requests must be accompanied by a completed KYC via Sumsub.
 * The KYC form must include a valid phone number of an authorized representative.
 * A member of the Operational Services team will conduct a verification call to confirm the requestor’s identity and the change request.
@@ -52,14 +57,14 @@ This policy is grounded in the principles of:
 
 **12. Roles and Responsibilities:**
 
-**Vendor:**
+Vendor:
 
-* Initiates the wallet address change request via sending an email cc’ing in [procurement@intersectmbo.org](mailto:procurement@intersectmbo.org) and operational-services@intersectmbo.org.
+* Authorised contract signatory or a representative with documented delegated authority Initiates the wallet address change request via sending an email cc’ing in [procurement@intersectmbo.org](mailto:procurement@intersectmbo.org) and operational-services@intersectmbo.org.
 * Submits the completed KYC form including the authorized phone contact.
 * Ensures availability for the verification call.
 * Submits new wallet address using Intersects [wallet request form.](https://forms.gle/VgX7nZbcnnXL9o99A)
 
-**Operations / Payments Team:**
+Operations / Payments Team:
 
 * Procurement sends the KYC form to the vendor upon request.
 * Conducts the verification call.
@@ -80,8 +85,8 @@ This policy is grounded in the principles of:
 **14. Review and Amendment:**
 
 * This policy will be reviewed annually or upon significant changes to vendor engagement processes, risk management protocols, or applicable regulations.
-* Amendments require approval from the Policy Owner and the Policy Sponsor.
+* Amendments require approval from the Policy Owner and the Policy Sponsor
 
 **15. Related Documents/References:**
 
-[Intersect Due Diligence Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy).
+* [Intersect Due Diligence Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy).
