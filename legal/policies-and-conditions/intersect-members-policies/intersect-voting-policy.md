@@ -19,6 +19,9 @@ Common Voting events currently include:
 ## Existing voting rules
 
 * Only paid members are allowed to join Intersect voting events
+  * New members can participate in voting events if they pay for their membership before the voting event starts
+  * Existing members who have an expired membership when a voting event is open to vote can participate as long as their renew their membership before voting ends
+  * Existing members whose membership expire during the voting period will be able to vote till their membership is active (and after that if their renew)
 * For committee elections
   * Only paid members are allowed to apply
   * Only those who have been paid members for at least 3 months OR that have followed the process to verify themselves are allowed to vote
