@@ -1,8 +1,8 @@
 ---
-description: This version is from the 13th May 2024
+description: This version is from the 18th February 2025
 ---
 
-# Intersect Membership Agreement V1
+# Intersect Membership Agreement V2
 
 ## MEMBERSHIP AGREEMENT
 
