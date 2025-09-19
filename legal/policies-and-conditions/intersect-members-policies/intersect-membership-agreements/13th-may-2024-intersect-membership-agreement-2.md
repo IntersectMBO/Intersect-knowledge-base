@@ -79,9 +79,9 @@ Enterprise Sponsored Member
 
 (a) The Member hereby acknowledges and agrees, on behalf of itself and on behalf of each Related Party, that:
 
-(i) Membership shall be pursuant to and accordance with this Agreement, the Code of Conduct, the governing documents of the Company and any terms, conditions, rules, regulations, policies or procedures provided or made available by the Company from time to time (as amended, restated, supplemented or otherwise modified by us from time to time, the “Membership Documents”).
+(i) Membership shall be pursuant to and accordance with this Agreement, the [Code of Conduct](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/code-of-conduct), the governing documents of the Company and any terms, conditions, rules, regulations, policies or procedures provided or made available by the Company from time to time (as amended, restated, supplemented or otherwise modified by us from time to time, the “Membership Documents”).
 
-(ii) the Membership Documents, including the Code of Conduct, have been provided or made available to such Member, and such Member has read and understands such documents and agrees to be fully bound by the terms and conditions thereof.&#x20;
+(ii) the Membership Documents, including the [Code of Conduct](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/code-of-conduct), have been provided or made available to such Member, and such Member has read and understands such documents and agrees to be fully bound by the terms and conditions thereof.&#x20;
 
 (iii) At any time, the Company, in its sole discretion, may amend, modify, supplement or otherwise revise (A) any Membership Documents, (B) the terms or conditions of Membership, (C) the structure, management, governance or other rights or obligations of the Company or (D) any combination of the foregoing; provided, that, the Company shall use commercially reasonable efforts to provide the Member notice of such changes (e.g., posting on the Company’s website) within thirty (30) days after the formal adoption thereof by the Company.
 
@@ -99,7 +99,7 @@ Enterprise Sponsored Member
 
 ## Section 5. Indemnification.
 
-Each Member is solely responsible for its own acts and omissions in connection with the Membership. The Member agrees to indemnify, defend, and hold harmless the Company and its Affiliates (collectively, the “Indemnified Parties”) from and against any and all claims, losses, damages, liabilities, costs, and expenses (including reasonable attorneys’ and expert fees) to the extent arising out of or relating to (a) the Member’s acts or omissions in connection with the Membership or this Agreement, or (b) the Member’s violation of applicable laws, regulations, or the Code of Conduct.
+Each Member is solely responsible for its own acts and omissions in connection with the Membership. The Member agrees to indemnify, defend, and hold harmless the Company and its Affiliates (collectively, the “Indemnified Parties”) from and against any and all claims, losses, damages, liabilities, costs, and expenses (including reasonable attorneys’ and expert fees) to the extent arising out of or relating to (a) the Member’s acts or omissions in connection with the Membership or this Agreement, or (b) the Member’s violation of applicable laws, regulations, or the [Code of Conduct](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/code-of-conduct).
 
 This indemnity shall not apply to the extent such claims, losses, or liabilities result from the gross negligence or willful misconduct of the Indemnified Parties.
 
