@@ -1,33 +1,34 @@
 # Intersect Board Elections X-Space Events
 
-Here are the details of the X Spaces we’re hosting. Recordings will be added below. We have organised them at different times to accommodate our global membership.
+Here are the details of the X Spaces we’re hosting. Recordings are accessible via the same link as the space. We have organized them at the same time for consistency.
 
 ## Board spotlights
 
-**August 27, 2025 – 16 PM UKT**
+**August 27, 2025 – 3pm UTC**
 
 * [Intersect Board Election: Your Board, Your Voice](https://x.com/i/spaces/1lPKqvrOVvmGb)
 
-**September 4, 2025 - 16 PM UKT**
+**September 4, 2025 - 3pm UTC**
 
 * [Intersect Board Election: Applications are open](https://lu.ma/cn7rpkn2)
 
-**September 9, 2025 - 16 PM UKT**
+**September 9, 2025 - 3pm UTC**
 
 * [Intersect Board Election: the Whats, the Ifs, and Hows](https://lu.ma/ipbs0tly)
 
-**September 23, 2025 - 16 PM UKT**
+**September 16, 2025 - 3pm UTC**
+
+* [Intersect Board Elections: Community and Incusion](https://x.com/IntersectMBO/status/1967968277029941653)
+
+**September 18, 2025 - 3pm UTC**
+
+* [Intersect Board Elections: Growth, Culture, and Ecosystem Bridges](https://x.com/IntersectMBO/status/1968701420191805566)
+
+**September 23, 2025 - 3pm UTC**
 
 * [Intersect Board Elections: Emerging and New Voices](https://x.com/i/spaces/1YqJDNYjaRoKV)
 
+**September 25, 2025 -  3pm UTC**
 
+* [Intersect Board Elections: Governance, Continuity, and Legal](https://x.com/i/spaces/1yoJMPQkWVXGQ)
 
-
-
-
-
-
-
-## Intersect Board Elections X-Space recordings
-
-<table data-full-width="true"><thead><tr><th width="196">Date</th><th width="414.5999755859375">Session</th><th width="147.5999755859375">Recording Link</th></tr></thead><tbody><tr><td>August 27, 2025</td><td>Elections Preview: Your Board, Your Voice</td><td><a href="https://x.com/i/spaces/1lPKqvrOVvmGb">Listen here</a></td></tr><tr><td>September 4, 2025</td><td>Intersect Board Election: Applications are open</td><td><a href="https://x.com/i/spaces/1nAKEEPPgAeKL">Listen Here</a></td></tr><tr><td>September 9, 2025</td><td>Intersect Board Election: the Whats, the Ifs, and Hows</td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
