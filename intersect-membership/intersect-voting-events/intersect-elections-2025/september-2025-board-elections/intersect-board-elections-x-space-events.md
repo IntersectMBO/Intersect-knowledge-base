@@ -16,6 +16,10 @@ Here are the details of the X Spaces we’re hosting. Recordings will be added b
 
 * [Intersect Board Election: the Whats, the Ifs, and Hows](https://lu.ma/ipbs0tly)
 
+**September 23, 2025 - 16 PM UKT**
+
+* [Intersect Board Elections: Emerging and New Voices](https://x.com/i/spaces/1YqJDNYjaRoKV)
+
 
 
 
