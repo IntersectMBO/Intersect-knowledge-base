@@ -24,7 +24,7 @@ Voting period opens: **16th of Oct** at 12 PM UTC&#x20;
 
 Voting period closes: **29th of Oct** at 12 PM UTC.
 
-[Check Voting eligibility](october-2025-committee-elections.md#voter-eligibility)&#x20;
+[Check Voting eligibility](./#voter-eligibility)&#x20;
 
 </details>
 
