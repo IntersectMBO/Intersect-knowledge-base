@@ -1,8 +1,6 @@
 # Wallet Address & Whitelisting Change Policy
 
-### Wallet Address & Whitelisting Change Policy&#x20;
-
-**1. Policy Title:** Wallet address change policy
+**1. Policy Title:** Wallet Address & Whitelisting Change Policy&#x20;
 
 **2. Version:** 1.0
 

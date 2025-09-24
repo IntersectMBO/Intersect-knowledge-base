@@ -210,6 +210,7 @@
     * [Due Diligence Policy](legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy.md)
     * [Technical Review Policy](legal/policies-and-conditions/intersect-administration-policies/technical-review-policy.md)
     * [Wallet Address & Whitelisting Change Policy](legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy.md)
+    * [Committee Member Travel & Expense Policy](legal/policies-and-conditions/intersect-administration-policies/committee-member-travel-and-expense-policy.md)
     * [FAQs](legal/policies-and-conditions/intersect-administration-policies/faqs.md)
 
 ## Archive
