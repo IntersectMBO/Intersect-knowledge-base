@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated February 18, 2025&#x20;
+Last updated September 25, 2025&#x20;
 
 Thank you for choosing to be part of our community at Intersect (“**Company**”, “**we**”, “**us**”, or “**our**”). This Privacy Policy applies to all personal information collected through this website and all of Company’s related websites, mobile apps, products, services, sales, marketing or events, including our plug-ins and browser extensions (collectively, the "**Products**"). It also applies to our processing of the personal data of our members. We are committed to protecting your personal information. When you access or use our Products or become a member of Intersect (“Member”), you trust us with your personal information. In this Privacy Policy, we describe how we collect, use, store and share your personal information and what rights you have in relation to it. If there are any terms in this Privacy Policy that you do not agree with, please discontinue access and use of our Products. . Please read this Privacy Policy carefully as it will help you make informed decisions about sharing your personal information with us.&#x20;
 
@@ -224,3 +224,7 @@ We delete the data that arises in this context after saving is no longer require
 ## 15. Breach
 
 In the event of a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data, the Organisation shall promptly assess the risk to people’s rights and freedoms and if appropriate report this breach to the ICO ([more information on the ICO website](https://ico.org.uk/)).
+
+## 16. Children's Privacy
+
+We do not knowingly collect Personal Information from children under the age of 18. Our Site and Services are not addressed to minors. If you are a parent or guardian and you learn that your children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a child under the age of 18 without verifiable parental consent, we will take steps to remove that information from our servers.
