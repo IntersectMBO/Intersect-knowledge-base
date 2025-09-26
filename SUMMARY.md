@@ -170,9 +170,9 @@
 ## Intersect Team
 
 * [Open positions](intersect-team/open-positions/README.md)
-  * [People & Culture Lead](intersect-team/open-positions/people-and-culture-lead.md)
   * [Security Incident Officer](intersect-team/open-positions/security-incident-officer.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
+  * [People & Culture Lead](intersect-team/closed-positions/people-and-culture-lead.md)
   * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)
   * [Financial Controller](intersect-team/closed-positions/financial-controller.md)
   * [Community Engagement Manager - Cardano constitution consultation](intersect-team/closed-positions/community-engagement-manager-cardano-constitution-consultation.md)
