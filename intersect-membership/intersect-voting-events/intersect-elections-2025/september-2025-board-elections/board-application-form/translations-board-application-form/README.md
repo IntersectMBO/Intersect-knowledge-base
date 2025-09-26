@@ -14,6 +14,6 @@ To make the board application process accessible to all members, the form is als
 [tamil-board-application-form.md](tamil-board-application-form.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../april-2025-committee-elections/committees-key-info/application-form-translations/japanese.md" %}
-[japanese.md](../../../april-2025-committee-elections/committees-key-info/application-form-translations/japanese.md)
+{% content-ref url="../../../october-2025-committee-elections/committees-key-info/application-form-translations/japanese.md" %}
+[japanese.md](../../../october-2025-committee-elections/committees-key-info/application-form-translations/japanese.md)
 {% endcontent-ref %}
