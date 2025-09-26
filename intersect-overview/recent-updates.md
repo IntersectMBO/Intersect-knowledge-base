@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-09-25 09:06 UTC_
+_Updated on 2025-09-26 09:06 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/README)
@@ -20,3 +20,4 @@ _Updated on 2025-09-25 09:06 UTC_
 - [legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-1](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-1)
 - [legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2)
 - [legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement)
+- [legal/policies-and-conditions/intersect-members-policies/privacy-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/privacy-policy)
