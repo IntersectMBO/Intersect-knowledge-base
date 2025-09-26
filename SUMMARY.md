@@ -147,7 +147,6 @@
     * [Proposal](cardano-facilitation-services/2025-apply-for-tender/key-terms/proposal.md)
     * [Proposal ID](cardano-facilitation-services/2025-apply-for-tender/key-terms/proposal-id.md)
     * [Metadata Anchor](cardano-facilitation-services/2025-apply-for-tender/key-terms/metadata-anchor.md)
-  * [If your project is delayed](cardano-facilitation-services/2025-apply-for-tender/if-your-project-is-delayed.md)
 * [Cardano Development](cardano-facilitation-services/cardano-development/README.md)
   * [Cardano hardforks and upgrades](cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/README.md)
     * [Chang & Plomin upgrades](cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/chang-upgrade/README.md)
