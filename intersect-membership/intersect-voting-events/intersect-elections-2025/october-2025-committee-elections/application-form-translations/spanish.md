@@ -17,9 +17,11 @@
 
 <summary>Intersect steering committee </summary>
 
-1. ¿Cómo propondría mejorar el proceso actual de incorporación de las opiniones y aportes de la comunidad en la toma de decisiones de Intersect?
-2. ¿Qué habilidades o experiencias específicas cree que posee y que serían más valiosas para el Comité Directivo de Intersect? ¿Cómo las aprovecharía para contribuir a sus objetivos?
-3. Como miembro electo, representaría a la comunidad de Cardano dentro del Comité Directivo de Intersect. ¿Cómo garantizaría una comunicación consistente y efectiva entre el comité y la comunidad? ¿Cómo recopilaría e incorporaría las opiniones y necesidades de la comunidad en la toma de decisiones del comité?
+**1.** ¿Cómo te asegurarías de que las voces de los miembros de Intersect se incorporen de manera significativa en las discusiones y recomendaciones del ISC, manteniendo su esencia de liderazgo por parte de los miembros?
+
+**2.** Dada la necesidad del ISC de contar con perspectivas diversas y una comprensión amplia de Intersect como organización basada en sus miembros, ¿qué experiencias o conocimientos aportas que podrían fortalecer sus recomendaciones estratégicas?
+
+**3.** El ISC actúa como un punto de encuentro entre los miembros, los presidentes de comité y el equipo ejecutivo. ¿Cómo promoverías la transparencia y mantendrías informados a los miembros sobre las discusiones y resultados del ISC de una forma que fomente la confianza y la participación?
 
 </details>
 
@@ -47,7 +49,7 @@
 
 <summary>Technical steering committee</summary>
 
-1. Describa su experiencia en el desarrollo e implementación de la tecnología blockchain de Cardano (o de cualquier otra blockchain, si aplica). Por ejemplo...
+1. Describe tu experiencia en el desarrollo e implementación de la tecnología central de la blockchain de Cardano (o de cualquier otra blockchain, si corresponde).
 2. Describa su experiencia en la redacción o evaluación de propuestas complejas relacionadas con blockchain, como artículos de investigación, resúmenes de proyectos, llamados a licitación o evaluación de licitaciones.
 3. Describa cualquier otra experiencia relevante que tenga en relación con otras responsabilidades del TSC, como licitaciones, control de calidad, gestión de programas o comunicaciones técnicas.
 
@@ -57,9 +59,9 @@
 
 <summary>Open source committee</summary>
 
-1. ¿Cuál es tu experiencia en proyectos de código abierto?
-2. ¿Cuál es tu experiencia en comunidades abiertas?
-3. ¿Qué experiencia tienes en la gestión de presupuestos o contratos relacionados con proyectos?
+1. ¿Cuáles son tus contribuciones más significativas al código abierto (código, documentación, gobernanza, comunidad, etc.) y de qué manera has participado en comunidades de código abierto?
+2. ¿Qué experiencia tienes revisando propuestas de proyectos o evaluando el desempeño de colaboradores para asegurar que estén alineados con criterios y entregables claros?
+3. ¿Cuál es tu experiencia supervisando presupuestos o fondos de proyectos para garantizar que se distribuyan de manera responsable y vinculada a hitos o entregables?
 
 </details>
 

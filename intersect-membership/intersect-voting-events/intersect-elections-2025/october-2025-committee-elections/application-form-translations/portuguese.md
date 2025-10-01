@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Portuguese
 
 1. Nome de utilizador do Github e ID do Git (se apropriado, isto será utilizado como indicador pelo TSC e OSC para avaliar as credenciais no GitHub)

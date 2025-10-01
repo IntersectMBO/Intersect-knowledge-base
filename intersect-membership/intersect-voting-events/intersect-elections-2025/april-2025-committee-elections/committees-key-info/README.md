@@ -10,7 +10,7 @@ Application Pack April 2025
 
 Ready to contribute to the future of Cardano? [**Apply now!**](https://members.intersectmbo.org/dashboard/voting)
 
-To make the process more accessible, we have also translated the application form into five languages. If you’d like to see the translations, [click here](application-form-translations/).
+To make the process more accessible, we have also translated the application form into five languages. If you’d like to see the translations, [click here](broken-reference).
 
 We will also be holding a number of [engagement events](intersect-committee-elections-x-space-events.md) and posting key messages across our social media platforms.
 

@@ -17,9 +17,9 @@
 
 <summary>Intersect steering committee </summary>
 
-1. Comment proposeriez-vous d'améliorer le processus actuel d'intégration des commentaires de la communauté dans le processus de prise de décision d'Intersect ?
-2. Quelles compétences ou expériences spécifiques pensez-vous posséder qui seraient les plus importante pour le comité directeur d'Intersect, et comment les exploiteriez-vous pour contribuer à ses objectifs ?
-3. En tant que membre élu, vous représenteriez la communauté Cardano au sein du comité directeur d'Intersect. Comment assureriez-vous une communication cohérente et efficace entre le(s) comité(s) et la communauté, et comment recueilleriez-vous et intégreriez-vous les commentaires de la communauté dans la prise de décision du comité ?
+1. Comment veilleriez-vous à ce que les voix des membres d’Intersect soient véritablement prises en compte dans les discussions et recommandations de l’ISC, tout en respectant son éthique dirigée par les membres ?
+2. Compte tenu du besoin de l’ISC d’intégrer des perspectives diverses et une compréhension large d’Intersect en tant qu’organisation fondée sur ses membres, quelles expériences ou idées pouvez-vous apporter qui contribueraient à renforcer ses recommandations stratégiques ?
+3. L’ISC agit comme point de convergence entre les membres, les présidents de comité et l’équipe exécutive. Comment promouvoiriez-vous la transparence et tiendriez-vous les membres informés des discussions et résultats de l’ISC d’une manière qui favorise la confiance et l’engagement ?
 
 </details>
 
@@ -47,9 +47,9 @@
 
 <summary>Technical steering committee</summary>
 
-1. Décrivez votre expérience dans le développement et la mise en œuvre de la technologie Core Cardano Blockchain ? (Ou toute autre blockchain, le cas échéant) (Par exemple...)
-2. Décrivez votre expérience dans la rédaction ou l'évaluation de propositions complexes de blockchain ? (Par exemple, documents de recherche, briefs de projet, appels d'offres, évaluation des offres)
-3. Décrivez toute autre expérience pertinente que vous avez liée à d'autres responsabilités du TSC ? (Par exemple, appels d'offres, assurance qualité, gestion de programme, communications techniques)
+1. Décrivez votre expérience dans le développement et la mise en œuvre des technologies centrales de la blockchain Cardano (ou de toute autre blockchain, le cas échéant).
+2. Décrivez votre expérience dans la rédaction ou l’évaluation de propositions complexes liées à la blockchain (par exemple, articles de recherche, notes de projet, appels d’offres, évaluation d’appels d’offres).
+3. Décrivez toute autre expérience pertinente que vous possédez en lien avec les autres responsabilités du TSC (par exemple, appels d’offres, assurance qualité, gestion de programme, communications techniques).
 
 </details>
 
@@ -57,9 +57,9 @@
 
 <summary>Open source committee</summary>
 
-1. Quelle est votre expérience avec les projets open source ?
-2. Quelle est votre expérience avec les communautés ouvertes ?
-3. Quelle est votre expérience avec la gestion de budget/contrat liée à des projets ?
+1. Quelles sont vos contributions les plus significatives au code source ouvert (code, documentation, gouvernance, communauté, etc.) et comment avez-vous interagi avec les communautés open source ?
+2. Quelle expérience avez-vous dans l’évaluation de propositions de projets ou de la performance des contributeurs afin de garantir leur alignement avec des critères et des livrables clairs ?
+3. Quelle est votre expérience dans la supervision de budgets ou de fonds de projets afin de veiller à ce qu’ils soient distribués de manière responsable et en lien avec des jalons ou des livrables ?
 
 </details>
 
