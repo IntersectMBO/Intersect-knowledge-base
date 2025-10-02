@@ -4,6 +4,10 @@ description: Home page with resources to prepare for budget reconciliation
 
 # Prep for Reconciliation
 
+{% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
 Workshop Sign-up: [https://lu.ma/cardanobudgetprocess](https://lu.ma/cardanobudgetprocess)
 
 Cardano's 2025 Budget Reconciliation will be done through two virtual, multi-day workshops. &#x20;

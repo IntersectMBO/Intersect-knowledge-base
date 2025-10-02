@@ -6,6 +6,8 @@ description: >-
 
 # Cardano Budget Submission
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 {% hint style="info" %}
 Submit your proposal [here](https://mpc.intersectmbo.org/cardano-proposal-submission)
 {% endhint %}

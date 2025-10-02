@@ -1,5 +1,9 @@
 # FAQs
 
+{% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
 Budget Timeline
 
 {% include "../../../.gitbook/includes/untitled.md" %}

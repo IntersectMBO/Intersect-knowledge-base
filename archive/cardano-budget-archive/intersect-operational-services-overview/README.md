@@ -6,6 +6,10 @@ description: >-
 
 # Intersect Operational Services Overview
 
+{% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
 **Introduction**
 
 The purpose of Intersect’s Operational Services is to support any individual or organization within the Cardano ecosystem that wishes to submit a proposal related to the Cardano blockchain ecosystem for inclusion in a Cardano Budget. If the proposer is successful in securing funding and Intersect has been named as the administrator, then Operational services will include the following:&#x20;

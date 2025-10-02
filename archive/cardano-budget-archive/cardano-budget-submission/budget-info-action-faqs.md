@@ -1,6 +1,10 @@
 # Budget Info Action FAQs
 
 {% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
 **Important note:** Greater than 50% of active delegated DRep stake is required to pass a Budget Info Action. This does not result in the movement of any funds from the Cardano Treasury. If approved, it marks the next step toward funding, with Treasury Withdrawal governance actions required to be passed and enacted. \
 \
 These withdrawals require a higher threshold of over 67% DRep approval to release funds from the Cardano Treasury.

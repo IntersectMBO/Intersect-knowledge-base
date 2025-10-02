@@ -1,5 +1,9 @@
 # Cardano continuity suppliers
 
+{% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
 ## Who are our continuity suppliers?
 
 Bitergia, Byron, DQuadrant, Emurgo, Galois, Input Output Global (IOI), Tweag, VacuumLabs, Well-Typed

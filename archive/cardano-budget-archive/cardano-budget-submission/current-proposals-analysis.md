@@ -1,5 +1,9 @@
 # Current Proposals Analysis
 
+{% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
 _Last updated on 25th April at 11:00 UTC_
 
 Our proposal portal has been open for 36 working days, where 197 proposals were submitted before DRep temp checks and comments were exported at 5pm UTC  24th April, to create a soft proposal prioritization based on proposal feedback. This prioritization is the starting point for the reconciliation workshops.

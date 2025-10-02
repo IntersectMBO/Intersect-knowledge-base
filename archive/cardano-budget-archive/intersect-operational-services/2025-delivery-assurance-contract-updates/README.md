@@ -1,5 +1,7 @@
 # 2025 Delivery assurance contract updates
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Welcome to the central place for all contracts managed through each committee. Here, you'll find information on contracts facilitated by the following committees:
 
 * **Technical Steering Committee**

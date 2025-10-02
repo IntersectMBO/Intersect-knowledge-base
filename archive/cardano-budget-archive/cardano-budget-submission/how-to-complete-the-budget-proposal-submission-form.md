@@ -1,5 +1,9 @@
 # How to complete the Budget Proposal Submission form
 
+{% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
 **How to use the Cardano Budget Proposal Section in GovTool:** Click [here](https://docs.gov.tools/cardano-govtool/using-govtool/cardano-budget-proposals).
 
 ## Submit a Budget Proposal

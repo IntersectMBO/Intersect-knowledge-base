@@ -1,5 +1,9 @@
 # Budget Glossary
 
+{% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
 * **Budget / Cardano budget**
   * A budget for Cardano’s treasury. Withdrawals cannot be made without a budget in place.
 * **Budget buckets / Budget category / Category**

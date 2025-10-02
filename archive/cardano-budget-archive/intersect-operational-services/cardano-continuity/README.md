@@ -1,5 +1,9 @@
 # 2024 Cardano Continuity contracts
 
+{% hint style="warning" %}
+This page has been **archived**&#x20;
+{% endhint %}
+
 In 2024, several contracts were contracted for the purpose of Cardano “Continuity”. Cardano Continuity is defined or referred to in the contracts as any approved technical services needed to build or fix current and future areas of the Cardano blockchain. Continuity in this definition can include new development, such as the CIP-1694 governance software, upgrades to components or improvements in testing.&#x20;
 
 In 2024, delivery assurance was pivotal in the core continuity remit, managing 14 contracts. Most of which have successfully completed. The complete list of [suppliers](cardano-continuity-suppliers/) and the relevant projects is publicly available [here](cardano-continuity-suppliers/cardano-continuity-reports/).
