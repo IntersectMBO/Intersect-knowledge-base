@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Portuguese
 
 1. Nome de utilizador do Github e ID do Git (se apropriado, isto será utilizado como indicador pelo TSC e OSC para avaliar as credenciais no GitHub)
@@ -21,9 +17,9 @@ hidden: true
 
 <summary>Intersect steering committee </summary>
 
-1. Como propõe melhorar a atual estrutura de incorporação do feedback da comunidade no processo de tomada de decisão da Intersect?
-2. Que competências ou experiências específicas acreditas possuir que seriam mais valiosas para o ISC, e como as aproveitaria para contribuir para os seus objetivos?
-3. Como membro eleito, representaria a comunidade Cardano no ISC. Como garantiria uma comunicação consistente e eficaz entre o(s) comité(s) e a comunidade, e como recolheria e incorporaria o feedback da comunidade na tomada de decisões do comité?
+1. Como você garantiria que as vozes dos membros da Intersect sejam incorporadas de forma significativa nas discussões e recomendações do ISC, preservando o seu caráter conduzido pelos membros?
+2. Considerando a necessidade do ISC por perspectivas diversas e uma compreensão ampla da Intersect como uma organização baseada em membros, que experiências ou percepções você traz que poderiam fortalecer suas recomendações estratégicas?
+3. O ISC atua como ponto de convergência entre membros, presidentes de comitês e a equipe executiva. Como você promoveria transparência e manteria os membros informados sobre as discussões e resultados do ISC, de forma a incentivar confiança e engajamento?
 
 </details>
 
@@ -51,9 +47,9 @@ hidden: true
 
 <summary>Technical steering committee</summary>
 
-1. Descreva a sua experiência no desenvolvimento e implementação da Core Cardando Blockchain Technology? (Ou qualquer outra blockchain, se aplicável) (Por exemplo...)
-2. Descreva a sua experiência na redação ou avaliação de propostas complexas de blockchain? (Por exemplo, artigos de investigação, resumos de projetos, chamadas a concurso, avaliação de concursos)
-3. Descreva qualquer outra experiência relevante que tenha relacionada com outras rDescreva qualquer outra experiência pessoal relevante que seja relacionada com outras responsabilidades do TSC? (Por exemplo, Tendering, Quality Assurance, Gestão de Programas, Comunicações Técnicas)
+1. Descreva a sua experiência no desenvolvimento e implementação da Tecnologia Central da Blockchain Cardano (Core Cardano Blockchain Technology), ou de qualquer outra blockchain, se aplicável.
+2. Descreva a sua experiência na redação ou avaliação de propostas complexas de blockchain. (Por exemplo, artigos de investigação, resumos de projetos, chamadas a concurso - call to tender, avaliação de concursos - tender evaluation)
+3. Descreva qualquer outra experiência pessoal relevante que seja relacionada com outras responsabilidades do TSC. (Por exemplo, Tendering, Quality Assurance, Gestão de Programas, Comunicações Técnicas)
 
 </details>
 
@@ -61,9 +57,9 @@ hidden: true
 
 <summary>Open source committee</summary>
 
-1. Qual é a sua experiência e envolvimento com projetos de código aberto?
-2. Qual é a sua experiência de envolvimento com comunidades abertas?
-3. Qual é a sua experiência com a gestão de orçamento/contratos relacionada a projetos?
+1. Quais são as suas contribuições mais significantes para projetos open-source (documentação de código, governança, comunidade, etc), e como você engajou com comunidades open-source?
+2. Qual é a sua experiência em revisar propostas de projetos ou avaliar a performance de contribuidores, garantindo que o processo esteja alinhado a critérios e entregas bem definidos?
+3. Qual é a sua experiência na gestão de orçamentos ou fundos de projetos para garantir que sejam distribuídos de forma responsável e vinculados a marcos ou entregas?
 
 </details>
 
