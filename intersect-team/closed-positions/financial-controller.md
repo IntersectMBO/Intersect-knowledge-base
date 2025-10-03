@@ -1,5 +1,9 @@
 # Financial Controller
 
+{% hint style="warning" %}
+This position has now been filled. Thanks to all those who applied.
+{% endhint %}
+
 {% hint style="info" %}
 Location: Global/Remote
 {% endhint %}

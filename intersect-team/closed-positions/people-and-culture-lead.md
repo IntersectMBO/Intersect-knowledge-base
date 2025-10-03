@@ -1,6 +1,10 @@
 # People & Culture Lead
 
-{% hint style="success" %}
+{% hint style="warning" %}
+This position has now been filled. Thanks to all those who applied.
+{% endhint %}
+
+{% hint style="info" %}
 **Location**: Remote (with occasional travel as needed)\
 **Reporting to**: Executive Director
 {% endhint %}

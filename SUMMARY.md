@@ -143,6 +143,8 @@
 
 * [Open positions](intersect-team/open-positions/README.md)
   * [Security Incident Officer](intersect-team/open-positions/security-incident-officer.md)
+  * [Executive Director](intersect-team/open-positions/executive-director/README.md)
+    * [Executive Director - Recruitment process](intersect-team/open-positions/executive-director/executive-director-recruitment-process.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
   * [People & Culture Lead](intersect-team/closed-positions/people-and-culture-lead.md)
   * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)

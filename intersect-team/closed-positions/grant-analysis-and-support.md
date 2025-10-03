@@ -1,5 +1,9 @@
 # Grant Analysis & Support
 
+{% hint style="warning" %}
+This position has now been filled. Thanks to all those who applied.
+{% endhint %}
+
 The Grant Analysis & Support role is responsible for ensuring the effective delivery of grant initiatives, from application through to completion. This includes overseeing grant applications, assisting with the selection process, managing contract drafting, tracking progress, and supporting grantees to meet their milestones. The role requires coordination across multiple platforms, such as ClickUp for milestone tracking and the Intersect GitBook for documentation.&#x20;
 
 ### Key Responsibilities:&#x20;
