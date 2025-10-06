@@ -2,9 +2,9 @@
 
 ### Grant Structure & Payment
 
-* Wallet providers: 10 grants available - 5,000 ada per eligible applicant
-* Governance tools: 5 grants available - 5,000 ada per eligible applicant
-* SDKs: 5 grants available - 5,000 ada per eligible applicant
+* **Wallet providers:** 10 grants available - 5,000 ada per eligible applicant
+* **Governance tools:** 5 grants available - 5,000 ada per eligible applicant
+* **SDKs:** 5 grants available - 5,000 ada per eligible applicant
 
 ### Timeline
 
