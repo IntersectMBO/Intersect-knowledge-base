@@ -12,9 +12,9 @@
 **Term**: 2 years
 {% endhint %}
 
-👉🏻 APPLY NOW - applications will open on Monday 6th October
+👉🏻 [APPLY NOW](https://intersectmbo.typeform.com/ed-application)
 
-👉🏻 NOMINATE SOMEONE - nominations will open on Monday 6th October
+👉🏻 [NOMINATE SOMEONE](https://intersectmbo.typeform.com/ed-nomination)
 
 ## Overview
 
