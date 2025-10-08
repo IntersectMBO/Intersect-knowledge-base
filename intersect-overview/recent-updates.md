@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-10-07 09:06 UTC_
+_Updated on 2025-10-08 09:06 UTC_
 
 - [.gitbook/includes/this-page-has-been-archived](https://docs.intersectmbo.org/.gitbook/includes/this-page-has-been-archived)
 - [archive/cardano-budget-archive/cardano-budget-submission/README](https://docs.intersectmbo.org/archive/cardano-budget-archive/cardano-budget-submission/README)
@@ -70,7 +70,6 @@ _Updated on 2025-10-07 09:06 UTC_
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-application-form/translations-board-application-form/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-application-form/translations-board-application-form/README)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-election-results/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-election-results/README)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-election-results/audit-results](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-election-results/audit-results)
-- [intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-election-results/onboarding-new-elected-members](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-election-results/onboarding-new-elected-members)
 - [intersect-team/closed-positions/financial-controller](https://docs.intersectmbo.org/intersect-team/closed-positions/financial-controller)
 - [intersect-team/closed-positions/grant-analysis-and-support](https://docs.intersectmbo.org/intersect-team/closed-positions/grant-analysis-and-support)
 - [intersect-team/closed-positions/people-and-culture-lead](https://docs.intersectmbo.org/intersect-team/closed-positions/people-and-culture-lead)
