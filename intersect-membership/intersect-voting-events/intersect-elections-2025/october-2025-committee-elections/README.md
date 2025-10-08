@@ -12,7 +12,7 @@ In October, the **Committee Elections** will be held. These elections allow memb
 
 Application period opens: **Oct 1st** at 12 PM UTC&#x20;
 
-Application period closes: **Oct 14th** at 12 PM UTC
+Application period closes: **Oct 24th** at 12 PM UTC
 
 </details>
 
@@ -20,9 +20,9 @@ Application period closes: **Oct 14th** at 12 PM UTC
 
 <summary>Voting Period</summary>
 
-Voting period opens: **16th of Oct** at 12 PM UTC&#x20;
+Voting period opens: **27th of Oct** at 12 PM UTC&#x20;
 
-Voting period closes: **29th of Oct** at 12 PM UTC.
+Voting period closes: **7th of Nov** at 12 PM UTC.
 
 [Check Voting eligibility](./#voter-eligibility)&#x20;
 
@@ -32,7 +32,7 @@ Voting period closes: **29th of Oct** at 12 PM UTC.
 
 <summary>Voting Results</summary>
 
-The results will be published on **Nov 03**.
+The results will be published on **Nov 14**.
 
 </details>
 
