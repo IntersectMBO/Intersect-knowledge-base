@@ -1,6 +1,6 @@
 # Requirements
 
-### Project Scope
+### Project Scope - Technical Requirements
 
 Each grantee will implement CIP-149 functionality tailored to their platform:
 
@@ -12,7 +12,7 @@ Each grantee will implement CIP-149 functionality tailored to their platform:
 
 **b) Governance Tools**
 
-* Enable creation of DRep delegations with CIP-149 metadat
+* Enable creation of DRep delegations with CIP-149 metadata.
 * (Optional) Display compensation amounts received by DReps.
 
 **c) SDKs/Libraries**
