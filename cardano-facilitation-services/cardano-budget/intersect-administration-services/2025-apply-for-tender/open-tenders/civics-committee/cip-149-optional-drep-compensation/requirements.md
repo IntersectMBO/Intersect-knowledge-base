@@ -7,6 +7,7 @@ Each grantee will implement [CIP-149 | Optional DRep Compensation](https://githu
 **a) Wallets**
 
 * Implement CIP-149 Optional DRep Compensation during staking reward withdrawal.
+  * See example transaction: [38641cd70b0ab300e4fb850e7a0c747bac54d894bdc9deb07e934c0c0e4c6223](https://preview.cardanoscan.io/transaction/38641cd70b0ab300e4fb850e7a0c747bac54d894bdc9deb07e934c0c0e4c6223?tab=summary)
 * Provide supporting UI to inform users about donating to their DRep.
 * (Optional) Enable creation of DRep delegations containing CIP-149 metadata.
 
@@ -111,6 +112,33 @@ Due to variance within SDK/Library design and functionality, there is flexibilit
     withdrawalTransaction.addOutput(cip149Delegation.drepPaymentAddr, (rewardsAvaliable/100 * cip149Delegation.basisPoints/10))
 
     ```
+
+### Example Transactions
+
+Staking Address: [stake\_test1ursa8kegf22wcjqqlc0230rtlemck5lhqycd3u8lattqh2c2ckq5g](https://preview.cardanoscan.io/stakeKey/stake_test1ursa8kegf22wcjqqlc0230rtlemck5lhqycd3u8lattqh2c2ckq5g)\
+DRep ID: [drep1yfhx2j5j7q989gfvj6cg04htakpqn32a3yuhtytjxt9m80qt5ekm3](https://preview.cardanoscan.io/dRep/drep1yfhx2j5j7q989gfvj6cg04htakpqn32a3yuhtytjxt9m80qt5ekm3)\
+DRep's most recent registration/update transaction: [337a2dc8ef4f2e139fae3c1f8a5eb25d7441d29db653417d6fe5883ea3e49227](https://preview.cardanoscan.io/transaction/337a2dc8ef4f2e139fae3c1f8a5eb25d7441d29db653417d6fe5883ea3e49227?tab=dRepCertificates)\
+DRep's most recent metadata: [https://ipfs.io/ipfs/bafkreiaebdt43kqssaajkcpbg7wab5vq4g6e5kzwf4pals74lqk744wjrq](https://ipfs.io/ipfs/bafkreiaebdt43kqssaajkcpbg7wab5vq4g6e5kzwf4pals74lqk744wjrq)\
+DRep's payment address (from metadata): `addr_test1vp8vlxck6kvndekp0fudqvlhc0lj5jvuk4a57ma7sqh0ucsmny9t3`
+
+#### CIP-149 DRep Delegation
+
+Transaction: [8c86970a2431a9f43a0363b116b4c60471a29cc35d253c0ed8c18c1dff3dcf10](https://preview.cardanoscan.io/transaction/8c86970a2431a9f43a0363b116b4c60471a29cc35d253c0ed8c18c1dff3dcf10?tab=metadata)
+
+This transaction contains, both a Vote Delegation certificate and CIP-149 transaction metadata.&#x20;
+
+* Vote Delegation certificate: This delegates the voting rights of [stake\_test1ursa...kq5g](https://preview.cardanoscan.io/stakeKey/stake_test1ursa8kegf22wcjqqlc0230rtlemck5lhqycd3u8lattqh2c2ckq5g) to [drep1yfh...ekm3](https://preview.cardanoscan.io/dRep/drep1yfhx2j5j7q989gfvj6cg04htakpqn32a3yuhtytjxt9m80qt5ekm3).
+* CIP-149 Metadata: using the `3692` metadatum label the transaction metadata specifies `donationBasisPoints: 150` which is a donation of 15%.   &#x20;
+
+#### CIP-149 Staking Rewards withdrawal
+
+Transaction: [38641cd70b0ab300e4fb850e7a0c747bac54d894bdc9deb07e934c0c0e4c6223](https://preview.cardanoscan.io/transaction/38641cd70b0ab300e4fb850e7a0c747bac54d894bdc9deb07e934c0c0e4c6223?tab=summary)
+
+This transaction contains, a staking rewards withdrawal (of `700,000 ada`) and two outputs, one to [stake\_test1ursa...kq5g](https://preview.cardanoscan.io/stakeKey/stake_test1ursa8kegf22wcjqqlc0230rtlemck5lhqycd3u8lattqh2c2ckq5g)'s chosen DRep ([drep1yfh...ekm3](https://preview.cardanoscan.io/dRep/drep1yfhx2j5j7q989gfvj6cg04htakpqn32a3yuhtytjxt9m80qt5ekm3)) and the second output was the change back to [stake\_test1ursa...kq5g](https://preview.cardanoscan.io/stakeKey/stake_test1ursa8kegf22wcjqqlc0230rtlemck5lhqycd3u8lattqh2c2ckq5g)'s wallet.
+
+* The chosen DRep's payment address was found via their metadata
+* The chosen compenation amount was found via the prior CIP149 delegation [transaction's metadata](https://preview.cardanoscan.io/transaction/8c86970a2431a9f43a0363b116b4c60471a29cc35d253c0ed8c18c1dff3dcf10?tab=metadata).
+* The DRep compensation amount was `15%` of the withdrawn `700,000 ada`, equalling `105,000 ada`.
 
 ### Eligibility
 
