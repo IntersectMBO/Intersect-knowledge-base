@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-10-10 09:06 UTC_
+_Updated on 2025-10-11 09:05 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/README)
@@ -8,10 +8,4 @@ _Updated on 2025-10-10 09:06 UTC_
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/considerations](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/considerations)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/requirements](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/requirements)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/README)
-- [intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/application-form-translations/portuguese](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/application-form-translations/portuguese)
-- [intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/application-form-translations/sinhala](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/application-form-translations/sinhala)
-- [intersect-team/closed-positions/financial-controller](https://docs.intersectmbo.org/intersect-team/closed-positions/financial-controller)
-- [intersect-team/closed-positions/grant-analysis-and-support](https://docs.intersectmbo.org/intersect-team/closed-positions/grant-analysis-and-support)
-- [intersect-team/closed-positions/people-and-culture-lead](https://docs.intersectmbo.org/intersect-team/closed-positions/people-and-culture-lead)
 - [intersect-team/open-positions/executive-director/README](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/README)
-- [intersect-team/open-positions/executive-director/executive-director-recruitment-process](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/executive-director-recruitment-process)
