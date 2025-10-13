@@ -1,11 +1,11 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-10-12 09:05 UTC_
+_Updated on 2025-10-13 09:07 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/application-process](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/application-process)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/considerations](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/considerations)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/requirements](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/requirements)
+- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/product-committee](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/product-committee)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/README)
-- [intersect-team/open-positions/executive-director/README](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/README)
