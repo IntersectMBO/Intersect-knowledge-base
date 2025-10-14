@@ -140,6 +140,18 @@ This transaction contains, a staking rewards withdrawal (of `700,000 ada`) and t
 * The chosen compenation amount was found via the prior CIP149 delegation [transaction's metadata](https://preview.cardanoscan.io/transaction/8c86970a2431a9f43a0363b116b4c60471a29cc35d253c0ed8c18c1dff3dcf10?tab=metadata).
 * The DRep compensation amount was `15%` of the withdrawn `700,000 ada`, equalling `105,000 ada`.
 
+#### More example transactions
+
+* **CIP-149 DRep Delegation**\
+  Transaction: [09e735369a1782d190dab39c9f7a94bcc9b4faf40f0148c623f96fa4686f063f](https://preview.cardanoscan.io/transaction/09e735369a1782d190dab39c9f7a94bcc9b4faf40f0148c623f96fa4686f063f)
+  * Delegates voting rights of [stake\_test1uqgykl...w7lk](https://preview.cardanoscan.io/stakeKey/stake_test1uqgykl0j0tdn689syxuasmg35hfjaqnd06t2fav38r7fyqcc0w7lk) to [drep1yf460x3...48je](https://preview.cardanoscan.io/dRep/drep1yf460x38f2elz52ua932m5pljtr750gn7vu6rsa6ewxlzug7r48je)
+  * Donation: 15%
+* **CIP-149 Staking Rewards Withdrawal**\
+  Transaction: [c4a39ee99e1ba777c1151afd76356868d473271a76a8c252848af31db387c6d1](https://preview.cardanoscan.io/transaction/c4a39ee99e1ba777c1151afd76356868d473271a76a8c252848af31db387c6d1)
+  * Withdraws 3,382.884997 ada
+  * Sends 500.432749 (15%) to chosen DRep [drep1yf460x3...48je](https://preview.cardanoscan.io/dRep/drep1yf460x38f2elz52ua932m5pljtr750gn7vu6rsa6ewxlzug7r48je) on payment address [addr\_test1vqwq...9ftk](https://preview.cardanoscan.io/address/601c07a4478f0da1b99bd0d49de50b15c73fd5767befeadee373a59d14) as stated on DRep's [metadata](https://preview.cardanoscan.io/dRep/drep1yf460x38f2elz52ua932m5pljtr750gn7vu6rsa6ewxlzug7r48je?tab=meta).&#x20;
+  * Remaining rewards sent back to wallet
+
 ### Eligibility
 
 All applicants must successfully complete[ KYB (Know Your Business)](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy) verification as a condition of funding, as well as meeting the standards below tailored to the individual platforms.
