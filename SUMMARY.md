@@ -183,6 +183,7 @@
   * [Intersect Administration Policies](legal/policies-and-conditions/intersect-administration-policies.md)
     * [Administration Financial Audit Policy](legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy.md)
     * [Delivery Assurance Process and Best Practice Policy](legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy.md)
+    * [Smart Contract and Delivery Assurance F\&Q](legal/policies-and-conditions/intersect-administration-policies/smart-contract-and-delivery-assurance-f-and-q.md)
     * [Due Diligence Policy](legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy.md)
     * [Technical Review Policy](legal/policies-and-conditions/intersect-administration-policies/technical-review-policy.md)
     * [Wallet Address & Whitelisting Change Policy](legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy.md)
