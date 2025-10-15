@@ -118,6 +118,7 @@
       * [Considerations and feature backlog](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/considerations-and-feature-backlog.md)
     * [2025 Treasury Withdrawal Smart Contract Updates](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/README.md)
       * [Intersect Administered Contracts](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts.md)
+      * [Intersect Administered Contracts - Progress Reports](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/intersect-administered-contracts-progress-reports.md)
     * [2025 Template Contracts](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts.md)
 * [Cardano Development](cardano-facilitation-services/cardano-development/README.md)
   * [Cardano hardforks and upgrades](cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/README.md)
