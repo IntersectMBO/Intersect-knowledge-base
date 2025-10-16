@@ -114,6 +114,7 @@
       * [Treasury contract partitions](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions.md)
       * [Oversight](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight.md)
       * [Oversight Committee Framework](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-framework.md)
+      * [Oversight Committee Assurance Tasks](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-assurance-tasks.md)
       * [Oversight Committee: How to verify a Fund Smart Contract Action](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-how-to-verify-a-fund-smart-contract-action.md)
       * [End-to-end process](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/end-to-end-process.md)
       * [Considerations and feature backlog](cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/considerations-and-feature-backlog.md)
