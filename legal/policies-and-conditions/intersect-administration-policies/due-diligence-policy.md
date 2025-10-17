@@ -22,7 +22,7 @@ _Updated on 27th June 2025_
 
 **8. Scope:**
 
-* This policy applies to the beneficiary, as defined below, who enters into contractual relationships, transactions, or projects with Intersect or with Cardano Development Holdings (CDH) where Intersect is acting as its Administrator.
+* This policy applies to the beneficiary, as defined below, who enters into contractual relationships or or projects with Intersect or with Cardano Development Holdings (CDH) where Intersect is acting as its Administrator. This applies more specifically to contracts and/or projects where the total value is 2,000 USD or above.
 
 **9. Principles:**
 
@@ -57,7 +57,7 @@ _Updated on 27th June 2025_
 
 **11. Policy statements:**
 
-* Anyone entering into a business relationship with Intersect or CDH will be required to complete a KYC or KYB, depending on the nature of the agreement.
+* Anyone entering into a business relationship with Intersect or CDH will be required to complete a KYC or KYB, if the value of the contractual agreement is 2,000 USD or above.
   * Intersect prohibits engagement with any beneficiary identified on a US, UK and/or Cayman sanctions list.
   * Regarding watchlists, adverse media, PEPs, or negative news, Intersect reserves the right to determine, at its sole discretion, whether to proceed with a business relationship with the beneficiary.
 * In combination, Intersect will also check that the country of incorporation of the beneficiary is not based in a country where cryptocurrency is illegal. A number of sources will be used to keep this list up-to-date (eg [CCN](https://www.ccn.com/education/crypto/10-countries-where-crypto-remains-banned/)).
