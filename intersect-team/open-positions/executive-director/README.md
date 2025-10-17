@@ -102,7 +102,7 @@ Intersect is an equal-opportunity organization. We value diversity of thought, i
 
 Intersect’s executive director will be selected through a transparent, community-engaged process which involves the following stages:
 
-* Open applications and nominations window which closes **October 21, 2025**.
+* Open applications and nominations window which closes **October 24, 2025**.
 * Application and nomination shortlisting by Intersect’s Head of People & Culture
 * Member and DRep polling, with anonymised candidate profiles and candidate video - scheduled to take place **Monday October 27, 2025 to Friday October 31, 2025.**
 * Thirty minute ‘Pre-Panel Context Call’ via Google Meets with Intersects' head of people & director of operations (information share purposes - not an assessment call)
