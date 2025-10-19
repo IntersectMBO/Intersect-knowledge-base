@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-10-18 09:05 UTC_
+_Updated on 2025-10-19 09:04 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/requirements](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/requirements)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/product-committee](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/product-committee)
