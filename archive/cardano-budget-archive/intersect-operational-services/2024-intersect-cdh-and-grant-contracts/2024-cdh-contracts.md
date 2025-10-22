@@ -7,7 +7,7 @@ description: >-
 
 # 2024 CDH Contracts
 
-<figure><img src="../../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 Grant contracts awarded can be found on the '[2024 Intersect Grants page'](https://docs.intersectmbo.org/intersect-operational-services/2024-intersect-grants).
 

@@ -28,7 +28,7 @@ This page has been **archived**&#x20;
 
 _Below is a high level timeline of the process_
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 ## Budget reconciliation workshops
 

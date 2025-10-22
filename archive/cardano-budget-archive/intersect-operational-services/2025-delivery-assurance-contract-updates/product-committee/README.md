@@ -8,4 +8,4 @@ This page covers everything related to the contracts that were proposed by the c
 
 ## Overview of current product committee milestones
 
-<figure><img src="../../../../../.gitbook/assets/gantt.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/gantt (1).png" alt=""><figcaption></figcaption></figure>
