@@ -30,7 +30,7 @@ As the decentralized landscape continues to evolve, we seek an executive directo
 
 This is not a traditional executive role: the executive director of Intersect is first and foremost a facilitator and enabler of community-driven progress. We are looking for a candidate with strong leadership and operational acumen, paired with an unwavering commitment to open governance, Web3 values, and collaborative ecosystem-building. The ideal candidate will possess experience leading diverse, distributed teams and be capable of driving measurable outcomes in a highly transparent and community-oriented environment.
 
-## Key Responsibilities
+## Key Responsibilities:
 
 ### Strategic Leadership & Community Engagement
 
@@ -111,6 +111,6 @@ Intersect’s executive director will be selected through a transparent, communi
 
 _Please note: Profiles of shortlisted candidates (in redacted form) along with a candidate submitted video will be shared with Members and DReps during the polling phase. For transparency, the full hiring process can be accessed within Intersect’s public knowledge base_ [_**here**_](executive-director-recruitment-process.md)_._
 
-\
-\
-\
+{% hint style="info" %}
+Intersect is an equal-opportunity organization. We value diversity of thought, identity, experience, and culture and are committed to building a leadership team that reflects the decentralized community we serve.  If you have any questions or require any assistance throughout the recruitment process, please email careers@intersectmbo.org.&#x20;
+{% endhint %}

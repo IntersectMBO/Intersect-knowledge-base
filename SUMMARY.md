@@ -54,7 +54,7 @@
       * [Committees key info](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/README.md)
         * [Intersect Committee Elections X-Space Events](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/intersect-committee-elections-x-space-events.md)
       * [Committee elections FAQs](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committee-elections-faqs.md)
-      * [April 2025 - Committee Election Results](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README.md)
+      * [April 2025 - Committee Election Results](intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README.md)
         * [Voting Results - audit info](intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/voting-results-audit-info.md)
     * [Onboarding Page](intersect-membership/intersect-voting-events/intersect-elections-2025/onboarding-page.md)
   * [2024 - Intersect elections](intersect-membership/intersect-voting-events/intersect-elections-2024/README.md)
@@ -146,6 +146,7 @@
 ## Intersect Team
 
 * [Open positions](intersect-team/open-positions/README.md)
+  * [Accounts Payable & Delivery Assurance Specialist](intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist.md)
   * [Security Incident Officer](intersect-team/open-positions/security-incident-officer.md)
   * [Executive Director](intersect-team/open-positions/executive-director/README.md)
     * [Executive Director - Recruitment process](intersect-team/open-positions/executive-director/executive-director-recruitment-process.md)
@@ -157,7 +158,7 @@
   * [Senior Project Manager - Cardano Governance Tools](intersect-team/closed-positions/senior-project-manager-cardano-governance-tools.md)
   * [Design System Lead](intersect-team/closed-positions/design-system-lead.md)
   * [Platform/DevOps Engineer](intersect-team/closed-positions/platform-devops-engineer.md)
-  * [Programme Support](intersect-team/closed-positions/programme-support.md)
+  * [Programme Support](intersect-team/open-positions/programme-support.md)
   * [Finance Lead](intersect-team/closed-positions/finance-lead.md)
   * [Social media and content manager](intersect-team/closed-positions/social-media-and-content-manager.md)
 
@@ -183,7 +184,7 @@
     * [Robert's Rules of Order – Simplified](legal/policies-and-conditions/intersect-members-policies/roberts-rules-of-order-simplified.md)
     * [Intersect Open-Source Antitrust Statement](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-antitrust-statement.md)
     * [Intersect Open-Source Glossary](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-glossary.md)
-  * [Intersect Administration Policies](legal/policies-and-conditions/intersect-administration-policies/README.md)
+  * [Intersect Administration Policies](legal/policies-and-conditions/intersect-administration-policies.md)
     * [Administration Financial Audit Policy](legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy.md)
     * [Delivery Assurance Process and Best Practice Policy](legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy.md)
     * [Smart Contract and Delivery Assurance F\&Q](legal/policies-and-conditions/intersect-administration-policies/smart-contract-and-delivery-assurance-f-and-q.md)
