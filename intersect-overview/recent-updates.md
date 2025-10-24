@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-10-23 09:06 UTC_
+_Updated on 2025-10-24 09:06 UTC_
 
 - [SECURITY](https://docs.intersectmbo.org/SECURITY)
 - [archive/cardano-budget-archive/cardano-budget-submission/cardano-budget-process](https://docs.intersectmbo.org/archive/cardano-budget-archive/cardano-budget-submission/cardano-budget-process)
@@ -9,13 +9,13 @@ _Updated on 2025-10-23 09:06 UTC_
 - [archive/cardano-budget-archive/intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/README](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/invoice-template](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/invoice-template)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-assurance-tasks](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-assurance-tasks)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-framework](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight-committee-framework)
 - [cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/quality-and-feedback](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/quality-and-feedback)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README)
 - [intersect-team/closed-positions/programme-support](https://docs.intersectmbo.org/intersect-team/closed-positions/programme-support)
+- [intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist](https://docs.intersectmbo.org/intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist)
 - [intersect-team/open-positions/executive-director/README](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/README)
 - [intersect-team/open-positions/executive-director/executive-director-recruitment-process](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/executive-director-recruitment-process)
+- [intersect-team/open-positions/security-incident-officer](https://docs.intersectmbo.org/intersect-team/open-positions/security-incident-officer)
 - [legal/policies-and-conditions/candidate-privacy-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/candidate-privacy-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/README)
 - [legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy)
