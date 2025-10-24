@@ -12,7 +12,7 @@ All dates here might be adjusted based on amount of candidates.
 
 {% stepper %}
 {% step %}
-### Applications and Nominations
+### ✅ Applications and Nominations
 
 Candidates may apply directly or be nominated by a Member or DRep. All submissions will be reviewed by Intersect’s Head of People & Culture to confirm eligibility and shortlist candidates who meet the criteria outlined in the job description.
 
@@ -22,7 +22,7 @@ Note: By applying or accepting a nomination, candidates consent to limited shari
 {% endstep %}
 
 {% step %}
-### Shortlisting
+### ✅ Shortlisting
 
 The shortlisting stage is led by Intersect’s head of people and culture to ensure a consistent and fair review of all executive director applications. This stage helps identify candidates who best align with the skills, experience, and values required for the role before redacted profiles are shared for Member and DRep polling. The approach balances professional suitability with openness to diverse leadership backgrounds, reflecting Intersect’s commitment to transparency and equitable participation in governance.&#x20;
 

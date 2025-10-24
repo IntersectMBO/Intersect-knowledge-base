@@ -12,9 +12,9 @@
 **Term**: 2 years (Renewable)
 {% endhint %}
 
-👉🏻 [APPLY NOW](https://intersectmbo.typeform.com/ed-application)
-
-👉🏻 [NOMINATE SOMEONE](https://intersectmbo.typeform.com/ed-nomination)
+{% hint style="info" %}
+Application and nomination are now closed
+{% endhint %}
 
 ## Overview
 
