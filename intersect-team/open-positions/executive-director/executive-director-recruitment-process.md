@@ -37,7 +37,7 @@ Intersect is a member-based organization serving the Cardano community. Therefor
 * Member Poll: This poll will run as one-member-one-vote on the Intersect Member Area
 * DRep Poll: This poll will use DRep stake taken at the end of polling period on Ekklesia
 
-Candidate profiles presented in polling will be redacted for personal data and presented with identical structure and length to ensure fairness. Candidates will be asked to record a short video which will be submitted with their profile for polling. You can learn more about how candidate data is shared by viewing our [Candidate Privacy Policy](../../../legal/policies-and-conditions/candidate-privacy-policy.md).&#x20;
+Candidate profiles presented in polling will be redacted for personal data and presented with identical structure and length to ensure fairness. Candidates will be asked to record a short video which will be submitted with their profile for polling. You can learn more about how candidate data is shared by viewing our [Candidate Privacy Policy](../../../legal/policies-and-conditions/intersect-internal-policies/privacy-policy/candidate-privacy-policy.md).&#x20;
 
 Polling will run from **Monday 27th October 2025 12pm UTC** to **Friday 31st October 2025 12pm UTC** and will determine the candidates to advance to panel interviews.
 {% endstep %}

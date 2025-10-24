@@ -170,6 +170,8 @@
     * [Terms of Use](legal/policies-and-conditions/intersect-internal-policies/terms-of-use.md)
     * [Cookie Policy](legal/policies-and-conditions/intersect-internal-policies/cookie-policy.md)
     * [Conflict of Interest](legal/policies-and-conditions/intersect-internal-policies/conflict-of-intereset.md)
+    * [Privacy Policy](legal/policies-and-conditions/intersect-internal-policies/privacy-policy/README.md)
+      * [Candidate Privacy Policy](legal/policies-and-conditions/intersect-internal-policies/privacy-policy/candidate-privacy-policy.md)
     * [Intellectual Property Rights Policy](legal/policies-and-conditions/intersect-internal-policies/intellectual-property-rights-policy.md)
   * [Intersect Members Policies](legal/policies-and-conditions/intersect-members-policies/README.md)
     * [Intersect Membership Agreements](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/README.md)
@@ -178,7 +180,6 @@
       * [Intersect Membership Agreement V3](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2.md)
     * [Intersect Voting Policy](legal/policies-and-conditions/intersect-members-policies/intersect-voting-policy.md)
     * [Code of Conduct](legal/policies-and-conditions/intersect-members-policies/code-of-conduct.md)
-    * [Privacy Policy](legal/policies-and-conditions/intersect-members-policies/privacy-policy.md)
     * [Data Access and Confidentiality Policy](legal/policies-and-conditions/intersect-members-policies/data-access-and-confidentiality-policy.md)
     * [Transparent Dealings Policy](legal/policies-and-conditions/intersect-members-policies/transparent-dealings-policy.md)
     * [Robert's Rules of Order – Simplified](legal/policies-and-conditions/intersect-members-policies/roberts-rules-of-order-simplified.md)
@@ -193,7 +194,6 @@
     * [Wallet Address & Whitelisting Change Policy](legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy.md)
     * [Committee Member Travel & Expense Policy](legal/policies-and-conditions/intersect-administration-policies/committee-member-travel-and-expense-policy.md)
     * [FAQs](legal/policies-and-conditions/intersect-administration-policies/faqs.md)
-  * [Candidate Privacy Policy](legal/policies-and-conditions/candidate-privacy-policy.md)
 
 ## Archive
 
