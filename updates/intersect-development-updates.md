@@ -12,15 +12,66 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 ## Weekly development updates
 
-
-
 <details>
 
 <summary><strong>2025 - Development updates</strong></summary>
 
-April\
+October
 
+* [Development Update #85 - October 24](http://bit.ly/ISWDR85)
+* [Development Update #84 - October 17](http://bit.ly/ISWDR84)
 
+- [Development Update #83 - October 10](http://bit.ly/ISWDR83)
+
+* [Development Update #82 - October 3](http://bit.ly/ISWDR82)
+
+September
+
+* [Development Update #81 - September 26](http://bit.ly/ISWDR81)
+* [Development Update #80 - September 19](http://bit.ly/ISWDR80)
+
+- [Development Update #79 - September 12](http://bit.ly/ISWDR79)
+
+* [Development Update #78 - September 5](http://bit.ly/ISWDR78)
+
+August
+
+* [Development Update #77 - August 29](http://bit.ly/ISWDR77)
+* Development Update #76 - August 22
+* Development Update #75 - August 15
+* [Development Update #74 - August 8](http://bit.ly/ISWDR74)
+
+- [Development Update #73 - August 1](http://bit.ly/ISWDR73)
+
+July
+
+* [Development Update #72 - July 25](http://bit.ly/ISWDR72)
+* [Development Update #71 - July 18](http://bit.ly/ISWDR71)
+* [Development Update #70 - July 11](http://bit.ly/ISWDR70)
+
+- [Development Update #69 - July 4](http://bit.ly/ISWDR69)
+
+June
+
+* [Development Update #68 - June 27](http://bit.ly/ISWDR68)
+* [Development Update #67 - June 20](http://bit.ly/ISWDR67)
+* [Development Update #66 - June 13](http://bit.ly/ISWDR66)
+
+- [Development Update #65 - June 6](http://bit.ly/ISWDR65)
+
+May
+
+* [Development Update #64 - May 30](http://bit.ly/ISWDR64)
+* [Development Update #63 - May 23](http://bit.ly/ISWDR63)
+* [Development Update #62 - May 16](http://bit.ly/ISWDR62)
+
+- [Development Update #61 - May 9](http://bit.ly/ISWDR-61)
+
+* Development Update #60 - May 2
+
+April
+
+* [Development Update #59 - April 25](http://bit.ly/44bgbCy)
 * [Development Update #58 - April 18](http://bit.ly/3Y5MzCC)
 
 - [Development Update #57 - April 11](https://bit.ly/ISWDR57)
