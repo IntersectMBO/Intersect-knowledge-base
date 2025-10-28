@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-10-27 09:07 UTC_
+_Updated on 2025-10-28 09:06 UTC_
 
 - [SECURITY](https://docs.intersectmbo.org/SECURITY)
 - [archive/cardano-budget-archive/cardano-budget-submission/cardano-budget-process](https://docs.intersectmbo.org/archive/cardano-budget-archive/cardano-budget-submission/cardano-budget-process)
@@ -18,3 +18,4 @@ _Updated on 2025-10-27 09:07 UTC_
 - [legal/policies-and-conditions/intersect-administration-policies/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/README)
 - [legal/policies-and-conditions/intersect-internal-policies/privacy-policy/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/privacy-policy/README)
 - [legal/policies-and-conditions/intersect-internal-policies/privacy-policy/candidate-privacy-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/privacy-policy/candidate-privacy-policy)
+- [updates/intersect-development-updates](https://docs.intersectmbo.org/updates/intersect-development-updates)
