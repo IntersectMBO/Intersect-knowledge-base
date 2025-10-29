@@ -1,6 +1,5 @@
 ---
 description: This version is from the 18th September 2025
-hidden: true
 ---
 
 # Intersect Membership Agreement V3
