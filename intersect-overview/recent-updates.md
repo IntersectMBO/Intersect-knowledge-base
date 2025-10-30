@@ -1,14 +1,9 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-10-29 09:06 UTC_
+_Updated on 2025-10-30 09:06 UTC_
 
-- [SECURITY](https://docs.intersectmbo.org/SECURITY)
-- [archive/cardano-budget-archive/cardano-budget-submission/cardano-budget-process](https://docs.intersectmbo.org/archive/cardano-budget-archive/cardano-budget-submission/cardano-budget-process)
-- [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-contracts](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-contracts)
-- [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-intersect-contracts](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-intersect-contracts)
-- [archive/cardano-budget-archive/intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/README](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2025-delivery-assurance-contract-updates/product-committee/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
-- [cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/quality-and-feedback](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/quality-and-feedback)
+- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/intersect-programme-updates](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/intersect-programme-updates)
 - [intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/README)
 - [intersect-team/closed-positions/programme-support](https://docs.intersectmbo.org/intersect-team/closed-positions/programme-support)
 - [intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist](https://docs.intersectmbo.org/intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist)
@@ -18,4 +13,5 @@ _Updated on 2025-10-29 09:06 UTC_
 - [legal/policies-and-conditions/intersect-administration-policies/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/README)
 - [legal/policies-and-conditions/intersect-internal-policies/privacy-policy/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/privacy-policy/README)
 - [legal/policies-and-conditions/intersect-internal-policies/privacy-policy/candidate-privacy-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/privacy-policy/candidate-privacy-policy)
+- [legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2)
 - [updates/intersect-development-updates](https://docs.intersectmbo.org/updates/intersect-development-updates)
