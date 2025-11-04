@@ -23,17 +23,17 @@ ICC members are not remunerated; however support via an administrative function 
 
 ### The Interim Constitutional Committee Election
 
-The ICC election saw 455, 779, 792, 149, 846 (455, 779, 792 ada) staked and 1947 unique votes. We are pleased to announce the outcome, and confirm the remaining three seats on Cardano’s interim Constitutional Committee:&#x20;
+The ICC election saw 455, 779, 792, 149, 846 (455, 779, 792 ada) staked and 1947 unique votes. We are pleased to announce the outcome, and confirm the remaining three seats on Cardano’s interim Constitutional Committee:
 
 * Cardano Atlantic Council
 * Eastern Cardano Council
 * Cardano Japan
 
-_Note: Data provided by Summon Platform, a blockchain development group contracted by Summon MBO. Ada totals reflect voting results after a series of simple run-off elections where the candidate with the lowest number of votes was eliminated, until only six candidates remained. For more information on the ranked choice voting process used in this election please see the_ [_FAQs_](https://icc-election.intersectmbo.org/faq) _provided by the Summon Platform._ \
+_Note: Data provided by Summon Platform, a blockchain development group contracted by Summon MBO. Ada totals reflect voting results after a series of simple run-off elections where the candidate with the lowest number of votes was eliminated, until only six candidates remained. For more information on the ranked choice voting process used in this election please see the_ [_FAQs_](https://icc-election.intersectmbo.org/faq) _provided by the Summon Platform._\
 \
 **Full audits can be viewed below:**
 
-{% file src="../../../../../.gitbook/assets/ccelectionvote_data_anon.csv" %}
+{% file src="../../../../../.gitbook/assets/ccElectionVote_data_anon (1).csv" %}
 
 \
 The seven current members of the ICC are:
@@ -59,6 +59,6 @@ _Jo Allum, Mark Byers, Oscar Hong, Phil Lewis, Ha Nguyen, Yuki Oishi_
 ### 7. Intersect
 
 [_Intersect Constitutional Council_](https://constitutionalcouncil.docs.intersectmbo.org/) _is led by the following voting members:_\
-_Eystein Hansen, Ian Hartwell, HOSKY, Mauro Andreoli, Juan Sierra, Ubio Obu, Jose Gamboa, and Nicodemus Rodriguez._&#x20;
+&#xNAN;_&#x45;ystein Hansen, Ian Hartwell, HOSKY, Mauro Andreoli, Juan Sierra, Ubio Obu, Jose Gamboa, and Nicodemus Rodriguez._
 
-\
+\\

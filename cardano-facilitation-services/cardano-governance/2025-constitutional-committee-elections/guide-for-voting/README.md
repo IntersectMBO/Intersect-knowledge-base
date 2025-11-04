@@ -22,7 +22,7 @@ Click "Submit your vote".
 {% endstep %}
 
 {% step %}
-#### Choose Connection Method
+**Choose Connection Method**
 
 Select either browser wallet in the next steps.
 {% endstep %}
@@ -39,7 +39,7 @@ Sign Vote Metadata
 * Signature returned to app.
 
 _Certain Hardware Wallets (e.g., Ledger Nano X/S+, Keystone via Light Wallet):_\
-_Standard Light Wallets: Sign vote metadata in browser._
+&#xNAN;_&#x53;tandard Light Wallets: Sign vote metadata in browser._
 {% endtab %}
 {% endtabs %}
 {% endstep %}
@@ -64,7 +64,7 @@ Receive Vote Proof/Receipt
 
 ### Hardware wallets
 
-* Ledger Nano S+ ![:white\_tick:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/2705.png)&#x20;
+* Ledger Nano S+ ![:white\_tick:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/2705.png)
 * Ledger Nano X ![:white\_tick:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/2705.png)
 * Keystone ![:white\_tick:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/2705.png)
 * Trezor ![:x:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/274c.png) (expected, DReps cant register with Trezor)

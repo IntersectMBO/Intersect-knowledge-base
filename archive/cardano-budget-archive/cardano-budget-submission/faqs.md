@@ -1,7 +1,7 @@
 # FAQs
 
 {% hint style="warning" %}
-This page has been **archived**&#x20;
+This page has been **archived**
 {% endhint %}
 
 Budget Timeline
@@ -49,8 +49,7 @@ Not every funding request has to be 100% perfect or unanimously approved before 
 * Monitor Intersect’s Discord & X for announcements, including the public release of proposals to receive treasury funding on Gov.Tools.
 * Review and provide feedback on proposals: Gov.Tools.
 * Join scheduled budget sessions: https://lu.ma/cardanobudgetprocess
-* Committee meetings are announced in the Intersect Discord and on the official Intersect calendar. Recordings and minutes for many sessions are posted later on YouTube and the committee knowledge base (https://committees.docs.intersectmbo.org/).\
-
+* Committee meetings are announced in the Intersect Discord and on the official Intersect calendar. Recordings and minutes for many sessions are posted later on YouTube and the committee knowledge base (https://committees.docs.intersectmbo.org/).\\
 
 Direct feedback from DReps and community members is encouraged and shapes how the budget process evolves.
 
@@ -333,7 +332,7 @@ The Net Change Limit (NCL) places an upper boundary on how much ada can be withd
 
 If a NCL for period x is 100 ada, withdrawals during period x cannot exceed 100 ada.
 
-The active NCL sets the maximum amount of treasury withdrawals per period of time. The constitution states:\
+The active NCL sets the maximum amount of treasury withdrawals per period of time. The constitution states:\
 “Withdrawals from the Cardano Blockchain treasury made pursuant to an approved Cardano Blockchain ecosystem budget must not exceed the net change limit for the Cardano Treasury's balance per period of time” Cardano Constitution, Guardrail TREASURY-02a.
 
 </details>
@@ -395,8 +394,6 @@ A percentage-based approach was considered. For this first cycle, the Budget Com
 If the tax rate (currently \~20%) changes—eg to 10%—the treasury would accrue ada slower. That might merit adjusting the NCL to prevent drawing down principal.
 
 </details>
-
-
 
 ***
 
@@ -619,7 +616,7 @@ Each team member contributes across multiple functions and areas of responsibili
 
 With over 1,800 members and 2,700+ associates, this equates to 1 FTE per 100 participants, underscoring the need for a well-resourced team to ensure meaningful support and engagement across the ecosystem.
 
-### Team Transition
+#### Team Transition
 
 Intersect recognizes the need to transition to a more community-embedded model of governance. As such, beginning in July 2025, there is a clear plan to gradually transition consultants and contractors out, replacing them with qualified community members.
 
@@ -674,9 +671,9 @@ Here’s the projected high-level cost structure for 2025:
 
 Every line item is tied to a deliverable and reported quarterly. A new financial transparency dashboard is also in development.
 
-In 2024, the revised constitution and budget process timeline led to a change in Intersect’s financial strategy, which included extending the company’s financial runway. Therefore, to ensure Intersect has sustained funding, we have allowed for a 10% contingency for non-projected circumstances - our risk appetite is averse.&#x20;
+In 2024, the revised constitution and budget process timeline led to a change in Intersect’s financial strategy, which included extending the company’s financial runway. Therefore, to ensure Intersect has sustained funding, we have allowed for a 10% contingency for non-projected circumstances - our risk appetite is averse.
 
-The Cardano Development holdings include new expenditures that have not been funded throughout 2024 by Intersect, which include Custodian, Legal, and Financial entity services and administration. To ensure we can administer and facilitate all additional requirements and requests, we need to provision infrastructure, such as custodian services, to enable effective facilitation.&#x20;
+The Cardano Development holdings include new expenditures that have not been funded throughout 2024 by Intersect, which include Custodian, Legal, and Financial entity services and administration. To ensure we can administer and facilitate all additional requirements and requests, we need to provision infrastructure, such as custodian services, to enable effective facilitation.
 
 </details>
 

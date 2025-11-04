@@ -13,13 +13,13 @@ description: This voting guide is for any script base DReps
 
 {% stepper %}
 {% step %}
-### Review all candidates
+#### Review all candidates
 
 Review all candidates on [election.constitution.gov.tools](https://elections.constitution.gov.tools/)
 {% endstep %}
 
 {% step %}
-### Select the candidates you want to vote for
+#### Select the candidates you want to vote for
 
 Select up to 7 candidates to vote for and take note of the related id
 
@@ -47,7 +47,7 @@ Select up to 7 candidates to vote for and take note of the related id
 {% endstep %}
 
 {% step %}
-### Add your selected candidates code in the metadata format (using metadatum label `11113`)
+#### Add your selected candidates code in the metadata format (using metadatum label `11113`)
 
 ```json
 {
@@ -87,7 +87,7 @@ example
 {% endstep %}
 
 {% step %}
-### Build a transaction that'll be witnessed by your script and contains the metadata
+#### Build a transaction that'll be witnessed by your script and contains the metadata
 
 Now we have our metadata, we will need to construct a transaction that contains the metadata and will satisfy our script to trigger.
 
@@ -115,7 +115,7 @@ cardano_cli conway transaction build \
 {% endstep %}
 
 {% step %}
-### Sign and submit the transaction to Mainnet
+#### Sign and submit the transaction to Mainnet
 
 See example transaction (on Preview)
 
