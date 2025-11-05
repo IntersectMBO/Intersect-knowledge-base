@@ -7,7 +7,7 @@ During this step proposers should socialise context about their proposal (what l
 Once socialize the Cardano Community is expected to review this content to provide comment and feedback that will allow the proposer to improve and adjust the proposal itself and also get a feeling about community sentiment around it, before it gets submitted as an On-Chain Governance Action.
 
 {% hint style="info" %}
-### Why it is important?
+#### Why it is important?
 
 Off-Chain proposal submission is a critical step of the overall Governance process. It does allow proposers to provide clear and complete context, as well as supportive material, about their future Governance Actions, and so it allows the overall community to participate in the refinement of the proposal, making use of its shared brain, one of the great strength of a distributed community to handle a decentralised governance process.
 
@@ -19,7 +19,7 @@ It's important so to consider that without a structured and complete Off-Chain p
 {% endhint %}
 
 {% hint style="info" %}
-### Suggested Off-chain Process for Proposal Submission
+#### Suggested Off-chain Process for Proposal Submission
 
 The suggested key steps for this Off-Chain process are:
 
