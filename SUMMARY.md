@@ -196,6 +196,7 @@
     * [Wallet Address & Whitelisting Change Policy](legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy.md)
     * [Committee Member Travel & Expense Policy](legal/policies-and-conditions/intersect-administration-policies/committee-member-travel-and-expense-policy.md)
     * [Supplier Code of Conduct](legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct.md)
+    * [Committee Treasury Management Policy](legal/policies-and-conditions/intersect-administration-policies/committee-treasury-management-policy.md)
     * [FAQs](legal/policies-and-conditions/intersect-administration-policies/faqs.md)
 
 ## Archive
