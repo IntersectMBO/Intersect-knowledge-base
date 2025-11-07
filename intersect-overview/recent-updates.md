@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-11-06 09:06 UTC_
+_Updated on 2025-11-07 09:06 UTC_
 
 - [.gitbook/assets/cardano-constitution-0.txt](https://docs.intersectmbo.org/.gitbook/assets/cardano-constitution-0.txt)
 - [.gitbook/includes/even-with-these-improvemen...](https://docs.intersectmbo.org/.gitbook/includes/even-with-these-improvemen...)
@@ -11,7 +11,6 @@ _Updated on 2025-11-06 09:06 UTC_
 - [archive/cardano-governance-archive/governance-process/off-chain-governance-action-outcome-socialisation](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-process/off-chain-governance-action-outcome-socialisation)
 - [archive/cardano-governance-archive/governance-process/off-chain-proposal-submission-and-discussion](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-process/off-chain-proposal-submission-and-discussion)
 - [archive/cardano-governance-archive/governance-roles/constitutional-committee/interim-constitution-committee-cc/README](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-roles/constitutional-committee/interim-constitution-committee-cc/README)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/README)
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps)
 - [intersect-team/open-positions/executive-director/executive-director-hiring-updates](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/executive-director-hiring-updates)
