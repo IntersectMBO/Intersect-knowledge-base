@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-11-07 09:06 UTC_
+_Updated on 2025-11-08 09:05 UTC_
 
 - [.gitbook/assets/cardano-constitution-0.txt](https://docs.intersectmbo.org/.gitbook/assets/cardano-constitution-0.txt)
 - [.gitbook/includes/even-with-these-improvemen...](https://docs.intersectmbo.org/.gitbook/includes/even-with-these-improvemen...)
@@ -16,4 +16,5 @@ _Updated on 2025-11-07 09:06 UTC_
 - [intersect-team/open-positions/executive-director/executive-director-hiring-updates](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/executive-director-hiring-updates)
 - [intersect-team/open-positions/executive-director/executive-director-recruitment-process](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/executive-director-recruitment-process)
 - [legal/policies-and-conditions/intersect-administration-policies](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies)
+- [legal/policies-and-conditions/intersect-administration-policies/committee-treasury-management-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/committee-treasury-management-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct)
