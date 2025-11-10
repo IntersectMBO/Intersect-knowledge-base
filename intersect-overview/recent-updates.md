@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-11-09 09:05 UTC_
+_Updated on 2025-11-10 09:07 UTC_
 
 - [.gitbook/assets/cardano-constitution-0.txt](https://docs.intersectmbo.org/.gitbook/assets/cardano-constitution-0.txt)
 - [.gitbook/includes/even-with-these-improvemen...](https://docs.intersectmbo.org/.gitbook/includes/even-with-these-improvemen...)
