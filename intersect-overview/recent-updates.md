@@ -1,20 +1,9 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-11-11 09:06 UTC_
+_Updated on 2025-11-12 09:06 UTC_
 
-- [.gitbook/assets/cardano-constitution-0.txt](https://docs.intersectmbo.org/.gitbook/assets/cardano-constitution-0.txt)
-- [.gitbook/includes/even-with-these-improvemen...](https://docs.intersectmbo.org/.gitbook/includes/even-with-these-improvemen...)
-- [archive/cardano-budget-archive/cardano-budget-submission/faqs](https://docs.intersectmbo.org/archive/cardano-budget-archive/cardano-budget-submission/faqs)
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/constitutional-workshops/apply-to-become-a-constitutional-workshop-host](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/constitutional-workshops/apply-to-become-a-constitutional-workshop-host)
-- [archive/cardano-budget-archive/intersect-operational-services/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-october-2024](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-october-2024)
-- [archive/cardano-governance-archive/cardano-constitution/constitution-vote-all-you-need-to-know](https://docs.intersectmbo.org/archive/cardano-governance-archive/cardano-constitution/constitution-vote-all-you-need-to-know)
 - [archive/cardano-governance-archive/governance-process/off-chain-governance-action-outcome-socialisation](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-process/off-chain-governance-action-outcome-socialisation)
 - [archive/cardano-governance-archive/governance-process/off-chain-proposal-submission-and-discussion](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-process/off-chain-proposal-submission-and-discussion)
-- [archive/cardano-governance-archive/governance-roles/constitutional-committee/interim-constitution-committee-cc/README](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-roles/constitutional-committee/interim-constitution-committee-cc/README)
-- [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/README)
-- [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps)
-- [intersect-team/open-positions/executive-director/executive-director-hiring-updates](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/executive-director-hiring-updates)
-- [intersect-team/open-positions/executive-director/executive-director-recruitment-process](https://docs.intersectmbo.org/intersect-team/open-positions/executive-director/executive-director-recruitment-process)
-- [legal/policies-and-conditions/intersect-administration-policies](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies)
 - [legal/policies-and-conditions/intersect-administration-policies/committee-treasury-management-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/committee-treasury-management-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct)
