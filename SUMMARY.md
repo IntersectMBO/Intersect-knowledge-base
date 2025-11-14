@@ -39,6 +39,8 @@
         * [Portuguese](intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/application-form-translations/portuguese.md)
         * [Sinhala](intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/application-form-translations/sinhala.md)
       * [Onboarding](intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/onboarding.md)
+      * [October 2025 - Committee Election Results](intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/april-2025-committee-election-results/README.md)
+        * [Voting Results - audit info](intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/april-2025-committee-election-results/voting-results-audit-info.md)
     * [September 2025 - Board Elections](intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/README.md)
       * [Intersect Board Elections X-Space Events](intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/intersect-board-elections-x-space-events.md)
       * [Board Application Form](intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-application-form/README.md)
