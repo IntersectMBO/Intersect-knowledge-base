@@ -6,9 +6,10 @@ description: This page gives quick access to current most important topics
 
 ## 2025 - Intersect Elections
 
-[september-2025-board-elections](../intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/ "mention")
+{% content-ref url="../cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/" %}
+[2025-cc-snap-election-overview](../cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/)
+{% endcontent-ref %}
 
 ## Cardano Budget - key to know
 
 [intersect-administration-services](../cardano-facilitation-services/cardano-budget/intersect-administration-services/ "mention")
-

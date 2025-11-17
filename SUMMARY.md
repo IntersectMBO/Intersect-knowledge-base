@@ -68,6 +68,10 @@
 ## Cardano Facilitation services
 
 * [Cardano governance](cardano-facilitation-services/cardano-governance/README.md)
+  * [2025 CC Snap Election Overview](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README.md)
+    * [CC Snap Eligibility and registration information](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/cc-snap-eligibility-and-registration-information.md)
+    * [Full CC snap election timeline](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/full-cc-snap-election-timeline.md)
+    * [CC Snap Election FAQs](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/cc-snap-election-faqs.md)
   * [2025 Constitutional Committee elections](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/README.md)
     * [Guide for Applicants](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-applicants.md)
     * [Guide for Voting](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/README.md)
