@@ -16,14 +16,6 @@ Intersect is your opportunity to be part of a community driving the next generat
 * **Networking opportunities:** Engage with other members at exclusive events and gain early insights on upcoming projects.
 * **Increased visibility:** Showcase your contributions and gain recognition within the ecosystem.
 
-
-
-
-
 ***
 
-[intersect-membership-agreements](../../legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/ "mention")\
-\
-
-
-\
+[intersect-membership-agreements](../../legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/ "mention")

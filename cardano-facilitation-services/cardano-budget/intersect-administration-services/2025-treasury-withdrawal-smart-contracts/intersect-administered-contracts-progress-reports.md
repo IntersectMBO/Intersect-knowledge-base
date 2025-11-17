@@ -12,9 +12,12 @@ As part of the Cardano Treasury budget process, Intersect have been chosen as th
 
 October 2025 Monthly Delivery Assurance Progress Report
 
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vQ3_nwtgmUCwApvLkG39MjRH1FWuQWqomq5FXw_7vIEyV_zAjh5Hz8E6o8Y9jbeFEgAdZkCpO6Z75DH/pub?delayms=3000&loop=true&start=true" %}
+
+August & September 2025 Monthly Delivery Assurance Progress Report
+
 {% embed url="https://docs.google.com/presentation/d/1tEpUmpy4uV3cSsClQkCiWdMcdiyBWHIG-OQlV54TGJI/edit?usp=drive_link" %}
 
 For reasons outside of Intersects control, some projects are still in the process of being onboarded to Intersects Smart Contract Administration. Delivery for these projects may still be underway, once they have been onboarded, our reporting will capture any retrospective milestones delivered.
 
-If you have any suggestions or feedback that you would like to provide to Intersect, please contact us at operational-services@intersectmbo.org.&#x20;
-
+If you have any suggestions or feedback that you would like to provide to Intersect, please contact us at operational-services@intersectmbo.org.
