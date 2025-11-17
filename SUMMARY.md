@@ -205,6 +205,7 @@
     * [Supplier Code of Conduct](legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct.md)
     * [Committee Treasury Management Policy](legal/policies-and-conditions/intersect-administration-policies/committee-treasury-management-policy.md)
     * [Committee Treasury Management Policy](legal/policies-and-conditions/intersect-administration-policies/committee-treasury-management-policy-1.md)
+    * [Supplier Code of Conduct](legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct-1.md)
     * [FAQs](legal/policies-and-conditions/intersect-administration-policies/faqs.md)
 
 ## Archive
