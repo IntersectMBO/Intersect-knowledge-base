@@ -16,7 +16,7 @@
 
 * [Intersect membership](intersect-membership/intersect-membership/README.md)
   * [Membership tiers and benefits](intersect-membership/intersect-membership/membership-tiers-and-benefits.md)
-* [Intersect Committees](intersect-membership/intersect-committees/README.md)
+* [Intersect committees](intersect-membership/intersect-committees/README.md)
   * [Intersect Steering committee](intersect-membership/intersect-committees/intersect-steering-committee.md)
   * [Membership and Community committee (MCC)](intersect-membership/intersect-committees/membership-and-community-committee-mcc.md)
   * [Cardano Civics committee (CCC)](intersect-membership/intersect-committees/civics-committee.md)
@@ -26,7 +26,7 @@
   * [Open Source committee (OSC)](intersect-membership/intersect-committees/open-source-committee-osc.md)
   * [Cardano Budget committee (CBC)](intersect-membership/intersect-committees/budget-committee.md)
   * [Cardano Product committee (CPC)](intersect-membership/intersect-committees/product-committee.md)
-* [Intersect Voting events](intersect-membership/intersect-voting-events/README.md)
+* [Intersect voting events](intersect-membership/intersect-voting-events/README.md)
   * [2025 - Intersect elections](intersect-membership/intersect-voting-events/intersect-elections-2025/README.md)
     * [October 2025 - Committee Elections](intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/README.md)
       * [Committees key info](intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/committees-key-info/README.md)
