@@ -1,7 +1,8 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-11-18 09:07 UTC_
+_Updated on 2025-11-19 09:06 UTC_
 
+- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/intersect-administered-contracts-progress-reports](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/intersect-administered-contracts-progress-reports)
 - [cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README)
 - [cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/cc-snap-election-faqs](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/cc-snap-election-faqs)
