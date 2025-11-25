@@ -20,60 +20,19 @@ The CC confirms or rejects governance actions according to their constitutionali
 
 <details>
 
+<summary>Why are we electing just one member? Wouldn’t adding more reduce the risk of this happening again?</summary>
+
+This snap election is only intended to replace the single seat vacated by the Cardano Atlantic Council. Snap elections are designed to restore the Constitutional Committee to its required minimum size, not to change its structure.
+
+Any decision to increase the number of CC members, or to adjust the minimum committee size parameter, needs clear community consent and must go through the proper governance process. Intersect will explore these broader questions separately through the appropriate mechanisms.
+
+</details>
+
+<details>
+
 <summary>What is the term for the winner of this snap election?</summary>
 
 The elected candidate will serve the remainder of the existing term, which ends at **epoch 653 (6 September 2025)**.
-
-</details>
-
-<details>
-
-<summary>Who can apply to be a candidate</summary>
-
-Three types of applicants are eligible:
-
-* **Individuals** applying in a personal capacity
-* **Consortia** (groups of individuals/entities applying collectively)
-* **Companies** operating within or engaging with the Cardano ecosystem
-
-</details>
-
-<details>
-
-<summary>Do I need to complete Proof-of-Life?</summary>
-
-Yes. All candidates must complete a Proof-of-Life check to appear on the ballot.\
-**Exception:** Consortia where **50% of members** ran individually or as part of a team in the previous CC election are exempt.
-
-</details>
-
-<details>
-
-<summary>Is the application process different from the main CC election held earlier this year?</summary>
-
-The process follows the same principles and checks but is **condensed** to ensure continuity of governance while still upholding legitimacy and transparency.
-
-</details>
-
-<details>
-
-<summary>How do I register as a candidate?</summary>
-
-Registration opens on **Monday, 17 November at 12:00 UTC**.\
-Links to the application form and Snap election portal required documentation is published [here](https://snapelection.intersectmbo.org/) and shared across Intersect’s channels.
-
-</details>
-
-<details>
-
-<summary>What information will candidates need to provide?</summary>
-
-
-
-* A Motivation, experience, and transparency approach statement
-* Category of application (individual, consortium, company)
-* Agreement to serve the remainder of the term
-* Identification for Proof-of-Life
 
 </details>
 
@@ -96,9 +55,9 @@ DReps vote on Ekklesia. The final Governance Action requires both DReps and SPOs
 
 <details>
 
-<summary>What happens after voting closes?</summary>
+<summary>What happens after voting in Ekklesia closes?</summary>
 
-Voting runs from **1–5 December**. Following this, votes will be audited, the winner generates its credentials, and Intersect submits an on-chain Update Committee Governance Action to be voted on by Dreps and SPOs.
+Off-Chain Voting runs in Ekklesia from **1–5 December**. Following this, votes will be audited, the winner generates its credentials, and Intersect submits an on-chain Update Committee Governance Action to be voted on by Dreps and SPOs.
 
 </details>
 
@@ -120,17 +79,65 @@ It is under active discussion, but no changes apply to this snap election.
 
 <details>
 
-<summary>Where can I get support with my application?</summary>
-
-All links and guidance will be shared on this GitBook page and via @IntersectMBO once registration opens. Please reach out to support in our Discord channels if needed.
-
-</details>
-
-<details>
-
 <summary>Where will updates be published?</summary>
 
 Across this Knowledge Base, and Intersect’s social channels
 
 </details>
 
+<details>
+
+<summary>Who can apply to be a candidate</summary>
+
+Three types of applicants are eligible:
+
+* **Individuals** applying in a personal capacity
+* **Consortia** (groups of individuals/entities applying collectively)
+* **Companies** operating within or engaging with the Cardano ecosystem
+
+</details>
+
+<details>
+
+<summary>Is the application process different from the main CC election held earlier this year?</summary>
+
+The process follows the same principles and checks but is **condensed** to ensure continuity of governance while still upholding legitimacy and transparency.
+
+</details>
+
+<details>
+
+<summary>How do I register as a candidate?</summary>
+
+Registration opens on **Monday, 17 November at 12:00 UTC**.\
+Links to the application form and Snap election portal required documentation is published [here](https://snapelection.intersectmbo.org/) and shared across Intersect’s channels.
+
+</details>
+
+<details>
+
+<summary>Do I need to complete Proof-of-Life?</summary>
+
+Yes. All candidates must complete a Proof-of-Life check to appear on the ballot.\
+**Exception:** Consortia where **50% of members** ran individually or as part of a team in the previous CC election are exempt.
+
+</details>
+
+<details>
+
+<summary>What information will candidates need to provide?</summary>
+
+* A Motivation, experience, and transparency approach statement
+* Category of application (individual, consortium, company)
+* Agreement to serve the remainder of the term
+* Identification for Proof-of-Life
+
+</details>
+
+<details>
+
+<summary>Where can I get support with my application?</summary>
+
+All links and guidance will be shared on this GitBook page and via @IntersectMBO once registration opens. Please reach out to support in our Discord channels if needed.
+
+</details>
