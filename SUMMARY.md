@@ -63,6 +63,9 @@
   * [2024 - Intersect elections](intersect-membership/intersect-voting-events/intersect-elections-2024/README.md)
     * [October 2024 election results](intersect-membership/intersect-voting-events/intersect-elections-2024/october-2024-election-results.md)
 * [Annual member meetings (AMM)](intersect-membership/annual-member-meetings-amm/README.md)
+  * [2025 Annual Members Meeting](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/README.md)
+    * [FAQ](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/faq.md)
+    * [Technical & Troubleshooting Questions](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/technical-and-troubleshooting-questions.md)
   * [2024 Annual Member Meetings](intersect-membership/annual-member-meetings-amm/2024-annual-member-meetings.md)
 
 ## Cardano Facilitation services
