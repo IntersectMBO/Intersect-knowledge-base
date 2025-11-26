@@ -65,7 +65,8 @@
 * [Annual member meetings (AMM)](intersect-membership/annual-member-meetings-amm/README.md)
   * [2025 Annual Members Meeting](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/README.md)
     * [FAQ](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/faq.md)
-    * [Technical & Troubleshooting Questions](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/technical-and-troubleshooting-questions.md)
+    * [Intersect Development Update - 2025 Report](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-development-update-2025-report.md)
+    * [Intersect Purpose, 3 years mission and vision & 2026 goals](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals.md)
   * [2024 Annual Member Meetings](intersect-membership/annual-member-meetings-amm/2024-annual-member-meetings.md)
 
 ## Cardano Facilitation services
