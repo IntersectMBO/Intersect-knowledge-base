@@ -40,8 +40,10 @@ The elected candidate will serve the remainder of the existing term, which ends 
 
 <summary>How does voting work?</summary>
 
-Voting will take place on **Ekklesia** from **1–5 December**.\
-Detailed guides on how DReps can participate will be added to this section.
+Voting will take place on [**Ekklesia** ](https://intersect.ekklesia.vote/)from **November 26th – December 5th.**\
+Detailed guides on how DReps can participate can be found [here](drep-voting-guide-2025-cc-snap-election.md).\
+\
+Results will be calculated based on DRep delegation at the end of Epoch 598 (December 5th).
 
 </details>
 
@@ -49,7 +51,7 @@ Detailed guides on how DReps can participate will be added to this section.
 
 <summary>Who votes in this snap election?</summary>
 
-DReps vote on Ekklesia. The final Governance Action requires both DReps and SPOs.
+DReps vote on [Ekklesia](https://intersect.ekklesia.vote/). The final Governance Action requires both DReps and SPOs.
 
 </details>
 
@@ -57,7 +59,7 @@ DReps vote on Ekklesia. The final Governance Action requires both DReps and SPOs
 
 <summary>What happens after voting in Ekklesia closes?</summary>
 
-Off-Chain Voting runs in Ekklesia from **1–5 December**. Following this, votes will be audited, the winner generates its credentials, and Intersect submits an on-chain Update Committee Governance Action to be voted on by Dreps and SPOs.
+Off-Chain Voting runs in [Ekklesia ](https://intersect.ekklesia.vote/)from **November 26th – December 5th**. Following this, votes will be audited, the winner generates its credentials, and Intersect submits an on-chain Update Committee Governance Action to be voted on by Dreps and SPOs.
 
 </details>
 

@@ -1,5 +1,5 @@
 ---
-description: 'Platform: Ekklesia | Voting Window: Dec 1 – Dec 5, 2025, 12:00 Noon, UTC'
+description: 'Platform: Ekklesia | Voting Window: Nov 26 – Dec 5, 2025, 12:00 Noon, UTC'
 ---
 
 # DRep Voting Guide: 2025 CC Snap Election
@@ -15,7 +15,7 @@ Following the retirement of a Constitutional Committee member, the committee has
 
 All times are 12:00 UTC
 
-* 📅 Dec 1 (Monday): Voting Opens on Ekklesia.
+* 📅 Nov 26 (Wednesday): Voting Opens on Ekklesia.
 * 📅 Dec 5 (Friday): Voting Closes.
 * 📅 Dec 8 (Monday): Governance Action submitted on-chain based on these results.
 
@@ -69,8 +69,8 @@ Your vote is not counted until you submit it to the chain/database.
 * Only DReps are eligible to vote.
 * Stake-Based Voting: This is not one-person-one-vote. Your vote is weighted based on the amount of Ada delegated to your DRep ID.
 * Their voting power equals their delegation at the snapshot.
-* Delegation Snapshot: The final voting power applied to your vote is determined by the delegation your DRep ID holds at the time of the snapshot (Nov 30, end of Epoch 597).
+* Delegation Snapshot: The final voting power applied to your vote is determined by the delegation your DRep ID holds at the time of the snapshot (December 5th, end of Epoch 597).
 * The winner is the candidate with the highest amount of Ada voted for them.
 * No Transaction Fees: You are signing data, not sending Ada.
 
-Editing Votes: You can change your vote as often as you like while the ballot is open (Dec 1–5) by repeating the steps above.
+Editing Votes: You can change your vote as often as you like while the ballot is open (November 26th - December 5th) by repeating the steps above.

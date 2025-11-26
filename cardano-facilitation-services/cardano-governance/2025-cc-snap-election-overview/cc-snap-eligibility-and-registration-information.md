@@ -6,21 +6,21 @@ The CC Snap election Portal allows individuals, organizations, and consortiums t
 
 The registration process is divided into stages to make it clear and simple. Each applicant type has slightly different requirements. Once submitted, your candidacy will appear publicly on the **Candidates** page.
 
-[<mark style="color:$success;">APPLY HERE in the CC Snap Election Portal</mark>](https://snapelection.intersectmbo.org/)
+[APPLY HERE in the CC Snap Election Portal](https://snapelection.intersectmbo.org/)
 
 #### Election Timeline
 
 _All times are listed in UTC, beginning at 12:00 noon on each date._
 
-* <mark style="color:orange;">**Monday, November 17:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Candidate registration opens</mark>
-* <mark style="color:orange;">**Monday, November 24:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Candidate registration closes; campaign week begins</mark>
-* **Monday, December 1:** Voting opens on Ekklesia
+* <mark style="color:orange;">**Monday, November 17:**</mark> <mark style="color:orange;">Candidate registration opens</mark>
+* <mark style="color:orange;">**Monday, November 24:**</mark> <mark style="color:orange;">Candidate registration closes; campaign week begins</mark>
+* **Wednesday, November 26:** Voting opens on Ekklesia
 * **Friday, December 5:** Voting closes; results audited
 * **Monday, December 8:** Governance Action submitted on-chain
 
 #### Proof-of-Life Requirements
 
-Candidates are required to complete a **Proof-of-Life (PoL)** check. This ensures legitimacy, transparency, and trust in the election process.&#x20;
+Candidates are required to complete a **Proof-of-Life (PoL)** check. This ensures legitimacy, transparency, and trust in the election process.
 
 **How it works:**
 

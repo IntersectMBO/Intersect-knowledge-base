@@ -2,7 +2,7 @@
 
 ## **Snap Election: Constitutional Committee (November–December 2025)**
 
-[The CC Snap election Portal can be found HERE](https://snapelection.intersectmbo.org/)&#x20;
+[The CC Snap election Portal can be found HERE](https://snapelection.intersectmbo.org/)
 
 Following a member of Cardano’s Constitutional Committee (CC) retirement, effective **25 November 2025**, the Committee will below the minimum size required by protocol parameters. To maintain constitutional continuity and ensure Cardano’s on-chain governance can continue without interruption, **Intersect is facilitating a snap election** to fill the vacant seat.
 
@@ -24,14 +24,14 @@ Key dates
 
 All times are listed in UTC, beginning at 12:00 noon on each date.
 
-* Monday, November 17:  Candidate registration opens&#x20;
-* Monday, November 24:  Candidate registration closes; campaign week begins
-* Monday, December 1:  Voting opens on Ekklesia
+* Monday, November 17: Candidate registration opens
+* Monday, November 24: Candidate registration closes; campaign week begins
+* Wednesday, November 26: Voting opens on Ekklesia
 * Friday, December 5: Voting closes; results audited
 * Monday, December 8: Governance Action submitted on-chain
 
 Further details, including criteria, process guides, and participation links, will be added to this section as they are published.
 
-<figure><img src="../../../.gitbook/assets/Election-Timeline.pptx_3.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Election-Timeline.pptx (4).png" alt=""><figcaption></figcaption></figure>
 
 Follow [**@IntersectMBO**](https://x.com/IntersectMBO) **on X** for real-time updates.
