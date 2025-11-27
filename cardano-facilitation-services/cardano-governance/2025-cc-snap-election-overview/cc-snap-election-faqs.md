@@ -32,7 +32,7 @@ Any decision to increase the number of CC members, or to adjust the minimum comm
 
 <summary>What is the term for the winner of this snap election?</summary>
 
-The elected candidate will serve the remainder of the existing term, which ends at **epoch 653 (6 September 2025)**.
+The elected candidate will serve the remainder of the existing term, which ends at **epoch 653 (6 September 2026)**.
 
 </details>
 

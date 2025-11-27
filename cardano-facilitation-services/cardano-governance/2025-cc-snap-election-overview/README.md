@@ -7,7 +7,7 @@
 Following a member of Cardano’s Constitutional Committee (CC) retirement, effective **25 November 2025**, the Committee will below the minimum size required by protocol parameters. To maintain constitutional continuity and ensure Cardano’s on-chain governance can continue without interruption, **Intersect is facilitating a snap election** to fill the vacant seat.
 
 This election follows the same principles as the CC election held earlier this year, but in a **condensed format** given the urgency and importance of restoring the minimum CC membership (committeeMinSize = 7).\
-The successful candidate will serve **the remainder of the current term**, ending at epoch 653 (6 September 2025).
+The successful candidate will serve **the remainder of the current term**, ending at epoch 653 (6 September 2026).
 
 This Snap election knowledge base section provides:
 

@@ -8,7 +8,7 @@ description: 'Platform: Ekklesia | Voting Window: Nov 26 – Dec 5, 2025, 12:00 
 
 Following the retirement of a Constitutional Committee member, the committee has fallen below the required minimum size of 7. To maintain constitutional continuity and ensure the governance system remains functional, a Snap Election is being held to fill this single vacancy.
 
-* Goal: Elect 1 member to complete the term of the retired member (ending Sept 6. 2025, Epoch 653).
+* Goal: Elect 1 member to complete the term of the retired member (ending Sept 6. 2026, Epoch 653).
 * Why Vote? Your participation upholds the legitimacy and resilience of Cardano’s governance model.
 
 ### 2. Key Dates (Mark Your Calendar)
