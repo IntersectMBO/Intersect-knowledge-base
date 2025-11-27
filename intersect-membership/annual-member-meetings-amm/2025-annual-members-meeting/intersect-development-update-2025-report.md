@@ -10,6 +10,34 @@ We are grateful to our members whose insights and active participation continue 
 
 ***
 
+## Letter from the Board
+
+Dear Members, Partners, and Contributors of the Cardano Ecosystem,
+
+2025 has been a defining year in the evolution of both Cardano’s governance and Intersect’s role as its member-based organisation. As the ecosystem transitioned from foundational design to full operational governance, our collective focus shifted from preparing the system to proving it. The successful implementation of the Plomin upgrade, the submission of the delegate-approved Constitution, and the execution of Cardano’s first community-led Treasury budget together marked a historic maturation of decentralized decision-making.
+
+Throughout this pivotal year, Intersect has worked to ensure that community intent is translated into reliable, transparent, and accountable action. Administering the ecosystem’s first full Treasury cycle required the integration of legal, technical, administrative, and oversight functions at a scale never before attempted in the Cardano ecosystem. Through global listening sessions, workshops, and the coordinated execution of 39 Treasury withdrawals, Intersect helped operationalize a budgeting process defined not by central authority, but by the collective priorities of ADA holders. The establishment of a smart-contract–based payment framework and strengthened delivery assurance processes now provide a durable foundation for future Treasury cycles.
+
+2025 also marked significant progress in Intersect’s internal governance. Committees became fully elected bodies, the Board transitioned to a member-elected majority, and enhancements were introduced to our election processes, rewards structures, and decision-making frameworks. These changes underscore a central principle: Intersect MBO exists to serve its members and to strengthen the democratic integrity of Cardano’s governance.
+
+We also saw the evolution of Intersect’s membership landscape, from growth in numbers to growth in depth. While renewal cycles and governance fatigue were natural throughout the year, participation across working groups, committees, workshops, X Spaces, Town Halls, and in-person gatherings deepened meaningfully. These engagements reaffirmed a consistent theme: participation thrives when people feel informed, welcomed, and empowered to contribute.
+
+The year also highlighted the growing resilience of Cardano’s infrastructure. During the recent temporary chain fork incident, Intersect played an important coordinating role, supporting clear communication, aligning ecosystem actors, and helping ensure that the chain remained stable and the community well-informed. Building on this, foundational work has already begun to strengthen core primitives and essential infrastructure for 2026, with Intersect serving as an anchor point to ensure these efforts reflect community priorities and are delivered with transparency.
+
+Looking ahead to 2026, our priorities are clear. We will continue to simplify engagement pathways, reinforce our administrative and smart-contract infrastructure, expand support for open-source resilience, and deepen our work across global communities. Most importantly, we remain committed to ensuring that Intersect MBO continues to operate as a facilitator of community will, an organisation defined not by centralisation, but by service, transparency, and accountability.
+
+On behalf of the Board of Directors, we extend our sincere gratitude to every member, contributor, builder, DRep, SPO, partner, and volunteer whose dedication shaped 2025. Your work, passion, and vigilance are the reason Cardano’s governance is no longer an aspiration, but a living, functioning system.
+
+Together, we look forward to building on this year’s progress and continuing the shared journey toward a resilient, participatory, and globally impactful Cardano ecosystem.<br>
+
+With appreciation,
+
+The Intersect Board of Directors
+
+Steven Lupien , Kavinda Kariyapperuma, Adam Rusch, Gérard Maroney, Nikhil Joshi, Mercy Fordwoo, Rand Mchenry&#x20;
+
+***
+
 ## Intersect 2025: objectives and milestones
 
 2025 marked a transformative year for Cardano and for Intersect. Building on the foundations of 2024, the organization guided the network from preparation to full community governance. The [Plomin upgrade](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/chang-upgrade) in January unlocked Cardano’s final governance features, enabling ada holders to make binding on-chain decisions. Shortly after, the delegate-approved Constitution was submitted for community consideration, completing the framework envisioned by [CIP-1694](https://www.1694.io/en).
