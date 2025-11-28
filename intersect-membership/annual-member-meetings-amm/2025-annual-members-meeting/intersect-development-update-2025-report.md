@@ -106,21 +106,21 @@ By combining administrative responsibilities with a formal assurance process, In
 
 A key component of this work is the [Delivery Assurance Dashboard](http://bit.ly/TWDB), which provides the community with real-time visibility into every Intersect-administered project. The dashboard reflects Intersect’s milestone-based funding model, where vendors are paid only after milestones are verified and approved through established governance processes. This enables anyone to track progress at a glance, see which milestones have been met, which are under review, and where risks may be emerging.
 
-Smart Contracts and On-Chain Transparency
+**Smart Contracts and On-Chain Transparency**
 
-In 2025, Intersect introduced a new smart-contract framework that moves key elements of Treasury-funded administration directly onto the blockchain. Following the enactment of Treasury Withdrawal governance actions, funds are transferred into the [Treasury Reserve Contract](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types#smart-contract-types) (TRC). This smart contract securely holds Treasury funds on-chain rather than with any single administrator. From there, vendor-specific smart contracts are instantiated using the relevant [UTXOs](https://iohk.zendesk.com/hc/en-us/articles/900005930046-Understanding-Cardano-transactions-and-the-Cardano-Explorer), embedding each project’s delivery schedule, milestones, payment dates, and amounts into an auditable on-chain structure.
-
+In 2025, Intersect introduced a new smart-contract framework that moves key elements of Treasury-funded administration directly onto the blockchain. Following the enactment of Treasury Withdrawal governance actions, funds are transferred into the [Treasury Reserve Contract](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types#smart-contract-types) (TRC). This smart contract securely holds Treasury funds on-chain rather than with any single administrator. From there, vendor-specific smart contracts are instantiated using the relevant [UTXOs](https://iohk.zendesk.com/hc/en-us/articles/900005930046-Understanding-Cardano-transactions-and-the-Cardano-Explorer), embedding each project’s delivery schedule, milestones, payment dates, and amounts into an auditable on-chain structure.\
 \
-Milestone Verification and On-Chain Accountability
+**Milestone Verification and On-Chain Accountability**
 
-Once a vendor smart contract has been signed,  through a multisignature process involving Intersect, the independent oversight committee, and the vendor, its milestone schedule becomes active. When a milestone matures, the vendor withdraws payment directly from their contract instance, generating a transparent, verifiable record that links each withdrawal to the TRC and the original governance action. This creates a transparent chain of accountability from Treasury allocation to milestone payment, strengthening transparency and laying the foundation for increasingly automated Delivery Assurance processes in future funding cycles.\
-<br>
+Once a vendor smart contract has been signed,  through a multisignature process involving Intersect, the independent oversight committee, and the vendor, its milestone schedule becomes active. When a milestone matures, the vendor withdraws payment directly from their contract instance, generating a transparent, verifiable record that links each withdrawal to the TRC and the original governance action. This creates a transparent chain of accountability from Treasury allocation to milestone payment, strengthening transparency and laying the foundation for increasingly automated Delivery Assurance processes in future funding cycles.
 
 ***
 
 ## Committees and working groups
 
-In 2025, Intersect’s committees and working groups became the backbone of Cardano’s operational and governance machinery. Now fully elected, they strengthened legitimacy, representation, and community ownership across all decision-making. Together, they provided the structure and expertise needed to support a maturing governance system, coordinating technical development, open-source sustainability, budgeting, product strategy, and community engagement. Their working groups deepened specialist input, broadened participation, and ensured that complex topics were explored collaboratively, transparently, and in alignment with the Constitution.
+In 2025, Intersect’s [committees and working groups](https://docs.intersectmbo.org/intersect-overview/intersect-committees) became the backbone of Cardano’s operational and governance machinery. Now fully elected, they strengthened legitimacy, representation, and community ownership across all decision-making. Together, they provided the structure and expertise needed to support a maturing governance system, coordinating technical development, open-source sustainability, budgeting, product strategy, and community engagement. Their working groups deepened specialist input, broadened participation, and ensured that complex topics were explored collaboratively, transparently, and in alignment with the [Cardano Constitution](https://cardano.org/constitution/).
+
+
 
 Across 2025, Intersect’s committees:
 
@@ -132,18 +132,17 @@ Across 2025, Intersect’s committees:
 * Improved governance participation, enabling optional DRep compensation, strengthening Constitutional Committee processes, and amplifying ecosystem dialogue.
 * Expanded community engagement, through surveys, events, research initiatives, and regional feedback loops.
 
-What follows is a summary of each committee’s contributions throughout 2025, a year defined by deeper community participation, clearer governance structures, and the collaborative work required to support Cardano’s accelerating evolution.\
-<br>
+What follows is a summary of each committee’s contributions throughout 2025, a year defined by deeper community participation, clearer governance structures, and the collaborative work required to support Cardano’s accelerating evolution.
 
 ### Intersect Steering Committee
 
-The Intersect Steering Committee (ISC) focused on strengthening governance clarity, improving operational consistency, and reinforcing accountability across Intersect in 2025. As the organization transitioned into a fully elected governance structure, the ISC served as the anchor for process improvement and institutional maturity.
+The [Intersect Steering Committee](https://committees.docs.intersectmbo.org/intersect-steering-committee) (ISC) focused on strengthening governance clarity, improving operational consistency, and reinforcing accountability across Intersect in 2025. As the organization transitioned into a fully elected governance structure, the ISC served as the anchor for process improvement and institutional maturity.
 
 A significant milestone was the Committee Reward Policy, adopted in Q4 2025. This policy establishes a sustainable model for recognising the work of elected committee members and supports long-term participation across Intersect’s governance bodies.
 
 Alongside this, the ISC completed a comprehensive Intersect Decision-Making Framework, scheduled for publication at year’s end. This framework provides a unified reference for evaluating, escalating, and approving decisions across working groups, committees, and the Board, bringing greater transparency and predictability to Intersect’s internal governance.
 
-The ISC also implemented enhancements to Board and Committee election processes, incorporating recommendations from the Governance Working Group. These improvements strengthened verification, clarified eligibility, and increased fairness and transparency across all election cycles, supporting the smooth execution of the April and October committee elections and the expanded Board election.
+The ISC also implemented enhancements to [Board and Committee election](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025) processes, incorporating recommendations from the Governance Working Group. These improvements strengthened verification, clarified eligibility, and increased fairness and transparency across all election cycles, supporting the smooth execution of the April and October committee elections and the expanded Board election.
 
 #### Looking Ahead
 
@@ -151,17 +150,17 @@ In 2026, the ISC will focus on refining the decision-making framework, improving
 
 ### Technical Steering Committee
 
-The Technical Steering Committee (TSC) played a critical role in maintaining Cardano’s technical stability and advancing protocol development throughout 2024–2025. Its work spanned hard fork coordination, security readiness, protocol improvements, and long-term technical planning.
+The [Technical Steering Committee](https://committees.docs.intersectmbo.org/intersect-technical-steering-committee) (TSC) played a critical role in maintaining Cardano’s technical stability and advancing protocol development throughout 2024–2025. Its work spanned hard fork coordination, security readiness, protocol improvements, and long-term technical planning.
 
 #### Hard Fork Coordination & Protocol Upgrades
 
-A significant milestone was the Plomin hard fork to protocol version 10, completing the activation of CIP-1694 governance. The TSC coordinated parameter-setting, technical guardrails, and ecosystem readiness, while also managing a security incident over the December holiday that required urgent SPO upgrades to node 10.1.4.
+A significant milestone was the Plomin hard fork to protocol version 10, completing the activation of [CIP-1694](https://www.1694.io/en) governance. The TSC coordinated parameter-setting, technical guardrails, and ecosystem readiness, while also managing a security incident over the December holiday that required urgent SPO upgrades to [node 10.1.4](https://github.com/intersectmbo/cardano-node/releases).
 
 To strengthen future processes, the TSC created a Hard Fork Working Group (HFWG), now preparing Protocol Version 11 for Q1 2026. This upgrade includes significant Plutus improvements, BLS/M2M cryptography, and UPLC optimizations, delivering an expected 40–60% performance gain. Early planning has also begun for Protocol Version 12 and the upcoming Dijkstra ledger era.
 
 #### Security & Crisis Management
 
-Working with the Security Council, the TSC formalized disaster-recovery procedures through CIP-135 and tested “fire drill” recovery scenarios, such as no-block production and bad-block injection on SanchoNet. These exercises produced validated recovery methods for mainnet-level incidents.
+Working with the Security Council, the TSC formalized disaster-recovery procedures through [CIP-135](https://cips.cardano.org/cip/CIP-0135) and tested “fire drill” recovery scenarios, such as no-block production and bad-block injection on SanchoNet. These exercises produced validated recovery methods for mainnet-level incidents.
 
 The December 2024 vulnerability further highlighted the need for improved communication channels, leading to strengthened coordination processes and plans for a dedicated incident-support function within Intersect.
 
@@ -179,9 +178,7 @@ Committee members also offered technical guidance to DReps and Constitutional Co
 
 #### Network Coordination
 
-Across major node releases, including 10.1.4, 10.5.1, and 10.6, the TSC coordinated communication, testing, and SPO guidance. The committee contributed to improvements in LMDB performance, memory optimizations, and network reliability.
-
-<br>
+Across major [node releases](https://github.com/intersectmbo/cardano-node/releases), including 10.1.4, 10.5.1, and 10.6, the TSC coordinated communication, testing, and SPO guidance. The committee contributed to improvements in LMDB performance, memory optimizations, and network reliability.
 
 #### Strategic Planning
 
@@ -201,7 +198,9 @@ Through its structured, collaborative approach, the TSC continues to ensure that
 
 ### The Cardano Budget Committee
 
-The 2025 budget cycle represents a landmark in Cardano’s governance evolution: the first time that budget authority moved entirely from founding entities to the community’s Delegated Representatives (DReps). The Budget Committee’s role throughout the year was to provide the structure, documentation, and process integrity required to make this transition both functional and credible.
+The [Cardano Budget Committee](https://committees.docs.intersectmbo.org/intersect-budget-committee) (CBC) is an advisory committee that brings together relevant stakeholders from within the Cardano Ecosystem. The purpose of the budget committee is to use the knowledge and observations of these individuals to provide guidance, support, and oversight for Cardano’s annual budget processes.
+
+The [2025 budget cycle](https://www.intersectmbo.org/news/cardano-budget-committee-recommendation-threshold-to-include-a-proposal-in-the-budget-info-action) represents a landmark in Cardano’s governance evolution: the first time that budget authority moved entirely from founding entities to the community’s Delegated Representatives (DReps). The Budget Committee’s role throughout the year was to provide the structure, documentation, and process integrity required to make this transition both functional and credible.
 
 #### Origins: From governance theory to operational reality
 
@@ -223,17 +222,17 @@ As Cardano prepared for its first DRep-led budgeting year, the Budget Committee 
 * process timelines and decision gates
 * clarity around vendor expectations
 * guidance for workshops, presentations, and refinement
-* alignment with the Product Committee roadmap
+* alignment with the [Product Committee roadmap](https://committees.docs.intersectmbo.org/intersect-product-committee/committee-outcomes/2025-cardanos-roadmap)
 
 The roadmap proved essential. It established ecosystem-scale priorities for the upcoming year and ensured that DReps evaluated proposals within a shared strategic frame rather than in isolation.
 
-Supporting transparency and comparability
+**Supporting transparency and comparability**
 
 The Budget Committee organized early-year workshops to enable direct dialogue between vendors and DReps. These sessions improved clarity, ensured proportional scrutiny, and significantly raised the maturity level of proposals entering the prioritization phase.
 
 The Committee also oversaw the publication of all process materials, templates, checklists, and governance guides through the Intersect Knowledge Base, providing a permanent public record of how decentralized budgeting is executed.
 
-What we learned
+**What we learned**
 
 The 2025 process demonstrated that decentralized budgeting is viable, scalable, and strengthened by community participation. Key lessons include:
 
@@ -243,7 +242,7 @@ The 2025 process demonstrated that decentralized budgeting is viable, scalable, 
 * process transparency increases community trust
 * explicit constraints strengthen decentralized prioritization
 
-Looking ahead to 2026
+**Looking ahead to 2026**
 
 Based on 2025’s findings, the Budget Committee will introduce improvements that include:
 
@@ -257,31 +256,27 @@ The 2025 cycle laid the groundwork for a more predictable, scalable, and globall
 
 ### Open Source Committee and Office
 
-In 2025, Cardano’s open-source ecosystem shifted from early exploration to a mature, sustainable operating model. The Open Source Committee (OSC) and Open Source Office (OSO) led this transition by building the governance structures, contributor pathways, and accountability frameworks needed to strengthen Cardano’s open-source foundations.
+The [Open Source Committee](https://committees.docs.intersectmbo.org/intersect-open-source-committee) (OSC) is a decision-making committee that brings together relevant stakeholders from within the Cardano Ecosystem. The purpose of the OSC is to leverage the knowledge and observations of these committee members to provide guidance, support, and oversight for Intersect's open source initiatives, ensuring alignment with overall business objectives.
 
 #### Governance Structure & Operational Maturity
 
-The OSC formalised its charter, election processes, and oversight responsibilities, transforming open source into a structured governance function. What began as loosely coordinated volunteer work is now a cohesive system that allocates budgets, guides strategy, and ensures open-source assets remain community-owned public goods.\
-<br>
+The OSC formalised its charter, election processes, and oversight responsibilities, transforming open source into a structured governance function. What began as loosely coordinated volunteer work is now a cohesive system that allocates budgets, guides strategy, and ensures open-source assets remain community-owned public goods.
 
 #### Contributor Pathways & Incubation
 
-A key milestone was the introduction of clear contributor and maintainer pathways, enabling newcomers and experienced contributors to progress with transparency and support. These ladders and incubation stages will be rolled out across all Intersect-supported repositories, providing consistent standards for project growth, mentorship, and sustainability.\
-<br>
+A key milestone was the introduction of clear contributor and maintainer pathways, enabling newcomers and experienced contributors to progress with transparency and support. These ladders and incubation stages will be rolled out across all Intersect-supported repositories, providing consistent standards for project growth, mentorship, and sustainability.
 
 #### Project Maturity Framework
 
-The OSC developed and piloted a maturity model to assess documentation quality, technical health, and governance visibility across projects. These assessments now serve as a standard benchmark for risk management and a structured roadmap for project improvement through Intersect’s lifecycle framework.\
-<br>
+The OSC developed and piloted a maturity model to assess documentation quality, technical health, and governance visibility across projects. These assessments now serve as a standard benchmark for risk management and a structured roadmap for project improvement through Intersect’s lifecycle framework.
 
 #### Working Groups & Ecosystem Collaboration
 
-Three OSC working groups, Tooling, Developer Experience, and Commercialization, advanced practical outputs and strengthened collaboration with partners such as the Chinstrap Community, Bitergia, the TODO Group, and LFDT. These partnerships help ensure Cardano’s open-source practices align with global OSPO standards.\
-<br>
+Three OSC working groups, Tooling, Developer Experience, and Commercialization, advanced practical outputs and strengthened collaboration with partners such as the [Chinstrap Community](https://chinstrap.community/), [Bitergia](https://bitergia.com/), the [TODO Group](https://todogroup.org/), and [LFDT](https://lf-decentralized-trust.github.io/governance/project-updates/2025/2025-Q3-Hyperledger-Identus/). These partnerships help ensure Cardano’s open-source practices align with global [OSPO](https://github.com/IntersectMBO/Open-Source-Office) standards.
 
 #### Paid Open Source Model (POSM)
 
-The OSC continued rolling out the Paid Open Source Model, introducing a structured approach to compensating maintainers of Cardano-critical tools and libraries. This program is already attracting attention across the blockchain industry as a model for sustainable open-source funding.
+The OSC continued rolling out the [Paid Open Source Model](https://www.intersectmbo.org/news/the-paid-open-source-model), introducing a structured approach to compensating maintainers of Cardano-critical tools and libraries. This program is already attracting attention across the blockchain industry as a model for sustainable open-source funding.
 
 #### Ecosystem Impact
 
@@ -304,16 +299,15 @@ Cardano’s open-source ecosystem now stands on solid foundations. The shift fro
 
 ### Cardano Product Committee
 
-The Cardano Product Committee made significant progress in 2025 by initiating the ecosystem’s first community-led long-term vision and annual roadmap. This work sets the foundation for a unified direction for Cardano, shaped directly by businesses, builders, members, and DReps.
+The [Cardano Product Committee](https://committees.docs.intersectmbo.org/intersect-product-committee) made significant progress in 2025 by initiating the ecosystem’s first community-led long-term vision and annual roadmap. This work sets the foundation for a unified direction for Cardano, shaped directly by businesses, builders, members, and DReps.
 
 #### Ecosystem Input & Research
 
-Starting in late 2024, the committee established a structured process to gather insights from across the ecosystem. Input was sourced through business interviews with global organisations, including banks and brands such as Vodafone and Hublot, as well as local gatherings, in-person and remote workshops, and open surveys. This marked the first coordinated product research effort for Cardano.\
-<br>
+Starting in late 2024, the committee established a structured process to gather insights from across the ecosystem. Input was sourced through business interviews with global organisations, including banks and brands such as Vodafone and Hublot, as well as local gatherings, in-person and remote workshops, and open surveys. This marked the first coordinated product research effort for Cardano.
 
 #### Developing the 2030 Vision & Strategy
 
-With DRep support and budget allocation, the committee transformed this research into a first draft of the Cardano 2030 Vision and Strategy. Through multiple iterations, refined via global workshops in Colombo, Nairobi, Singapore, Osaka, Tokyo, Barcelona, Cameroon, and beyond, the committee converged on a single Vision Statement, Mission Statement, and Strategy Document.
+With DRep support and budget allocation, the committee transformed this research into a first draft of the [Cardano 2030 Vision](https://product.cardano.intersectmbo.org/vision/strategy-2030/) and Strategy. Through multiple iterations, refined via global workshops in Colombo, Nairobi, Singapore, Osaka, Tokyo, Barcelona, Cameroon, and beyond, the committee converged on a single Vision Statement, Mission Statement, and Strategy Document.
 
 These drafts were shaped through a blend of enterprise insights, community feedback, and builder perspectives, ensuring broad representation and real-world applicability.
 
@@ -331,7 +325,7 @@ In 2026, the Product Committee will focus on completing community consensus for 
 
 ### Cardano Civics Committee
 
-The Civics Committee focused on strengthening Cardano’s governance by improving transparency, communication, and accessibility across the ecosystem. Building on lessons from the Constitution process, the committee prioritised making governance more straightforward to understand and more inviting for members, DReps, SPOs, and builders, ensuring participation remained informed, confident, and representative.
+The [Civics Committee](https://committees.docs.intersectmbo.org/intersect-civics-committee) focused on strengthening Cardano’s governance by improving transparency, communication, and accessibility across the ecosystem. Building on lessons from the Constitution process, the committee prioritised making governance more straightforward to understand and more inviting for members, DReps, SPOs, and builders, ensuring participation remained informed, confident, and representative.
 
 #### Strengthening Governance Understanding & Participation
 
@@ -367,7 +361,7 @@ Across all its initiatives, the Civics Committee consistently championed opennes
 
 ### Growth and Marketing Committee
 
-The Growth and Marketing Committee (GMC) was formally established in early 2025 to strengthen the ecosystem’s global visibility and to coordinate community-led marketing efforts across Cardano. As a newly created committee, much of the year was spent laying the groundwork, defining its mission, vision, charter, and operating processes, and beginning to support a more unified marketing approach within a decentralized environment.
+The [Growth and Marketing Committee](https://committees.docs.intersectmbo.org/intersect-growth-marketing-committee) (GMC) was formally established in early 2025 to strengthen the ecosystem’s global visibility and to coordinate community-led marketing efforts across Cardano. As a newly created committee, much of the year was spent laying the groundwork, defining its mission, vision, charter, and operating processes, and beginning to support a more unified marketing approach within a decentralized environment.
 
 #### Establishing Governance Foundations
 
@@ -382,9 +376,9 @@ This foundational work created a shared framework for how marketing initiatives 
 
 #### Marketing Landscape Research & Insights
 
-A significant early milestone was the release of the Cardano Marketing Landscape Study, published during Rare Evo in August. This research captured community sentiment, highlighted marketing gaps, and mapped opportunities for broader ecosystem alignment. The study provided one of the most detailed looks to date at how the Cardano community perceives marketing effectiveness, coherence, and priorities.
+A significant early milestone was the release of the Cardano Marketing Landscape Study, published during [Rare Evo](https://rareevo.io/) in August. This research captured community sentiment, highlighted marketing gaps, and mapped opportunities for broader ecosystem alignment. The study provided one of the most detailed looks to date at how the Cardano community perceives marketing effectiveness, coherence, and priorities.
 
-Insights from the study were later presented during Day Zero at the Cardano Summit, where community members engaged directly with GMC contributors to clarify marketing needs and discuss the future of Cardano’s promotional strategy.
+Insights from the study were later presented during Day Zero at the [Cardano Summit](https://summit.cardano.org/), where community members engaged directly with GMC contributors to clarify marketing needs and discuss the future of Cardano’s promotional strategy.
 
 #### Ecosystem Support & Community Engagement
 
@@ -406,7 +400,7 @@ As Cardano enters a new era of decentralized governance, the GMC’s work will h
 
 ### Membership and Community Committee
 
-The Membership & Community Committee (MCC) spent 2025 making participation easier, improving governance clarity, and strengthening the overall member experience. Early in the year, the committee refined its budget approach, aligned processes with Catalyst’s evolving model, and introduced more straightforward guidelines for async decision-making and working-group activity. MCC also supported the shift of town halls to a community–hub–led format, kept membership fees stable, and helped improve DRep engagement and communication on governance.
+The [Membership & Community Committee](https://committees.docs.intersectmbo.org/intersect-membership-community-committee) (MCC) spent 2025 making participation easier, improving governance clarity, and strengthening the overall member experience. Early in the year, the committee refined its budget approach, aligned processes with Catalyst’s evolving model, and introduced more straightforward guidelines for async decision-making and working-group activity. MCC also supported the shift of town halls to a community–hub–led format, kept membership fees stable, and helped improve DRep engagement and communication on governance.
 
 By mid-year, the committee finalised its remit and charter, set clearer expectations for participation, and onboarded new leadership roles. Its four-pillar roadmap, benefits, participation, recognition, and hub support advanced with the re-establishment of the Hubs Working Group, preparations for Fund 15, and the launch of new offerings, including office hours, member-led webinars, and enhanced enterprise packages.
 
@@ -426,15 +420,13 @@ In 2025, Intersect held two successful rounds of committee elections, one in Apr
 
 #### Committee Elections summary&#x20;
 
-The April 2025 elections demonstrated remarkable participation, with 118 candidates standing across all committees and 522 unique members casting their votes. This represented 27% of the eligible paying membership, a strong indicator of the community’s growing commitment to actively shaping Intersect’s future.
+The [April 2025 elections](https://www.intersectmbo.org/news/intersect-committee-election-results) demonstrated remarkable participation, with 118 candidates standing across all committees and 522 unique members casting their votes. This represented 27% of the eligible paying membership, a strong indicator of the community’s growing commitment to actively shaping Intersect’s future.
 
-The October 2025 elections maintained this momentum, attracting 98 candidates and 293 voting members, which accounted for 28% of the eligible paying membership. While the number of candidates decreased slightly from April, the participation rate among members remained high, indicating sustained engagement and interest in Intersect’s governance processes.
-
-Overall, both election rounds reflect a maturing, increasingly active membership base, with a consistent participation rate of 27–28%.
+The [October 2025 elections](https://www.intersectmbo.org/news/intersect-committee-election-october-2025-results) maintained this momentum, attracting 98 candidates and 293 voting members, which accounted for 28% of the eligible paying membership. While the number of candidates decreased slightly from April, the participation rate among members remained high, indicating sustained engagement and interest in Intersect’s governance processes.
 
 #### Board Elections summary
 
-In September 2025, Intersect held its Board Elections. For the first time, four board seats were open for election, expanding member representation compared to the previous year. The process allowed members to select four representatives to the seven-member Board, which is responsible for guiding Intersect’s strategic direction and ensuring it remains aligned with its mission and community values.
+In September 2025, Intersect held its [Board Elections](https://www.intersectmbo.org/news/intersect-announces-results-of-2025-board-elections). For the first time, four board seats were open for election, expanding member representation compared to the previous year. The process allowed members to select four representatives to the seven-member Board, which is responsible for guiding Intersect’s strategic direction and ensuring it remains aligned with its mission and community values.
 
 The elections concluded with strong community engagement, as 269 members cast their votes, representing 22% of all paying members. The four elected members were Adam Rusch (187 votes), Kavinda Kariyapperuma (179 votes), Mercy Fordwoo (143 votes), and Rand McHenry (126 votes). To ensure continuity and renewal, Mercy Fordwoo and Rand McHenry will serve a two-year term, while the remaining two will serve a one-year term.
 
@@ -482,8 +474,9 @@ A clear industry breakdown shows a well-balanced and maturing enterprise ecosyst
 * NFT / Metaverse / Media: \~10%
 
 This distribution demonstrates a strategically diverse enterprise network contributing to interoperability, identity, compute, governance, and emerging digital economies across Cardano.\
-\
-![](../../../.gitbook/assets/unknown.png)
+<br>
+
+<figure><img src="../../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 Here’s the growth pattern for Intersect’s Enterprise Membership (Aug 2024 → Nov 2025)&#x20;
 
@@ -513,55 +506,71 @@ Intersect maintained a strong presence across a diverse set of global industry e
 
 Engaging with the global Cardano community through presentations, workshops, and member-led discussions focused on governance, ecosystem growth, and the future of on-chain participation.
 
-![](<../../../.gitbook/assets/unknown (1).png>)![](<../../../.gitbook/assets/unknown (2).png>)<br>
+<br>
+
+<figure><img src="../../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
 #### India – Developer Summits
 
 Engagements with builders, students, and enterprises to promote decentralized governance and open-source collaboration.
 
-![](<../../../.gitbook/assets/unknown (3).png>)![](<../../../.gitbook/assets/unknown (4).png>)
+<figure><img src="../../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Paris – Community Gatherings
 
 Member-focused sessions combining workshops, discussions, and cross-border collaboration.
 
-![](<../../../.gitbook/assets/unknown (5).png>)![](<../../../.gitbook/assets/unknown (6).png>)
+<figure><img src="../../../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
 #### Tokyo, Japan – TEAMZ Blockchain Summit
 
 Showcasing open-source governance and connecting with enterprise and policy audiences.
 
-![](<../../../.gitbook/assets/unknown (7).png>)
+<figure><img src="../../../.gitbook/assets/unknown (7).png" alt=""><figcaption></figcaption></figure>
 
 #### Hyderabad, India – Codex Conference
 
 Technical discussions on governance innovation, accountability frameworks, and the future of on-chain decision-making.
 
-![](<../../../.gitbook/assets/unknown (8).png>)![](<../../../.gitbook/assets/unknown (9).png>)
+<figure><img src="../../../.gitbook/assets/unknown (9).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure>
 
 #### USA – Rare Evo
 
 Connecting with the global Cardano community, highlighting governance tooling, and supporting contributors across the ecosystem.
 
-![](<../../../.gitbook/assets/unknown (10).png>)
+<figure><img src="../../../.gitbook/assets/unknown (10).png" alt=""><figcaption></figcaption></figure>
 
 #### Japan – Tech for Impact
 
 Presentations focused on responsible governance, ecosystem collaboration, and Cardano’s technical roadmap.
 
-![](<../../../.gitbook/assets/unknown (11).png>)![](<../../../.gitbook/assets/unknown (12).png>)
+<figure><img src="../../../.gitbook/assets/unknown (12).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/unknown (11).png" alt=""><figcaption></figcaption></figure>
 
 #### LATAM - Cardano tech summit
 
 With over 300 attendees from all over Latin America, the Cardano Tech Summit LATAM opened the series of events for the Cardano Summit with an absolute blast!
 
-![](<../../../.gitbook/assets/unknown (13).png>)![](<../../../.gitbook/assets/unknown (14).png>)
+<figure><img src="../../../.gitbook/assets/unknown (14).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/unknown (13).png" alt=""><figcaption></figcaption></figure>
 
 #### Singapore – Token2049
 
 Showcasing member-led governance and the importance of community-driven evolution in Cardano’s technology stack.
 
-![](<../../../.gitbook/assets/unknown (15).png>)![](<../../../.gitbook/assets/unknown (16).png>)
+<figure><img src="../../../.gitbook/assets/unknown (16).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/unknown (15).png" alt=""><figcaption></figcaption></figure>
 
 #### Barcelona – Blockchain x Culture (Nuluna Event)
 
