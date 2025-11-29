@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-11-28 09:06 UTC_
+_Updated on 2025-11-29 09:05 UTC_
 
 - [cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README)
 - [cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/candidates](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/candidates)
@@ -20,4 +20,3 @@ _Updated on 2025-11-28 09:06 UTC_
 - [intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-development-update-2025-report](https://docs.intersectmbo.org/intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-development-update-2025-report)
 - [intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals](https://docs.intersectmbo.org/intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals)
 - [intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/technical-and-troubleshooting-questions](https://docs.intersectmbo.org/intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/technical-and-troubleshooting-questions)
-- [intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist](https://docs.intersectmbo.org/intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist)
