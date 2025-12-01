@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-11-30 09:05 UTC_
+_Updated on 2025-12-01 09:09 UTC_
 
 - [cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README)
 - [cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/candidates](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/candidates)
