@@ -6,7 +6,7 @@ The CC Snap election Portal allows individuals, organizations, and consortiums t
 
 The registration process is divided into stages to make it clear and simple. Each applicant type has slightly different requirements. Once submitted, your candidacy will appear publicly on the **Candidates** page.
 
-[APPLY HERE in the CC Snap Election Portal](https://snapelection.intersectmbo.org/)
+[APPLY HERE in the CC Snap Election Portal](https://snapelection.intersectmbo.org/). (APPLICATION PERIOD FOR CANDIDATES NOW CLOSED)
 
 #### Election Timeline
 

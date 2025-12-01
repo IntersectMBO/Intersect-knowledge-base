@@ -4,6 +4,8 @@
 
 [The CC Snap election Portal can be found HERE](https://snapelection.intersectmbo.org/)
 
+[DReps Can vote on Ekklesia HERE](https://intersect.ekklesia.vote/ballots/69262c97b8cc7d4219a09f58/proposals/69262c97b8cc7d4219a09f5b)
+
 Following a member of Cardano’s Constitutional Committee (CC) retirement, effective **25 November 2025**, the Committee will below the minimum size required by protocol parameters. To maintain constitutional continuity and ensure Cardano’s on-chain governance can continue without interruption, **Intersect is facilitating a snap election** to fill the vacant seat.
 
 This election follows the same principles as the CC election held earlier this year, but in a **condensed format** given the urgency and importance of restoring the minimum CC membership (committeeMinSize = 7).\
@@ -26,7 +28,7 @@ All times are listed in UTC, beginning at 12:00 noon on each date.
 
 * Monday, November 17: Candidate registration opens
 * Monday, November 24: Candidate registration closes; campaign week begins
-* Wednesday, November 26: Voting opens on Ekklesia
+* Wednesday, November 26: Voting opens on [Ekklesia](https://intersect.ekklesia.vote/ballots/69262c97b8cc7d4219a09f58/proposals/69262c97b8cc7d4219a09f5b)
 * Friday, December 5: Voting closes; results audited
 * Monday, December 8: Governance Action submitted on-chain
 
