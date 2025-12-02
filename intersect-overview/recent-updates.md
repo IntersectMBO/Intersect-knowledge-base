@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-12-01 09:09 UTC_
+_Updated on 2025-12-02 09:08 UTC_
 
 - [cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README)
 - [cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/candidates](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/candidates)
@@ -20,3 +20,4 @@ _Updated on 2025-12-01 09:09 UTC_
 - [intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-development-update-2025-report](https://docs.intersectmbo.org/intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-development-update-2025-report)
 - [intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals](https://docs.intersectmbo.org/intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals)
 - [intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/technical-and-troubleshooting-questions](https://docs.intersectmbo.org/intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/technical-and-troubleshooting-questions)
+- [intersect-overview/jump-in-key-member-initiatives](https://docs.intersectmbo.org/intersect-overview/jump-in-key-member-initiatives)
