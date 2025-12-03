@@ -8,7 +8,7 @@
 
 **4. Review Date:** After Yearly Committee Treasury Funds have been confirmed
 
-**5. Policy Owner:**  Head of Procurement
+**5. Policy Owner:** Head of Procurement
 
 **6. Policy Sponsor:** Operations Director
 
@@ -18,24 +18,18 @@
 
 This Policy is written to ensure all Committee funds, whether allocated directly through the Committee Treasury funds or via the Intersect Treasury funds, are managed and accounted for. It ensures all funds are used appropriately over the course of a Treasury budget cycle.
 
-
-
 **8. Scope:**
 
 The Committee approved initiatives and associated funds are to be executed under the direction and recommendations of the respective Committee. The Intersect Executive Director, also the administrator of the Cardano Development Holdings (CDH), holds ultimate accountability for all associated budgets and contracts. The following conditions and processes are in place to ensure proper execution and accountability. Given the legal and financial structure of Intersect, the committee funds are to be approved and executed by Intersect. Our intention is to honor and deliver the spirit of what DReps have approved with full commitment and collaboration with the Committees.
 
-
-
 **9. Principles:**
 
-* Scope of Authority: The Intersect Executive Director (Intersect Board and Executive  Directors) retains ultimate accountability for all Committee budgets and all contracted or paid-out expenses. This includes:
+* Scope of Authority: The Intersect Executive Director (Intersect Board and Executive Directors) retains ultimate accountability for all Committee budgets and all contracted or paid-out expenses. This includes:
   * All Committee budget contracts with the CDH.
   * All individual contracts with subcontractors and vendors.
   * Every single payment made as a result of these contracts.
 
 To ensure proper governance, every contract and payment must be approved and signed by the Intersect Executive Director. Direction will only be sought from the voting members of the respective Committees, and wherever possible evidence of their vote is required.
-
-
 
 **10. Definitions:**
 
@@ -46,10 +40,8 @@ To ensure proper governance, every contract and payment must be approved and sig
 * **Milestone(s)** means the dates by which a part or all of the Services is to be completed, as set out in a Statement of Work.
 * [**Milestone Acceptance Form (MAF):** ](https://docs.google.com/document/d/1c1kC5q7LwHpQNGHdq9uXv5o5LNHXlDbxCJXtvMeenkA/edit?tab=t.0)This is a written attestation in the form of a standard template, submitted by a vendor, for each milestone.
 * **Request For Proposal:** Document a company or organisation issues to invite vendors to submit detailed proposals for a specific project or service. It outlines the project requirements, goals, deadlines, and evaluation criteria so suppliers can propose how they would meet the needs and at what cost. Intersect will use this process to find and select a vendor for a project.
-* **Statement of Work** means the document describing the Services and Deliverables to be provided by the Vendor, the Milestones, date of completion, expected quality standards, and associated fees.&#x20;
+* **Statement of Work** means the document describing the Services and Deliverables to be provided by the Vendor, the Milestones, date of completion, expected quality standards, and associated fees.
 * **Repeat Business and Ongoing Relationships** refers to situations where a Committee engages with the same vendor, supplier, consultant, or grantee on multiple occasions or through consecutive contracts or awards.
-
-
 
 **11. Policy Statements/Procedures:**
 
@@ -66,22 +58,20 @@ To ensure proper governance, every contract and payment must be approved and sig
   * **Procurement Request Process:** The Committee Secretary is required to submit all Committee procurement related requests through the relevant Procurement Request form on Click-Up, once agreed within the Committee. This applies to all requests, including but not limited to, Master Service Agreements (MSAs), statements of work, travel, software or any required contract/payment.
   * **Due Diligence:** The procurement team performs necessary checks (e.g., KYB/C) and confirms alignment with the overall budget. They will then become the point of contact with the vendor.
   * **Final Signature**: Once the procurement team and vendor agree on the Statement of Work (SoW) or relevant contract, the Intersect Executive Director will sign the contract on behalf of Intersect acting as the sole Administrator of the CDH. The Committee will be informed of the signing.
-  * **Delivery Assurance:** The Committee Secretary and voting Committee members will support the ongoing delivery and management of the contract with the Delivery Assurance (DA) team. The Secretary will be responsible for reporting requirements as part of the larger milestone reporting, including completing the [Milestone Acceptance Forms](https://drive.google.com/file/d/16mflKXUKRVi1oJMh3_PomCqBJHdSH17L/view) for the Master contract. The Chair will ultimately remain accountable.&#x20;
+  * **Delivery Assurance:** The Committee Secretary and voting Committee members will support the ongoing delivery and management of the contract with the Delivery Assurance (DA) team. The Secretary will be responsible for reporting requirements as part of the larger milestone reporting, including completing the [Milestone Acceptance Forms](https://drive.google.com/file/d/16mflKXUKRVi1oJMh3_PomCqBJHdSH17L/view) for the Master contract. The Chair will ultimately remain accountable.
   * **Payment Execution:** The Finance team will be provided with the payment details and schedule to process vendor payments.
-
-
 
 **12. Roles and Responsibilities:**
 
 **Voting Committee Members, led by the Committee Chair**
 
-* **Responsibility**: Select a suitable vendor for the proposed work or initiative. Decide and run an RFP process if needed, working with Intersect Operations lead and Committee secretary.&#x20;
+* **Responsibility**: Select a suitable vendor for the proposed work or initiative. Decide and run an RFP process if needed, working with Intersect Operations lead and Committee secretary.
 * **Approval Authority:** Voting members must approve any funding and vendor decisions; documented evidence of approval is required.
 * **Conflict of Intersect**: Each Voting Committee Member shall:
   * Disclose any actual, potential, or perceived conflict of interest related to matters before the committee as soon as the conflict becomes known.
   * Recuse themselves from discussion and voting on matters where a conflict exists, unless the committee determines that the conflict is insignificant or can be managed appropriately.
   * Refrain from influencing other committee members on matters where they have a conflict.
-  * Disclose to the Committee Secretary as per the [Members Transparent Dealings Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/transparent-dealings-policy). &#x20;
+  * Disclose to the Committee Secretary as per the [Members Transparent Dealings Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/transparent-dealings-policy).
   * Uphold confidentiality regarding all committee deliberations and materials.
 * **Repeat Business:** Ensure that professional judgment is not unduly influenced by the prospect of repeat business. The commitment remains to provide an unbiased, independent, and objective assessment when selecting a candidate/vendor.
 
@@ -97,13 +87,13 @@ To ensure proper governance, every contract and payment must be approved and sig
 **Procurement Team (Head of Procurement)**
 
 * **Responsibility:** Conduct due diligence (KYB/KYC checks, budget alignment with Finance) and liaise directly with the vendor to finalise the MSA/SoW.
-* **Procurement Request Form**: Review and manage all procurement requests submitted through the ClickUp Procurement Request form, ensuring each request is logged and updated. Coordinate with the Finance team on entries in the procurement log to maintain alignment between procurement commitments and financial tracking. Work collaboratively with the Committee Secretary or vendors, to process each request.&#x20;
+* **Procurement Request Form**: Review and manage all procurement requests submitted through the ClickUp Procurement Request form, ensuring each request is logged and updated. Coordinate with the Finance team on entries in the procurement log to maintain alignment between procurement commitments and financial tracking. Work collaboratively with the Committee Secretary or vendors, to process each request.
 * **Approval Authority:** Confirm all contractual and budgetary requirements are met before forwarding for signature, including alignment with the Master Committee contract.
 * **Conflict of Interest**: Record and complete a Conflict of Interest Disclosure Form for all conflicts reported by the Committee Secretary.
 
 **Operations Lead**
 
-* **Responsibility:** Manage the RFP process once the PRD is provided, including vendor selection and recommendation.&#x20;
+* **Responsibility:** Manage the RFP process once the PRD is provided, including vendor selection and recommendation.
 * **Support Role:** Receives guidance and support from the Committee Secretary to ensure alignment with Committee objectives.
 
 **Delivery Assurance Team**
@@ -121,20 +111,14 @@ To ensure proper governance, every contract and payment must be approved and sig
 * **Responsibility**: Review finalised MSA/SoW (or required contract) and execute contracts.
 * **Approval Authority:** Signs only after procurement team due diligence, financial approval and Committee direction are confirmed.
 
-
-
 **14. Monitoring and Compliance:**
 
-* **Monitoring**: Intersect, as the administrator, will monitor the distribution of funds for Committee approved budgets to relevant subcontractors ensuring fairness and transparency. Subsequently Intersect will monitor the completion of milestones, documentation, and payment throughout the contract lifecycle for both the master contract and subcontractors.&#x20;
-* **Compliance**: Significant compliance breaches may be disclosed to the community through public reports and escalated to DReps as appropriate, in alignment with transparency commitments.&#x20;
-
-
+* **Monitoring**: Intersect, as the administrator, will monitor the distribution of funds for Committee approved budgets to relevant subcontractors ensuring fairness and transparency. Subsequently Intersect will monitor the completion of milestones, documentation, and payment throughout the contract lifecycle for both the master contract and subcontractors.
+* **Compliance**: Significant compliance breaches may be disclosed to the community through public reports and escalated to DReps as appropriate, in alignment with transparency commitments.
 
 **15. Review and Amendment:**
 
 To ensure the policy remains current and effective, it will be reviewed from time to time. In response to significant organisational changes or regulatory updates, the policy will be updated as required by the Intersect Operational Services team and approved via the Intersect Executive team.
-
-
 
 **16. Related documents/references:**
 
@@ -149,10 +133,3 @@ This policy should be read in conjunction with the following documents, guidelin
   * [Administration Financial Audit Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy)
   * [Supplier Code of Conduct](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct)
 
-
-
-\
-\
-
-
-\
