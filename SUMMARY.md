@@ -404,3 +404,7 @@
   * [Weekly governance bulletin](archive/cardano-governance-archive/weekly-governance-bulletin.md)
 * [Intersect membership](archive/intersect-membership/README.md)
   * [OLD - Intersect groups (working & special interest)](archive/intersect-membership/intersect-groups-working-and-special-interest.md)
+
+***
+
+* [Google Slides: Sign-in](google-slides-sign-in.md)
