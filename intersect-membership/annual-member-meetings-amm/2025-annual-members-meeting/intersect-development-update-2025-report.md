@@ -327,37 +327,44 @@ In 2026, the Product Committee will focus on completing community consensus for 
 
 The [Civics Committee](https://committees.docs.intersectmbo.org/intersect-civics-committee) focused on strengthening Cardano’s governance by improving transparency, communication, and accessibility across the ecosystem. Building on lessons from the Constitution process, the committee prioritised making governance more straightforward to understand and more inviting for members, DReps, SPOs, and builders, ensuring participation remained informed, confident, and representative.
 
-#### Strengthening Governance Understanding & Participation
+#### Transparent Governance
 
-Throughout the first complete DRep-led budget cycle, Civics supported DReps and SPOs by providing clear explanations of responsibilities, simplifying voting timelines, and engaging directly with the community at events. This work helped ensure that participation in governance processes was grounded in shared understanding rather than technical complexity.
+In 2025, the Civics Committee members wanted to focus on strengthening Cardano’s governance by improving transparency, communication, and openness across every part of their work and the system more widely.
 
-The committee also completed its 2025 charter, outlining five priority areas:
+Following lessons learned from the drafting of the Cardano Constitution, the committee prioritised making governance processes easier to understand and more inviting for members, DReps, SPOs, and builders.\
+This included supporting DReps and SPOs through the first full budget cycle under Intersect by providing accessible explanations of roles and responsibilities, breaking down voting timelines, and attending community events to answer questions directly. The goal was an explicit desire to help ensure participation was informed, confident, and representative of the wider ecosystem.<br>
 
-* Constitution ratification and future constitutional amendments
-* Governance, health, and governance education
-* Civics input to the Cardano budget
-* Enabling the Constitutional Committee elections
-* Supporting a model for DRep compensation
+#### 2025 Charter & Committee Focus
 
-These focus areas shaped the committee’s year and clarified expectations for community engagement.
+Civics also finalised a clear 2025 charter, which centred on five focus areas reflective of the committee’s commitment to openness and active participation:&#x20;
 
-#### Working Groups & Community Collaboration
+1. Constitution ratification and future constitutional amendments,&#x20;
+2. fostering governance health and governance education,&#x20;
+3. Civics input to the Cardano budget for Cardano Governance,&#x20;
+4. enabling the Constitutional Committee elections, and&#x20;
+5. supporting a DRep compensation model.&#x20;
 
-To keep their work open and participatory, Civics oversaw dedicated working groups and encouraged contributions from community members and subject-matter experts.
+These commitments guided the committee’s year and provided an outline for community expectations. To make this work visible and collaborative, Civics oversaw [working groups](https://committees.docs.intersectmbo.org/intersect-civics-committee/about/working-groups) and encouraged members of the community and relevant experts to contribute.&#x20;
 
-The Governance Health Working Group explored how Cardano measures and improves the health of its governance systems. Through the development of Governance Health Dashboard requirements, community feedback rounds, and plans for a public campaign to publish the DRep rationale, the group promoted continuous improvement and transparency.
+#### Working Groups
 
-The Constitutional Committee Election Working Group guided the transition from the Interim Constitutional Committee to a fully community-elected body. Its work focused on fairness and clarity, including reviewing the ICC process, recommending improvements to registration and candidate expectations, strengthening voter education, and developing documentation to support rotation and handover. These efforts were designed to enhance trust in the network's constitutional guardianship.
+The Governance Health Working Group explored how Cardano measures and improves the health of its governance systems. Through its work on  [Governance Health Dashboard requirements](https://docs.google.com/document/d/1NQWMkOPWOgLoBr8FY3OLFEjuupyt-9h-xvWcA6xaP7E/edit?usp=sharing), incorporating community feedback, the group shared learnings, making continuous improvement a priority. The full report will be published on our knowledgebase pages shortly.
 
-#### Amplifying Governance Communication
+Earlier in the year, the [Constitutional Committee Election Working Group](https://committees.docs.intersectmbo.org/intersect-civics-committee/about/working-groups) facilitated the important transition from the Interim Constitutional Committee to a fully community elected committee. Its work placed transparency and fairness at the forefront, reviewing the initial ICC election process, recommending clearer registration and candidate expectations, improving voter education, and developing documentation for rotation and handover. These improvements were designed to help community members understand and trust the processes that shape Cardano’s constitutional guardianship.&#x20;
 
-Throughout the year, Civics helped lead more than 40 X Spaces covering Constitutional Committee elections, Intersect Committee elections, budget education, and governance tooling. These sessions allowed candidates to speak directly to members and gave voters opportunities to ask questions in real time, reinforcing transparent, two-way communication.
+Throughout the year, Civics amplified open communication through hosted X Spaces, giving community members a platform to speak directly to members and allowing voters to ask questions in real time. These sessions covered Constitutional Committee elections, Intersect committee elections, budget voting education, and governance tooling.&#x20;
 
-Civics also supported the rollout of optional DRep compensation under CIP-149 by promoting grants for wallets, SDKs, and other tooling, while ensuring the community understood how compensation models can strengthen long-term DRep participation.
+#### Supporting DRep Participation and Compensation
 
-#### A Year of Openness & Collaboration
+In close collaboration with Intersect professional staff, the committee recommended and rolled out a grant enabling optional [DRep compensation under CIP 149](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation). This initiative promotes funding for wallets, SDKs, and tools, ensuring the community understands how these models support long-term participation.
 
-Across all its initiatives, the Civics Committee consistently championed openness, accessibility, and collaborative governance. By improving communication, supporting community participation, and reinforcing clarity around constitutional and governance processes, the committee strengthened Cardano’s governance culture and aligned it with the needs of a global ecosystem.
+#### Constitution Amendments Process
+
+Looking ahead, the Civics Committee will continue to play a crucial role in supporting the decentralized governance model in 2026, with a focus on building an accessible and inclusive Constitutional Amendment Process and tackling incentive models for the governance bodies.
+
+#### Commitment to Openness and Collaboration
+
+Across all of its work, the Civics Committee consistently pushed for more openness in all its actions, accessibility, and collaboration. Providing clearer communication, encouraging community contributions, and maintaining their commitment to transparent governance processes, Civics strengthened participation across the ecosystem and supported Cardano’s ongoing evolution in line with the Constitution and represented the needs of its global community.
 
 ### Growth and Marketing Committee
 
