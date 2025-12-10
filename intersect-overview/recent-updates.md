@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-12-09 09:07 UTC_
+_Updated on 2025-12-10 09:08 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
