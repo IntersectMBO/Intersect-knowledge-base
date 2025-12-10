@@ -4,7 +4,7 @@
 
 Intersect’s initial governing board comprises five member seats. To establish operations, three board members have been appointed with representatives from seed funders and members, with [Input Output Global](#user-content-fn-1)[^1], Emurgo, and the COO as interim on the third seat. The third seat has been offered as an academic position to Wyoming University’s Blockchain Center of Excellence. The seed funder seats have a three-year term in consideration of funding given, whilst the academic seat will have a one-year tenure.
 
-The remaining two seats have been filled from Intersect’s membership, with elections held in the October 2024 election.&#x20;
+The remaining two seats have been filled from Intersect’s membership, with elections held in the October 2024 election.
 
 ### **Additional board members**
 
@@ -22,10 +22,24 @@ The Governing Board can be contacted via [board@intersectmbo.org](mailto:board@i
 
 ## **Intersect Professional Staff**
 
-Intersect is staffed by a team of experienced professionals with extensive exposure in the Cardano community. You can review teams and team members on the Intersect website ([here](https://www.intersectmbo.org/about-team)). Also below you can see the current org-chart.&#x20;
+Intersect is staffed by a team of experienced professionals with extensive exposure in the Cardano community. You can review teams and team members on the Intersect website ([here](https://www.intersectmbo.org/about-team)). Also below you can see the current org-chart.
 
 <figure><img src="../../.gitbook/assets/May2025_Intersect_org-chart (1).png" alt=""><figcaption><p>May 2025 Org-chart</p></figcaption></figure>
 
 Intersect team structure is in a transition phase, so the above is an interim Org Chart and subject to change in near future.
+
+## Intersect decision making process&#x20;
+
+Intersect’s decision-making process provides a structured path for turning members and community ideas and proposals into actionable outcomes through working groups (WGs), Intersect committees, the internal team, and the Board. It ensures clarity, transparency, and appropriate escalation depending on the proposal’s impact level.
+
+This workflow helps us balance:
+
+* Members-driven input and proposals,
+* Strategic alignment across governance bodies,
+* Timely and effective operational execution.
+
+It is the result of discussions within the Intersect **Governance Working Group and Intersect Steering Committee**, with the goal of streamlining how decisions are made while preserving escalation, review, and transparency mechanisms.
+
+Review details [here](../../legal/policies-and-conditions/intersect-members-policies/member-decision-making-process.md)
 
 [^1]: You might need to change to 'Input Output'

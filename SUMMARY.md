@@ -205,6 +205,7 @@
     * [Robert's Rules of Order – Simplified](legal/policies-and-conditions/intersect-members-policies/roberts-rules-of-order-simplified.md)
     * [Intersect Open-Source Antitrust Statement](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-antitrust-statement.md)
     * [Intersect Open-Source Glossary](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-glossary.md)
+    * [Member decision making process](legal/policies-and-conditions/intersect-members-policies/member-decision-making-process.md)
   * [Intersect Administration Policies](legal/policies-and-conditions/intersect-administration-policies.md)
     * [Administration Financial Audit Policy](legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy.md)
     * [Delivery Assurance Process and Best Practice Policy](legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy.md)
@@ -404,7 +405,3 @@
   * [Weekly governance bulletin](archive/cardano-governance-archive/weekly-governance-bulletin.md)
 * [Intersect membership](archive/intersect-membership/README.md)
   * [OLD - Intersect groups (working & special interest)](archive/intersect-membership/intersect-groups-working-and-special-interest.md)
-
-***
-
-* [Google Slides: Sign-in](google-slides-sign-in.md)
