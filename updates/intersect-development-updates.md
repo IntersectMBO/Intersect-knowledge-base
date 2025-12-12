@@ -188,8 +188,8 @@ January\
 
 </details>
 
-## Annual Reports - Downloads
+## Report - Downloads
 
-{% file src="../.gitbook/assets/2025 Intersect Annual Report.pdf" %}
+{% file src="../.gitbook/assets/2025 Intersect End of Year Development Report.pdf" %}
 
 {% file src="../.gitbook/assets/2024 Intersect & Cardano Development Holdings Annual Report.pdf" %}
