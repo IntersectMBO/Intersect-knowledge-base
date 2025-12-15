@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-12-14 09:06 UTC_
+_Updated on 2025-12-15 09:10 UTC_
 
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
 - [google-slides-sign-in](https://docs.intersectmbo.org/google-slides-sign-in)
