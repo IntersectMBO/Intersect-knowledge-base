@@ -1,18 +1,20 @@
-# Accounts Payable & Delivery Assurance Specialist
+# Business Operations Analyst
 
 {% hint style="info" %}
 **Key details**
 
 **Location:** UK, or working closely within UK time-zone
 
-**Department:** Finance / Procurement
+**Department:** Finance / Operations
 
-**Employment Type:** Contractor engagement
+**Engagement Type:** Fixed-term Contractor Agreement
 
 **Term:** 6 months (with potential of extension or permanent offer)
 {% endhint %}
 
 👉 **Apply now by emailing your CV to careers@intersectmbo.org**
+
+_Please note that due to our planned closure during the holiday period, applications will not be reviewed for shortlisting until January 2026._
 
 ## Overview
 
@@ -24,59 +26,64 @@ At its core, Intersect is about community governance in action, giving the peopl
 
 ## The Role
 
-We are seeking an organised and motivated Accounts Payable & Delivery Assurance Specialist to support the accurate and timely processing of vendor payments. This role sits between Procurement and Finance, helping to ensure all supplier invoices are correct, compliant with contracts, and supported by confirmed delivery milestones. The ideal candidate will have over 2 years of experience in Accounts Payable or Finance Administration, with a strong attention to detail and an eagerness to build expertise in financial control and assurance.
+We are seeking a Business Operations Analyst to support the smooth running of Intersect’s operational and payment workflows. This role sits at the intersection of Finance, Procurement and Delivery, ensuring supplier spend is accurate, contractually aligned, and tied to verified outcomes.
+
+The role combines financial operations with delivery assurance, offering excellent exposure to operational controls, supplier management, and governance-driven processes within a decentralised, community-led organisation.
 
 ## Key Responsibilities:
 
-### Accounts Payable (AP)
+**Operational & Delivery Assurance**
 
-* **Invoice Processing:** Review and accurately enter vendor invoices into QuickBooks, ensuring correct data entry, documentation, approval routing, ensuring compliance with contracts and US GAAP principles.
-* **Payment Preparation:** Assist in preparing vendor payment runs (ACH/wire), ensuring payments are accurate, secure, and on time.
-* **Vendor Records:** Maintain up-to-date and secure vendor master data, including banking details, to protect against fraud and duplication.
-* **Month-End Support:** Help reconcile Accounts Payable balances during month-end close and assist with resolving invoice or payment queries.
-* **Document Management & Audit Readiness:** Maintain accurate and complete records of invoices (receivables), bills (payables), and any other docs to support internal and external audits.
+* Validate that contractual milestones or deliverables have been completed prior to payment approval
+* Liaise with internal stakeholders to confirm delivery status and resolve discrepancies
+* Maintain accurate tracking of milestone confirmations, payment status, and outstanding actions
 
-### Delivery Assurance (DA)
+**Financial & Business Operations Support**
 
-* **Milestone Verification:** Liaise with internal teams to confirm that agreed milestones or deliverables have been completed before payments are released.
-* **Invoice Validation:** Check invoices against purchase orders or contracts to ensure correct pricing, quantities, and terms.
-* **Reporting & Tracking:** Keep accurate records of payment status, milestone confirmations, and any pending actions.
-* **Process Support:** Contribute to maintaining and improving Standard Operating Procedures (SOPs) for the payment approval process.
+* Review and accurately enter supplier invoices into QuickBooks
+* Ensure invoices align with contracts, agreed pricing, and approval workflows
+* Assist with preparing vendor payment runs (ACH/wire), ensuring accuracy and timeliness
+* Support month-end reconciliation of accounts payable balances
+* Maintain complete and orderly records to support audit readiness
+
+**Process & Controls**
+
+* Maintain and contribute to improving Standard Operating Procedures (SOPs) for operational and payment workflows
+* Support data accuracy across vendor records, contracts, and financial documentation
+* Identify opportunities to improve efficiency, control, and transparency in operational processes
 
 ## Qualifications and Attributes:
 
-### Minimum requirements
+**Minimum requirements**
 
-* Bachelor’s degree in Accounting, Finance, Business Administration, or a related field (or equivalent experience).
-* At least 2 years of experience in Accounts Payable, Finance Administration, or a similar role.
-* Familiarity with QuickBooks or another accounting system.
-* Strong attention to detail and commitment to data accuracy.
-* Good communication and teamwork skills - comfortable liaising across departments.
-* Ability to manage deadlines and prioritize tasks effectively.
+* At least **2 years’ experience** in business operations, finance operations, accounts payable, or a related role
+* Familiarity with accounting systems such as QuickBooks
+* Intermediate Excel (or equivalent) skills
+* Understanding of Procure-to-Pay (P2P) processes
+* Exposure to internal controls, audit support, or compliance processes
+* Experience working with contracts, suppliers, or service-based vendors
+* Strong attention to detail and commitment to data accuracy
+* Ability to manage deadlines and prioritise tasks across multiple stakeholders
 
-### Preferred skills
+**Preferred**
 
-* Intermediate Excel or equivalent skills.
-* Basic understanding of Procure-to-Pay (P2P) processes.
-* Exposure to internal control or compliance processes within Finance.
-* Proactive mindset and willingness to suggest improvements in workflow efficiency.
-* Understanding of the inner workings of cryptocurrencies and Web3/blockchain.
-* Strong knowledge of US GAAP and multi-currency financial management.
+* Understanding of cryptocurrencies, Web3, or blockchain ecosystems
+* Experience working in a hybrid or distributed team environment
 
 ## Compensation and benefits:
 
-Intersect offers a competitive salary in the range of **£40,000-£45,000 GBP.**
+Intersect offers a salary in the range of **£40,000-£45,000 GBP.**
 
-This is a remote-first position, with occasional in-person collaboration in our London workspace.
+This is a remote-first position, with occasional in-person collaboration in our London workspace (Tower Hill).&#x20;
 
 As a growing scale-up, we are in the process of evolving our benefits offering to ensure it reflects our community-first values and global workforce.
 
 ## Recruitment Process:
 
-Intersect’s Accounts Payable & Delivery Assurance Specialist will be selected through a three-stage recruitment process. All interviews will be conducted remotely via Google Meets.
+Intersect’s Business Operations Analyst will be selected through a three-stage recruitment process. All interviews will be conducted remotely via Google Meets.
 
-* **Introductory Call:** An initial conversation with Intersects head of people to confirm alignment and suitability for the role.
-* **Formal Interview:** A detailed interview to assess experience and fit from both technical and team perspectives. This will likely include a technical task or presentation to showcase your technical suitability for the role.&#x20;
+* **Introductory Call:** An initial conversation to confirm alignment and suitability for the role.
+* **Formal Interview:** A detailed interview to assess experience and fit from both technical and team perspectives. This will likely include a technical task or presentation to showcase your technical suitability for the role.
 * **Final Stage:** A competency-based assessment and additional opportunity to ask questions.
 
 {% hint style="info" %}

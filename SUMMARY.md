@@ -166,7 +166,7 @@
 ## Intersect Team
 
 * [Open positions](intersect-team/open-positions/README.md)
-  * [Accounts Payable & Delivery Assurance Specialist](intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist.md)
+  * [Business Operations Analyst](intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist.md)
   * [Security Incident Officer](intersect-team/open-positions/security-incident-officer.md)
   * [Executive Director](intersect-team/open-positions/executive-director/README.md)
     * [Executive Director - Recruitment process](intersect-team/open-positions/executive-director/executive-director-recruitment-process.md)
