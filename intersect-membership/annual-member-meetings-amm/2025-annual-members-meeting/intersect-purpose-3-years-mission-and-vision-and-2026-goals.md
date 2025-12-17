@@ -2,7 +2,11 @@
 description: 'Intersect: Where Individuals come together to drive Cardano forward'
 ---
 
-# Intersect Purpose, 3 years mission and vision & 2026 goals
+# AMM - Intersect Purpose, 3 years mission and vision & 2026 goals
+
+{% hint style="info" %}
+View updated post-AMM refined version [here](../../../updates/intersect-2026-goals.md)
+{% endhint %}
 
 ## Context about this document
 

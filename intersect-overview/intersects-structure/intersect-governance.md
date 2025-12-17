@@ -6,10 +6,6 @@ Intersect’s initial governing board comprises five member seats. To establish 
 
 The remaining two seats have been filled from Intersect’s membership, with elections held in the October 2024 election.
 
-### **Additional board members**
-
-The board is currently reviewing the pan to expand the board to 7 member of which 4 will be elected from the membership.
-
 ### **Governing board meetings**
 
 {% hint style="info" %}

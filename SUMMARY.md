@@ -6,7 +6,7 @@
 * [Intersect's structure](intersect-overview/intersects-structure/README.md)
   * [\[REMOVE\] Intersect values](intersect-overview/intersects-structure/intersect-values.md)
   * [Intersect governance](intersect-overview/intersects-structure/intersect-governance.md)
-  * [Intersect funding](intersect-overview/intersects-structure/intersect-funding.md)
+  * [\[review\] Intersect funding](intersect-overview/intersects-structure/intersect-funding.md)
 * [Intersect committees](intersect-overview/intersect-committees.md)
 * [Support and contacts](intersect-overview/support-and-contacts.md)
 * [🟢 Happening Now](intersect-overview/jump-in-key-member-initiatives.md)
@@ -65,8 +65,8 @@
 * [Annual member meetings (AMM)](intersect-membership/annual-member-meetings-amm/README.md)
   * [2025 Annual Members Meeting](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/README.md)
     * [FAQ](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/faq.md)
-    * [Intersect Development Update - 2025 Report](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-development-update-2025-report.md)
-    * [Intersect Purpose, 3 years mission and vision & 2026 goals](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals.md)
+    * [AMM - Intersect Development Update - 2025 Report](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-development-update-2025-report.md)
+    * [AMM - Intersect Purpose, 3 years mission and vision & 2026 goals](intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals.md)
   * [2024 Annual Member Meetings](intersect-membership/annual-member-meetings-amm/2024-annual-member-meetings.md)
 
 ## Cardano Facilitation services
@@ -161,6 +161,7 @@
 * [Product Curation - Updates](updates/product-curation-updates.md)
 * [Open Source Office - Updates](updates/open-source-office-updates.md)
 * [Intersect development updates](updates/intersect-development-updates.md)
+* [Intersect 2026 Goals](updates/intersect-2026-goals.md)
 
 ## Intersect Team
 
