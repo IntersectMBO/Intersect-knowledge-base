@@ -1,9 +1,8 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2025-12-22 09:10 UTC_
+_Updated on 2025-12-23 09:08 UTC_
 
 - [README](https://docs.intersectmbo.org/README)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/core-contracts)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/intersect-programme-updates](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-treasury-withdrawal-smart-contracts/intersect-programme-updates)
 - [intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals](https://docs.intersectmbo.org/intersect-membership/annual-member-meetings-amm/2025-annual-members-meeting/intersect-purpose-3-years-mission-and-vision-and-2026-goals)
 - [intersect-overview/intersects-structure/README](https://docs.intersectmbo.org/intersect-overview/intersects-structure/README)
