@@ -10,6 +10,10 @@ As part of the Cardano Treasury budget process, Intersect have been chosen as th
 
 2025:
 
+December 2025 Monthly Delivery Assurance Progress Report
+
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vSFYc5btrbtTmPZU-w92B-RHKO5He0uWSFWA7fRTcqoprYkQAZs6AXEMd3y5h2Yt8542BWaIre0vXAK/pub?delayms=3000&loop=false&start=false" %}
+
 November 2025 Monthly Delivery Assurance Progress Report
 
 {% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRMI1dIu-Mf4LAXnSl1YdDR96mpd-ZJt-ZW_m96CFyMD906S8kdsDQtWeyCGH2Na7N3rWODSfkwYNr6/pub?delayms=3000&loop=false&start=false" %}
