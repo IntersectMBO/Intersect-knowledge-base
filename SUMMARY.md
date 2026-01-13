@@ -167,9 +167,6 @@
 
 * [Open positions](intersect-team/open-positions/README.md)
   * [Business Operations Analyst](intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist.md)
-  * [Executive Director](intersect-team/open-positions/executive-director/README.md)
-    * [Executive Director - Recruitment process](intersect-team/open-positions/executive-director/executive-director-recruitment-process.md)
-    * [Executive Director - Hiring updates](intersect-team/open-positions/executive-director/executive-director-hiring-updates.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
   * [People & Culture Lead](intersect-team/closed-positions/people-and-culture-lead.md)
   * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)
@@ -182,6 +179,9 @@
   * [Finance Lead](intersect-team/closed-positions/finance-lead.md)
   * [Social media and content manager](intersect-team/closed-positions/social-media-and-content-manager.md)
   * [Security Incident Officer](intersect-team/closed-positions/security-incident-officer.md)
+  * [Executive Director](intersect-team/closed-positions/executive-director/README.md)
+    * [Executive Director - Recruitment process](intersect-team/closed-positions/executive-director/executive-director-recruitment-process.md)
+    * [Executive Director - Hiring updates](intersect-team/closed-positions/executive-director/executive-director-hiring-updates.md)
 
 ## LEGAL
 
