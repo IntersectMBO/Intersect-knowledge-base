@@ -52,7 +52,7 @@ We believe in leading by serving. Collaboration is key, and we work hand-in-hand
 
 ### Inform, not dictate
 
-Our role is to inform and empower our members, not to dictate actions or decisions. We provide the resources, information, and support necessary to drive progress but recognize that progress is ultimately delivered by our members. By supporting members to make informed decisions, we aim to achieve better outcomes on-chain and ensure that the direction of Cardano is shaped by those who are most invested in its success.
+Our role is to inform and empower, not dictate. We provide the resources, information, and support necessary for progress, while recognizing that our members ultimately deliver it. By enabling informed decision-making, we achieve better on-chain outcomes and ensure that the direction of Cardano is shaped by those who are most invested in its success.
 
 ## Our 2026 focus
 

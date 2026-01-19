@@ -8,13 +8,15 @@ Find all detailed committee spaces [here](https://committees.docs.intersectmbo.o
 The bi-weekly committee reports can be found [here](https://committees.docs.intersectmbo.org/committee-overview/readme/committee-reporting)
 {% endhint %}
 
-Intersect is designed to be steered by its members so the future of Cardano is community-led. The membership body provides this steering via standing committees. Standing committees are designed to be community-led, with community members taking an active role influencing the future of Cardano.
+Intersect is designed to be steered by its members, ensuring Cardano's future is community-led. Elected members provide this direction through standing committees, where they take an active role in shaping Cardano's development.
 
-Intersect will initiate seven standing committees in 2024, covering the functional operations required to steer the delivery of "[continuity](https://www.intersectmbo.org/news/cardano-continuity)", provide steering direction to the drafting of Cardano's constitution,  support the internal membership, and more.  A standing committee is expected to be a permanent fixture, although, changes may be required as the committees mature and the objectives evolve. The [governing board](intersects-structure/intersect-governance.md) will review proposed changes and support the membership. &#x20;
+Intersect has seven standing committees and a steering committee made up of the chairs of the other seven. These committees handle specialized areas like civics, membership and community, technical steering, open source, product development, budget oversight, and growth and marketing.&#x20;
+
+If changes are required, the [governing board](intersects-structure/intersect-governance.md) will review proposed changes and support the membership.
 
 Working groups typically roll up into one of the seven committees. Working groups are, for the most part, temporary functions that support a committees' wider objectives or to expand expertise by seeking contributions from outside of Intersect. Working groups can be on any subject and are by nature less formal than standing committees.
 
-You can an overview of the committee and their respective ways of working [here](https://intersect.gitbook.io/intersect-committees-groups). You can also find:&#x20;
+An overview of the committees and their roles is in the [Intersect documentation](https://intersect.gitbook.io/intersect-committees-groups). You can also find:
 
 * Committee Maturity Standards
 * Committee Guiding Principles
@@ -51,8 +53,3 @@ You can an overview of the committee and their respective ways of working [here]
 {% endcontent-ref %}
 
 👉🏻 Info about committee elections can be found [here](../intersect-membership/intersect-voting-events/intersect-elections-2024/) 👈
-
-
-
-
-

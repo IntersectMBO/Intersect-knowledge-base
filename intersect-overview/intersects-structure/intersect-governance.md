@@ -2,9 +2,13 @@
 
 ## **The governing board**
 
-Intersect’s initial governing board comprises five member seats. To establish operations, three board members have been appointed with representatives from seed funders and members, with [Input Output Global](#user-content-fn-1)[^1], Emurgo, and the COO as interim on the third seat. The third seat has been offered as an academic position to Wyoming University’s Blockchain Center of Excellence. The seed funder seats have a three-year term in consideration of funding given, whilst the academic seat will have a one-year tenure.
+Intersect’s initial governing board had five member seats. To establish operations, three board members were appointed with representatives from seed funders and members, with [Input Output](#user-content-fn-1)[^1], Emurgo, and the Chief Operating Officer as interim on the third seat. The third seat was offered as an academic position to Wyoming University’s Blockchain Center of Excellence. The seed funder seats have a three-year term in consideration of funding given, while the academic seat had a one-year tenure.
 
-The remaining two seats have been filled from Intersect’s membership, with elections held in the October 2024 election.
+The remaining two seats were filled from Intersect’s membership, with elections held in October 2024.
+
+Following the 2025 elections, the Intersect governing board now comprises seven members, four of whom were elected by the membership. Among these elected members, two will serve one-year terms while two will serve two-year terms.
+
+This election represented a significant milestone: for the first time, members directly elected a majority of the Intersect governing board.
 
 ### **Governing board meetings**
 
@@ -18,7 +22,7 @@ The Governing Board can be contacted via [board@intersectmbo.org](mailto:board@i
 
 ## **Intersect Professional Staff**
 
-Intersect is staffed by a team of experienced professionals with extensive exposure in the Cardano community. You can review teams and team members on the Intersect website ([here](https://www.intersectmbo.org/about-team)). Also below you can see the current org-chart.
+Intersect is staffed by a team of experienced professionals with extensive exposure in the Cardano community. You can review teams and team members on the Intersect website ([here](https://www.intersectmbo.org/about-team)). Also below you can see the current org-chart. \[ORG CHART IS OBSOLETE]
 
 <figure><img src="../../.gitbook/assets/May2025_Intersect_org-chart (1).png" alt=""><figcaption><p>May 2025 Org-chart</p></figcaption></figure>
 
