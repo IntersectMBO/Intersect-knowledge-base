@@ -218,6 +218,9 @@
     * [Supplier Code of Conduct](legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct.md)
     * [Committee Treasury Management Policy](legal/policies-and-conditions/intersect-administration-policies/committee-treasury-management-policy-1.md)
     * [Supplier Code of Conduct](legal/policies-and-conditions/intersect-administration-policies/supplier-code-of-conduct-1.md)
+    * [Vendor Delegation of Authority Policy](legal/policies-and-conditions/intersect-administration-policies/vendor-delegation-of-authority-policy.md)
+    * [Vendor Change Request Policy](legal/policies-and-conditions/intersect-administration-policies/vendor-change-request-policy.md)
+    * [Delegation of Authority Form](legal/policies-and-conditions/intersect-administration-policies/delegation-of-authority-form.md)
     * [FAQs](legal/policies-and-conditions/intersect-administration-policies/faqs.md)
 
 ## Archive
