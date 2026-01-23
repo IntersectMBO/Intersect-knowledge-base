@@ -119,5 +119,5 @@
 
 **16. Related Documents/References:**
 
-* Delegation of Authority Form
-* Vendor Change Request Policy
+* [Delegation of Authority Form](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/delegation-of-authority-form)
+* [Vendor Change Request Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/vendor-change-request-policy)

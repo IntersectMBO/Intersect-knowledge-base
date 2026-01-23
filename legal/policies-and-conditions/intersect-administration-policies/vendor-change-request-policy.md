@@ -126,14 +126,14 @@ Intersect verifies:
 
 Guidelines are discretionary, but typical verification illustrated below.&#x20;
 
-| **Change Category**                           | **Verification Required**                                          | **Notes**                                                          |
-| --------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| Wallet / Bank Account Detail Changes          | KYB on file + KYC of requesting individual + enhanced verification | High-risk - financial instructions updated only after verification |
-| Whitelist / Approved Account / System Updates | KYB on file + KYC of requesting individual + enhanced verification | High-risk                                                          |
-| Replacement of Authorized Signatory           | KYB on file + KYC of requesting individual + enhanced verification | Critical - authority records updated immediately                   |
-| Entity / Company Detail Changes               | New KYB + documentation review                                     | Additional verification if needed                                  |
-| Commercial / Operational Contract Changes     | KYB on file + authority verification of requester                  | Must fall within delegated scope                                   |
-| Other Agreed Operational Updates              | KYB on file + documentation review                                 | Risk-based discretion                                              |
+| **Change Category**                           | **Verification Required**                                          | **Notes**                                                                                                                                                                                      |
+| --------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wallet / Bank Account Detail Changes          | KYB on file + KYC of requesting individual + enhanced verification | High-risk - financial instructions updated only after verification. The Vendor will need to submit the new wallet address into the [wallet address form](https://forms.gle/VgX7nZbcnnXL9o99A). |
+| Whitelist / Approved Account / System Updates | KYB on file + KYC of requesting individual + enhanced verification | High-risk                                                                                                                                                                                      |
+| Replacement of Authorized Signatory           | KYB on file + KYC of requesting individual + enhanced verification | Critical - authority records updated immediately                                                                                                                                               |
+| Entity / Company Detail Changes               | New KYB + documentation review                                     | Additional verification if needed                                                                                                                                                              |
+| Commercial / Operational Contract Changes     | KYB on file + authority verification of requester                  | Must fall within delegated scope                                                                                                                                                               |
+| Other Agreed Operational Updates              | KYB on file + documentation review                                 | Risk-based discretion                                                                                                                                                                          |
 
 \*KYC is to prove legitimacy of the individual, not necessarily personal background checks.
 
@@ -149,6 +149,6 @@ This policy will be reviewed annually by the Policy Owner or earlier if required
 
 **17. Related Documents / References**
 
-* Vendor Delegation of Authority Policy
-* Delegation of Authority Form&#x20;
+* [Vendor Delegation of Authority Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/vendor-delegation-of-authority-policy)
+* [Delegation of Authority Form ](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/delegation-of-authority-form)
 * [Intersect Due Diligence Policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/due-diligence-policy)
