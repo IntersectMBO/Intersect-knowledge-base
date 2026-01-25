@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-01-24 09:06 UTC_
+_Updated on 2026-01-25 09:06 UTC_
 
 - [README](https://docs.intersectmbo.org/README)
 - [intersect-overview/intersect-committees](https://docs.intersectmbo.org/intersect-overview/intersect-committees)
