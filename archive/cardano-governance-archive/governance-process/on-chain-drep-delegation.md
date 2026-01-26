@@ -1,14 +1,14 @@
 # On-chain DRep delegation
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 On-Chain DRep delegation is the process that allows ADA Holders to delegate their own voting power to existing Delegated Representatives (DReps) allow them to vote on their behalf on active Governance Actions.
 
-In order to delegate to the right DRep it will be likely that ADA Holder will need to have visibility about the [Metadata](../key-terms/metadata.md) that DReps have submitted during [registration](on-chain-drep-registration.md) (the extra supportive context). This extra context might include their expertise, interests, past voting history and more.&#x20;
+In order to delegate to the right DRep it will be likely that ADA Holder will need to have visibility about the [Metadata](../key-terms/metadata.md) that DReps have submitted during [registration](on-chain-drep-registration.md) (the extra supportive context). This extra context might include their expertise, interests, past voting history and more.
 
 {% hint style="info" %}
-On-Chain DRep delegation can be  performed through the Cardano CLI and through the [Voltaire GovTool](broken-reference).
+On-Chain DRep delegation can be performed through the Cardano CLI and through the [Voltaire GovTool](broken-reference/).
 {% endhint %}
-
-
 
 ***
 

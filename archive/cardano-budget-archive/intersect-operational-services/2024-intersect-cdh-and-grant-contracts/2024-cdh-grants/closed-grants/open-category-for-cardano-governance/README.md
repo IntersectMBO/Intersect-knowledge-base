@@ -1,5 +1,7 @@
 # Open category for Cardano governance
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 {% hint style="info" %}
 **This grant category closed on 28th March 2024.**
 {% endhint %}
@@ -21,7 +23,7 @@ Tools/features that have already been built, or funded to be built (and are ther
 
 ## Most requested Cardano governance tools
 
-In the first half of 2023, the Cardano community hosted workshops across the globe to discuss CIP-1694 and the community tooling needed to support the new features that the CIP brings.  Based on the responses gathered, we are providing a prioritized list of what could be addressed in this open category.  While this list provides some direction, open-category grant proposals may cover any functionality that would improve the Cardano governance experience.
+In the first half of 2023, the Cardano community hosted workshops across the globe to discuss CIP-1694 and the community tooling needed to support the new features that the CIP brings. Based on the responses gathered, we are providing a prioritized list of what could be addressed in this open category. While this list provides some direction, open-category grant proposals may cover any functionality that would improve the Cardano governance experience.
 
 1. Cardano governance communications
    * Communication between DReps and delegators

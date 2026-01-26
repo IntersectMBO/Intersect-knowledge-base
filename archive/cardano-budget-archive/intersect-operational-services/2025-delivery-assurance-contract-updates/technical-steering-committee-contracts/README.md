@@ -1,5 +1,7 @@
 # Technical steering committee contracts
 
+{% include "../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 This page covers everything related to the contracts that were proposed by the community to be contracted via the Technical steering committee. _Note that some of these contracts were established through the original 2024 contracting process, with funding provided by the CDH. Any contracts awarded from June 2025 onward will be financed through the Treasury withdrawal, in alignment with the budget process._
 
 ## **Contract overview section**
@@ -9,4 +11,3 @@ This page covers everything related to the contracts that were proposed by the c
 ## Overview of current technical steering committee contractual milestones
 
 <figure><img src="../../../../../.gitbook/assets/TSC - PLAN.png" alt=""><figcaption></figcaption></figure>
-

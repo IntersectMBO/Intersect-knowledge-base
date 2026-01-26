@@ -1,5 +1,7 @@
 # On-chain governance action submission
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 On-Chain Governance Action submission is the process of submitting one of the 7 Governance Actions On-Chain for the voting bodies ([DReps](../../governance-roles/delegated-representatives-dreps.md), [SPOs](../../governance-roles/stake-pool-operators-spos.md), [Constitutional Committee](../../key-terms/constitutional-committee.md)) to vote on.
 
 {% hint style="info" %}

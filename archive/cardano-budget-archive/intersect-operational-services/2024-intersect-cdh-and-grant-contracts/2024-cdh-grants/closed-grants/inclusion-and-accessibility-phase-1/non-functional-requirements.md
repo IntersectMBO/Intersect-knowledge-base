@@ -1,12 +1,14 @@
 # Non-functional requirements
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Usability
 
 * Web content or software must meet WCAG 3.0 AA standards for accessibility.
 
 ### Scalability
 
-* If building on top of existing software, the localisation solution must meet the same scalability requirements as the original solution.&#x20;
+* If building on top of existing software, the localisation solution must meet the same scalability requirements as the original solution.
 * The solution must be available to the entire Cardano community.
 
 ### Performance

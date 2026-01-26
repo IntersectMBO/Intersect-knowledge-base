@@ -1,5 +1,7 @@
 # Delivery Assurance quarterly reports
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Here you will find quarterly Delivery Assurance reports covering all contracts currently being managed by Intersect.
 
 ### 2025
@@ -11,4 +13,3 @@ Here you will find quarterly Delivery Assurance reports covering all contracts c
 Quarter 3 (July - September) - _To be uploaded end of September._
 
 Quarter 4 (October - December) - _To be uploaded end of December._
-

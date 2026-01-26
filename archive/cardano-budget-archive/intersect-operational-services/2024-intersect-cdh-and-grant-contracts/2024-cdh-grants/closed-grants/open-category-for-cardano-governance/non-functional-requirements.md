@@ -1,5 +1,7 @@
 # Non-functional requirements
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Usability
 
 * Tools should be accessible to non-technical users
@@ -34,7 +36,7 @@ Guidance related to expected [best practices can be referenced here](https://git
 
 ## For Tools being proposed for direct integration into the existing Voltaire governance tooling system
 
-Some proposed solutions may be appropriate for direct integration into the Voltaire governance tooling system. Adding a new space for ada holders to communicate with their DRep, for example.  For these tools, additional requirements apply:
+Some proposed solutions may be appropriate for direct integration into the Voltaire governance tooling system. Adding a new space for ada holders to communicate with their DRep, for example. For these tools, additional requirements apply:
 
 * The tool should be built using a compatible tech stack where applicable, make use of the existing [design system](https://www.figma.com/file/8MJHuaTfHGLnuicZuXquA6/Voltaire-Design-System?type=design\&node-id=47%3A2\&mode=design\&t=z0giIZJfHLnZyDIy-1), and be developed (or transferable) into the open repos that will be made available ahead of development.
 * The ultimate objective is for these tools to appear to the user as one solid application with an end-to-end experience of all the steps needed to participate in Cardano governance. Tools will share the same look & feel but will consist of micro-frontends with the actual code for each tool or service maintained in separate folders or repos.

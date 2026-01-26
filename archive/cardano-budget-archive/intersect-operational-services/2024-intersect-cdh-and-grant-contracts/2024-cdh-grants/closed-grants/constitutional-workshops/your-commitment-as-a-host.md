@@ -1,5 +1,7 @@
 # Your commitment as a host
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 To be eligible, the applicant must meet the[ grant eligibility criteria](https://docs.intersectmbo.org/intersect-community-grants/application-process/eligibility-criteria) along with the specific host requirements detailed below.
 
 ## Requirements:
@@ -11,7 +13,7 @@ To be eligible, the applicant must meet the[ grant eligibility criteria](https:/
 * You are willing to work with Intersect’s facilitators to deliver a constitutional workshop with their support.
 * You are willing to follow a standardized workshop format.
 * You are willing to follow a standardized process to select constitutional delegates and alternates to attend the convention, including the use of a digital voting tool. Intersect will provide a standard tool and process to this end.
-* ~~You can enable virtual attendance.~~ No virtual attendance will be allowed except to support facilitators if required. (updated on 14th August 2024)&#x20;
+* ~~You can enable virtual attendance.~~ No virtual attendance will be allowed except to support facilitators if required. (updated on 14th August 2024)
 * You will be able to provide final outputs and documentation of your workshop in English.
 * ~~Accept constitutional delegate candidacy videos from people who cannot attend the workshop live.~~ No Candidacy videos will be accepted for delegation (updated on 14th August 24).
 
@@ -22,13 +24,13 @@ To be eligible, the applicant must meet the[ grant eligibility criteria](https:/
 * Hosts will be selected with consideration to geographical distribution, aiming to distribute workshops across the globe.
 * The stipend is not intended to cover travel costs, as these workshops are locally-oriented. Virtual participation should be made possible for those too far away in the region to travel.
 
-## Payment:&#x20;
+## Payment:
 
 Following evaluation and selection of successful participants, Intersect will issue a contract with full detail of the agreement and payment/invoicing process. In this contractual agreement, Intersect will agree to distribute the Grant to the selected Host as per the following:
 
-a.   \[50%] with effect from the date the contractual Agreement is signed by both parties providing the grantee has provided a date for the event, a preferred venue, a draft agenda and a budget breakdown;
+a. \[50%] with effect from the date the contractual Agreement is signed by both parties providing the grantee has provided a date for the event, a preferred venue, a draft agenda and a budget breakdown;
 
-b.   \[50%] with effect from the date the Event is complete, as evidenced by the Grantee producing all remaining Deliverables listed below.
+b. \[50%] with effect from the date the Event is complete, as evidenced by the Grantee producing all remaining Deliverables listed below.
 
 ## Deliverables:
 

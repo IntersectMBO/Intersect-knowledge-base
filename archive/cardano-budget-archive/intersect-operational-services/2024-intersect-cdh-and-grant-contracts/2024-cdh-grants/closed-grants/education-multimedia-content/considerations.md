@@ -1,5 +1,7 @@
 # Considerations
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Collaboration with other members is encouraged since the proposed solution should involve the entire governance process.
 
 ### Expected Cost Range
@@ -8,7 +10,7 @@ There is no set amount for multimedia education grants, as it’d be preferable 
 
 ### Suggested Minimum Milestones
 
-The milestones below are indicative and proposals should ideally not exceed a six month delivery plan. Proposals should also broadly align with the [CIP-1694 roadmap](https://www.intersectmbo.org/roadmap).&#x20;
+The milestones below are indicative and proposals should ideally not exceed a six month delivery plan. Proposals should also broadly align with the [CIP-1694 roadmap](https://www.intersectmbo.org/roadmap).
 
 | Milestone                                                                            |
 | ------------------------------------------------------------------------------------ |
@@ -17,4 +19,4 @@ The milestones below are indicative and proposals should ideally not exceed a si
 | MVP - meets minimum requirements, fully working version or first version if non-code |
 | V1.0 - start to implement new features and/or improvements                           |
 
-\
+\\

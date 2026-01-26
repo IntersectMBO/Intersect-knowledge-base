@@ -1,5 +1,7 @@
 # Bitergia - Analytics Subscription
 
+{% include "../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 * Supplier: Bitergia
 * Contract Name: Bitergia Analytics Subscription
 * Contract Date: 1st January 2025 - 31st December 2025

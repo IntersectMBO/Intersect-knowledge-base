@@ -1,5 +1,7 @@
 # Key Terms and resources
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Before diving into specifics, here are a few key terms and definitions mentioned in this brief, and related to Cardano’s on-chain governance:
 
 * [CIP-1694](https://www.1694.io/) - a technical document which outlines Cardano's on-chain governance system. Chiefly, it enables Cardano changes to be proposed, voted on, and enacted on-chain.

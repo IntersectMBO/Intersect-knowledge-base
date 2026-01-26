@@ -1,20 +1,14 @@
 # Cardano Budget Process
 
-{% hint style="warning" %}
-This page has been **archived**&#x20;
-{% endhint %}
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
 **Below are the steps driving forward the Cardano Budget Process**
 
-
-
 * **Budget Proposal Submissions:** Throughout March and up until April 24th, the community can submit proposals that directly support the delivery of the proposed product roadmap, if they wish to be included in the first round of the 2025 Cardano Budget. Additionally, any open ideas or proposals, including committee proposals, can be submitted via the [intake form](https://www.intersectmbo.org/cardano-budget-submission). Submitting proposals earlier gives DReps more time to consider the proposal and may increase the likelihood of Intersect’s committees providing reviews and feedback. After April 24th, the community can still submit proposals, however these will be included the following budget, likely to be in 2026.
 * **Public Display of Proposals:** Since 1st April, a new dashboard has been created in [Cardano GovTool](https://gov.tools/budget_discussion) to publicly display the proposals received so far, providing committees and the community with an early opportunity to give feedback.
-* **Net-Change-Limit:** In parallel, the Net-Change-Limit will need to be agreed to allow us to move towards submitting a Budget Info Action.&#x20;
+* **Net-Change-Limit:** In parallel, the Net-Change-Limit will need to be agreed to allow us to move towards submitting a Budget Info Action.
 * **DRep Sentiment Signalling:** In mid-to-late April, new functionality will be released into the GovTool stack (with open APIs), where the tooling, mirroring mainnet conditions, will utilize DRep stake-based signaling to effectively build consensus on submitted proposals, creating implicit consent for budget items before submission on-chain.
-*   **Proposal Review - Topic Based Workshops:** Topic based workshops will be taking place throughout April with the aim to provide DReps with an opportunity to explore proposals and deliberate with peers. During this time, Committees and vendors will be able to support DReps in casting initial up/down votes on individual proposals (non-binding) and gather category-level guidance on budget scope, priorities, and success metrics. These workshops will support in identifying key questions or gaps that will need to be followed-up on before reconciliation. Tentative Workshop Schedule:
-
-
+* **Proposal Review - Topic Based Workshops:** Topic based workshops will be taking place throughout April with the aim to provide DReps with an opportunity to explore proposals and deliberate with peers. During this time, Committees and vendors will be able to support DReps in casting initial up/down votes on individual proposals (non-binding) and gather category-level guidance on budget scope, priorities, and success metrics. These workshops will support in identifying key questions or gaps that will need to be followed-up on before reconciliation. Tentative Workshop Schedule:
 * Sign up and subscribe to receive updates: [https://lu.ma/cardanobudgetprocess](https://lu.ma/cardanobudgetprocess)
   * Budget Orientation: Apr 10 @ 4–7 pm UTC & Apr 11 @ 2–5 am UTC
   * Proposal review: Marketing & Innovation: Apr 14 @ 4–7 pm UTC & Apr 15 @ 2–5 am UTC
@@ -23,7 +17,7 @@ This page has been **archived**&#x20;
 * **Virtual Reconciliation Workshops:** In late April and early May, we anticipate hosting two virtual reconciliation workshops to align proposals that have strong to borderline community support. Following these event, we plan to submit a consolidated Budget Info Action for DReps to officially consider. Proposed dates are:
   * 26th-28th April
   * 3rd-4th May
-* **Budget Info Action:** If approved on-chain, the Budget Info Action will take effect. Proposals with identified vendors can be streamlined into Treasury Withdrawal Actions. For committee or external proposals without an identified vendor, Intersect can facilitate procurement if specified by the applicant and subsequently approved by DReps as part of the Budget Info Action.&#x20;
+* **Budget Info Action:** If approved on-chain, the Budget Info Action will take effect. Proposals with identified vendors can be streamlined into Treasury Withdrawal Actions. For committee or external proposals without an identified vendor, Intersect can facilitate procurement if specified by the applicant and subsequently approved by DReps as part of the Budget Info Action.
 * **Treasury Withdrawal Actions:** Given the procedural on-chain steps, we expect initial Treasury Withdrawal Actions to be submitted on-chain in June to July.
 
 _Below is a high level timeline of the process_
@@ -40,9 +34,9 @@ The community has shown varied perspectives on DReps’ roles in shaping budget 
 
 ## Committee budget submissions
 
-We want to thank all the Intersect committees, who have invested substantial effort into their February draft proposals, many of which garnered strong community support. To leverage this foundational work, committees can now submit line items that may have received a warm reception already, or their block budget entirely directly through the same streamlined [intake form](https://www.intersectmbo.org/cardano-budget-submission).&#x20;
+We want to thank all the Intersect committees, who have invested substantial effort into their February draft proposals, many of which garnered strong community support. To leverage this foundational work, committees can now submit line items that may have received a warm reception already, or their block budget entirely directly through the same streamlined [intake form](https://www.intersectmbo.org/cardano-budget-submission).
 
-While some submissions may initially lack vendor specification, they can, if desired, transparently utilize Intersect’s procurement processes, enabling a swift transition into formal Budget Info Actions.&#x20;
+While some submissions may initially lack vendor specification, they can, if desired, transparently utilize Intersect’s procurement processes, enabling a swift transition into formal Budget Info Actions.
 
 ## Committees: present and future roles
 

@@ -1,5 +1,7 @@
 # Key Terms and resources
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Here are a few key terms and definitions mentioned in this brief and related to Cardano’s on-chain governance:
 
 [cardano-improvement-proposal-cip.md](../../../../../../../cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/key-terms/cardano-improvement-proposal-cip.md "mention")

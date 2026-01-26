@@ -1,5 +1,7 @@
 # Functional requirements
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 * Enable DReps to create profiles showcasing and highlighting their role in Cardano, and their perspectives on governance
 * Facilitate the DRep delegation process (for example, by linking to the unique on-chain identifier for a DRep)
 * Align with the [CIP-0100? | Governance Metadata](https://github.com/cardano-foundation/CIPs/pull/556) to structure the extra content DReps will provide

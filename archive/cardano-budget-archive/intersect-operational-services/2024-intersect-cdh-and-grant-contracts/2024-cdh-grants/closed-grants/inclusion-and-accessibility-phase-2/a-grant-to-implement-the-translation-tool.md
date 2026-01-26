@@ -1,7 +1,9 @@
 # A Grant to implement the translation tool
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 {% hint style="info" %}
-This grant Part 1 is now closed&#x20;
+This grant Part 1 is now closed
 {% endhint %}
 
 ## Context

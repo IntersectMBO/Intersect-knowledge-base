@@ -1,5 +1,7 @@
 # Read the Cardano Constitution
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 You can also read the Cardano Blockchain Ecosystem Constitution on our [Github pages](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-12-05)
 
 ## CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION
@@ -1177,4 +1179,4 @@ For a rendered markdown view, you can see;
 
 [IntersectMBO/draft-constitution/draft-constitution.md](https://github.com/IntersectMBO/draft-constitution/blob/main/2024-12-05/draft-constitution-converted.md)
 
-In January 2025, following the Plomin upgrade, Intersect will submit a Constitutional Amendment governance action for the wider Cadano community to ratify.&#x20;
+In January 2025, following the Plomin upgrade, Intersect will submit a Constitutional Amendment governance action for the wider Cadano community to ratify.

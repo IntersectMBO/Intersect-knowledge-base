@@ -1,12 +1,14 @@
 # Proposal discussion forum
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 {% hint style="info" %}
-**This grant category closed on 11th December 2023.**&#x20;
+**This grant category closed on 11th December 2023.**
 {% endhint %}
 
-With on-chain governance, introduced by CIP-1694, ada holders will be empowered to submit a governance action (GA) directly onto the Cardano mainnet. This ability will transform how decisions are made for the blockchain. \
+With on-chain governance, introduced by CIP-1694, ada holders will be empowered to submit a governance action (GA) directly onto the Cardano mainnet. This ability will transform how decisions are made for the blockchain.\
 \
-To support CIP-1694's on-chain features, during the course of the CIP-1694 community workshops, attendees consistently requested off-chain processes and features to ensure GA's have been widely considered and socialized before they are submitted on-chain.&#x20;
+To support CIP-1694's on-chain features, during the course of the CIP-1694 community workshops, attendees consistently requested off-chain processes and features to ensure GA's have been widely considered and socialized before they are submitted on-chain.
 
 ### The Proposal Discussion Forum
 
@@ -15,8 +17,3 @@ To respond to the feedback, Intersect is opening up a grant for members to devel
 {% hint style="info" %}
 A proposal in this instance refers to a solution or request by an ada-holder(s) before it's submitted as a governance action on-chain
 {% endhint %}
-
-
-
-
-

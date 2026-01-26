@@ -1,5 +1,7 @@
 # Governance roles
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 {% embed url="https://youtu.be/9DPjzWfzyt0?feature=shared" %}
 
 Decentralised Governance Requires different actors to function properly.\

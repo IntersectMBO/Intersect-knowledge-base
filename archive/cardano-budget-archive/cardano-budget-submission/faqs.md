@@ -1,8 +1,6 @@
 # FAQs
 
-{% hint style="warning" %}
-This page has been **archived**
-{% endhint %}
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
 Budget Timeline
 
@@ -616,7 +614,7 @@ Each team member contributes across multiple functions and areas of responsibili
 
 With over 1,800 members and 2,700+ associates, this equates to 1 FTE per 100 participants, underscoring the need for a well-resourced team to ensure meaningful support and engagement across the ecosystem.
 
-#### Team Transition
+**Team Transition**
 
 Intersect recognizes the need to transition to a more community-embedded model of governance. As such, beginning in July 2025, there is a clear plan to gradually transition consultants and contractors out, replacing them with qualified community members.
 

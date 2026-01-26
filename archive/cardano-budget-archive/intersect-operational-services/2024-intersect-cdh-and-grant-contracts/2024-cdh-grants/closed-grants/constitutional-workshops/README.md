@@ -1,8 +1,10 @@
 # Constitutional workshops
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## The roadmap to creating a lasting Cardano constitution
 
-### Beginnings: CIP-1694&#x20;
+### Beginnings: CIP-1694
 
 In November 2022, a new on-chain governance system was presented to the community for consideration (see[ CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694)). In the past 18 months, this CIP has become the most actively engaged CIP in Cardano history. This proposal describes a governance system that creates on-chain governance for the Cardano blockchain. And while it lays out the technical specification for on-chain governance, it does not define the necessary off-chain aspects of governance.
 
@@ -10,9 +12,9 @@ Notably, it does not define a governing document for the social layer managing t
 
 ### Our First Governing Document: Interim Cardano Constitution
 
-The first Cardano Constitution will be the Interim Constitution. This will be in place as part of the interim phase of on-chain governance ([learn more here](https://www.intersectmbo.org/news/cardanos-governance-key-terms-and-milestones)), to enable the Chang Upgrade.&#x20;
+The first Cardano Constitution will be the Interim Constitution. This will be in place as part of the interim phase of on-chain governance ([learn more here](https://www.intersectmbo.org/news/cardanos-governance-key-terms-and-milestones)), to enable the Chang Upgrade.
 
-The next step in the process of developing  the Cardano Constitution is to host Constitutional Workshops around the world to solicit feedback from members of the Cardano community at large. This feedback will feed into the Constitutional Convention for approval by Constitutional Delegates.  Following the Constitutional Convention and successful on-chain ratification of the Cardano Constitution produced at that event, the new Constitution will replace the Interim Constitution.
+The next step in the process of developing the Cardano Constitution is to host Constitutional Workshops around the world to solicit feedback from members of the Cardano community at large. This feedback will feed into the Constitutional Convention for approval by Constitutional Delegates. Following the Constitutional Convention and successful on-chain ratification of the Cardano Constitution produced at that event, the new Constitution will replace the Interim Constitution.
 
 ### Contributing to the final constitution via constitutional workshops
 

@@ -1,5 +1,7 @@
 # Interim Constitution Committee (ICC)
 
+{% include "../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Introducing the interim Constitution Committee
 
 Like the interim Constitution, there is an interim Constitutional Committee (ICC) to enable the first stage of the Chang upgrade. The ICC focuses on the technicality and base constitutionality of the very first community-submitted on-chain governance actions. Through the technical aptitude and expertise required to interpret the interim constitution and to submit CC votes, the ICC fulfills an important role in maintaining the Cardano blockchain’s stability and security during the[ interim period.](https://www.intersectmbo.org/news/cardanos-governance-key-terms-and-milestones)
@@ -59,6 +61,6 @@ _Jo Allum, Mark Byers, Oscar Hong, Phil Lewis, Ha Nguyen, Yuki Oishi_
 ### 7. Intersect
 
 [_Intersect Constitutional Council_](https://constitutionalcouncil.docs.intersectmbo.org/) _is led by the following voting members:_\
-&#xNAN;_&#x45;ystein Hansen, Ian Hartwell, HOSKY, Mauro Andreoli, Juan Sierra, Ubio Obu, Jose Gamboa, and Nicodemus Rodriguez._
+\&#xNAN;_Eystein Hansen, Ian Hartwell, HOSKY, Mauro Andreoli, Juan Sierra, Ubio Obu, Jose Gamboa, and Nicodemus Rodriguez._
 
 \\

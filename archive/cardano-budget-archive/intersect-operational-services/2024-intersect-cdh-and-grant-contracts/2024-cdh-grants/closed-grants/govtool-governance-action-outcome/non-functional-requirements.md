@@ -1,5 +1,7 @@
 # Non Functional Requirements
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Usability
 
 * This section should be accessible to non-technical users
@@ -21,7 +23,7 @@
   * The section needs to follow the same apache 2.0 of the overall govtool
   * The applicant accepts to create full documentation to allow open contribution
 * Use the following boilerplate:
-  * [https://github.com/IntersectMBO/web-app-boilerplate-template](https://github.com/IntersectMBO/web-app-boilerplate-template)&#x20;
+  * [https://github.com/IntersectMBO/web-app-boilerplate-template](https://github.com/IntersectMBO/web-app-boilerplate-template)
 
 ### Technical specification requirements for FE and BE (to ensure integration)
 

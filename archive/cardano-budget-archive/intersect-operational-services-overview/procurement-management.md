@@ -1,8 +1,6 @@
 # Procurement Management
 
-{% hint style="warning" %}
-This page has been **archived**&#x20;
-{% endhint %}
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
 If a proposal has been approved by DReps, pushed through to successful treasury withdrawal and the vendor has selected Intersect to be the named administrator, then Intersect Operational Services team will oversee the entire procurement process. Intersect’s Procurement team will support from contract creation to contract initiation including any legal and financial requirements to consider. As the chosen Administrator, Intersect will complete all required procurement checks, including conducting the necessary KYB/KYC checks. Once this is done, the Intersect Procurement and Legal teams will work to establish a contract between the vendor and the Cardano Development Fund.
 

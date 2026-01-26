@@ -1,11 +1,9 @@
 # Treasury withdrawal poll - voting pack
 
-{% hint style="warning" %}
-This page has been **archived**&#x20;
-{% endhint %}
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
 {% hint style="warning" %}
-This pack is intended as a support guide to inform your decision-making. Our initial assessment of each option - including pros, cons, and consequences - is based on Intersect’s operational understanding and community feedback, but we recognize it may be considered subjective.&#x20;
+This pack is intended as a support guide to inform your decision-making. Our initial assessment of each option - including pros, cons, and consequences - is based on Intersect’s operational understanding and community feedback, but we recognize it may be considered subjective.
 
 We also acknowledge that a range of other solutions and combinations may exist beyond the five presented. Please treat this guide as informative rather than prescriptive.\
 \
@@ -13,7 +11,7 @@ The poll is advisory and non-binding.
 {% endhint %}
 
 {% hint style="info" %}
-The poll will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**.&#x20;
+The poll will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**.
 
 Vote [here](https://bit.ly/withdrawal-poll)!
 {% endhint %}
@@ -30,15 +28,15 @@ By the end, you should understand:
 
 ### Polling window and methodology
 
-The polling window will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**.&#x20;
+The polling window will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**.
 
 In this first year of governance, we recognise we are dealing with an immature and imperfect process. This is a critical year for ecosystem funding. Trade offs will be required to balance the perfect with the pragmatic, broad consent with compromise and keep the process moving forward. With increasingly varied and competing views on how to proceed following our Budget Info Action, the purpose of the poll is to help and inform Intersect how to present budget items (if approved) as Treasury Withdrawal governance actions - capturing a quantified data point from Dreps before we submit.\
 \
-As a DRep the question you are being asked:&#x20;
+As a DRep the question you are being asked:
 
 _**How would you like to see Intersect submit Treasury Withdrawals against our Budget Info Action? Please select a single preferred option.**_
 
-Please use this guide to help unpack the various options and pros and cons to each.&#x20;
+Please use this guide to help unpack the various options and pros and cons to each.
 
 ### Challenges ahead & balancing act
 
@@ -117,7 +115,7 @@ Withdrawals to fund all proposals in full: 1
 * If it fails, Intersect or proposers resubmit a new structure or single governance actions, adding a minimum 6‑8 weeks due to the on-chain parameters.
 * ICC review effort is lower by only needing to adjudicate on a single withdrawal action, however diligence is still needed to ensure constitutionality with all 39 proposals.
 
-### B. Two support brackets - proposals above 67% and between 50%+1 and 67%&#x20;
+### B. Two support brackets - proposals above 67% and between 50%+1 and 67%
 
 What it is: Two Treasury Withdrawal governance actions. One groups all proposals that received greater than 67% support in the Ekklesia signal. The second, groups proposals that received between 50%+1 and 67%.
 
@@ -178,17 +176,17 @@ What it is: Proposals sorted into five brackets by signal strength. **50-59%, 60
 5 withdrawals to fund 2025:
 
 * 1 withdrawal combining 4 proposals from 50-59%
-* 1 withdrawal combining 5 proposals from 60-69%&#x20;
+* 1 withdrawal combining 5 proposals from 60-69%
 * 1 withdrawal combining 9 proposals from 70-79%
-* 1 withdrawal combining 8 proposals from 80-89%&#x20;
+* 1 withdrawal combining 8 proposals from 80-89%
 * 1 withdrawal combining 13 proposals from 90-100%
 
 5 withdrawals to fund 2026:
 
 * 1 withdrawal combining 4 proposals from 50-59%
-* 1 withdrawal combining 5 proposals from 60-69%&#x20;
+* 1 withdrawal combining 5 proposals from 60-69%
 * 1 withdrawal combining 9 proposals from 70-79%
-* 1 withdrawal combining 8 proposals from 80-89%&#x20;
+* 1 withdrawal combining 8 proposals from 80-89%
 * 1 withdrawal combining 13 proposals from 90-100%
 
 #### Pros
@@ -229,7 +227,7 @@ What it is: Either Intersect or each proposer submits their own Treasury Withdra
 
 * From a capacity and clarity perspective, Intersect cannot support the submission of 39 Treasury Withdrawal governance actions. They will need to be submitted by the vendor directly.
 * Given the scale, may fragment approvals and add delay for some projects
-* Delivery windows may be conflated, depending on on-chain approval timeframe, and add complexity to our role as the Administrator.&#x20;
+* Delivery windows may be conflated, depending on on-chain approval timeframe, and add complexity to our role as the Administrator.
 * Projects face planning paralysis, potentially losing staff or partnership opportunities.
 
 ***
@@ -238,13 +236,13 @@ What it is: Either Intersect or each proposer submits their own Treasury Withdra
 
 Intersect has two main considerations to balance: serving as a neutral and impartial coordinator for Cardano, and fulfilling its role effectively as Administrator with contractual and delivery oversight. While Option A is the simplest path operationally, it offers limited discretion and presents risk if it fails. In light of community feedback, **we encourage DReps to give consideration to Options B or C**.
 
-We also need to recognize DRep, Vendor, and wider community feedback as we shape the options now under consideration. We need to be pragmatic and acknowledge that however the process may be improved in the future, we must focus on what we can do in 2025.&#x20;
+We also need to recognize DRep, Vendor, and wider community feedback as we shape the options now under consideration. We need to be pragmatic and acknowledge that however the process may be improved in the future, we must focus on what we can do in 2025.
 
 Both of these approaches reflect the off-chain signal already provided by the community and offer a balanced path forward. It allows the most broadly supported initiatives to proceed with confidence, while giving space for further consideration of proposals with narrower support. We believe Option B or C best meet the needs of a diverse ecosystem while balancing the following:
 
 * Democratic legitimacy: It directly reflects the outcome of the final temperature check in Ekklesia, preserving the bottom-up character of the process while recognizing varying levels of community support.
 * Governance pragmatism: These options avoid the risks of a single all-or-nothing withdrawal and provide enough structure to maintain forward momentum without overwhelming DReps or the ICC.
-* Builder assurance: Proposals in higher-support brackets are more likely to receive timely funding, allowing those projects to begin delivery against agreed milestones, while lower-support proposals receive additional scrutiny.&#x20;
+* Builder assurance: Proposals in higher-support brackets are more likely to receive timely funding, allowing those projects to begin delivery against agreed milestones, while lower-support proposals receive additional scrutiny.
 * This approach also encourages open discourse around projects and teams in the lower approval brackets.
 * Operational feasibility: Up to five actions are manageable within Intersect’s current administrative capacity, while still giving DReps meaningful discretion.
 
@@ -255,7 +253,7 @@ This is not a rigid model for future cycles, but a practical path for 2025 that 
 ## 6. How the chosen structure flows to execution
 
 1. Ekklesia preference poll closes – XXX
-2. Intersect drafts withdrawals in the structure that considers  DRep preference based on this poll.
+2. Intersect drafts withdrawals in the structure that considers DRep preference based on this poll.
 3. On‑chain submission – withdrawals ideally posted in the same epoch to support the ICC and DReps with NCL and project delivery clarity.
 4. DRep voting period – like all governance actions, Treasury Withdrawals expire after six epochs, but unlike Info Actions, can be ratified earlier if thresholds are met by both DReps and the ICC.
 5. Treasury disbursement – funds potentially available to vendors within days of a Treasury Withdrawal Action being enacted via Intersect’s role as their Administrator.
@@ -304,5 +302,5 @@ Intersect will cover deposits for up to five bundles or actions. Options requiri
 ## 9. Action: cast your preference
 
 1. Head over to Ekklesia to vote: [https://bit.ly/withdrawal-poll](https://bit.ly/withdrawal-poll)
-2. Choose one option between Options A–E&#x20;
+2. Choose one option between Options A–E
 3. The polling window will open on **Friday June 6 at 12:00pm UTC** and will close on **Tuesday June 10 at 23:59 UTC**

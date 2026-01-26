@@ -1,22 +1,20 @@
 # Current Proposals Analysis
 
-{% hint style="warning" %}
-This page has been **archived**&#x20;
-{% endhint %}
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
 _Last updated on 25th April at 11:00 UTC_
 
-Our proposal portal has been open for 36 working days, where 197 proposals were submitted before DRep temp checks and comments were exported at 5pm UTC  24th April, to create a soft proposal prioritization based on proposal feedback. This prioritization is the starting point for the reconciliation workshops.
+Our proposal portal has been open for 36 working days, where 197 proposals were submitted before DRep temp checks and comments were exported at 5pm UTC 24th April, to create a soft proposal prioritization based on proposal feedback. This prioritization is the starting point for the reconciliation workshops.
 
-## **Total proposals received: 197**&#x20;
+## **Total proposals received: 197**
 
 **Split by Category:**
 
-* Core: 54&#x20;
-* Governance Support: 28&#x20;
-* Marketing and Innovation: 78 &#x20;
-* Research: 20 &#x20;
-* None of these: 17 &#x20;
+* Core: 54
+* Governance Support: 28
+* Marketing and Innovation: 78
+* Research: 20
+* None of these: 17
 
 **Split by Committee:**
 
@@ -25,12 +23,10 @@ Our proposal portal has been open for 36 working days, where 197 proposals were 
 * Membership & Community Committee: 25
 * Civics Committee: 10
 * Open Source Committee: 33
-* Product Committee: 30&#x20;
-* Technical Steering Committee: 26&#x20;
+* Product Committee: 30
+* Technical Steering Committee: 26
 * None: 7
 * Unsure: 13
-
-
 
 ## Recent Committee Guidance Related to Budget Submissions
 
@@ -39,12 +35,9 @@ Our proposal portal has been open for 36 working days, where 197 proposals were 
 * [Civics Committee Budget Guidance](https://committees.docs.intersectmbo.org/intersect-civics-committee/about/civics-committee-budget-guidance)
 * [2025 Draft Budget Bucket Proposals (first release)](https://docs.google.com/spreadsheets/d/1XNcaZmjfz5Q6ZNwNSLBNaZtrZf58tD7bun2Tz7-GSK4/edit?gid=1980523364#gid=1980523364)
 
-
-
 ## Summary-level information of proposals submitted for treasury funding
 
-As of April 22, 2025. Designed to support DReps ahead of the 2025 Cardano Budget Reconciliation Workshops.\
-
+As of April 22, 2025. Designed to support DReps ahead of the 2025 Cardano Budget Reconciliation Workshops.\\
 
 ### Survey about comfort level with Draft Budgets Submitted by Intersect Committees in February 2025
 
@@ -62,17 +55,11 @@ See the current proposal analysis on your favorite community tool:
 
 [https://www.syncgovhub.com/budget](https://www.syncgovhub.com/budget)
 
-
-
 You can view the full data for each proposal on [gov.tools/budget\_discussion](https://gov.tools/budget_discussion)
-
-
 
 ### Proposals >50% thumbs up by stake in Gov.Tools temp check
 
 As of April 22, 2025, and based on the participation in Gov.Tools. Not all DReps have participated in the temp checks, so this is sentiment-level results only.
-
-
 
 Totals: 316M ADA
 
@@ -115,25 +102,18 @@ Totals: 316M ADA
 | EchoFeed                                                                                                                                           | Research               | 63.61%  |
 | Eternl Maintenance                                                                                                                                 | Core                   | 61.57%  |
 
-
-
 ### Proposals that self-reference a committee’s priority
 
 As of April 22, 2025
-
-
 
 In February 2025, seven Intersect committees each published their Draft Bucket Proposals (first release). These budgets outlined the line items they deemed to be important for the Cardano ecosystem in their domain. To find more information about the proposed budget, see the conversation [here](https://forum.cardano.org/t/overview-a-cardano-blockchain-ecosystem-budget/143049).
 
 \
 Based on the proposals submitted to receive treasury funding, these self-reported alignment to a committee’s priority and may indicate alignment to the committee members’ opinions of what is critical for the ecosystem:
 
-
-
 #### Proposals that self-report alignment to product roadmap
 
-As of April 22, 2025\
-
+As of April 22, 2025\\
 
 In March 2025, a vision and [product roadmap for Cardano was submitted as an info-action on-chain](https://gov.tools/outcomes/governance_actions/56f39054758f1a3cedc1de9225d66bf270b62dfdbfbc5399f1d6d43aceffc636#0) and received 63% DRep support. Developed by Cardano Product Committee of Intersect with consultation from key technical stakeholders, the roadmap outlines key development priorities, technological advancements, and strategic goals for the Cardano ecosystem. Proposers were asked to report if their proposal is aligned to any of these roadmap items.
 

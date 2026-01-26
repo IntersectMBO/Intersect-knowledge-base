@@ -1,5 +1,7 @@
 # Weekly governance bulletin
 
+{% include "../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Date: 30.10.2024
 
 As the landscape of Cardano Governance is constantly changing, with new governance actions being raised and voted upon, we felt it essential to cut through the noise and report on the latest governance actions. Moving forward, we will offer a concise and informative overview of key developments in the governance process in this new weekly bulletin. It is designed to keep everyone informed, from ada holders to DReps, ICCs, and SPOs. Each week, you will get updates on:
@@ -43,14 +45,14 @@ Once the mainnet launch date is confirmed, we’ll host a Q\&A to address commun
 
 ## Live Governance Actions
 
-Info Action - [Should K Increased](https://gov.tools/governance\_actions/7fd6429add8f2611ad8d48c0cc49101463093aec285faea402e8cfde78ea58d7#0):\
+Info Action - [Should K Increased](https://gov.tools/governance_actions/7fd6429add8f2611ad8d48c0cc49101463093aec285faea402e8cfde78ea58d7#0):\
 This proposal aims to increase community participation in Cardano's governance by encouraging discussion and understanding of protocol parameters, specifically the K parameter and its effect on stake pool saturation and rewards. It does not suggest any specific changes at this time.
 
 * Info action
 * Submitted: 11.10.2024 (Epoch 514)
 * Expires: 10.11.2024 (end of Epoch 520)
 
-No new Governance Actions added this week.&#x20;
+No new Governance Actions added this week.
 
 ## Constitution Planning & Rollout (Updated bi-weekly)
 

@@ -1,8 +1,6 @@
 # Budget Process
 
-{% hint style="warning" %}
-This page has been **archived**&#x20;
-{% endhint %}
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
 A critical factor in budget discussions is the Net Change Limit (NCL)—a constitutional mechanism that determines how much ADA can be withdrawn from the Treasury within a set period. The community is currently evaluating two possible approaches: a percentage-based limit or a fixed numeric cap. The outcome of this decision will shape how Treasury resources are allocated, making open discussion and community alignment essential. The Intersect Budget Committee will continue to facilitate this process, ensuring all perspectives are considered. The NCL proposal is expected to be submitted on-chain towards the end of March.
 

@@ -1,5 +1,7 @@
 # Considerations
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Collaboration
 
 The journey to participate in Cardano Governance will be better as a connected experience. Proposers are encouraged to collaborate with other members where helpful, especially for integration.
@@ -10,7 +12,7 @@ There is no set amount for the Open Category, as it’d be preferable for applic
 
 ### Suggested minimum milestones
 
-The milestones below are indicative and proposals should ideally not exceed a six month delivery plan. Proposals should also broadly align with the [CIP-1694 roadmap](https://www.intersectmbo.org/roadmap).&#x20;
+The milestones below are indicative and proposals should ideally not exceed a six month delivery plan. Proposals should also broadly align with the [CIP-1694 roadmap](https://www.intersectmbo.org/roadmap).
 
 | Milestone                                                                            |
 | ------------------------------------------------------------------------------------ |

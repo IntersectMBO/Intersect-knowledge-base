@@ -1,5 +1,7 @@
 # Grants to translate GovTool and the Constitutional Committee Portal
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Context
 
 Multi-language support for Govtool and Constitutional Committee portal will make these foundational governance tools more accessible to a wider group. Intersect is offering one grant for each of the key languages identified to people with a good understanding of Cardano, its governance described in CIP-1694, and Govtool (currently live in its beta version on [sanchogov.tools](https://sanchogov.tools/)).
@@ -16,7 +18,7 @@ Languages to be supported:
 * French
 * Japanese
 * Swahili
-* Italian&#x20;
+* Italian
 
 ## Budget
 
@@ -24,4 +26,4 @@ Languages to be supported:
 
 ## To Apply
 
-This grant will open on award and completion of the first grant to build the translation tool, Poedit.&#x20;
+This grant will open on award and completion of the first grant to build the translation tool, Poedit.

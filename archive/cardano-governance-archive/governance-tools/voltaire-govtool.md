@@ -4,6 +4,8 @@ description: Overview of the Voltaire Govtool
 
 # Voltaire GovTool
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 The Voltaire Govtool is a community tool that supports the key steps of Cardano's Governance process described in CIP1694. Govtool is part of the core governance tools.
 
 Intersect has facilitated the bootstrapping of GovTool and supported the process to fully open source it, allowing community ownership for improvement and maintenance.

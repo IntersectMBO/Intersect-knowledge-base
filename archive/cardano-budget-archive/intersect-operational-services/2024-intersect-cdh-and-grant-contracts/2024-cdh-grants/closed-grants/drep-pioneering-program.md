@@ -1,5 +1,7 @@
 # DRep Pioneering Program
 
+{% include "../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 {% hint style="info" %}
 **This grant category closed on 5th April 2024.**
 {% endhint %}

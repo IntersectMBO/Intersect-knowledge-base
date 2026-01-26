@@ -1,14 +1,16 @@
 # Milestone report Q2 2024
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Continuity Achievements for Q2
 
 ### Byron
 
-Byron continues to develop the Voltaire GovTool webApp by supporting the launch and running a beta testing period to discover and fix bugs and collect feedback and ideas.&#x20;
+Byron continues to develop the Voltaire GovTool webApp by supporting the launch and running a beta testing period to discover and fix bugs and collect feedback and ideas.
 
 In Q2 they completed the following milestones. Below is a direct quote from the supplier:
 
-#### Milestone 1 - Design Phase - Governance Action Submission.&#x20;
+#### Milestone 1 - Design Phase - Governance Action Submission.
 
 “Explore the New Horizon of Digital Engagement with Our Latest Design Suite Optimized for Every Screen: Experience our Homepage and Dashboard designs, perfected for every device size from mobile (375px) to desktop (2560px), ensuring a responsive and seamless experience no matter where you are.
 
@@ -22,7 +24,7 @@ The first milestone in the path of Governance Actions delivery.”
 
 #### Milestone 2 - Development Phase - Governance Action Submission
 
-“We have successfully completed the development phase of the Governance Action  Submission tool for both desktop and mobile platforms. This milestone was achieved through the full implementation of all features as outlined in our evolving Figma plan. This includes both the functionalities we initially planned and those we added as we gained new insights during the development process. Initial work for integrating with the Proposal Discussion Forum has been started.”
+“We have successfully completed the development phase of the Governance Action Submission tool for both desktop and mobile platforms. This milestone was achieved through the full implementation of all features as outlined in our evolving Figma plan. This includes both the functionalities we initially planned and those we added as we gained new insights during the development process. Initial work for integrating with the Proposal Discussion Forum has been started.”
 
 #### GovTool - Support for Beta Testing - Deliverables 1 & 2 (Monthly - April)
 
@@ -30,7 +32,7 @@ The first milestone in the path of Governance Actions delivery.”
 
 ### DQuadrant
 
-DQuadrant is focusing on developing a comprehensive testing strategy for dApps (decentralized applications). The key deliverables included the “Intersect dApps testing strategy document” and a reference document to support its implementation. These documents were designed to ensure the functionality and security of dApps through detailed testing protocol and strategic documentation.&#x20;
+DQuadrant is focusing on developing a comprehensive testing strategy for dApps (decentralized applications). The key deliverables included the “Intersect dApps testing strategy document” and a reference document to support its implementation. These documents were designed to ensure the functionality and security of dApps through detailed testing protocol and strategic documentation.
 
 #### In Q2 they completed the following milestones. Below is a direct quote from the supplier:
 
@@ -64,7 +66,7 @@ This milestone enables current and future teams to add tests for Govtool pillars
 
 https://github.com/IntersectMBO/cardano-test-plans/blob/main/userStoryInventoryChangHF.md
 
-The user stories added to this document are implemented with tests on the actual Govtool repo. These tests can be seen on the reporting dashboard here:&#x20;
+The user stories added to this document are implemented with tests on the actual Govtool repo. These tests can be seen on the reporting dashboard here:
 
 https://intersectmbo.github.io/govtool-test-reports/govtool-frontend/”
 
@@ -90,7 +92,7 @@ This milestone enables the team to see the regression of the tests with each new
 
 “For workstream 3 Delivery 2, the DQuadrant team refactored the existing tests related to Governance action and added new tests for 8 new user stories. These tests are added to the test suites that get executed and reported when there is an update on the test branch. This keeps the status of the test report up-to-date. There are failing tests that indicate the bugs for which the team has created appropriate Github tickets and assigned the dev team. The deployed test dashboard is made available here:
 
-[https://intersectmbo.github.io/govtool-test-reports/govtool-frontend/](https://intersectmbo.github.io/govtool-test-reports/govtool-frontend/)&#x20;
+[https://intersectmbo.github.io/govtool-test-reports/govtool-frontend/](https://intersectmbo.github.io/govtool-test-reports/govtool-frontend/)
 
 The user stories for which tests were added under this milestone delivery are tracked here:[ https://github.com/IntersectMBO/govtool/issues/1000](https://github.com/IntersectMBO/govtool/issues/1000)
 
@@ -98,7 +100,7 @@ This milestone enables the team to see the regression of the tests with each new
 
 ### Galois
 
-As part of the Halo 2 project, Galois is leading the development of Zero-knowledge proofs (ZKPs) for future interoperability of the Cardano economy.&#x20;
+As part of the Halo 2 project, Galois is leading the development of Zero-knowledge proofs (ZKPs) for future interoperability of the Cardano economy.
 
 #### In Q2 they completed the following milestones. Below is a direct quote from the supplier:
 
@@ -114,7 +116,7 @@ In Q2, they delivered Sanchonet 8.8, 8.9, 8.10, and 8.12 bringing the ability to
 
 ### Tweag
 
-Tweag is developing the Ouroboros Genesis mechanism (Genesis), which enables new nodes to join the Cardano blockchain and bootstrap themselves without relying on a trusted service. It also allows nodes to become disconnected and rejoin the network similarly. Earlier this year Tweag completed Limit on Patience, Genesis State Machine & Lightweight Checkpointing.&#x20;
+Tweag is developing the Ouroboros Genesis mechanism (Genesis), which enables new nodes to join the Cardano blockchain and bootstrap themselves without relying on a trusted service. It also allows nodes to become disconnected and rejoin the network similarly. Earlier this year Tweag completed Limit on Patience, Genesis State Machine & Lightweight Checkpointing.
 
 #### In Q2 they completed the following milestones. Below is a direct quote from the supplier:
 
@@ -122,7 +124,7 @@ Tweag is developing the Ouroboros Genesis mechanism (Genesis), which enables new
 
 “We worked on the Intersect MBO Business Project, which has a fixed project goal: "To conduct an initial assessment and provide advisory services to Intersect in order to develop the foundational vision and strategy of the Open Source Program Office(OSPO), ensuring a successful transition for Cardano into an open-source environment.”
 
-The Cardano ecosystem needs to transition smoothly following the Voltaire 1694 Cardano Improvement Proposal, which details changing from the old organizational approach to a new, Member-Based Organization. The transition was already planned when our team members joined the OSO (Open Source Office) department.&#x20;
+The Cardano ecosystem needs to transition smoothly following the Voltaire 1694 Cardano Improvement Proposal, which details changing from the old organizational approach to a new, Member-Based Organization. The transition was already planned when our team members joined the OSO (Open Source Office) department.
 
 We evaluated, advertised, and assisted Intersect MBO OSO in elaborating on Vision and Strategy Development, Stakeholder Communication and Management, Open-Source Office implementation, and OSO organizational structuring. Our work included specific research and development activities to deliver new, adapted deliverables covering open-source industry standards, the open-source community, and the Intersect MBO organizational entities.
 
@@ -134,7 +136,7 @@ We evaluated, advertised, and assisted Intersect MBO OSO in elaborating on Visio
 
 ### WellTyped
 
-Welltyped is developing new Log Structured Merge Tree implementations (LSM). These will store the ledger's UTxO set on disk rather than in memory, substantially increasing the number of UTxOs—supporting many more users—while also allowing nodes to run on cheaper, lower-spec machines. As part of this work, an interim milestone focussed on Core Data Structures & Algorithms was achieved.&#x20;
+Welltyped is developing new Log Structured Merge Tree implementations (LSM). These will store the ledger's UTxO set on disk rather than in memory, substantially increasing the number of UTxOs—supporting many more users—while also allowing nodes to run on cheaper, lower-spec machines. As part of this work, an interim milestone focussed on Core Data Structures & Algorithms was achieved.
 
 #### In Q2 they completed the following milestones. Below is a direct quote from the supplier:
 
@@ -154,4 +156,4 @@ We have recently completed an intermediate technical milestone covering several 
 
 VacLabs is working on ensuring the continued practical use of the Ledger and Trezor hardware wallets for the Cardano community and enhancements to support the Conway era. Earlier this year they successfully completed the development of the Trezor Hardware Wallet, Ledger Hardware Wallet Firmware App & supporting tooling.
 
-\
+\\

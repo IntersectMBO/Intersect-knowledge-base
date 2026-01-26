@@ -1,7 +1,9 @@
 # Constitutional committee portal
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 {% hint style="info" %}
-**This grant category closed on 11th December 2023.**&#x20;
+**This grant category closed on 11th December 2023.**
 {% endhint %}
 
 ## Overview
@@ -12,4 +14,4 @@ The Constitutional Committee (CC) is one of the three groups responsible for rat
 
 Responding to community feedback via the CIP-1694 community workshops, Intersect are looking for proposals to build a new Constitutional Committee Portal. The Constitutional Committee Portal will be a tool for the CC to share their voting record and accompanying rationale as to why a governance action was either constitutional or unconstitutional. The portal will also be a common space to store the Cardano Constitution for all ada-holders to view. This portal will be critical in driving transparency to the CC and its role in Cardano’s governance.
 
-\
+\\

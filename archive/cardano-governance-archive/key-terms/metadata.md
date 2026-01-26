@@ -1,5 +1,7 @@
 # Metadata
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 In the CIP-1694 Governance Metadata refers to any Off-Chain extra data submitted On-Chain to provide extra context.\
 \
 These include:

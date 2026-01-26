@@ -2,6 +2,8 @@
 title: This page has been archived
 ---
 
-{% hint style="warning" %}
-This page has been **archived**&#x20;
+{% hint style="danger" %}
+**ARCHIVED**
+
+This page has been archived. It's content might be outdated.
 {% endhint %}

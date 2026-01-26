@@ -4,6 +4,8 @@ description: Overview of the Constitutional Committee Portal
 
 # Constitutional Committee Portal
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 The Constitutional Committee Portal (CC Portal) is part of the core governance tools, supporting the key steps of the Cardano governance process.
 
 The CC Portal is a community tool that have been developed via an Intersect grant.

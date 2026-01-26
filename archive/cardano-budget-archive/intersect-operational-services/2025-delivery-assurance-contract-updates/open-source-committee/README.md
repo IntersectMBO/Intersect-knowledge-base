@@ -1,5 +1,7 @@
 # Open source committee
 
+{% include "../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 This page covers everything related to the contracts that were proposed by the community to be contracted via the Open Source Committee. _Note that some of these contracts were established through the original 2024 contracting process, with funding provided by the CDH. Any contracts awarded from June 2025 onward will be financed through the Treasury withdrawal, in alignment with the budget process._
 
 ## **Contract overview section**

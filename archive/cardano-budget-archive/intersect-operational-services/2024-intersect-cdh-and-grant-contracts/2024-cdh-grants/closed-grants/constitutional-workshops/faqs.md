@@ -1,6 +1,8 @@
 # FAQs
 
-## What are the requirements for being a constitutional workshop host?&#x20;
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
+## What are the requirements for being a constitutional workshop host?
 
 * To host the workshop, you should expect to commit up to 50 hours of your time, from beginning to end.
 * You are able to host a day long (6-8 hrs), in-person workshop between August 1 and Oct. 15th.
@@ -15,7 +17,7 @@
 
 * 6-8 hrs
 
-## Do I need to do any preparation work in advance?&#x20;
+## Do I need to do any preparation work in advance?
 
 * Decide on a date and secure a venue, plan for food, swag etc.
 * Promote the workshop at least 2 weeks ahead of time
@@ -24,7 +26,7 @@
 * Ensure proper venue set-up
 * ~~Accept Constitutional Delegate candidacy videos from people who cannot attend the workshop live.~~ No Candidacy videos will be accepted for delegation (updated on 14th August 24).
 
-## Can a Host also be the chosen Constitutional Delegate for the Constitutional Convention?&#x20;
+## Can a Host also be the chosen Constitutional Delegate for the Constitutional Convention?
 
 * Yes, but they must be properly selected through the election process.
 

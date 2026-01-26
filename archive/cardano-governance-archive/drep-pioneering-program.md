@@ -1,5 +1,7 @@
 # DRep Pioneering Program
 
+{% include "../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Goals of the Program <a href="#goals-of-the-program" id="goals-of-the-program"></a>
 
 Intersect would like to sponsor a DRep Pioneer Program by inviting selected members to deliver the course to the Cardano community as Pioneer Workshop Leaders.

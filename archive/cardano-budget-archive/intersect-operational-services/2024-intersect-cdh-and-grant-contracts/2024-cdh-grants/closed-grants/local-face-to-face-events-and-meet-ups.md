@@ -1,18 +1,20 @@
 # Local face-to-face events and meet-ups
 
-Intersect is providing a grant between 1,000-5,000 ADA for local face-to-face meet-ups that cover Intersect and Cardano’s governance.&#x20;
+{% include "../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
+Intersect is providing a grant between 1,000-5,000 ADA for local face-to-face meet-ups that cover Intersect and Cardano’s governance.
 
 Following evaluation and selection of successful participants, Intersect will issue a contract with full detail of the agreement and payment/invoicing process. In this contractual agreement, Intersect will agree to distribute the Grant to the selected applicant as per the following:
 
-a.   \[50%] with effect from the date the contractual Agreement is signed by both parties providing the grantee has provided a date for the event, a preferred venue, a draft agenda, sign-up link and a budget breakdown;
+a. \[50%] with effect from the date the contractual Agreement is signed by both parties providing the grantee has provided a date for the event, a preferred venue, a draft agenda, sign-up link and a budget breakdown;
 
-b.   \[50%] with effect from the date the Event is complete, as evidenced by the Grantee producing all remaining Deliverables listed below.
+b. \[50%] with effect from the date the Event is complete, as evidenced by the Grantee producing all remaining Deliverables listed below.
 
 ## Deliverables:
 
 _In advance the host will be required to:_
 
-* Confirm date and venue of Event&#x20;
+* Confirm date and venue of Event
 * Provide agenda and share with Intersect at least 2 weeks ahead of event
 * Confirm budget breakdown at least 2 weeks ahead of event
 * Promote the workshop at least 2 weeks ahead of time via an online event link (e.g. luma)
@@ -28,5 +30,5 @@ As with any other grant, the same [application and review process will apply](ht
 If you are interested in running an event like this, please complete [this form](https://mpc.intersectmbo.org/local-events). **This category is currently closed.**
 
 {% hint style="info" %}
-Please schedule your event for no earlier than mid-July to allow us time to award and set you up to go!&#x20;
+Please schedule your event for no earlier than mid-July to allow us time to award and set you up to go!
 {% endhint %}

@@ -1,5 +1,7 @@
 # Milestone report Q3 2024
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Continuity Achievements for Q3 2024
 
 Welcome to our Q3 2024 Delivery Assurance newsletter! This edition provides an update on the progress made across various Cardano Continuity contracts, highlighting the key achievements and milestones completed during the past few months.
@@ -31,7 +33,7 @@ Byron have completed the remaining work on the GovTool WebApp, finalizing the be
 3. Rebranding of GovTool: We have successfully rebranded Sanchonet GovTool to Cardano GovTool, aligning our tools with our broader strategic vision.
 4. Pre-release of Design System: We launched the pre-release of the Design System to support Pilars, ensuring a uniform styling framework across our projects.”
 
-### DQuadrant: Testing Strategies & Chang Hard Fork Support&#x20;
+### DQuadrant: Testing Strategies & Chang Hard Fork Support
 
 #### Testing Strategies
 
@@ -41,7 +43,7 @@ We have recently signed a new contract with DQuadrant to extend the testing fram
 
 #### Milestone 3 - Extend coverage for Proposal Discussion Forum
 
-“The overall purpose of our project is to test the GovTool functionalities for decentralized governance as indicated in CIP-1694. Milestone 3 focuses on testing the Proposal submission and discussion forum.&#x20;
+“The overall purpose of our project is to test the GovTool functionalities for decentralized governance as indicated in CIP-1694. Milestone 3 focuses on testing the Proposal submission and discussion forum.
 
 For Milestone 3, we created user stories for proposal submission and discussion forum and had them reviewed by the respective team manager. A total of 38 tests were written for covering the user stories covering the cases for use cases like wallet connected/disconnected states, proposal submission, proposal validation, listing, searching, accessing, filtering, searching etc. These tests confirm the system's ability of GovTool to enable users to successfully submit a draft proposal for discussion and later submit as governance action.
 
@@ -51,7 +53,7 @@ This milestone validates the GovTool’s proposal submission and discussion foru
 
 “The overall purpose of our project is to test the GovTool functionalities for decentralized governance as indicated in CIP-1694. Milestone 1 focuses on maintaining and hosting the governance actions loader used for loading governance actions in bulk.
 
-For Milestone 1, we had been maintaining and hosting the governance actions loader since the beginning. It had been operational until early July. At the moment, it is not fully operational because of the dependency bug [https://github.com/IntersectMBO/cardano-api/issues/594](https://github.com/IntersectMBO/cardano-api/issues/594)  Issue is created and fix is being prepared by the cardano-api. Once the bug is fixed on the dependency, the loader can be made operational again.
+For Milestone 1, we had been maintaining and hosting the governance actions loader since the beginning. It had been operational until early July. At the moment, it is not fully operational because of the dependency bug [https://github.com/IntersectMBO/cardano-api/issues/594](https://github.com/IntersectMBO/cardano-api/issues/594) Issue is created and fix is being prepared by the cardano-api. Once the bug is fixed on the dependency, the loader can be made operational again.
 
 The Governance Actions Loader is useful in loading multiple governance actions in bulk which helps in (stress) testing the GovTool. The loader internally handles the constraints of linking the correct previous governance actions and preparing valid governance actions to submit on chain. This contributes to the overall testing effort to make decentralized governance possible for the Cardano community.”
 
@@ -87,9 +89,9 @@ This milestone contributes to the Cardano network by ensuring that the transitio
 
 #### Milestone 5: Mass Delegate-to-Abstain Testing
 
-“The overall purpose of our project is to test the Cardano node readiness for the Chang hard fork. Milestone 5 focuses on testing the Cardano network's ability to handle mass delegation to abstain from voting. This milestone is important in the broader development of Cardano as it ensures that the network can manage large-scale voting behaviors and still function smoothly.&#x20;
+“The overall purpose of our project is to test the Cardano node readiness for the Chang hard fork. Milestone 5 focuses on testing the Cardano network's ability to handle mass delegation to abstain from voting. This milestone is important in the broader development of Cardano as it ensures that the network can manage large-scale voting behaviors and still function smoothly.
 
-For Milestone 5, we tested a scenario where a large majority of ADA holders delegated their voting power to abstain. We conducted tests with 1,000 and 10,000 wallets, where 99% of ADA holders chose to abstain. Despite this, the governance action to update the constitutional committee was successfully ratified by the remaining DReps and SPOs. These tests confirmed that the network could handle extensive abstention while still processing governance actions accurately.&#x20;
+For Milestone 5, we tested a scenario where a large majority of ADA holders delegated their voting power to abstain. We conducted tests with 1,000 and 10,000 wallets, where 99% of ADA holders chose to abstain. Despite this, the governance action to update the constitutional committee was successfully ratified by the remaining DReps and SPOs. These tests confirmed that the network could handle extensive abstention while still processing governance actions accurately.
 
 This milestone validates the Cardano network by proving its capacity to manage large-scale delegation behaviors without compromising functionality. Ensuring that the network can handle mass abstention improves its stability and reliability, contributing to a more secure and efficient governance process for the Cardano community.”
 
@@ -137,7 +139,7 @@ Aside from Chang, the IOE team have been supporting the set up and initial sessi
 
 “This release contains the latest governance changes for SanchoNet. It has support for a new cost model for Plutus v3, plus new Plutus byte string primitives. The Constitution Committee quorum has been renamed to threshold in the CLI and a new economic parameter minFeeRefScriptCostPerByte has been added for reference scripts. This version of the node also adds support for reference scripts in the Conway era.”
 
-### WellTyped On-Disk Storage for UTxOs&#x20;
+### WellTyped On-Disk Storage for UTxOs
 
 WellTyped achieved another key milestone with the Minimal Working Version of the on-disk storage component for UTxOs. This solution will allow for higher UTxO scalability and improved performance, benefiting the broader Cardano ecosystem.
 
@@ -151,8 +153,8 @@ In addition for this milestone we have created a benchmark that simulates the UT
 
 #### Milestone 6 – Optimisation and monoidal updates
 
-“Well-Typed are developing an on-disk data storage component intended to be used in Cardano to help Cardano scale to much larger numbers of accounts and UTxO sizes, while preserving good system performance. In previous milestones we have implemented the component’s public API, covering basic key/value operations like lookups, inserts and deletes. In addition, we created a benchmark that simulates the UTxO workload and measures the throughput.&#x20;
+“Well-Typed are developing an on-disk data storage component intended to be used in Cardano to help Cardano scale to much larger numbers of accounts and UTxO sizes, while preserving good system performance. In previous milestones we have implemented the component’s public API, covering basic key/value operations like lookups, inserts and deletes. In addition, we created a benchmark that simulates the UTxO workload and measures the throughput.
 
-In this milestone, we extended the public API to support “monoidal updates”. A monoidal update can be used to update a value (e.g., increment a number) without requiring a separate operation to look up the value that already exists in the database. This is a more performant alternative to performing a lookup followed by an  insert. In addition, we implemented various optimisations to the basic key/value operations, and demonstrated benchmark results showing the project is on track to meet its performance goals.”
+In this milestone, we extended the public API to support “monoidal updates”. A monoidal update can be used to update a value (e.g., increment a number) without requiring a separate operation to look up the value that already exists in the database. This is a more performant alternative to performing a lookup followed by an insert. In addition, we implemented various optimisations to the basic key/value operations, and demonstrated benchmark results showing the project is on track to meet its performance goals.”
 
-\
+\\

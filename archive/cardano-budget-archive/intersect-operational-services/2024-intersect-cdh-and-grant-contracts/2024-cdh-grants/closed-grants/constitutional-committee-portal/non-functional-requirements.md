@@ -1,5 +1,7 @@
 # Non-functional requirements
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Usability
 
 * The Constitutional Committee Portal should be accessible to non-technical users

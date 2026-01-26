@@ -4,13 +4,15 @@ description: Consider the below before submitting your application
 
 # Considerations
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 When thinking about applying for this grant, responses to the brief should consider how the Proposal Discussion Forum could surface proposals before they become governance actions. Stages such as:
 
 1. Proposal submission
 2. Proposal discussion
-3. Proposal polling&#x20;
+3. Proposal polling
 
-The features that you could include under each area is under your creative direction. To help, [this is an overall flow map](https://drive.google.com/file/d/1LtwxQ9it\_8yb10LS2kd4jPIq2Locq5FB/view?usp=sharing), highlighting the key steps that the Proposal Discussion Forum will need to support.
+The features that you could include under each area is under your creative direction. To help, [this is an overall flow map](https://drive.google.com/file/d/1LtwxQ9it_8yb10LS2kd4jPIq2Locq5FB/view?usp=sharing), highlighting the key steps that the Proposal Discussion Forum will need to support.
 
 ### Expected cost range
 
@@ -26,4 +28,4 @@ The timelines below are indicative, and broadly align with the [CIP-1694 roadmap
 
 \
 \
-\
+\\

@@ -4,6 +4,8 @@ description: Definitions and explanations to help level-set
 
 # Key Terms and resources
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Key Terms
 
 A few key terms and definitions mentioned in this brief related to Cardano’s on-chain governance:
@@ -52,4 +54,4 @@ A few key terms and definitions mentioned in this brief related to Cardano’s o
 * [Sancho-1-1-0 build](https://github.com/input-output-hk/cardano-db-sync/releases/tag/sancho-1-1-0)
 * [Sanch-1-1-0 ChangeLog](https://github.com/input-output-hk/cardano-db-sync/blob/sancho-1-1-0/cardano-db-sync/CHANGELOG.md#13200)
 * [Sanch-1-1-0 Schema Docs](https://github.com/input-output-hk/cardano-db-sync/blob/sancho-1-1-0/doc/schema.md)
-* [Sanch-1-1-0 Postgres Migrations](https://github.com/input-output-hk/cardano-db-sync/tree/sancho-1-1-0/schema)\
+* [Sanch-1-1-0 Postgres Migrations](https://github.com/input-output-hk/cardano-db-sync/tree/sancho-1-1-0/schema)\\

@@ -1,11 +1,9 @@
 # Budget Info Action FAQs
 
-{% hint style="warning" %}
-This page has been **archived**&#x20;
-{% endhint %}
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
-{% hint style="warning" %}
-**Important note:** Greater than 50% of active delegated DRep stake is required to pass a Budget Info Action. This does not result in the movement of any funds from the Cardano Treasury. If approved, it marks the next step toward funding, with Treasury Withdrawal governance actions required to be passed and enacted. \
+{% hint style="success" %}
+**Important note:** Greater than 50% of active delegated DRep stake is required to pass a Budget Info Action. This does not result in the movement of any funds from the Cardano Treasury. If approved, it marks the next step toward funding, with Treasury Withdrawal governance actions required to be passed and enacted.\
 \
 These withdrawals require a higher threshold of over 67% DRep approval to release funds from the Cardano Treasury.
 {% endhint %}
@@ -13,8 +11,6 @@ These withdrawals require a higher threshold of over 67% DRep approval to releas
 The Budget Info Action is a formal on-chain governance step that allows DReps and the Constitutional Committee to review and ratify an aggregate budget before any Treasury funds can be released. In Intersect’s case, our budget info action reflects the outcome of a community-driven process, where proposals were submitted, refined, and signaled on by DReps using the Ekklesia platform.
 
 This action does not release funds - it authorizes the proposed allocation as a whole. Once approved, individual Treasury Withdrawal Actions must be submitted to release funds, subject to further approval and within the limits of the active Net Change Limit (NCL).
-
-
 
 <details>
 
@@ -65,7 +61,7 @@ Any actual withdrawal of funds happens gradually, through separate governance ac
 
 <summary>How does Intersect manage funding and associated risks?</summary>
 
-&#x20;Intersect’s role as an Administrator is to provide oversight, coordination, and accountability for the proposals that have requested it. Intersect does not manage or hold Treasury funds directly - those are released through approved governance actions and, where applicable, distributed via smart contracts or authorized accounts.
+Intersect’s role as an Administrator is to provide oversight, coordination, and accountability for the proposals that have requested it. Intersect does not manage or hold Treasury funds directly - those are released through approved governance actions and, where applicable, distributed via smart contracts or authorized accounts.
 
 To help manage associated risks and ensure responsible use of Treasury funds, Intersect applies the following safeguards:
 
@@ -115,7 +111,7 @@ A multi-sig oversight body including Intersect, auditors, and independent ecosys
 
 <summary>What if a project goes bust or fails to deliver? What happens to the funds?</summary>
 
-&#x20;If a funded project fails to meet its obligations or goes bust, several safeguards are in place to protect Treasury resources:
+If a funded project fails to meet its obligations or goes bust, several safeguards are in place to protect Treasury resources:
 
 1. Pause or stop disbursements:\
    Intersect, working with oversight partners, can pause further payments if a project breaches its contract or misses key deliverables.
@@ -124,8 +120,7 @@ A multi-sig oversight body including Intersect, auditors, and independent ecosys
 3. Milestone-based or conditional payments:\
    Where applicable, funding is released in phases tied to verifiable progress. This limits exposure in the event of non-delivery.
 4. Oversight and reporting:\
-   Intersect and elected committees monitor delivery across proposals. Issues are flagged early to reduce risk and ensure transparency.\
-
+   Intersect and elected committees monitor delivery across proposals. Issues are flagged early to reduce risk and ensure transparency.\\
 
 In short, funds are not handed over in full at once. If a project fails, any unspent or unearned funds can be recovered or withheld, helping safeguard the Treasury and community interests.
 
@@ -143,7 +138,7 @@ As an ecosystem, we need to take the lessons learned from this process and work 
 
 <details>
 
-<summary> What assurance is there that Intersect won't misuse its role or become too powerful?</summary>
+<summary>What assurance is there that Intersect won't misuse its role or become too powerful?</summary>
 
 Intersect’s authority comes from the community. It does not control funds, cannot approve Treasury withdrawals on its own, and is accountable to both DReps and the Constitutional Committee.
 

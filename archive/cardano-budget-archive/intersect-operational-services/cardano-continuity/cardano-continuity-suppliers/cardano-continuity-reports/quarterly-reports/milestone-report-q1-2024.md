@@ -1,10 +1,12 @@
 # Milestone report Q1 2024
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Intro
 
 Since the foundation of Intersect at the start of 2024, the Delivery Assurance team has been coordinating with a multitude of suppliers who are working to develop and maintain core Cardano. Throughout Q1 a number of important milestones have been completed, which are outlined in this summary.
 
-Delivery Assurance forms part of Technical Operations team and coordinates continuity delivery partners to ensure the timely and reliable delivery of products, services, or projects - meeting specified requirements and expectations. You can read more about it here.&#x20;
+Delivery Assurance forms part of Technical Operations team and coordinates continuity delivery partners to ensure the timely and reliable delivery of products, services, or projects - meeting specified requirements and expectations. You can read more about it here.
 
 {% hint style="info" %}
 Cardano “**continuity**” is defined or referred to as any approved technical service needed to build or fix current and future areas of the Cardano blockchain. Continuity in this definition can include new developments, such as the CIP-1694 governance software, component upgrades, or testing improvements, to name a few.
@@ -20,11 +22,11 @@ Below is a summary of the Q1 milestones completed by companies within the Contin
 
 The Byron team continue to develop the GovTool WebApp by supporting the launch and running a beta testing period to discover and fix bugs and collect feedback and ideas. In Q1 the following milestone was reported complete and described by the Bryron team below:
 
-#### Milestone 1 - Design Phase&#x20;
+#### Milestone 1 - Design Phase
 
 * Explore the new horizon of digital engagement with our latest design suite optimized for every screen:
-  * Experience our homepage and dashboard designs, perfected for every device size from mobile (375px) to desktop (2560px), ensuring a responsive and seamless experience no matter where you are.&#x20;
-* Innovation Unleashed:&#x20;
+  * Experience our homepage and dashboard designs, perfected for every device size from mobile (375px) to desktop (2560px), ensuring a responsive and seamless experience no matter where you are.
+* Innovation Unleashed:
   * Explore the future with our governance action submission and delegation flow designs, featuring wireframes and experiments that redefine the boundaries of user experience. First milestone in the path of Governance Actions delivery.”
 
 ### **Galois**
@@ -35,14 +37,14 @@ As part of the Halo 2 project, Galois are leading the development of Zero-Knowle
 
 “Galois has successfully delivered Milestone 3, implementing ZK circuits that verify Plonk proofs and adding ECC Chip support for multiple curves including Pluto/Eris. These are key building blocks to fully recursive ZK proofs, enabling benefits including zk-rollups and the ability to trade between blockchains.”
 
-### **Input Output Infrastructure**&#x20;
+### **Input Output Infrastructure**
 
 Input Output’s Infrastructure group is developing and testing the Cardano governance node in readiness for [CIP-1694](https://www.1694.io/) and continuity maintenance.
 
-* CIP 1694 second fixes - this work included a large number of acceptance criteria including: the addition of bootstrap era support for Cardano node, execution of quality plan, finalizing Plutus v3 (cost model, testing), fixing of issues found interesting, updating of DB Sync & the deployment of all updates into SanchoNet. &#x20;
+* CIP 1694 second fixes - this work included a large number of acceptance criteria including: the addition of bootstrap era support for Cardano node, execution of quality plan, finalizing Plutus v3 (cost model, testing), fixing of issues found interesting, updating of DB Sync & the deployment of all updates into SanchoNet.
 * Governance support - development of a prototype guardrail script as well as a prototype constitutional committee credential management script
 * Repository migration - assisted with the migration of a second wave of repositories from IOG to Intersect
-* Network enhancements - developments of both a Genesis Lite & Peer Sharing Solution  as well as various P2P upgrades & enhancements
+* Network enhancements - developments of both a Genesis Lite & Peer Sharing Solution as well as various P2P upgrades & enhancements
 
 ### **Tweag**
 
@@ -81,5 +83,5 @@ Updating this ensures a smooth transition for users from Babbage to Conway ledge
 ***
 
 {% hint style="info" %}
-It is anticipated that a full report, like the above, will be published at the end of each quarter, as well as smaller updates through our other channels and development updates.&#x20;
+It is anticipated that a full report, like the above, will be published at the end of each quarter, as well as smaller updates through our other channels and development updates.
 {% endhint %}

@@ -1,5 +1,7 @@
 # Considerations
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Consider the below before submitting your application:
 
 * Suggested Milestone:

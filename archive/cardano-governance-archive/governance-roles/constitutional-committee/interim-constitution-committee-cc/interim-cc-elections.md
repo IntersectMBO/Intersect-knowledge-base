@@ -6,6 +6,8 @@ description: >-
 
 # Interim CC elections
 
+{% include "../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 **\*Voting is now closed**
 
 ### **Timeline**
@@ -35,7 +37,7 @@ description: >-
 * Sound judgement - competence and wisdom in dealing with challenges technical, strategic, and generally as complex as those that will be a feature of this role.
 * A good grasp of marketing and communications principles.
 * Social responsibility - competence and responsibility to make decisions that will impact on the entire Cardano community.
-* BONUS - knowledge of constitutional law theory, hierarchy of norms and conflict of laws.&#x20;
+* BONUS - knowledge of constitutional law theory, hierarchy of norms and conflict of laws.
 
 ***
 

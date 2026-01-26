@@ -8,11 +8,7 @@ description: >-
 
 {% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
-{% hint style="info" %}
-Submit your proposal [here](https://mpc.intersectmbo.org/cardano-proposal-submission)
-{% endhint %}
-
-## Recalibrating Cardano’s Budget Process: We’ve heard you&#x20;
+## Recalibrating Cardano’s Budget Process: We’ve heard you
 
 Cardano’s budget process is new and evolving, and we recognize that the first year will not be perfect. There have been challenges; at times, the process has been more complex than necessary. Based on community feedback, we are making, and will continue to make, necessary adjustments, including:
 
@@ -39,7 +35,7 @@ This input has been instrumental in shaping our approach and has led to key refi
 * Continue building on the work members have contributed to the draft budget proposals.
 * Leverage Cardano’s technology, including smart contracts and distributed oversight, to set a strong precedent for transparent governance.
 
-Recognizing that governance is an ongoing process, we will remain agile and responsive to further community feedback.&#x20;
+Recognizing that governance is an ongoing process, we will remain agile and responsive to further community feedback.
 
 #### The revised approach - closer adherence to the Cardano Constitution
 
@@ -47,17 +43,17 @@ Recognizing that governance is an ongoing process, we will remain agile and resp
 
 Ecosystem builders and the broader community can now submit proposals directly alongside committee budgets being submitted as block budgets. This allows vendors and builders to identify specific parts of the roadmap or other ecosystem needs they wish to develop or support and propose a targeted request for DRep consideration within the budget proposal(s).
 
-“The Cardano Community is expected to periodically propose one or more budgets for the ongoing operation, maintenance, and future development of the Cardano Blockchain ecosystem and for covering other costs related to the implementation, administration, and maintenance of the decentralized, on-chain governance processes provided for in this Constitution.”&#x20;
+“The Cardano Community is expected to periodically propose one or more budgets for the ongoing operation, maintenance, and future development of the Cardano Blockchain ecosystem and for covering other costs related to the implementation, administration, and maintenance of the decentralized, on-chain governance processes provided for in this Constitution.”
 
 –Article 4, section 1 of the Cardano Constitution.
 
 ### Fund management
 
-The revised process also includes changes to how approved funding with Intersect listed as the administrator will be disbursed. Intersect is sponsoring the writing of a new smart contract with multiple oversight signers to provide the necessary checks and balances to funding disbursements and provide greater stability to vendors. More importantly, it provides far greater transparency with fund disbursements, with the community able to self-audit.&#x20;
+The revised process also includes changes to how approved funding with Intersect listed as the administrator will be disbursed. Intersect is sponsoring the writing of a new smart contract with multiple oversight signers to provide the necessary checks and balances to funding disbursements and provide greater stability to vendors. More importantly, it provides far greater transparency with fund disbursements, with the community able to self-audit.
 
-[SundaeLabs](https://sundae.fi/) and [Xerberus](https://www.xerberus.io/) are developing the smart contract. The multi-sig smart contract will include Intersect, along with auditors and established organizations to be selected. The smart contract will serve as an oversight control mechanism, with the ability to pause payments to vendors for just cause, such as contract breaches.&#x20;
+[SundaeLabs](https://sundae.fi/) and [Xerberus](https://www.xerberus.io/) are developing the smart contract. The multi-sig smart contract will include Intersect, along with auditors and established organizations to be selected. The smart contract will serve as an oversight control mechanism, with the ability to pause payments to vendors for just cause, such as contract breaches.
 
-“Development of Cardano Blockchain ecosystem budgets and the administration of such budgets shall utilize, to the extent possible and beneficial, smart contracts and other blockchain based tools to facilitate decision-making and ensure transparency. ”&#x20;
+“Development of Cardano Blockchain ecosystem budgets and the administration of such budgets shall utilize, to the extent possible and beneficial, smart contracts and other blockchain based tools to facilitate decision-making and ensure transparency. ”
 
 – Article 4, section 2 of the Cardano Constitution
 
@@ -65,16 +61,15 @@ The revised process also includes changes to how approved funding with Intersect
 
 As an administrator and oversight body, Intersect, through its members and committees, will provide guidance and recommendations in an advisory capacity on approved vendors and contracts, and support the ongoing development of roadmaps (and supporting initiatives). This also includes reporting on milestones, financial updates, and arbitration (as needed) on a timely basis to the community, and more directly to the smart contract holders.
 
-“Cardano Blockchain budgets shall specify a process for overseeing use of funds from Cardano Blockchain treasury withdrawals including designating one or more administrators who shall be responsible for such oversight.”&#x20;
+“Cardano Blockchain budgets shall specify a process for overseeing use of funds from Cardano Blockchain treasury withdrawals including designating one or more administrators who shall be responsible for such oversight.”
 
-– Article 4, section 2 of the Cardano Constitution.\
-
+– Article 4, section 2 of the Cardano Constitution.\\
 
 ## The Net-Change-Limit
 
 A critical factor in budget discussions is the Net Change Limit (NCL)—a constitutional mechanism that determines how much ADA can be withdrawn from the Treasury within a set period. The community is currently evaluating two possible approaches: a percentage-based limit or a fixed numeric cap. The outcome of this decision will shape how Treasury resources are allocated, making open discussion and community alignment essential. The Intersect Budget Committee will continue to facilitate this process, ensuring all perspectives are considered. The NCL proposal is expected to be submitted on-chain towards the end of March.
 
-The Treasury is designed to support Cardano's ongoing growth and development. Any spending plan should account for treasury increase projections, balancing investment in growth-oriented development with long-term financial sustainability.&#x20;
+The Treasury is designed to support Cardano's ongoing growth and development. Any spending plan should account for treasury increase projections, balancing investment in growth-oriented development with long-term financial sustainability.
 
 **Reaching commonality on Cardano’s technical & product roadmap**
 
@@ -106,7 +101,7 @@ More to come on what tooling will be available for the Cardano community to clea
 **If you’re a vendor or ecosystem builder:**
 
 * You may now submit proposals directly rather than relying solely on committee-prepared block budgets.
-* Submissions open in early March. The Cardano community and DReps  - supported by the appropriate Intersect committees - will then review all proposals for funding.
+* Submissions open in early March. The Cardano community and DReps - supported by the appropriate Intersect committees - will then review all proposals for funding.
 * If selected and using Intersect as your administrator, funding will be managed via a multi-signature smart contract, ensuring transparency and stability.
 
-\
+\\

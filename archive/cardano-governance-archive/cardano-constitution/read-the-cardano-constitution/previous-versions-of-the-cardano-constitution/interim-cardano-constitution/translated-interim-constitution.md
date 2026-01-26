@@ -1,5 +1,7 @@
 # Translated Interim Constitution
 
+{% include "../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 To support the constitutional workshops with foundational material and make the interim constitution accessible to the wider community Intersect has provided a grant to support the translation of the interim constitution in key suggested languages. These translations will be produced by community members and checked in the constitutional workshops.
 
 More details about the grant can be found [here](../../../../../cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/inclusion-and-accessibility-phase-2/grants-to-translate-the-interim-constitution.md).
