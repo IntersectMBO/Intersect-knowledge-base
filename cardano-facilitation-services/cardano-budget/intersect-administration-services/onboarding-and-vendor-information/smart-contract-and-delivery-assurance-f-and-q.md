@@ -8,6 +8,23 @@ description: >-
 
 ## F\&Q
 
+### Ada Price Volatility
+
+1. **What happens if I am not able to complete my proposal due to lack of funds, caused by ada price volatility?**\
+   As a proposal owner under Intersects administration, we would encourage you to come forward for a discussion, each vendor and proposal is different and has unique circumstances. \
+   \
+   Intersect does not hold contingencies on behalf of the treasury or DReps, so cannot guarantee additional funds unilaterally, however we are keen to understand the unique challenges faced, at the very least so improvement can be suggested for subsequent budget cycles.<br>
+2. **Why were proposals submitted in the 2025 budget cycle asked to provide a USD equivalent and/or spot rate?**\
+   Proposal owners were asked to provide a spot rate or fiat cost for proposals to make comparison between proposals for DReps easier. Unfortunately this provides no guarantee in the treasury withdrawal action mechanism for any shortfall in these rates or conversions.<br>
+3. **Can I swap or trade my ada treasury funds into another asset or fiat currency?**\
+   Unfortunately there are not currently any mechanisms for wide stable coin or other asset conversion for treasury funds. This is under continual review and we hope as part of our administration function we can offer services to facilitate this in the future. \
+   \
+   Special commercial and contracting can be discussed on request. It is recognised that smart contracts can hold other asset types, however the handling and conversion of treasury funds causes other compliance and money transmission challenges. <br>
+4. **What happens if the price of ada increases?**\
+   Any upside seen in the ada price is at the prerogative of the vendor. Treasury withdrawals, unless explicitly stated as part of their withdrawal terms, are in ada, not ada at a rate or of equivalent fiat value. Vendors may choose to return excess funds to the treasury, Intersect can support the advertisement and amplification of any such action.
+5. **Is there professional financial management of treasury ada?**\
+   Professional financial management of treasury ada by Intersect, to account for potential volatility, received significant negative feedback in the lead up to the 2025 budget cycle so was not pursued or included as a service offered by Intersect.
+
 ### Assets
 
 1. **Can I receive payment in stablecoins or any other asset?**\
@@ -21,8 +38,7 @@ description: >-
    No, smart contracts cannot delegate to a DRep. Smart Contracts are aligned with constitutional requirements for treasury funds, they can only be delegated to abstain. Which can be seen here:\
    [https://github.com/SundaeSwap-finance/treasury-contracts/blob/main/validators/treasury.ak#L97](https://github.com/SundaeSwap-finance/treasury-contracts/blob/main/validators/treasury.ak#L97)\
    And here;\
-   [https://github.com/SundaeSwap-finance/treasury-contracts/blob/main/validators/vendor.ak#L69](https://github.com/SundaeSwap-finance/treasury-contracts/blob/main/validators/vendor.ak#L69)\
-
+   [https://github.com/SundaeSwap-finance/treasury-contracts/blob/main/validators/vendor.ak#L69](https://github.com/SundaeSwap-finance/treasury-contracts/blob/main/validators/vendor.ak#L69)\\<br>
 2. **Can a Smart Contract receive staking rewards?**\
    No, a smart contract cannot receive staking rewards. SPO delegation is excluded in the smart contract code, any attempt to delegate would fail. Which can be seen here:\
    [https://github.com/SundaeSwap-finance/treasury-contracts/blob/main/validators/treasury.ak#L108](https://github.com/SundaeSwap-finance/treasury-contracts/blob/main/validators/treasury.ak#L108)
@@ -30,8 +46,7 @@ description: >-
 ### Third Party Assurance
 
 1. **What happens if my Third Party Assurer is no longer able to review the milestones?**\
-   Where practically possible Intersect asks that all vendors provide Third Party Assurance of the work. You may choose another Third Party Assurer throughout the duration of the contract, if aligned with the Delivery Assurance team. \
-
+   Where practically possible Intersect asks that all vendors provide Third Party Assurance of the work. You may choose another Third Party Assurer throughout the duration of the contract, if aligned with the Delivery Assurance team. \\
 2. **Who is an appropriate Third Party Assurer?**\
    Considering the range of proposals under administration there is not a ‘_one size fits all_’ approach. The Third Party Assurer must be someone who is technically competent to properly review and attest that the work has been completed as per the acceptance criteria in the contract, this could be an individual or someone on behalf of an organisation. Whoever you decide to be youe Third Party Assurer must be informed and agree to do this.\
    \
@@ -52,12 +67,10 @@ There are instances where Intersect will accept community based evidence, where 
 ### Wallets
 
 1. **What wallet requirements do I need to be able to withdraw payments?**\
-   The wallet and credentials used to withdraw funds from the PSSC vendor smart contracts will incur a standard transaction fee and need enough collateral to guarantee the withdrawal transaction. Attempting to withdraw a matured milestone payment using a wallet with 0 (zero) ada will fail.\
-
+   The wallet and credentials used to withdraw funds from the PSSC vendor smart contracts will incur a standard transaction fee and need enough collateral to guarantee the withdrawal transaction. Attempting to withdraw a matured milestone payment using a wallet with 0 (zero) ada will fail.\\
 2. **Issue with Yoroi**\
-   There is currently a known issue with Yoroi wallet and compatibility with these smart contracts. Yoroi wallet refuses to sign a transaction for which you are a required signer, but not a participant via the inputs; this means that any vendors using Yoroi will be unable to sign the transactions required for smart contracts until such time this is resolved. Vendors are asked to provide alternatives to Yoroi for the current smart contract deployments. The Yoroi team are aware of this issue and working on a fix.\
-
+   There is currently a known issue with Yoroi wallet and compatibility with these smart contracts. Yoroi wallet refuses to sign a transaction for which you are a required signer, but not a participant via the inputs; this means that any vendors using Yoroi will be unable to sign the transactions required for smart contracts until such time this is resolved. Vendors are asked to provide alternatives to Yoroi for the current smart contract deployments. The Yoroi team are aware of this issue and working on a fix.\\
 3. **I have an issue submitting a Transaction**\
    Please ensure your Ledger firmware is up to date, as outdated firmware may prevent you from submitting transactions. The Administration Portal is fully CIP-30 compliant.
 
-_If you have any suggestions or feedback that you would like to provide to Intersect, please contact us at operational-services@intersectmbo.org._&#x20;
+_If you have any suggestions or feedback that you would like to provide to Intersect, please contact us at operational-services@intersectmbo.org._
