@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-01-27 09:11 UTC_
+_Updated on 2026-01-28 09:12 UTC_
 
 - [.gitbook/includes/intersect-does-not-hold-con...](https://docs.intersectmbo.org/.gitbook/includes/intersect-does-not-hold-con...)
 - [.gitbook/includes/this-page-has-been-archived](https://docs.intersectmbo.org/.gitbook/includes/this-page-has-been-archived)
@@ -174,4 +174,3 @@ _Updated on 2026-01-27 09:11 UTC_
 - [legal/policies-and-conditions/intersect-administration-policies/vendor-change-request-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/vendor-change-request-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/vendor-delegation-of-authority-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/vendor-delegation-of-authority-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy)
-- [legal/policies-and-conditions/intersect-internal-policies/privacy-policy/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/privacy-policy/README)
