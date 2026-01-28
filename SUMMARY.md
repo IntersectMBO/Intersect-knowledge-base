@@ -166,8 +166,7 @@
 
 ## Intersect Team
 
-* [Open positions](intersect-team/open-positions/README.md)
-  * [Business Operations Analyst](intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist.md)
+* [Working at Intersect](intersect-team/open-positions.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
   * [People & Culture Lead](intersect-team/closed-positions/people-and-culture-lead.md)
   * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)

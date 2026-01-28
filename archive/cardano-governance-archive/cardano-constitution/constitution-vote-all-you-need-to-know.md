@@ -64,7 +64,7 @@ If you want to better understand the background, rationale, or meaning of the te
 
 The delegate approved constitution will be put on-chain as a governance action for community vote. The infographics below explain how governance actions work.
 
-<img src="../../../.gitbook/assets/1. What is a governance action.jpeg" alt="" data-size="original"> <img src="../../../.gitbook/assets/2. Proposal and voting process.jpeg" alt="" data-size="original"> <img src="../../../.gitbook/assets/3. Types of governance actions and who votes on each.jpeg" alt="" data-size="original"> <img src="../../../.gitbook/assets/4. how votes are calculated on chain.jpeg" alt="" data-size="original"> <img src="../../../.gitbook/assets/5. how to make your voice heard without voting.jpeg" alt="" data-size="original">
+![](<../../../.gitbook/assets/1. What is a governance action.jpeg>) ![](<../../../.gitbook/assets/2. Proposal and voting process.jpeg>) ![](<../../../.gitbook/assets/3. Types of governance actions and who votes on each.jpeg>) ![](<../../../.gitbook/assets/4. how votes are calculated on chain.jpeg>) ![](<../../../.gitbook/assets/5. how to make your voice heard without voting.jpeg>)
 
 </details>
 
@@ -123,11 +123,11 @@ In-depth information about becoming a DRep:
 
 <summary>Need More Info?</summary>
 
-#### Contact Your Delegate
+**Contact Your Delegate**
 
 The Constitutional Delegates and Alternates elected by the global community workshop participants were involved in drafting the constitution and are a great resource to answer questions.[Find your local Delegate](https://2024constitutionalconsultation.docs.intersectmbo.org/workshops/constitution-feedback-tool/confirmed-delegates-and-alternates)
 
-#### FAQs
+**FAQs**
 
 **Does voting on the Plomin hard fork mean I’m implicitly approving the Constitution or a Cardano Budget?**\
 No, they are separate votes. The Plomin Hard Fork is a technical upgrade to the Cardano blockchain, while the Cardano Constitution is a governance document. Voting for the Plomin Hard Fork enables the "Update Constitution" governance action, allowing the new Constitution to be proposed and voted on separately.

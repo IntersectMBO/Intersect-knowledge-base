@@ -1,6 +1,6 @@
 # 2025 Constitutional Committee elections
 
-Constitutional Committee candidate registration opened May 5. \
+Constitutional Committee candidate registration opened May 5.\
 [Register here](https://elections.constitution.gov.tools/).
 
 As the Cardano ecosystem continues its journey towards decentralized governance, a fully elected Constitutional Committee (CC) marks a big step. CC plays a crucial role in upholding the principles and rules outlined in the Cardano Constitution. We are excited to announce the official opening of the candidate registration period for candidates aspiring to serve on this vital committee.
@@ -9,7 +9,7 @@ Registration window:
 
 Mark your calendars! Candidate registration will commence on May 5, 2025. The window for submitting candidacies will remain open until May 31, 2025, closing at noon UTC.
 
-<figure><img src="../../../../.gitbook/assets/Election-Timeline.pptx (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Election-Timeline.pptx (1).png" alt=""><figcaption></figcaption></figure>
 
 Who can register?
 
@@ -50,4 +50,4 @@ This is a significant moment for Cardano governance. Serving on the Constitution
 
 Let's work together to build a resilient and effective governance framework for Cardano.
 
-\
+\\
