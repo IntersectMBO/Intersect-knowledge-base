@@ -12,7 +12,7 @@ We aim to create an environment where people can do meaningful work without sacr
 
 You’ll be working with people who care deeply about what they do, who are generous with their knowledge, and who are motivated by impact rather than ego. We encourage curiosity, constructive challenge, and continuous learning, especially in a fast-moving and evolving space like Web3.
 
-<figure><img src="../.gitbook/assets/DEFB2487-F073-483E-97AA-3C04E484A562_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DEFB2487-F073-483E-97AA-3C04E484A562_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## How do our teams enable success?
 
@@ -28,7 +28,7 @@ While our roles sit within specific sectors, much of our work happens cross-func
 
 **Cardano Tech:** Collaborating with technical teams and contributors to support delivery, standards, and technical alignment across the Cardano ecosystem.
 
-<figure><img src="../.gitbook/assets/48E0B32E-71E6-4EA1-B7D8-FB8F98C887A2_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/48E0B32E-71E6-4EA1-B7D8-FB8F98C887A2_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Our Core Values
 
@@ -50,7 +50,7 @@ We turn ideas into outcomes with focus, clarity, and discipline. This value bala
 
 We champion Cardano’s people, projects, and progress in everything we do. Our decisions consider their impact beyond Intersect, prioritising openness, participation, accessibility, and long-term benefit to the wider ecosystem.
 
-<figure><img src="../.gitbook/assets/598384EB-3E95-4F26-ACF2-8F66CC539591_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/598384EB-3E95-4F26-ACF2-8F66CC539591_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Growth, support, and inclusion
 
@@ -58,7 +58,7 @@ We’re committed to creating a supportive and inclusive environment where peopl
 
 At Intersect, you’ll find space to develop your skills, take ownership of meaningful work, and contribute to shaping not just projects, but the organisation itself. As we continue to grow, we’re intentional about building structures, processes and rhythms that help people thrive.
 
-<figure><img src="../.gitbook/assets/67EF6B60-F41F-4139-9936-FD5AB293AE97_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/67EF6B60-F41F-4139-9936-FD5AB293AE97_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Joining Intersect
 
@@ -66,6 +66,6 @@ If you’re curious, forward-thinking, and motivated by collaboration and impact
 
 👉 **View our current open roles and apply** [**here**](https://intersect-mbo.firststage.co/jobs)**.**
 
-If there are no roles listed that feel like the right fit, but you’d still like to share your experience, you’re welcome to send your CV and a short note to **careers@intersectmbo.org**.
+If there are no roles listed that feel like the right fit, but you’d still like to share your experience, you’re welcome to send your CV and a short note to [**careers@intersectmbo.org**](mailto:careers@intersectmbo.org).
 
 We’re always interested in hearing from people who are excited about Cardano and aligned with Intersect’s mission.

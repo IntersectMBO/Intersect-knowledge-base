@@ -166,7 +166,7 @@
 
 ## Intersect Team
 
-* [Working at Intersect](intersect-team/open-positions.md)
+* [Working at Intersect](intersect-team/open-positions/README.md)
 * [Closed positions](intersect-team/closed-positions/README.md)
   * [People & Culture Lead](intersect-team/closed-positions/people-and-culture-lead.md)
   * [Grant Analysis & Support](intersect-team/closed-positions/grant-analysis-and-support.md)
