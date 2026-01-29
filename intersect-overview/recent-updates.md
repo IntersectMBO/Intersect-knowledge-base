@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-01-28 09:12 UTC_
+_Updated on 2026-01-29 09:16 UTC_
 
 - [.gitbook/includes/intersect-does-not-hold-con...](https://docs.intersectmbo.org/.gitbook/includes/intersect-does-not-hold-con...)
 - [.gitbook/includes/this-page-has-been-archived](https://docs.intersectmbo.org/.gitbook/includes/this-page-has-been-archived)
@@ -116,6 +116,7 @@ _Updated on 2026-01-28 09:12 UTC_
 - [archive/cardano-budget-archive/intersect-operational-services/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-q3-2024](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/milestone-report-q3-2024)
 - [archive/cardano-budget-archive/intersect-operational-services/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/open-source-developer-maturity-report-may-2024](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/cardano-continuity/cardano-continuity-suppliers/cardano-continuity-reports/quarterly-reports/open-source-developer-maturity-report-may-2024)
 - [archive/cardano-governance-archive/cardano-constitution/README](https://docs.intersectmbo.org/archive/cardano-governance-archive/cardano-constitution/README)
+- [archive/cardano-governance-archive/cardano-constitution/constitution-vote-all-you-need-to-know](https://docs.intersectmbo.org/archive/cardano-governance-archive/cardano-constitution/constitution-vote-all-you-need-to-know)
 - [archive/cardano-governance-archive/cardano-constitution/read-the-cardano-constitution/README](https://docs.intersectmbo.org/archive/cardano-governance-archive/cardano-constitution/read-the-cardano-constitution/README)
 - [archive/cardano-governance-archive/cardano-constitution/read-the-cardano-constitution/hash](https://docs.intersectmbo.org/archive/cardano-governance-archive/cardano-constitution/read-the-cardano-constitution/hash)
 - [archive/cardano-governance-archive/cardano-constitution/read-the-cardano-constitution/previous-versions-of-the-cardano-constitution/README](https://docs.intersectmbo.org/archive/cardano-governance-archive/cardano-constitution/read-the-cardano-constitution/previous-versions-of-the-cardano-constitution/README)
@@ -168,9 +169,17 @@ _Updated on 2026-01-28 09:12 UTC_
 - [archive/cardano-governance-archive/sanchonet](https://docs.intersectmbo.org/archive/cardano-governance-archive/sanchonet)
 - [archive/cardano-governance-archive/weekly-governance-bulletin](https://docs.intersectmbo.org/archive/cardano-governance-archive/weekly-governance-bulletin)
 - [archive/intersect-membership/intersect-groups-working-and-special-interest](https://docs.intersectmbo.org/archive/intersect-membership/intersect-groups-working-and-special-interest)
+- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information/smart-contract-and-delivery-assurance-f-and-q](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/onboarding-and-vendor-information/smart-contract-and-delivery-assurance-f-and-q)
+- [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/README)
+- [intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/voting-results-audit-info](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/april-2025-committee-election-results/voting-results-audit-info)
+- [intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/README)
+- [intersect-team/open-positions](https://docs.intersectmbo.org/intersect-team/open-positions)
+- [intersect-team/open-positions/README](https://docs.intersectmbo.org/intersect-team/open-positions/README)
+- [intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist](https://docs.intersectmbo.org/intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist)
 - [legal/policies-and-conditions/intersect-administration-policies](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies)
 - [legal/policies-and-conditions/intersect-administration-policies/delegation-of-authority-form](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/delegation-of-authority-form)
 - [legal/policies-and-conditions/intersect-administration-policies/vendor-change-request-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/vendor-change-request-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/vendor-delegation-of-authority-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/vendor-delegation-of-authority-policy)
 - [legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy)
+- [updates/intersect-development-updates](https://docs.intersectmbo.org/updates/intersect-development-updates)
