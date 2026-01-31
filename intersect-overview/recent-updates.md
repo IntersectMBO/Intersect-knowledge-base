@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-01-30 09:15 UTC_
+_Updated on 2026-01-31 09:09 UTC_
 
 - [.gitbook/includes/intersect-does-not-hold-con...](https://docs.intersectmbo.org/.gitbook/includes/intersect-does-not-hold-con...)
 - [.gitbook/includes/this-page-has-been-archived](https://docs.intersectmbo.org/.gitbook/includes/this-page-has-been-archived)
@@ -177,8 +177,4 @@ _Updated on 2026-01-30 09:15 UTC_
 - [intersect-team/open-positions](https://docs.intersectmbo.org/intersect-team/open-positions)
 - [intersect-team/open-positions/README](https://docs.intersectmbo.org/intersect-team/open-positions/README)
 - [intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist](https://docs.intersectmbo.org/intersect-team/open-positions/accounts-payable-and-delivery-assurance-specialist)
-- [legal/policies-and-conditions/intersect-administration-policies](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies)
-- [legal/policies-and-conditions/intersect-administration-policies/vendor-change-request-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/vendor-change-request-policy)
-- [legal/policies-and-conditions/intersect-administration-policies/vendor-delegation-of-authority-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/vendor-delegation-of-authority-policy)
-- [legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-administration-policies/wallet-address-change-policy)
 - [updates/intersect-development-updates](https://docs.intersectmbo.org/updates/intersect-development-updates)
