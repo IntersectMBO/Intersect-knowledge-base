@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-01-31 09:09 UTC_
+_Updated on 2026-02-01 09:10 UTC_
 
 - [.gitbook/includes/intersect-does-not-hold-con...](https://docs.intersectmbo.org/.gitbook/includes/intersect-does-not-hold-con...)
 - [.gitbook/includes/this-page-has-been-archived](https://docs.intersectmbo.org/.gitbook/includes/this-page-has-been-archived)
