@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-02-03 09:15 UTC_
+_Updated on 2026-02-04 09:17 UTC_
 
 - [archive/cardano-governance-archive/cardano-constitution/constitution-vote-all-you-need-to-know](https://docs.intersectmbo.org/archive/cardano-governance-archive/cardano-constitution/constitution-vote-all-you-need-to-know)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-template-contracts)
