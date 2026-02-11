@@ -2,7 +2,7 @@
 
 ## What is the Membership and Community Committee?
 
-The Membership and Community Committee (MCC) fosters a thriving Cardano community through effective Intersect membership sales, account management, community support, tooling grants, education, and engaging events.
+The Membership and Community Committee (MCC) focuses on building a thriving Cardano community - from membership growth and member support to community tooling grants, educational initiatives, and events that foster meaningful connection and collaboration.
 
 ## Why is this committee important?
 
@@ -14,15 +14,6 @@ The MCC oversees membership within Intersect and, by doing so, ensures that each
 
 ## How to join?
 
-Send an email to [membership-and-community-committee@intersectmbo.org](mailto:membership-and-community-committee@intersectmbo.org)  for inquiries or more information. The MCC will be holding committee elections at the start of H2 in collaboration with the other Committees (Civics, Open Source, etc) to fill its 10-seat committee. The MCC hosts public meetings every four weeks for all members of Intersect to join.
-
-## Extra info or links
-
-* [MCC ](https://docs.google.com/presentation/d/1gvaSrd7tJ6B5e0JIwaus0Yj6DXDcENT3gJwPCad83NQ/edit?usp=sharing)[Terms of Reference (ToR)](https://docs.google.com/presentation/d/1gvaSrd7tJ6B5e0JIwaus0Yj6DXDcENT3gJwPCad83NQ/edit?usp=sharing)
+Send an email to [membership-and-community-committee@intersectmbo.org](mailto:membership-and-community-committee@intersectmbo.org) for inquiries or more information. Intersect holds regular committee elections in collaboration with the other committees (Civics, Open Source, etc) to fill MCC seats. The MCC hosts public meetings every four weeks, and all members of Intersect are invited to attend.  Intersect always communicates details on how to apply and vote well in advance of each election.
 
 ***
-
-_To find out more details about this committee view the committee space_
-
-{% embed url="https://committees.docs.intersectmbo.org/v/intersect-membership-and-community-committee-mcc" %}
-

@@ -2,7 +2,7 @@
 
 ## Overview
 
-In September, the **Intersect Board Elections** will take place — a vital opportunity for members to help select the individuals who will oversee Intersect’s strategic direction and ensure it remains aligned with its mission and community values. During this time members will be able to elect 4 board members out of the 7 that compose the Intersect Board.
+In September, the **Intersect Board Elections** took place — a vital opportunity for members to help select the individuals who will oversee Intersect’s strategic direction and ensure it remains aligned with its mission and community values. During this time members were able to elect four board members out of the seven that compose the Intersect Board.
 
 #### Why it matters
 
@@ -25,17 +25,15 @@ This ensures continuity while allowing new voices to regularly join the Board.
 
 Board members will receive an annual financial compensation of **$35,000 USD** in recognition of their time, effort, and contributions.
 
-
-
 ## Key Dates
 
 <details>
 
 <summary>Application period</summary>
 
-Application period opens: **Sep 1st** at 12 PM UTC&#x20;
+Application period open: **September 1** at 12 PM UTC
 
-Application period closes: **Sep 12th** at 12 PM UT&#x43;**.**
+Application period close: **September 12** at 12 PM UT&#x43;**.**
 
 </details>
 
@@ -43,11 +41,9 @@ Application period closes: **Sep 12th** at 12 PM UT&#x43;**.**
 
 <summary>Voting Period</summary>
 
-Voting period opens: **15th of Sep** at 12 PM UTC &#x20;
+Voting period open: **September 15** at 12 PM UTC
 
-Voting period closes: **26th of Sep** at 12 PM UTC.
-
-[Check Voting eligibility](./#voter-eligibility)
+Voting period close: **September 26** at 12 PM UTC.
 
 </details>
 
@@ -55,7 +51,7 @@ Voting period closes: **26th of Sep** at 12 PM UTC.
 
 <summary>Voting Results</summary>
 
-The results will be published on **Sep 30**.
+The [results were published ](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/september-2025-board-elections/board-election-results)on **September 30**.
 
 </details>
 
@@ -63,9 +59,9 @@ The results will be published on **Sep 30**.
 
 ## How to apply?
 
-Applications will be open from 1 September 2025 at 12 PM UTC until 12 September 2025 at 12 PM UTC.&#x20;
+Applications were open from September 1, 2025 at 12 PM UTC until September 12, 2025 at 12 PM UTC.
 
-For candidates, you can **review the application form** [**here** ](board-application-form/) to see all the questions in advance and prepare your responses. Translated versions of the form are also available:
+Candidates could **review the application form** [**here** ](board-application-form/)to see all the questions in advance and prepare responses. Translated versions of the form are also available:
 
 {% content-ref url="board-application-form/translations-board-application-form/spanish-board-application-form.md" %}
 [spanish-board-application-form.md](board-application-form/translations-board-application-form/spanish-board-application-form.md)
@@ -83,8 +79,6 @@ For candidates, you can **review the application form** [**here** ](board-applic
 [tamil-board-application-form.md](board-application-form/translations-board-application-form/tamil-board-application-form.md)
 {% endcontent-ref %}
 
-
-
 {% hint style="info" %}
 Please note that the form above is for preparation purposes only. To officially apply, you must **log into** the **Intersect Members Area** and submit your application there during the application window. Applications must be completed in **English**. The translations provided here in the Knowledge Base are meant only as guidance to support your understanding.
 {% endhint %}
@@ -93,11 +87,9 @@ When preparing your application, focus on clearly presenting your background, yo
 
 Finally, remember that the election process is also about community engagement. Joining Town Halls and XSpaces is a valuable way to connect with members, share your story, and strengthen your campaign.
 
-
-
 ## Voter Eligibility
 
-To participate in voting, members must meet the following criteria.
+To participate in voting, members met the following criteria.
 
 Only members who have either:
 
@@ -119,7 +111,7 @@ Anyone who is **not yet a member** must:
 2. **Complete verification before voting ends**, to be eligible to vote.
 {% endhint %}
 
-### Verification Process&#x20;
+### Verification Process
 
 If you are a recent member and need to verify your identity to vote, follow these steps:
 
@@ -128,12 +120,9 @@ If you are a recent member and need to verify your identity to vote, follow thes
 <summary>Step 1: Access the Verification Option</summary>
 
 * Log in to the **Intersect Members Area**.
-
-- On your main dashboard, look for the **“Verify Identity”** option.
+* On your main dashboard, look for the **“Verify Identity”** option.
 
 </details>
-
-
 
 <details>
 
@@ -149,18 +138,13 @@ You have two options to confirm your identity:
 
 </details>
 
-####
-
 <details>
 
 <summary>Step 3: Complete the Verification</summary>
 
 * Follow the instructions for your chosen method.
-
-- Once your identity is verified, you will be eligible to vote in the September 2025 board elections.
+* Once your identity is verified, you will be eligible to vote in the September 2025 board elections.
 
 </details>
-
-####
 
 By offering both verification options, we ensure the process is secure, fair, and flexible, allowing all members to participate in shaping Intersect’s future.

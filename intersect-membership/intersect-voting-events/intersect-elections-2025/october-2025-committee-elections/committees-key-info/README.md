@@ -6,13 +6,13 @@ We’ve created an **Application Pack** with detailed one-pagers for each commit
 
 {% file src="../../../../../.gitbook/assets/Committee Application Pack October 2025.pdf" %}
 
-Ready to contribute to the future of Cardano? [**Apply now!**](https://members.intersectmbo.org/dashboard/voting)
+Applications were accepted through the Intersect members' area.
 
-To make the process more accessible, we have also translated the application form into five languages. If you’d like to see the translations, [click here](broken-reference).
+To make the process more accessible, the form was also translated into five languages.&#x20;
 
-We will also be holding a number of [engagement events](../../april-2025-committee-elections/committees-key-info/intersect-committee-elections-x-space-events.md) and posting key messages across our social media platforms.
+A number of [engagement events](../../april-2025-committee-elections/committees-key-info/intersect-committee-elections-x-space-events.md) were held and key messages posted across our social media platforms.
 
-We have set up a [Discord Election Channel](https://discord.com/channels/1136727663583698984/1270677346743222337) so you can post any questions you may have. You can also email [committees@intersectmbo.org](mailto:committees@intersectmbo.org).
+We set up a [Discord Election Channel](https://discord.com/channels/1136727663583698984/1270677346743222337) for questions and an email site [committees@intersectmbo.org](mailto:committees@intersectmbo.org).
 
 Want to learn more about each committee? Check out the links below for detailed information on their roles and responsibilities.
 
@@ -57,7 +57,7 @@ To learn more about the committee, click this [link](https://committees.docs.int
 
 <summary>Technical steering committee</summary>
 
-**Committee overview:** The Technical Steering Committee (TSC) provides recommendations to ensure that decisions made either on-chain or off-chain for Cardano development are based upon sound technical awareness and best practices, maintaining the security and sustainability of the blockchain. The TSC is primarily focused on core infrastructure, including the Layer 1 protocol, critical tooling to support the operation of Cardano,  and essential infrastructure to support Layer 2 development.
+**Committee overview:** The Technical Steering Committee (TSC) provides recommendations to ensure that decisions made either on-chain or off-chain for Cardano development are based upon sound technical awareness and best practices, maintaining the security and sustainability of the blockchain. The TSC is primarily focused on core infrastructure, including the Layer 1 protocol, critical tooling to support the operation of Cardano, and essential infrastructure to support Layer 2 development.
 
 **Number of seats open for election**: 5
 

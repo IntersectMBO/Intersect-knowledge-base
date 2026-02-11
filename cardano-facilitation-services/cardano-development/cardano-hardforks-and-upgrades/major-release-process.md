@@ -6,7 +6,7 @@ Please note that this overview is indicative of the process, some details have b
 Also note that the process will change in the near future to reflect on-chain governance actions.
 {% endhint %}
 
-The following information is intended to provide the community an indicative overview of the major release process, major releases include such events as [hard forks](broken-reference). In blockchain technology a hard fork is one of the most significant upgrades. It is a radical change in a blockchain protocol that affects the validity of blocks and transactions on the decentralized network.&#x20;
+The following information is intended to provide the community an indicative overview of the major release process, major releases include such events as [hard forks](broken-reference/). In blockchain technology a hard fork is one of the most significant upgrades. It is a radical change in a blockchain protocol that affects the validity of blocks and transactions on the decentralized network.
 
 The below provides an outline of the role different roles that Intersect committees, working groups and the community play in contributing to the major release process.
 
@@ -26,7 +26,7 @@ The below provides an outline of the role different roles that Intersect committ
 
 * **Ledger** - updates the system that keeps track of all transactions, making sure it's ready to handle the new types of transactions that the hard fork may introduce.
 * **Node** - improves the core software of the blockchain to support enhanced features and performance.
-* **Consensus** -  the rules for how transactions are verified across the network, ensuring everyone agrees on what is valid.
+* **Consensus** - the rules for how transactions are verified across the network, ensuring everyone agrees on what is valid.
 * **CLI (Command Line Interface)** - makes it easier for developers to interact with the blockchain by enhancing the tools they use to deploy and manage their applications.
 
 Together, these and other updates from the continuity suppliers ensure the new node is robust, secure, and reliable for release, setting a solid foundation for a major release such as a hard fork
@@ -37,7 +37,7 @@ Together, these and other updates from the continuity suppliers ensure the new n
 
 <figure><img src="https://lh7-us.googleusercontent.com/yzoSoimOX6N_e7-V3EJN7Zxp8-hj6FyqPPv_cdgdsx6_RVd8IZW9QdTzmvgTF1B1rG-l-xACP1IcUdn8og1Joe9Fxq69vGnoALCR2VHLyZ5X4veHF8E8VLpkFsCAkBSRJ5u_qtdAYOVoTAI=s2048" alt=""><figcaption><p>Release 2</p></figcaption></figure>
 
-Intersect coordinates major releases, such as a hard fork, through its community led [Technical Steering Committee](../../../intersect-membership/intersect-committees/technical-steering-committee-tsc/) and associated working groups. &#x20;
+Intersect coordinates major releases, such as a hard fork, through its community led [Technical Steering Committee](../../../intersect-membership/intersect-committees/technical-steering-committee-tsc.md) and associated working groups.
 
 **Technical Steering Committee** - ensures that governance of Cardano is based upon sound technical awareness and best practices. The committee is a rally point for key members, suppliers and third parties to coordinate delivery of development services to support the Cardano blockchain.
 
@@ -47,28 +47,25 @@ Intersect coordinates major releases, such as a hard fork, through its community
 
 <figure><img src="https://lh7-us.googleusercontent.com/kCbH6svXVvBYp6lvb3yiK0uYDovmKaArkuRMmAzGpsghJwluyvazFFOgpr4056pbk9WnA54H-U-RSEA5ZpP0io3CXpddNdp-nMJNHTKhRJfTrxhektyXx5-Bq4JmHix8DbblH3ysXKcSOTk=s2048" alt=""><figcaption><p>Release 3</p></figcaption></figure>
 
-Continuity suppliers play a key role in making sure that new updates and changes to our software are of the highest quality before they go live. &#x20;
+Continuity suppliers play a key role in making sure that new updates and changes to our software are of the highest quality before they go live.
 
 * **Development - push via quality -** the process starts in the development phase, where the main focus is on integrating quality right from the beginning. Instead of adding it later, quality is a priority from the start, which helps in building a more reliable and robust product.
-* **Quality Reports -**  once the development integrates quality measures, the next step involves detailed quality reports. These reports are generated to assess the performance and reliability of the new updates.
+* **Quality Reports -** once the development integrates quality measures, the next step involves detailed quality reports. These reports are generated to assess the performance and reliability of the new updates.
 
 ### 4. Testing conducted with SPOs, Exchanges and dApps
 
 <figure><img src="https://lh7-us.googleusercontent.com/XjMSqbrk9ihaN9tjEoWlKVTwAYei5vOzFYzXMtRGYHrQFUJ6EgxRkCP62Uds0q5qpzFnCeIBt6iwxSCwbvEFUQ7d2N74roYjh60qVzvxWoX8QY3xpam8KFGcN0rWrZRVFMm33bzCXh9m-x8=s2048" alt=""><figcaption><p>Release 4</p></figcaption></figure>
 
-When preparing for major updates such as hard forks, community feedback and preparation is essential. Key members are invited to working groups, all of the community is encouraged to provide feedback.&#x20;
+When preparing for major updates such as hard forks, community feedback and preparation is essential. Key members are invited to working groups, all of the community is encouraged to provide feedback.
 
 <details>
 
 <summary><strong>Here’s how different community members can contribute:</strong></summary>
 
 * **SPOs (Stake Pool Operators) -** play a crucial role in maintaining the blockchain network. Testing with SPOs helps ensure that the new updates will work smoothly in the live network environment. It checks the stability and efficiency of the network from the perspective of those who operate the network nodes.
-
-- **Wallets -** are tested to ensure that they can safely and effectively manage and store the new types of transactions that might be introduced by the update. This testing helps prevent issues that could affect users' funds.
-
+* **Wallets -** are tested to ensure that they can safely and effectively manage and store the new types of transactions that might be introduced by the update. This testing helps prevent issues that could affect users' funds.
 * **Exchanges -** need to integrate seamlessly with any new blockchain features to allow for smooth trading and liquidity. Testing with exchanges ensures that they can handle transactions without any disruptions or security risks.
-
-- **DApps (Decentralized Applications) -** Since dApps operate directly on the blockchain, testing with dApps checks for compatibility issues and ensures that they continue to operate efficiently even after the updates are applied.&#x20;
+* **DApps (Decentralized Applications) -** Since dApps operate directly on the blockchain, testing with dApps checks for compatibility issues and ensures that they continue to operate efficiently even after the updates are applied.
 
 </details>
 
@@ -83,10 +80,8 @@ Feedback and issues are iteratively collected, triaged, categorised and resolved
 <summary><strong>Here's how feedback and issues are managed:</strong></summary>
 
 * **Collecting Feedback -** continuity suppliers actively gather feedback from users, stakeholders, and the community. This feedback is essential as it provides insights into quality and what needs improvement.
-
-- **Major Issues -** using the feedback collected, continuity suppliers work to resolve all major issues that could disrupt the service or product performance. These could include technical issues, performance inefficiencies, or community deployment problems.
-
-* **Resolving Issues -** once major issues are identified, the suppliers work on resolving them promptly. They prioritize these issues based on their impact and complexity.&#x20;
+* **Major Issues -** using the feedback collected, continuity suppliers work to resolve all major issues that could disrupt the service or product performance. These could include technical issues, performance inefficiencies, or community deployment problems.
+* **Resolving Issues -** once major issues are identified, the suppliers work on resolving them promptly. They prioritize these issues based on their impact and complexity.
 
 </details>
 
@@ -94,7 +89,7 @@ Feedback and issues are iteratively collected, triaged, categorised and resolved
 
 <figure><img src="https://lh7-us.googleusercontent.com/5hgljC8H6wxZ6Iz2obmtSWC-vfItDHULIFrs9yA4FjWVQIbnBvKGm4AolPhPmNAggvkzjQVsr-qARZ0ImwvQTXQijEv3hh3PqV8HKZJMWhVA_ICeXCKDkO_YrPMLbJ8TeVjYJk4DD3tOfBs=s2048" alt=""><figcaption><p>Release 6</p></figcaption></figure>
 
-Once satisfactory time has passed, allowing major exchanges, SPOs and DApps to contribute to the quality process outlined and no high severity issues remain, a hard fork combinator event can be initiated - **pull of the community via adoption.**&#x20;
+Once satisfactory time has passed, allowing major exchanges, SPOs and DApps to contribute to the quality process outlined and no high severity issues remain, a hard fork combinator event can be initiated - **pull of the community via adoption.**
 
 A hard fork combinator event is a way to update a blockchain without splitting it into two separate paths. Unlike a regular hard fork, which usually creates a new branch of the blockchain and leaves the old one behind, a hard fork combinator blends multiple updates into one smooth process. This means the blockchain can introduce new features or rules without stopping the system or losing any of its history.
 
@@ -106,4 +101,4 @@ For example, when the Cardano blockchain moved from the Byron system to the Shel
 
 We hope you find the above a useful, as an indicative summary of how the major release process works, and the part the community has to play in the process.
 
-To read more about, and to contribute to, quality and feedback please go to the following article on our knowledge base: [https://docs.intersectmbo.org/cardano-upgrades/quality-and-feedback](https://docs.intersectmbo.org/cardano-upgrades/quality-and-feedback)&#x20;
+To read more about, and to contribute to, quality and feedback please go to the following article on our knowledge base: [https://docs.intersectmbo.org/cardano-upgrades/quality-and-feedback](https://docs.intersectmbo.org/cardano-upgrades/quality-and-feedback)

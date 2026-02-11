@@ -1,19 +1,21 @@
-# Intersect Steering committee
+# Intersect Steering committee (ISC)
 
 ## What is the Intersect Steering Committee?
 
-The Intersect Steering Committee brings together member elected representatives, elected committee chairs, and Functional Directors of Intersect.
+The Intersect Steering Committee brings together elected representatives, the chair of each standing committee, and Functional Directors of Intersect.
 
-ISC is a collective member driven governing body which will oversee all standing committees and functions within Intersect. It will enable effective collective decision making and communication flows between the Intersect Board, committees, community representatives and Functional Directors.
+ISC is a member-driven governing body that oversees all standing committees and functions within Intersect. It enables effective collective decision-making and communication flows between the Intersect Board, committees, community representatives, and Functional Directors.
 
-In turn this will drive forward the growth of Intersect on behalf of the Intersect membership and wider Cardano ecosystem.
+In turn, this drives Intersect's growth on behalf of the Intersect membership and the wider Cardano ecosystem.
 
+## Why is this committee important?
 
+The Steering Committee coordinates strategic decisions across all Intersect committees and functions, ensuring unified direction and effective support for Cardano's development on behalf of the community.
 
-***
+## Which topics does this committee cover?
 
-_To find out more details about this committee view the committee space_
+The committee guides Intersect's overall strategy, coordinates committee activities, oversees budgets and operations, and ensures decisions serve the Cardano community's interests.
 
-{% content-ref url="https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/D2rg7EhSVnGj7fc1h3WY/" %}
-[Intersect - Steering Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/D2rg7EhSVnGj7fc1h3WY/)
-{% endcontent-ref %}
+## How to join?
+
+Two members of the Intersect Steering Committee are directly elected in the Intersect committee elections in addition to the standing committee chairs and the functional directors of Intersect. Intersect always communicates details on how to apply and vote well in advance of each election.&#x20;

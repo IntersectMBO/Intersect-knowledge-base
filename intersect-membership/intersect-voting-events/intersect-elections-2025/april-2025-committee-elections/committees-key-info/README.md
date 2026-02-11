@@ -10,7 +10,7 @@ To make the process more accessible, we have also translated the application for
 
 We will also be holding a number of [engagement events](intersect-committee-elections-x-space-events.md) and posting key messages across our social media platforms.
 
-We have set up a [Discord Election Channel](https://discord.com/channels/1136727663583698984/1270677346743222337) so you can post any questions you may have. You can also email [committees@intersectmbo.org](mailto:committees@intersectmbo.org).
+We set up a [Discord Election Channel](https://discord.com/channels/1136727663583698984/1270677346743222337) for questions, and an email [committees@intersectmbo.org](mailto:committees@intersectmbo.org).
 
 Want to learn more about each committee? Check out the links below for detailed information on their roles and responsibilities.
 

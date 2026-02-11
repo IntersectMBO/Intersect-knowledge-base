@@ -2,7 +2,7 @@
 
 ## Overview
 
-In October, the **Committee Elections** will be held. These elections allow members to participate in shaping the committees that drive progress across critical areas such as governance, technical development, community engagement, and more. &#x20;
+**Committee Elections** were held in October. These elections allowed members to participate in shaping the committees that drive progress across critical areas such as governance, technical development, community engagement, and more.
 
 ## Key Dates
 
@@ -10,9 +10,9 @@ In October, the **Committee Elections** will be held. These elections allow memb
 
 <summary>Application period</summary>
 
-Application period opens: **Oct 1st** at 12 PM UTC&#x20;
+Application period open: **October 1** at 12 PM UTC
 
-Application period closes: **Oct 24th** at 12 PM UTC
+Application period close: **October 24** at 12 PM UTC
 
 </details>
 
@@ -20,11 +20,9 @@ Application period closes: **Oct 24th** at 12 PM UTC
 
 <summary>Voting Period</summary>
 
-Voting period opens: **27th of Oct** at 12 PM UTC&#x20;
+Voting period open: **October 27** at 12 PM UTC
 
-Voting period closes: **7th of Nov** at 12 PM UTC.
-
-[Check Voting eligibility](./#voter-eligibility)&#x20;
+Voting period close: **November 7** at 12 PM UTC.
 
 </details>
 
@@ -32,7 +30,9 @@ Voting period closes: **7th of Nov** at 12 PM UTC.
 
 <summary>Voting Results</summary>
 
-The results will be published on **Nov 14**.
+Following an independent audit by Dquadrant, [results were published](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/intersect-elections-2025/october-2025-committee-elections/april-2025-committee-election-results) on **November 14**.
+
+In summary, 293 members (19.4% of eligible voters) cast 5,182 ballots for 98 candidates competing for 36 seats across eight committees.
 
 </details>
 
@@ -40,7 +40,7 @@ The results will be published on **Nov 14**.
 
 ## Voter Eligibility
 
-To participate in voting, members must meet the following criteria.
+To participate in voting, members met the following criteria.
 
 Only members who have either:
 

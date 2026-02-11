@@ -1,8 +1,8 @@
-# Civics committee
+# Cardano Civics committee (CCC)
 
 ## What is the Civics Committee?
 
-The Civics Committee provide facilitation and oversight to the Cardano Community related to the governance of Cardano. This includes developing and facilitating processes to engage the Cardano Community in governance, coordinating with subject matter experts where needed, and providing support as requested by the Cardano Constitutional Committee.
+The Civics Committee advises on governance processes and community engagement across the Cardano ecosystem. The committee develops frameworks for effective community participation in governance, coordinates with subject matter experts to ensure informed decision-making, and provides advisory support to the Cardano Constitutional Committee as needed.
 
 ## Why is this committee important?
 
@@ -12,7 +12,6 @@ The Cardano Civics Committee ensures that Cardano's governance is accessible, fa
 
 While not all of these topics are addressed yet, the vision is for the committee to cover topics such as:
 
-* Facilitate a ratification period for the constitution.
 * Enable and maintain the history of off-chain discussions about proposals.
 * Monitor tools for on-chain voting to verify that they are maintained and operational.
 * Update guidelines, templates, and standards for on-chain voting.
@@ -20,12 +19,6 @@ While not all of these topics are addressed yet, the vision is for the committee
 
 ## How to join?
 
-The Cardano Civics Committee will participate in Intersect committee elections to select the next cohort of members.
+The Cardano Civics Committee participates in Intersect committee elections to select the next cohort of members. Intersect always communicates details on how to apply and vote well in advance of each election.
 
 ***
-
-_To find out more details about this committee view the committee space_
-
-
-
-{% embed url="https://committees.docs.intersectmbo.org/v/intersect-civics-committee" %}

@@ -6,11 +6,11 @@ description: Overview of the 2024 Annual member meeting
 
 ## Overview
 
-The member summits will allow community hubs to unite local members to discuss Cardano’s product roadmap and budget and how Intersect can continue supporting Cardano’s on-chain governance into 2025. The annual member summits will also be a chance to look back at the positives and negatives of Intersect’s first year and how we can build a stronger organization together.
+The member summits allowed community hubs to unite local members to discuss Cardano’s product roadmap and budget and how Intersect can continue supporting Cardano’s on-chain governance into 2025. The annual member summits were also a chance to look back at the positives and negatives of Intersect’s first year and how we can build a stronger organization together.
 
-In addition, we’ll highlight members who have submitted nominations for the [upcoming committee elections](https://intersect.gitbook.io/committee-elections-2024/) and governing board seats. Voting for these positions will be held in parallel with the annual meetings.
+In addition, we highlighted members who had submitted nominations for the [upcoming committee elections](https://intersect.gitbook.io/committee-elections-2024/) and governing board seats. Voting for these positions was held in parallel with the annual meetings.
 
-In addition to the in-person member summits, we’ll be hosting a special town hall covering the same content, including after-town halls and recognition for all the members and organizations who have contributed so much to Intersect and the Cardano ecosystem this year. More updates and information will follow over the coming days and weeks!
+In addition to the in-person member summits, we hosted a special town hall covering the same content, including after-town halls and recognition for all the members and organizations who had contributed so much to Intersect and the Cardano ecosystem this year.&#x20;
 
 ## Locations
 
@@ -40,7 +40,7 @@ In addition to the in-person member summits, we’ll be hosting a special town h
 
 <details>
 
-<summary>Virtual - Special Town Hall </summary>
+<summary>Virtual - Special Town Hall</summary>
 
 ![](../../.gitbook/assets/8f444815-ef40-4f55-9a90-5cbe06e7b8ea.jpeg)
 

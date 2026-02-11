@@ -8,11 +8,13 @@ description: >-
 
 ## Current Intersect membership tiers and costs:
 
+Fees are shown in US dollars.
+
 <table><thead><tr><th width="226">Type</th><th>Cost</th></tr></thead><tbody><tr><td>Enterprise member</td><td>$1,000</td></tr><tr><td>Individual member</td><td>$10</td></tr><tr><td>Associate</td><td>Free</td></tr></tbody></table>
 
-### Seats costs within an organization with an Enterprise membership
+### Seat costs for an organization with Enterprise membership
 
-<table><thead><tr><th width="139">Type</th><th width="250">Amount</th><th>Cost</th></tr></thead><tbody><tr><td>Associate</td><td>Unlimited</td><td>Free</td></tr><tr><td>Member</td><td>between 1 and 10 seats</td><td>$10</td></tr><tr><td>Member</td><td>between 11 and 20 seats</td><td>$25</td></tr><tr><td>Member</td><td>between 21 and 50 seats</td><td>$50</td></tr><tr><td>Member</td><td>between 51 and 100 seats</td><td>$75</td></tr><tr><td>Member</td><td>between 101 seats and over</td><td>$125</td></tr></tbody></table>
+<table><thead><tr><th width="139">Type</th><th width="250">Amount</th><th>Cost</th></tr></thead><tbody><tr><td>Associate</td><td>Unlimited</td><td>Free</td></tr><tr><td>Member</td><td>from 1 to 10 seats</td><td>$10 per seat</td></tr><tr><td>Member</td><td>11 to 20 seats</td><td>$25 per seat</td></tr><tr><td>Member</td><td>21 to 50 seats</td><td>$50 per seat</td></tr><tr><td>Member</td><td>51 to 100 seats</td><td>$75 per seat</td></tr><tr><td>Member</td><td>over 100 seats</td><td>$125 per seat</td></tr></tbody></table>
 
 ## Benefits
 
@@ -22,7 +24,7 @@ description: >-
 
 ### Committees, groups, and boards
 
-<table><thead><tr><th width="338">Benefits</th><th data-type="checkbox">Enterprise</th><th data-type="checkbox">Individual</th><th data-type="checkbox">Associate</th></tr></thead><tbody><tr><td>Able to be elected or appointed to a steering committee</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Able to join or be appointed to a working group</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Eligible to be elected for a board seat for one year</td><td>true</td><td>true</td><td>false</td></tr><tr><td>The ability to participate in Intersect's governance process and have a say in important decisions that shape the ecosystem's future</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Ability to put forward a candidate for board elections (if available)</td><td>true</td><td>true</td><td>false</td></tr><tr><td>The ability to be nominated for a one-year seat on core technical steering committee seated position</td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th width="338">Benefits</th><th data-type="checkbox">Enterprise</th><th data-type="checkbox">Individual</th><th data-type="checkbox">Associate</th></tr></thead><tbody><tr><td>Eligible to be elected or appointed to a steering committee</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Eligible to join or be appointed to a working group</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Eligible to be elected to a board seat </td><td>true</td><td>true</td><td>false</td></tr><tr><td>Participate in Intersect's governance process and have a say in important decisions that shape the ecosystem's future</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Nominate a candidate for board elections </td><td>true</td><td>true</td><td>false</td></tr><tr><td>Eligible to be nominated for a seat on core technical steering committee </td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
 
 ### Other Benefits
 
@@ -31,3 +33,4 @@ description: >-
 ### Marketing and Comms Benefits
 
 <table><thead><tr><th width="338">Benefits</th><th data-type="checkbox">Enterprise</th><th data-type="checkbox">Individual</th><th data-type="checkbox">Associate</th></tr></thead><tbody><tr><td>Logos/names of founding members on the Intersect website</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Access to weekly development reports</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Access to committee report updates</td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
+
