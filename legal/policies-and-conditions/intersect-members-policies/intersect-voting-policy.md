@@ -1,6 +1,11 @@
-# Intersect Voting Policy
+---
+description: >-
+  Intersect is a member led organization, as such members are required regularly
+  to participate in votes and elections. This Policy provides guidance related
+  to voting events.
+---
 
-Intersect is a member led organization, as such members are required regularly to participate in votes and elections.
+# Intersect Voting Policy
 
 ## Voting event types
 
@@ -29,10 +34,24 @@ Common Voting events currently include:
   * Only paid members are allowed to apply
   * Only those who have been paid members for at least 6 months OR that have followed the process to verify themselves are allowed to vote
 
-## Election voting results - elected members terms
+### What happens if an election type vote gets equal or less applications then the amount of seats up for election
+
+* Note: Voters are not required to use all their vote allocation _(e.g. if they have 4 votes for a committee they could only select two candidates if they want to, or don't vote)_
+* An option for none-of-the-above will be shown. If this is the option with most votes, there will be no elected members for that election
+  * Any vacant seat can remain such till the end of the term for that seat. If the committee / board are below their minimum size they can:
+    * Decide to extend terms of current elected seats, by volunteering or appointing&#x20;
+    * Run an election for that seat in the next election for the remaining 6 months term
+
+
+
+### What happens if an election type vote gets 0 applications to amount of spots up for election
+
+* Current committee members can decide to volunteer to extend their mandate for 6 months (in extreme cases committee could appoint for the interim for 6 months)
+* In the following election those seats can be voted in with a 6 months term
+* Note: if an election runs 2 times with 0 or 1 applicant then the board will evaluate if that committee should still exist in that form or if the remit needs to be updated
+
+## Board Election voting results - elected members terms
 
 During the **2025** election, **4 members** will be elected to the board. The two top-voted candidates will get a 2-year term, the next 2 will get a 1-year term (assuming they remain in good standing membership).
 
 The above is done to start a process that staggers elections, keeping continuity in the board. From **2026** we will elect **2 seats** with a 2 year term, starting a cycle to elect every year 2 board seats.
-
-\

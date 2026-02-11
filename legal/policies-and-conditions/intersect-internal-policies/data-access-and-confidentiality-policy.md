@@ -6,7 +6,7 @@ In the course of Intersect’s business, we will receive confidential informatio
 
 This policy should be read in conjunction with other relevant Intersect policies and documents, including the Code of Conduct, the Intellectual Property Rights Policy, the Privacy Policy, and the Intersect Membership Agreement (all of which are available at https://docs.intersectmbo.org/).
 
-This policy applies to all recipients of confidential information in the course of Intersect’s business, including employees regardless of working pattern or nature of employment contract. It also applies to anyone working within the premises of and / or for Intersect (for example sub-contractors, consultants, secondees from another organisation or agency staff). The word employee(s) in the context of this policy should be taken to mean all such individuals, unless specifically referred to as being directly employed by Intersect.&#x20;
+This policy applies to all recipients of confidential information in the course of Intersect’s business, including employees regardless of working pattern or nature of employment contract. It also applies to anyone working within the premises of and / or for Intersect (for example sub-contractors, consultants, secondees from another organisation or agency staff). The word employee(s) in the context of this policy should be taken to mean all such individuals, unless specifically referred to as being directly employed by Intersect.
 
 Intersect also expects other parties with which it engages to observe this policy, whether or not it is expressly incorporated in relevant contractual documents. The expression “Recipient” in this policy therefore includes Intersect itself, its members, employees, and affiliates, third parties with which Intersect engages, and their representatives: and the expression “Discloser” refers to those same parties when they disclose confidential information to a Recipient.
 
@@ -30,7 +30,7 @@ Intersect is committed to making the organisation as open, accountable and trans
 * remember, that even if confidential or personal information appears trivial or widely known, it should not be disclosed to anyone outside the office except in the terms of this policy or with specific authorisation,
 * ensure that all papers and electronic files associated with the work of Intersect are kept securely.
 
-Employees must not disclose knowledge gained in the course of their work in social settings or on social media and should avoid discussions of a confidential nature in any setting where they may be overheard.&#x20;
+Employees must not disclose knowledge gained in the course of their work in social settings or on social media and should avoid discussions of a confidential nature in any setting where they may be overheard.
 
 When photocopying or working on confidential documents, Recipients must ensure that these are not seen by people in passing. This also applies to information on computer screens. Recipients should ensure that when they are working with confidential information, be that in hard copy or electronically, others who are not party to the information do not inadvertently see it. Laptops, computers and other digital devices used to view Confidential Information should all have password protected log in screens and/or screensavers so that their contents cannot be viewed without the proper authorisation if they are left unattended for any time. The duty of confidentiality continues to apply after an individual leaves Intersect employment
 
@@ -52,5 +52,3 @@ Intersect recognises that information about individuals, whether held electronic
 Anyone who does not comply with this policy, and is directly employed by Intersect, may be subject to disciplinary action as set out in the disciplinary procedures.
 
 Any other person covered by this policy, and found not to comply, will be reported to the relevant office/employer. This may also result in Intersect terminating any contract.
-
-\
