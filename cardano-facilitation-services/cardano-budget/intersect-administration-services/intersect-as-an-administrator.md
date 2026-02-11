@@ -1,10 +1,10 @@
 # Intersect as an Administrator
 
-Intersect serves as an Administrator within Cardano’s funding ecosystem, helping to operationalize community-approved proposals by coordinating due diligence, contracting, and on-chain disbursements. This role is grounded in the principles of transparency, decentralization, and adherence to the Cardano Constitution.
+Serving as an administrator in Cardano's funding process, Intersect helps turn community-approved projects into reality by handling the behind-the-scenes work - checking credentials, setting up contracts, and ensuring funds are spent in line with the contract.
 
 Intersect does not evaluate proposal merit or act as a funding body, but ensures that the governance process is carried out with integrity and that delivery is trackable, auditable, and aligned with community decisions.\
 \
-We've prepared a pack to expand in much more detail, and look forward to continue iterating our role to suit the demands and needs of the Cardano ecosystem.
+We've prepared a detailed pack with more information, and look forward to continuously improving our role to meet the needs of the Cardano ecosystem.
 
 {% embed url="https://docs.google.com/presentation/d/1G9feRC_tJ6Og23T1inzoFpGyage99E-u19boodr95N0/edit?usp=sharing" %}
 
@@ -16,4 +16,10 @@ In December 2025, we sent a survey to all Vendors who use our Administration ser
 
 ### Who are we?
 
-Across the Operational Services team we have a collective of over 50 years of experience across project management, finance, technical, IT, procurement and commercial.&#x20;
+Our Operational Services team brings over 50 years of combined experience in Project Management, Finance, Technical, IT, Procurement and Commercial.
+
+### Feedback
+
+If you would like to share any feedback relating to our administration services, please use this form here:
+
+{% embed url="https://docs.google.com/forms/d/1Yz5sjxEh8jZAAJoqe_LQz088xxiDctFe59kBEpolGvM/edit" %}
