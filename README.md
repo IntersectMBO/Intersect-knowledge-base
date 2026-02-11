@@ -1,7 +1,5 @@
 ---
 description: Intersect is a member-based organization for the Cardano ecosystem.
-cover: .gitbook/assets/Reddit_Profile_1000x300px.jpg
-coverY: 0
 ---
 
 # What is Intersect?
