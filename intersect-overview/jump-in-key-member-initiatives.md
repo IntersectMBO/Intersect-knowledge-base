@@ -4,18 +4,29 @@ description: This page gives quick access to current most important topics
 
 # 🟢 Happening Now
 
-## 2025 - Elections
+<details open>
 
-{% content-ref url="../cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/" %}
-[2025-cc-snap-election-overview](../cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/)
-{% endcontent-ref %}
+<summary><strong>Intra-era hard fork</strong></summary>
 
-{% content-ref url="../cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/drep-voting-guide-2025-cc-snap-election.md" %}
-[drep-voting-guide-2025-cc-snap-election.md](../cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/drep-voting-guide-2025-cc-snap-election.md)
-{% endcontent-ref %}
+Intersect is hosting and facilitating the Hard Fork Working Group (HFWG) to coordinate and navigate ecosystem feedback and potential readiness before formal Cardano governance actions are raised for broader community consensus and approval. In essence, the working group follows much of the same processes and purpose as it did for the Chang and Plomin hardforks not so long ago.
 
+{% hint style="info" %}
+### Keep informed
 
+Join the dedicated Upgrade Discord channel at [#wg-hard-fork](https://discord.com/channels/1136727663583698984/1242097284619960411) (on the Intersect Discord server). This channel is monitored by the working group, with updates being shared and questions answered. Alternatively, you can reach out to [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org)&#x20;
 
-## Cardano Budget - key to know
+The hard fork working group currently meets every other week; see the shared [Luma Calendar](https://luma.com/calendar/cal-TMjYNpSY4huYYif). As progress continues, the meeting cadence will increase.
 
-[intersect-administration-services](../cardano-facilitation-services/cardano-budget/intersect-administration-services/ "mention")
+The [Cardano Upgrades GitBook](https://cardanoupgrades.docs.intersectmbo.org/) contains important hard fork context, working group policies, readiness tracking, and working group meeting minutes.
+{% endhint %}
+
+</details>
+
+<details open>
+
+<summary><strong>Cardano Budget</strong> </summary>
+
+[https://budgetcommittee.docs.intersectmbo.org/](https://budgetcommittee.docs.intersectmbo.org/)
+
+</details>
+
