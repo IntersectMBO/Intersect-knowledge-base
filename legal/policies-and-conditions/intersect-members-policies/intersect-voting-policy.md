@@ -37,7 +37,7 @@ Common Voting events currently include:
 ### What happens if an election type vote gets equal or less applications then the amount of seats up for election
 
 * Note: Voters are not required to use all their vote allocation _(e.g. if they have 4 votes for a committee they could only select two candidates if they want to, or don't vote)_
-* An option for none-of-the-above will be shown. If this is the option with most votes, there will be no elected members for that election
+* An option for "none-of-the-candidates" will be shown. If this is the option with most votes, there will be no elected members for that election
   * Any vacant seat can remain such till the end of the term for that seat. If the committee / board are below their minimum size they can:
     * Decide to extend terms of current elected seats, by volunteering or appointing&#x20;
     * Run an election for that seat in the next election for the remaining 6 months term
