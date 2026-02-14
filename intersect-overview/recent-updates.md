@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-02-13 09:18 UTC_
+_Updated on 2026-02-14 09:10 UTC_
 
 - [README](https://docs.intersectmbo.org/README)
 - [cardano-facilitation-services/cardano-budget/intersect-administration-services/intersect-as-an-administrator](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/intersect-as-an-administrator)
@@ -32,6 +32,7 @@ _Updated on 2026-02-13 09:18 UTC_
 - [intersect-overview/intersect-committees](https://docs.intersectmbo.org/intersect-overview/intersect-committees)
 - [intersect-overview/intersects-structure/intersect-funding](https://docs.intersectmbo.org/intersect-overview/intersects-structure/intersect-funding)
 - [intersect-overview/intersects-structure/intersect-values](https://docs.intersectmbo.org/intersect-overview/intersects-structure/intersect-values)
+- [intersect-overview/jump-in-key-member-initiatives](https://docs.intersectmbo.org/intersect-overview/jump-in-key-member-initiatives)
 - [legal/policies-and-conditions/intersect-internal-policies/README](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/README)
 - [legal/policies-and-conditions/intersect-internal-policies/data-access-and-confidentiality-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/data-access-and-confidentiality-policy)
 - [legal/policies-and-conditions/intersect-internal-policies/intersect-open-source-antitrust-statement](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-internal-policies/intersect-open-source-antitrust-statement)
