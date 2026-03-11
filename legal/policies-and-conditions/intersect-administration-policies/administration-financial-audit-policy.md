@@ -6,13 +6,13 @@
 
 **3. Effective date:** 15 June 2025
 
-**4. Review date:** Annually, next applicable 15 June 2026
+**4. Review date:** Annually, next applicable 15 June 2027
 
 **5. Policy owner:** Head of Operations
 
 **6. Policy sponsor:** Intersect Executive Director
 
-_Updated on 27th June 2025_
+_Updated on 11 March 2026_
 
 ***
 
@@ -45,29 +45,26 @@ This policy is founded on principles of openness, accountability, and the right 
 **11. Policy statements:**
 
 * Constitutionally, all proposals are required to adhere to the following: Any governance action requesting ada from the Cardano Blockchain treasury shall require an allocation of ada as a part of such funding request to cover the cost of periodic independent audits and the implementation of oversight metrics as to the use of such ada. (Section 4, ARTICLE IV. THE CARDANO BLOCKCHAIN ECOSYSTEM BUDGET)
-  * After the point of distribution by an administrator, should it be required, beneficiaries are required to Periodically provide an assessment of the use of any such ada received from this point onward.&#x20;
-*   Constitutionally, all administrators of treasury funds are required to adhere to the following; any ada received from a Cardano Blockchain treasury withdrawal, so long as such ada is being held directly or indirectly by an administrator prior to further disbursement, must be kept in one or more separate accounts that can be audited by the Cardano Community, and such accounts shall not be delegated to an SPO but must be delegated to the predefined auto-abstain voting option (Section 5, ARTICLE IV. THE CARDANO BLOCKCHAIN ECOSYSTEM BUDGET)
-
-    * As an administrator, Intersect will provide periodic reporting which demonstrates any ada received as part of a Cardano Blockchain treasury withdrawal is;
-      * Kept in one or more separate accounts
-      * Which can, as practically possible, be audited by the community or part thereof
-      * Not used for any delegation to an SPO, but delegated to the predefined auto-abstain, where practically possible.
-      * This does not replace Intersect's legal requirements for any business compliance, auditing or reporting needed as a registered entity.&#x20;
-
-
+  * After the point of distribution by an administrator, should it be required, beneficiaries are required to Periodically provide an assessment of the use of any such ada received from this point onward.
+* Constitutionally, all administrators of treasury funds are required to adhere to the following; any ada received from a Cardano Blockchain treasury withdrawal, so long as such ada is being held directly or indirectly by an administrator prior to further disbursement, must be kept in one or more separate accounts that can be audited by the Cardano Community, and such accounts shall not be delegated to an SPO but must be delegated to the predefined auto-abstain voting option (Section 5, ARTICLE IV. THE CARDANO BLOCKCHAIN ECOSYSTEM BUDGET)
+  * As an administrator, Intersect will provide periodic reporting which demonstrates any ada received as part of a Cardano Blockchain treasury withdrawal is;
+    * Kept in one or more separate accounts
+    * Which can, as practically possible, be audited by the community or part thereof
+    * Not used for any delegation to an SPO, but delegated to the predefined auto-abstain, where practically possible.
+    * This does not replace Intersect's legal requirements for any business compliance, auditing or reporting needed as a registered entity.
 * As outlined in the Constitution, Financial Auditing is not intended to assess value, profit, or margin. Its sole purpose is to verify that treasury funds were used as approved, specifically for the intended proposal and its stated benefits.
 * This does not replace Intersect's legal requirements for any business compliance, auditing or reporting needed as a registered entity.
 
 **12. Roles and responsibilities:**
 
-**Intersect (administrator)**&#x20;
+**Intersect (administrator)**
 
-Intersect serves as an administrator, offering guidance. Intersect can advise but not enforce constitutional requirements. In relation to Section IV of Cardano’s Constitution, Intersect will:&#x20;
+Intersect serves as an administrator, offering guidance. Intersect can advise but not enforce constitutional requirements. In relation to Section IV of Cardano’s Constitution, Intersect will:
 
 * Provide expert advice on financial best practices.
 * Offer recommendations to enhance audit processes and financial oversight.
 * Offer audit coordination services, ensuring the initiation of necessary audits for each contract associated with the Cardano Treasury and providing support and guidance.
-* Ensure that all financial activities align with contractual agreements originally approved by the DReps.&#x20;
+* Ensure that all financial activities align with contractual agreements originally approved by the DReps.
 * Put in place reporting mechanisms to ensure clear and timely communication, including conducting Delivery Assurance checks and promptly escalating any identified issues, discrepancies, or risks.
 * Provide Periodic reporting which demonstrates the use of any ada as far as distribution to beneficiaries. This requirement and the level of assessment are based on the beneficiaries’ tier.
 
@@ -84,7 +81,7 @@ The Beneficiary holds a critical role in maintaining financial integrity and tra
 
 This section outlines the step-by-step processes for planning, conducting, and finalizing financial audits of beneficiaries. These procedures ensure that all beneficiaries are held to appropriate standards of financial transparency. There are tiered audit expectations scaled by funding level and/or economic risk.
 
-<table data-header-hidden><thead><tr><th width="125"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Audit tier</strong></td><td><strong>Tier criteria</strong></td><td><strong>Audit requirement level</strong> </td><td><strong>Examples</strong></td></tr><tr><td><strong>Tier 1 - Basic Assurance</strong></td><td><p></p><ul><li>Treasury Exposure: Low Proportion of Cardano Treasury Funding.</li></ul><ul><li>Economic Risk: Minimal or low-risk profile.</li></ul></td><td><p><strong>Basic Assurance</strong><br></p><ul><li>Provide basic, independently verifiable documentation or on-chain evidence showing that funds reached the intended recipients.</li><li>Self-attestation permitted (eg showing total funds received per individual via on-chain transactions).</li></ul></td><td><p></p><ul><li>Low Ecosystem Risk: non-core functionality with minimal sustainability or market impact.</li></ul><ul><li>Treasury funds are small, easily refundable or recoverable.</li></ul><p><br></p></td></tr><tr><td><strong>Tier 2 - Intermediate Assurance</strong> </td><td><p></p><ul><li>Treasury Exposure: Moderate Proportion of Cardano Treasury Funding. </li></ul><ul><li>Economic Risk: Acceptable or moderate risk profile.</li></ul></td><td><p><strong>Intermediate Assurance</strong></p><p></p><ul><li>Supply clear, independently verifiable evidence that funds were used in line with the approved proposal.</li><li>Verification by a capable third-party auditor or detailed on-chain records that enable community-led audit (eg milestone-based transactions).</li><li>Maintain complete financial records and participate in milestone reviews.</li><li>Implement corrective action plans for any audit findings.</li></ul></td><td><p></p><ul><li>Moderate Ecosystem Risk: projects delivering broadly useful functionality or serving specific user groups, with some potential market impact.</li></ul><ul><li>Treasury funds are moderate and may be harder to recover.</li></ul><p><br><br></p></td></tr><tr><td><strong>Tier 3 - Full Assurance</strong></td><td><p></p><ul><li>Treasury Exposure: High or significant proportion of Cardano Treasury Funding. </li></ul><ul><li>Economic Risk: Elevated or significant risk profile. </li></ul></td><td><p><strong>Full Assurance</strong></p><p></p><ul><li>Formal third-party audit engagement is mandatory.</li></ul><ul><li>An independent audit conducted by a qualified external auditor to verify proper use of treasury funds.</li><li>Auditors must provide formal assurance that funds were used strictly as approved in the proposal.</li></ul></td><td><p></p><ul><li>High Ecosystem Risk: single points of failure or unique solutions, with significant potential market impact.</li></ul><ul><li>Treasury funds are large and difficult to recover or reimburse.</li></ul><p><br></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="125"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Audit tier</strong></td><td><strong>Tier criteria</strong></td><td><strong>Audit requirement level</strong></td><td><strong>Examples</strong></td></tr><tr><td><strong>Tier 1 - Basic Assurance</strong></td><td><ul><li>Treasury Exposure: Low Proportion of Cardano Treasury Funding.</li><li>Economic Risk: Minimal or low-risk profile.</li></ul></td><td><p><strong>Basic Assurance</strong><br></p><ul><li>Provide basic, independently verifiable documentation or on-chain evidence showing that funds reached the intended recipients.</li><li>Self-attestation permitted (eg showing total funds received per individual via on-chain transactions).</li></ul></td><td><ul><li>Low Ecosystem Risk: non-core functionality with minimal sustainability or market impact.</li><li>Treasury funds are small, easily refundable or recoverable.</li></ul><p><br></p></td></tr><tr><td><strong>Tier 2 - Intermediate Assurance</strong></td><td><ul><li>Treasury Exposure: Moderate Proportion of Cardano Treasury Funding.</li><li>Economic Risk: Acceptable or moderate risk profile.</li></ul></td><td><p><strong>Intermediate Assurance</strong></p><ul><li>Supply clear, independently verifiable evidence that funds were used in line with the approved proposal.</li><li>Verification by a capable third-party auditor or detailed on-chain records that enable community-led audit (eg milestone-based transactions).</li><li>Maintain complete financial records and participate in milestone reviews.</li><li>Implement corrective action plans for any audit findings.</li></ul></td><td><ul><li>Moderate Ecosystem Risk: projects delivering broadly useful functionality or serving specific user groups, with some potential market impact.</li><li>Treasury funds are moderate and may be harder to recover.</li></ul><p><br><br></p></td></tr><tr><td><strong>Tier 3 - Full Assurance</strong></td><td><ul><li>Treasury Exposure: High or significant proportion of Cardano Treasury Funding.</li><li>Economic Risk: Elevated or significant risk profile.</li></ul></td><td><p><strong>Full Assurance</strong></p><ul><li>Formal third-party audit engagement is mandatory.</li><li>An independent audit conducted by a qualified external auditor to verify proper use of treasury funds.</li><li>Auditors must provide formal assurance that funds were used strictly as approved in the proposal.</li></ul></td><td><ul><li>High Ecosystem Risk: single points of failure or unique solutions, with significant potential market impact.</li><li>Treasury funds are large and difficult to recover or reimburse.</li></ul><p><br></p></td></tr></tbody></table>
 
 **14. Monitoring and compliance:**
 
@@ -105,8 +102,6 @@ This policy should be read in conjunction with the following documents, guidelin
   * [Cardano Constitution](https://constitution.gov.tools/en/constitution)
   * [Technical Review Policy](technical-review-policy.md)
   * [Delivery Assurance and Best Practice Policy](delivery-assurance-process-and-best-practice-policy.md)
-  * Transparency Policy
+  * [Transparency Policy](../intersect-members-policies/transparent-dealings-policy.md)
 * External regulation and best practices
   * [International Financial Reporting Standards (IFRS)](https://www.ifrs.org/)
-
-\
