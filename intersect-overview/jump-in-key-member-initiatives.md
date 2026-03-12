@@ -24,9 +24,11 @@ The [Cardano Upgrades GitBook](https://cardanoupgrades.docs.intersectmbo.org/) c
 
 <details open>
 
-<summary><strong>Cardano Budget</strong> </summary>
+<summary><strong>Cardano Budget</strong> Process</summary>
 
-[https://budgetcommittee.docs.intersectmbo.org/](https://budgetcommittee.docs.intersectmbo.org/)
+A budget process info action is currently on chain.&#x20;
+
+More info [here](../cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process.md)
 
 </details>
 
