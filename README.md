@@ -80,4 +80,4 @@ Ensuring Intersect remains lean, focused and capable of delivering on its respon
 * 3.2 Internal rhythm and ways of working
 * 3.3 Organisational sustainability
 
-See more details here
+See more details [here](updates/intersect-2026-goals.md)
