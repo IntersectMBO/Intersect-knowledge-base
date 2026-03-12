@@ -150,6 +150,11 @@
   * [Cardano Vision](cardano-facilitation-services/cardano-development/cardano-vision.md)
   * [Cardano Open Source](cardano-facilitation-services/cardano-development/cardano-open-source.md)
 
+## Cardano Budget Process 2026
+
+* [Cardano Budget 2026 Overview](cardano-budget-process-2026/cardano-budget-2026-overview.md)
+* [Cardano Budget 2026 FAQs](cardano-budget-process-2026/cardano-budget-2026-faqs.md)
+
 ## Updates
 
 * [General Updates](updates/general-updates.md)
