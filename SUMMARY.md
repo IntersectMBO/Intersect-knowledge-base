@@ -106,7 +106,7 @@
             * [Application Process](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/civics-committee/cip-149-optional-drep-compensation/application-process.md)
         * [Membership and Community Committee](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/membership-and-community-committee.md)
         * [Budget Committee](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/open-tenders/budget-committee.md)
-      * [Eligibility criteria](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/eligibility-criteria.md)
+      * [Minimum Administration Requirements](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/eligibility-criteria.md)
       * [Proposal evaluation criteria](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/grants-evaluation-criteria.md)
       * [Key terms](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/key-terms/README.md)
         * [Cardano Improvement Proposal (CIP)](cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/key-terms/cardano-improvement-proposal-cip.md)
