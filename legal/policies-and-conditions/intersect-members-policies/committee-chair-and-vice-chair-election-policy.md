@@ -77,9 +77,9 @@ To encourage rotation in leadership and the innovations it brings, no individual
 ​​If the Chair resigns, is removed, or becomes unable to continue, the Vice-Chair may serve as Acting Chair during the period leading up to a new Chair election, if willing.
 
 4. The Vice-Chair:
-5. Supports the Chair
-6. May serve as Acting Chair when the Chair is temporarily unavailable
-7. May run for Chair but is not automatically appointed
+   1. Supports the Chair
+   2. May serve as Acting Chair when the Chair is temporarily unavailable
+   3. May run for Chair but is not automatically appointed
 
 ## 6. No-Confidence for Chair and Vice-Chair role&#x20;
 
