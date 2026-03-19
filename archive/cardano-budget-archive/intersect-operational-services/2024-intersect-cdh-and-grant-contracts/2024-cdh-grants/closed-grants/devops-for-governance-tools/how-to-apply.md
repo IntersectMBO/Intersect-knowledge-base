@@ -2,7 +2,7 @@
 
 {% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
-Before applying, please consider the [eligibility criteria](../../../../../../../cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/eligibility-criteria.md).
+Before applying, please consider the [eligibility criteria](../../../../../../../cardano-facilitation-services/funding-administration/intersect-administration-services/2025-apply-for-tender/eligibility-criteria.md).
 
 ***
 
