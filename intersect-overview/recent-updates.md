@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-03-20 09:16 UTC_
+_Updated on 2026-03-21 09:10 UTC_
 
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/constitutional-committee-portal/key-terms-and-resources](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/constitutional-committee-portal/key-terms-and-resources)
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/devops-for-governance-tools/how-to-apply](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/devops-for-governance-tools/how-to-apply)
@@ -8,7 +8,6 @@ _Updated on 2026-03-20 09:16 UTC_
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/education-multimedia-content/key-terms-and-resources](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/education-multimedia-content/key-terms-and-resources)
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/open-category-for-cardano-governance/key-terms-and-resources](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/open-category-for-cardano-governance/key-terms-and-resources)
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/proposal-discussion-forum/key-terms-and-resources](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/proposal-discussion-forum/key-terms-and-resources)
-- [cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/eligibility-criteria](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget/intersect-administration-services/2025-apply-for-tender/eligibility-criteria)
 - [cardano-facilitation-services/funding-administration/README](https://docs.intersectmbo.org/cardano-facilitation-services/funding-administration/README)
 - [cardano-facilitation-services/funding-administration/intersect-administration-services/2025-apply-for-tender/README](https://docs.intersectmbo.org/cardano-facilitation-services/funding-administration/intersect-administration-services/2025-apply-for-tender/README)
 - [cardano-facilitation-services/funding-administration/intersect-administration-services/2025-apply-for-tender/eligibility-criteria](https://docs.intersectmbo.org/cardano-facilitation-services/funding-administration/intersect-administration-services/2025-apply-for-tender/eligibility-criteria)
