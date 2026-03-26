@@ -18,7 +18,7 @@ Associates **are not** eligible to apply as they do not hold this benefit.
 
 <summary>Application period</summary>
 
-The application period will be open from **May 30** at 12 PM UTC to **April 17** at 12 PM UT&#x43;**.**
+The application period will be open from **March 30** at 12 PM UTC to **April 17** at 12 PM UT&#x43;**.**
 
 </details>
 
