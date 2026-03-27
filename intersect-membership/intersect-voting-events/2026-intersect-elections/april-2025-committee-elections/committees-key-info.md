@@ -4,7 +4,7 @@ As a member-driven organization, Intersect empowers the community to shape the f
 
 We’ve created an **Application Pack** with detailed one-pagers for each committee, outlining their purpose and responsibilities. Download the pack, explore the opportunities, and decide where to make the biggest impact.
 
-{% file src="../../../../.gitbook/assets/Intersect Committee Elections - April 2026 - Application Pack.pdf" %}
+{% file src="../../../../.gitbook/assets/Intersect Committee Election -Application Pack April 2026.pdf" %}
 
 Ready to contribute to the future of Cardano? [**Apply now!**](https://members.intersectmbo.org/dashboard/voting)
 
