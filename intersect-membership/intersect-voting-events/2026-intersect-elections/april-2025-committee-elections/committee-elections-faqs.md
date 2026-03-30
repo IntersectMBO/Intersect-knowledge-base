@@ -9,7 +9,7 @@ This page will be updated regularly as more questions are asked.
 <summary>Can anyone apply to be elected?</summary>
 
 No, only individual, enterprise, and seed funder members can apply for a seat.\
-Associate members are not eligible.
+Associates are not eligible.
 
 </details>
 
@@ -49,7 +49,7 @@ All voting will be conducted through the [member portal](https://members.interse
 
 <summary>How will we ensure that the committee work doesn’t stop?</summary>
 
-The elections are divided into two phases: 50% of the seats were elected in October 2025, and the remaining 50% will be elected in April 2026.
+Only about half the voting seats are refreshed in each election, ensuring continuity
 
 </details>
 
@@ -57,7 +57,7 @@ The elections are divided into two phases: 50% of the seats were elected in Octo
 
 <summary>Can I still get involved if I don’t want to sit on a Committee?</summary>
 
-Yes, we have a variety of Working Groups and other initiatives you can get involved in. Feel free to reach out to us via email [contact@intersectmbo.org](mailto:contact@intersectmbo.org)
+Yes, we have a variety of Working Groups and other initiatives you can get involved in. Feel free to reach out to us via email [contact@intersectmbo.org](mailto:contact@intersectmbo.org) or or [committees@intersectmbo.org](mailto:committees@intersectmbo.org)
 
 </details>
 
@@ -65,7 +65,7 @@ Yes, we have a variety of Working Groups and other initiatives you can get invol
 
 <summary>Who will vote on the chair role?</summary>
 
-We propose the community-elected committee self-elect a chair within two weeks of the election result.
+Each committee will elect its chair within two weeks (or two consecutive meetings) once an election has been triggered, as [related policy](../../../../legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy.md)
 
 </details>
 
@@ -87,7 +87,7 @@ Each of the committees has a space in the [Knowledge Base](/broken/pages/GkvJbNu
 
 <details>
 
-<summary>Will the Intersect Steering Committee (previously also known as Exec Committee) also be part of the election?</summary>
+<summary>Will the Intersect Steering Committee also be part of the election?</summary>
 
 Yes, the community seats for this committee will be part of the election.
 
@@ -115,7 +115,7 @@ Yes, any member can participate in Working Groups. This is actively encouraged.
 
 <summary>How can I support Intersect as an Associate</summary>
 
-Associates are very much welcome to participate in Town Halls and Working Groups.
+Associates are welcome to participate in Town Halls and Working Groups.
 
 </details>
 
