@@ -214,7 +214,7 @@
     * [Member decision making process](legal/policies-and-conditions/intersect-members-policies/member-decision-making-process.md)
     * [Intersect Open-Source Glossary](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-glossary.md)
     * [Committee Chair & Vice-Chair Election Policy](legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy.md)
-    * [Roles and responsibilities in committees](legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy-1.md)
+    * [Roles and responsibilities in committees](legal/policies-and-conditions/intersect-members-policies/roles-and-responsibilities-in-committees.md)
   * [Intersect Administration Policies](legal/policies-and-conditions/intersect-administration-policies.md)
     * [Administration Financial Audit Policy](legal/policies-and-conditions/intersect-administration-policies/administration-financial-audit-policy.md)
     * [Delivery Assurance Process and Best Practice Policy](legal/policies-and-conditions/intersect-administration-policies/delivery-assurance-process-and-best-practice-policy.md)
