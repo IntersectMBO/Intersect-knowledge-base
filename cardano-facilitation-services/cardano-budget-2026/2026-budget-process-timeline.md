@@ -7,7 +7,7 @@ description: >-
 # 2026 Budget Process - timeline
 
 {% hint style="warning" %}
-We need to just put NOTE that dates may change
+As the process progresses some dates might get updated to accomodate community needs
 {% endhint %}
 
 {% stepper %}
