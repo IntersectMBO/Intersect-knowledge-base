@@ -17,7 +17,7 @@ As the process progresses some dates might get updated to accomodate community n
 **April 16th**, _12PM UTC_ to **May 8th**, _12PM UTC_
 
 {% hint style="info" %}
-During this phase Budget Proposals can be submitted on Ekklesia. Comments can be submitted to all proposals.
+During this phase, Budget Proposals can be submitted on Ekklesia. Feedback and iteration begin as soon as proposals are published.
 {% endhint %}
 {% endstep %}
 
@@ -27,7 +27,7 @@ During this phase Budget Proposals can be submitted on Ekklesia. Comments can be
 **May 8th**, _12PM UTC_ to **May 22nd**, _12PM UTC_
 
 {% hint style="info" %}
-During this phase Proposals submitted in the previous phase can be **edited** and refined, but **no new proposal can be submitted**. Comments can be submitted to all proposals.
+Submission is now closed — no new proposals can be added (but existing proposals can be edited). Focus shifts to refining existing proposals and preparing them for the voting phase.
 {% endhint %}
 {% endstep %}
 
