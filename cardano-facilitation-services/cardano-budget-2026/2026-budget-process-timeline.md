@@ -6,14 +6,14 @@ description: >-
 
 # 2026 Budget Process - timeline
 
-{% hint style="warning" %}
-As the process progresses some dates might get updated to accommodate community needs
-{% endhint %}
-
-{% hint style="info" %}
+{% hint style="info" icon="pencil-line" %}
 ## Prepare your submission
 
 You can start to prepare your submission by **downloading the budget form** template [here](https://budgetcommittee.docs.intersectmbo.org/cardano-budget-process/budget-proposal-submission-template-download).
+{% endhint %}
+
+{% hint style="warning" %}
+As the process progresses some dates might get updated to accommodate community needs
 {% endhint %}
 
 {% stepper %}

@@ -2,20 +2,20 @@
 
 The Cardano Budget Committee of Intersect have proposed a new and improved process for a Cardano budget season.
 
-{% hint style="warning" icon="info" %}
-**This is currently on-chain for DReps' vote**&#x20;
+{% hint style="success" %}
+## Budget Process Info Action - Approved
 
-Info Action  [**"**&#x43;ardano Budget Process Framework (facilitated by Intersect)"](https://gov.tools/governance_actions/e9693ed6b6465b2b46daaf641486a12b4b2946081634b5967b9d98897b0598fa#0)&#x20;
+On 4th April 2026 the Governance Info Action titled "_Cardano Budget Process Framework (facilitated by Intersect)_" **passed DRep approval** with super majority
 {% endhint %}
 
 {% hint style="info" icon="star" %}
-Read More about the **proposed budget process** and the **info action**&#x20;
+Read More about the **approved budget process** and the **info action**&#x20;
 
 <a href="https://app.gitbook.com/s/gsGMUGjBGIwHbN0vrf7v/cardano-budget-process/cardano-budget-2026-overview" class="button primary" data-icon="up-right-from-square">Read More</a>
 {% endhint %}
 
 {% hint style="info" icon="message-question" %}
-Do you have **questions about the info action**?
+Do you have **questions about the budget process**?
 
 <a href="https://app.gitbook.com/s/gsGMUGjBGIwHbN0vrf7v/cardano-budget-process/cardano-2026-budget-process-faqs" class="button primary" data-icon="up-right-from-square">Check the FAQs</a>
 {% endhint %}

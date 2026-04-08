@@ -154,8 +154,8 @@
   * [Cardano Vision](cardano-facilitation-services/cardano-development/cardano-vision.md)
   * [Cardano Open Source](cardano-facilitation-services/cardano-development/cardano-open-source.md)
 * [Cardano Budget 2026](cardano-facilitation-services/cardano-budget-2026/README.md)
-  * [2026 Cardano Budget Process](cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process.md)
-  * [FAQs - Budget Process](https://budgetcommittee.docs.intersectmbo.org/cardano-budget-process/cardano-2026-budget-process-faqs)
+  * [2026 Cardano Budget Process](cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process/README.md)
+    * [FAQs - Budget Process](https://budgetcommittee.docs.intersectmbo.org/cardano-budget-process/cardano-2026-budget-process-faqs)
   * [2026 Budget Process - timeline](cardano-facilitation-services/cardano-budget-2026/2026-budget-process-timeline.md)
 
 ## Updates
