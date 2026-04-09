@@ -29,6 +29,8 @@ Common Voting events currently include:
   * Existing members whose membership expire during the voting period will be able to vote till their membership is active (and after that if their renew)
 * For committee elections
   * Only paid members are allowed to apply
+    * Members can apply to any committee
+    * If a member is elected to more than two Committees, they will be required to select which Committees they wish to hold a voting seat on.
   * Only those who have been paid members for at least 3 months OR that have followed the process to verify themselves are allowed to vote
 * For board elections
   * Only paid members are allowed to apply
