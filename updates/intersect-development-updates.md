@@ -14,6 +14,37 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 <details>
 
+<summary><strong>2026 - Development updates</strong></summary>
+
+April
+
+* [Development update #105 - April 3](https://www.intersectmbo.org/news/intersect-weekly-update-105-april-3-2026)
+
+March
+
+* [Development update #104 - March 27](https://www.intersectmbo.org/news/intersect-weekly-update-104-march-27-2026)
+* [Development update #103 - March 20](https://www.intersectmbo.org/news/intersect-weekly-update-103-march-20-2026https://www.intersectmbo.org/news/intersect-weekly-update-103-march-20-2026)
+* [Development update #102 - March 13](https://www.intersectmbo.org/news/intersect-update-report-102-march-13-2026)
+* [Development update #101 - March 6](https://www.intersectmbo.org/news/update-report-101-march-6-2026)
+
+February
+
+* [Development update #100 - February 27](https://www.intersectmbo.org/news/intersect-update-100-february-27-2026)
+* [Development update #99 - February 20](https://www.intersectmbo.org/news/intersect-development-update-99-february-20-2026)
+* [Development update #98 - February 13](https://www.intersectmbo.org/news/intersect-development-update-98-february-13-2026)
+* [Development update #97 - February 6](https://www.intersectmbo.org/news/intersect-development-update-97-february-6-202u)
+
+January
+
+* [Development update #96 - January 30](https://www.intersectmbo.org/news/intersect-development-update-96-january-30-2026)
+* [Development update #95 - January 23](https://www.intersectmbo.org/news/intersect-development-update-95-january-23-2026)
+* [Development update #94 - January 16](https://www.intersectmbo.org/news/intersect-development-update-94-january-16-2026)
+* [Development update #93 - January 9](https://www.intersectmbo.org/news/intersect-development-update-93-january-9-2026)
+
+</details>
+
+<details>
+
 <summary><strong>2025 - Development updates</strong></summary>
 
 December
