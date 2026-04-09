@@ -100,7 +100,7 @@
       * [Chang upgrade #1 - Readiness](cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness.md)
     * [Major release process](cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/major-release-process.md)
     * [Quality and feedback](cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/quality-and-feedback.md)
-  * [Cardano Vision](cardano-facilitation-services/cardano-development/cardano-vision.md)
+  * [Cardano 2030 Vision & Strategy](cardano-facilitation-services/cardano-development/cardano-vision.md)
   * [Cardano Open Source](cardano-facilitation-services/cardano-development/cardano-open-source.md)
 * [Cardano Budget 2026](cardano-facilitation-services/cardano-budget-2026/README.md)
   * [2026 Cardano Budget Process](cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process/README.md)
