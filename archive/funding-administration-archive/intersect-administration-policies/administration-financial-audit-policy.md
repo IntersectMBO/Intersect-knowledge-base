@@ -102,6 +102,6 @@ This policy should be read in conjunction with the following documents, guidelin
   * [Cardano Constitution](https://constitution.gov.tools/en/constitution)
   * [Technical Review Policy](technical-review-policy.md)
   * [Delivery Assurance and Best Practice Policy](delivery-assurance-process-and-best-practice-policy.md)
-  * [Transparency Policy](../intersect-members-policies/transparent-dealings-policy.md)
+  * [Transparency Policy](../../../legal/policies-and-conditions/intersect-members-policies/transparent-dealings-policy.md)
 * External regulation and best practices
   * [International Financial Reporting Standards (IFRS)](https://www.ifrs.org/)
