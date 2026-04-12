@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-04-11 09:17 UTC_
+_Updated on 2026-04-12 09:19 UTC_
 
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/constitutional-committee-portal/key-terms-and-resources](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/constitutional-committee-portal/key-terms-and-resources)
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/devops-for-governance-tools/how-to-apply](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/devops-for-governance-tools/how-to-apply)
