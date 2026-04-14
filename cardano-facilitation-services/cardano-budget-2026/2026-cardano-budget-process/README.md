@@ -1,23 +1,32 @@
+---
+description: >-
+  The Cardano Budget Committee of Intersect have proposed a new and improved
+  process for a Cardano budget season.
+---
+
 # 2026 Cardano Budget Process
 
-The Cardano Budget Committee of Intersect have proposed a new and improved process for a Cardano budget season.
+{% hint style="info" %}
+## How to Participate in Budget Process facilitated by Intersect?
+
+The budget process proposal submission and voting will happen in the Intersect Hydra-Voting Tool built by Intersect's member **Ekklesia**
+
+***
+
+<a href="https://hydra-voting.intersectmbo.org/" class="button primary" data-icon="check-to-slot">Go to Hydra-Voting Tool</a>
+
+You can access the tool at [hydra-voting.intersectmbo.org](https://hydra-voting.intersectmbo.org/) and check documentation and guide at [docs.hydra-voting.intersectmbo.org](https://docs.hydra-voting.intersectmbo.org/)
+{% endhint %}
 
 {% hint style="success" %}
 ## Budget Process Info Action - Approved
 
 On 4th April 2026 the Governance Info Action titled "_Cardano Budget Process Framework (facilitated by Intersect)_" **passed DRep approval** with super majority
-{% endhint %}
 
-{% hint style="info" icon="star" %}
-Read More about the **approved budget process** and the **info action**&#x20;
+***
 
-<a href="https://app.gitbook.com/s/gsGMUGjBGIwHbN0vrf7v/cardano-budget-process/cardano-budget-2026-overview" class="button primary" data-icon="up-right-from-square">Read More</a>
-{% endhint %}
-
-{% hint style="info" icon="message-question" %}
-Do you have **questions about the budget process**?
-
-<a href="https://app.gitbook.com/s/gsGMUGjBGIwHbN0vrf7v/cardano-budget-process/cardano-2026-budget-process-faqs" class="button primary" data-icon="up-right-from-square">Check the FAQs</a>
+* If you want to know more about the **approved budget process** and the **info action** you can read more [here](https://app.gitbook.com/s/gsGMUGjBGIwHbN0vrf7v/cardano-budget-process)
+* Do you have **questions about the budget process**? [Check the FAQs](https://budgetcommittee.docs.intersectmbo.org/cardano-budget-process/cardano-2026-budget-process-faqs)
 {% endhint %}
 
 ### **Why a defined budget process matters**
