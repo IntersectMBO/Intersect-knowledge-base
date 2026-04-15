@@ -1,5 +1,7 @@
 # Application Process
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 It is encouraged to be a member of Intersect to apply. Read more about the eligibility criteria [here](https://docs.intersectmbo.org/intersect-operational-services/2025-apply-for-tender/eligibility-criteria).
 
 You will need to complete an application form which will be provided to you.

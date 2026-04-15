@@ -1,5 +1,7 @@
 # Minimum Administration Requirements
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Intersect continues to act as an administrator, overseeing the delivery of projects which have successfully received treasury funding via community-ratified on-chain governance actions.
 
 This page clarifies what information is required for Intersect to be able to act as your Administrator, why this information is important, and Intersect’s position should it not be provided.&#x20;

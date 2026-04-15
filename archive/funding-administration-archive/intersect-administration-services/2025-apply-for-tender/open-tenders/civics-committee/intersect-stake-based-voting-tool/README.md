@@ -1,5 +1,7 @@
 # Intersect Stake-Based Voting Tool
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Intersect, a community-driven organization dedicated to supporting the Cardano ecosystem, requires a robust and versatile voting tool to facilitate stake-based voting events throughout the year. These processes include Constitutional Committee elections.
 
 We're seeking a community builder to repurpose an existing open-source voting tool to be used for various stake-based voting events, starting with the upcoming Constitutional Committee (CC) elections in Q2 2025. The expected outcome is to have a reusable solution - accessible to the entire ecosystem and adaptable to current and future needs.

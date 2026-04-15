@@ -1,5 +1,7 @@
 # 2025 Treasury Withdrawal Smart Contract Updates
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Here you will find a comprehensive view of all contracts that are being administered by Intersect. On our Knowledge Base you will find all key contractual information including the SoW's.
 
 All live on-chain information on contracts can be found via the Smart Contract dashboard - [https://treasury.sundae.fi/instances](https://treasury.sundae.fi/instances)
@@ -13,12 +15,3 @@ Through this link you will be able to track all financial data from the Cardano 
 If you would like to provide feedback on anything or have suggestions for Intersect's operational services team, please feel free to reach out to the team by emailing operational-services@intersectmbo.org.
 
 _Credit to Sundae Swap Labs and Xerberus for creating the 2 dashboards discussed on this page._
-
-
-
-
-
-
-
-
-

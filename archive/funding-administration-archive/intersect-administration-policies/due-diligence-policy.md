@@ -1,5 +1,7 @@
 # Due Diligence Policy
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 **1. Policy title:** Due Diligence Policy
 
 **2. Version:** 1.1
@@ -10,7 +12,7 @@
 
 **5. Policy owner:** Head of Operations
 
-**6. Policy sponsor:** Intersect Executive Director&#x20;
+**6. Policy sponsor:** Intersect Executive Director
 
 _Updated on 27th June 2025_
 
@@ -32,13 +34,12 @@ _Updated on 27th June 2025_
 
 * **Beneficiary:** Individual and/or Company who will be receiving funds and/or entering into contractual relationships with Intersect or with CDH where Intersect is acting as its Administrator.
 * **Cardano Development Holdings (CDH):** CDH is a legal entity created to support the Cardano ecosystem by acting as the contracting counterparty for approved proposals.
-* **Intersect:** Intersect serves as an Administrator within Cardano’s funding ecosystem, helping to operationalize community-approved proposals by coordinating due diligence, contracting, and on-chain disbursements. This role is grounded in the principles of transparency, decentralization, and adherence to the Cardano Constitution.&#x20;
+* **Intersect:** Intersect serves as an Administrator within Cardano’s funding ecosystem, helping to operationalize community-approved proposals by coordinating due diligence, contracting, and on-chain disbursements. This role is grounded in the principles of transparency, decentralization, and adherence to the Cardano Constitution.
 * **Know Your Customer (KYC) -** This is a full check designed to identify and verify customers, ensuring compliance and preventing fraud.
   * **Identity Verification:** This is a core component, involving the collection and verification of personal information like name, date of birth, and address. Sumsub supports over 14,000 types of IDs from 220+ countries and can extract data in various languages. This can be done through document-based verification (uploading photos of government-issued IDs like passports, driver's licenses, or ID cards) or non-document methods that rely on government databases.
   * **Liveness and Deepfake Detection:** To ensure the person is real and present, Sumsub employs facial biometrics and liveness checks. This technology helps confirm that the provided ID document is truly in the possession of its owner and protects against sophisticated fraud like deepfakes.
   * **Proof of Address Verification:** Customers are required to provide proof of residence, often through documents like utility bills or bank statements (usually no older than 3 months), which are then verified for authenticity and consistency with the provided address and name.
-  * **Anti-Money Laundering (AML) Screening:** Sumsub performs checks against sanctions lists, watchlists (including Politically Exposed Persons (PEPs)), and adverse media (negative news) to assess the customer's risk profile and ensure they are not involved in illicit activities.\
-
+  * **Anti-Money Laundering (AML) Screening:** Sumsub performs checks against sanctions lists, watchlists (including Politically Exposed Persons (PEPs)), and adverse media (negative news) to assess the customer's risk profile and ensure they are not involved in illicit activities.\\
 * **Know Your Business (KYB)** - this is a full check designed to verify the legitimacy of businesses and prevent fraud.
   * **Automated Corporate Registry Checks:** This process verifies and collects information about an organization and its beneficiaries from all registries. This verifies the organization's legal existence and ownership/management structure.
   * **Corporate AML Screening:** This is the process of assessing and verifying the legitimacy of corporate entities to ensure they are not involved in illicit activities like money laundering, fraud, or terrorist financing. It involves screening the company and its associated senior individuals against various databases for financial crime risks.
@@ -73,7 +74,7 @@ _Updated on 27th June 2025_
 
 **13. Procedures:**
 
-* Intersect Operational Services team will send the appropriate Sumsub KYC/KYB link to the individual for them to complete and submit the requested documents.&#x20;
+* Intersect Operational Services team will send the appropriate Sumsub KYC/KYB link to the individual for them to complete and submit the requested documents.
   * A KYC link is sent if the purpose of the agreement is with an individual.
   * A full KYB link is sent if the purpose of the agreement is with a company.
 * Sumsub will then take the responsibility of running the checks as described in section 10 of this document.
@@ -91,7 +92,7 @@ _Updated on 27th June 2025_
 
 **15. Review and amendment:**
 
-To ensure the policy remains current and effective, it will be reviewed at least annually. In response to significant organizational changes or regulatory updates, the policy will be updated as required by the Intersect Operational Services team and approved via the Intersect Executive team.&#x20;
+To ensure the policy remains current and effective, it will be reviewed at least annually. In response to significant organizational changes or regulatory updates, the policy will be updated as required by the Intersect Operational Services team and approved via the Intersect Executive team.
 
 **16. Related documents/references:**
 
@@ -102,9 +103,9 @@ This policy should be read in conjunction with the following documents, guidelin
   * Transparency Policy
 * External regulation and best practices
   * [SumSub](https://sumsub.com/)
-  * [Sumsub Trust Centre](https://sumsub.com/sumsub-trust-center/)&#x20;
-  * [CCN.com](https://www.ccn.com/education/crypto/10-countries-where-crypto-remains-banned/) - owned and operated by Find.co, is a media outlet dedicated to cryptocurrencies, business, finance and technology. \
+  * [Sumsub Trust Centre](https://sumsub.com/sumsub-trust-center/)
+  * [CCN.com](https://www.ccn.com/education/crypto/10-countries-where-crypto-remains-banned/) - owned and operated by Find.co, is a media outlet dedicated to cryptocurrencies, business, finance and technology.\
     \
     \
     \
-    \
+    \\

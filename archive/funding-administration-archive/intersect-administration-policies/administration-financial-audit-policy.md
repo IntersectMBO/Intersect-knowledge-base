@@ -1,5 +1,7 @@
 # Administration Financial Audit Policy
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 **1. Policy title:** Administration Financial Audit Policy
 
 **2. Version:** 1.1

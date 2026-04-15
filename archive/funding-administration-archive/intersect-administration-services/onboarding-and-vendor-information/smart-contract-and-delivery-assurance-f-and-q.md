@@ -6,6 +6,8 @@ description: >-
 
 # Smart Contract and Delivery Assurance F\&Q
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## F\&Q
 
 ### Ada Price Volatility

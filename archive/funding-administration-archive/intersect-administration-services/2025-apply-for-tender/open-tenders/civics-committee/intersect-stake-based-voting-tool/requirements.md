@@ -1,5 +1,7 @@
 # Requirements
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Functional requirements
 
 * CIP-30 for wallet connectivity
@@ -38,7 +40,7 @@ Key open source requirements
 ### Optional functions
 
 * Admin dashboard to create voting events and set up the criteria
-* Admin dashboard to track the voting events with key metrics such as participation based on stake&#x20;
+* Admin dashboard to track the voting events with key metrics such as participation based on stake
 * [Post results on-chain automatically](https://github.com/cardano-foundation/cf-cardano-ballot/blob/main/backend-services/voting-admin-app/EVENT_REGISTRATION.md)
 * Be handled on a side chain
 * The snapshot should be limited to voters who delegated to a DRep

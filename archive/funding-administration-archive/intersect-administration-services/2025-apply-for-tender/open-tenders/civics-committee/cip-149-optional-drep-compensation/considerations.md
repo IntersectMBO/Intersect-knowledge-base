@@ -1,5 +1,7 @@
 # Considerations
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Grant Structure & Payment
 
 * **Wallet providers:** 10 grants available - 5,000 ada per eligible applicant

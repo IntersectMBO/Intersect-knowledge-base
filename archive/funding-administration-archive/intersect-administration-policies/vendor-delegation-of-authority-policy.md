@@ -1,5 +1,7 @@
 # Vendor Delegation of Authority Policy
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 **1. Policy Title:** Vendor Delegation of Authority Policy
 
 **2. Version:** 1.0

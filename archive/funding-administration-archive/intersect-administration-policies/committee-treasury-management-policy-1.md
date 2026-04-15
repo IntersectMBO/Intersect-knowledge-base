@@ -1,5 +1,7 @@
 # Committee Treasury Management Policy
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 **1. Policy Title:** Committee Treasury Management Policy
 
 **2. Version:** 1.0

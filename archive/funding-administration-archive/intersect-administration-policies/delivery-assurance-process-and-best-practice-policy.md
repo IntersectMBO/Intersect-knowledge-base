@@ -1,5 +1,7 @@
 # Delivery Assurance Process and Best Practice Policy
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 **1. Policy title:** Delivery Assurance Process and Best Practice Policy
 
 **2. Version:** 1.1
@@ -26,7 +28,7 @@ This policy applies to the beneficiary, as defined below, who enters into contra
 
 **9. Principles:**
 
-This policy is founded on principles of openness, accountability, and the right to information, fostering trust among stakeholders/the community. It ensures a common understanding of Delivery Assurance requirements across all proposals.&#x20;
+This policy is founded on principles of openness, accountability, and the right to information, fostering trust among stakeholders/the community. It ensures a common understanding of Delivery Assurance requirements across all proposals.
 
 **10. Definitions:**
 
@@ -35,12 +37,12 @@ This policy is founded on principles of openness, accountability, and the right 
 * **Milestone(s)** means the dates by which a part or all of the Services is to be completed, as set out in **a Statement of Work.**
 * [**Milestone Acceptance Form (MAF):** ](https://docs.google.com/document/d/1c1kC5q7LwHpQNGHdq9uXv5o5LNHXlDbxCJXtvMeenkA/edit?tab=t.0)This is a written attestation in the form of a standard template, submitted by a vendor, for each milestone.
 * **Intersect:** Intersect serves as an Administrator within Cardano’s funding ecosystem, helping to operationalize community-approved proposals by coordinating due diligence, contracting, and on-chain disbursements. This role is grounded in the principles of transparency, decentralization, and adherence to the Cardano Constitution.
-* **Statement of Work** means the document describing the Services and Deliverables to be provided by the Vendor, the Milestones, date of completion, expected quality standards, and associated fees.&#x20;
+* **Statement of Work** means the document describing the Services and Deliverables to be provided by the Vendor, the Milestones, date of completion, expected quality standards, and associated fees.
 
 **11. Policy statements:**
 
 * Beneficiaries remain fully responsible for delivering quality and value. Through transparency and sharing of milestone progress, reputation and open accountability keep the Cardano community is informed of development and treasury spend.
-* The MAF and invoice must be submitted within 5 business days of milestone completion.&#x20;
+* The MAF and invoice must be submitted within 5 business days of milestone completion.
 * If, in the opinion of Intersect (acting as the Administrator), the Milestone is incomplete or insufficiently completed, it is understood that payment may be delayed until the Milestone is complete. A consecutive failure to successfully complete a Milestone on two or more occasions may result in the termination of the Agreement or the corresponding Statement of Work.
 
 **12. Roles and responsibilities:**
@@ -53,10 +55,10 @@ This policy is founded on principles of openness, accountability, and the right 
 
 * **Contract initiation:** When writing a SoW, consider how to clearly break up the work into tangible milestones. This will be checked and formally agreed with the Intersect Procurement team prior to contract signature.
 * **Milestone description:** When naming and describing a milestone, consider the following principles:
-  * **Be concise and specific** -  Avoid vague language or technical jargon. Aim for language that even a non-SME community member could understand.
-  * **Be outcome-based** -  Focus on what will be delivered, not what will be done. Think about what the end-user or Cardano community will receive as a result.
-  * **Use consistent naming and numbering** -  Number and name milestones clearly so they can be tracked and referenced easily throughout the project lifecycle.
-  * **Set realistic, achievable milestones** - over-ambitious milestones can demotivate and cause delays.&#x20;
+  * **Be concise and specific** - Avoid vague language or technical jargon. Aim for language that even a non-SME community member could understand.
+  * **Be outcome-based** - Focus on what will be delivered, not what will be done. Think about what the end-user or Cardano community will receive as a result.
+  * **Use consistent naming and numbering** - Number and name milestones clearly so they can be tracked and referenced easily throughout the project lifecycle.
+  * **Set realistic, achievable milestones** - over-ambitious milestones can demotivate and cause delays.
   * **Timeline** - provide a realistic timeline that when the milestone will be completed by. Build in contingency to these dates where appropriate.
 * **Acceptance criteria:** Each milestone should have clear and testable acceptance criteria. These serve as the basis for milestone review and approval. Good acceptance criteria should be:
   * **Measurable and objective** – They can be independently verified by reviewers.
@@ -76,7 +78,7 @@ Intersect Delivery Assurance team will verify with the vendor that the third par
 
 * **Contract management:** Once the milestone is complete, a completed [Milestone Acceptance Form (MAF)](https://docs.google.com/document/d/1c1kC5q7LwHpQNGHdq9uXv5o5LNHXlDbxCJXtvMeenkA/edit?tab=t.0) must be submitted to Delivery Assurance. Below is some guidance on what to include.
   * **Milestone Name(s) & Number(s):** To enable identification of the milestone, this should be written as per the contract.
-  * **Milestone Description:** Include the milestone description as per the contract to help reviewers and the community to understand the milestone context.&#x20;
+  * **Milestone Description:** Include the milestone description as per the contract to help reviewers and the community to understand the milestone context.
   * **Acceptance Criteria Met:** Explain how the work meets the contract’s acceptance criteria and describe what was delivered. To facilitate approval by the Delivery Assurance team, please include supporting links where possible. Ensure they are visible to stakeholders to support progress tracking and communication and also to support the Delivery Assurance process in verifying your work. These may include:
     * GitHub repositories or pull requests
     * Testnet/mainnet deployment addresses
@@ -95,7 +97,7 @@ Intersect Delivery Assurance team will verify with the vendor that the third par
     * Stakeholder Feedback Collection
     * Community Review / Public Sharing
     * Expert or Committee Review
-  * **Public Communication Summary:** This section can be useful for the community to follow the progress of the project. Write a summary that can be shared publicly. Use the following pointers as guidance: Project Purpose, Context,  Milestone Achievement, Benefits to the Community. Include a link to where the community can find project or progress updates. Below is some guidance on how to do this:
+  * **Public Communication Summary:** This section can be useful for the community to follow the progress of the project. Write a summary that can be shared publicly. Use the following pointers as guidance: Project Purpose, Context, Milestone Achievement, Benefits to the Community. Include a link to where the community can find project or progress updates. Below is some guidance on how to do this:
     * Explain what the project is about
     * What was achieved in the milestone
     * Why it matters
@@ -106,14 +108,14 @@ Intersect Delivery Assurance team will verify with the vendor that the third par
     * Include a milestone roadmap / timeline and anticipated delivery dates.
     * Document progress, changes and blockers in GitLab or other publicly accessible platforms (eg a blog).
     * Community-friendly, plain English language.
-    * Beneficiaries are also encouraged to host regular  Ask Me Anything (AMA) sessions.
+    * Beneficiaries are also encouraged to host regular Ask Me Anything (AMA) sessions.
   * **Signature Authorization:** The final section of the form requires signature from three parties: The person responsible for producing the work, Third-party Assurance and Intersect Delivery Assurance. Where applicable, make sure any other policy or constitutional requirement deemed necessary by the administrator has been fulfilled.
 * **Incomplete MAF:** If a MAF is deemed to be incomplete by the DA team, including missing the third-party assurance without any clear justification, the beneficiary will be informed and requested to provide supplementary information. If this causes substantial delays, then the payment for the milestone in question may be deferred to the next payment cycle. As per the policy statement (section 11), if there is a consecutive failure to successfully complete a Milestone on two or more occasions, this may result in the termination of the Agreement or corresponding Statement of Work.
 
 **14. Monitoring and compliance:**
 
-* **Monitoring:** Intersect, as the administrator, will monitor the completion of milestones, documentation, and payment throughout the contract lifecycle, overseeing that the appropriate delivery assurance is undertaken.&#x20;
-* **Compliance:** Significant compliance breaches may be disclosed to the community through public reports and escalated to DReps as appropriate, in alignment with transparency commitments.&#x20;
+* **Monitoring:** Intersect, as the administrator, will monitor the completion of milestones, documentation, and payment throughout the contract lifecycle, overseeing that the appropriate delivery assurance is undertaken.
+* **Compliance:** Significant compliance breaches may be disclosed to the community through public reports and escalated to DReps as appropriate, in alignment with transparency commitments.
 
 **15. Review and amendment:**
 
@@ -135,4 +137,3 @@ This policy should be read in conjunction with the following documents, guidelin
 
 * [How to write Milestones](https://drive.google.com/file/d/18Yfv9rwKgayv1cVPzSj3QNOJP37UbIxZ/view?usp=drive_link)
 * [How to fill in the Milestone Acceptance Form](https://drive.google.com/file/d/16mflKXUKRVi1oJMh3_PomCqBJHdSH17L/view?usp=drive_link)
-

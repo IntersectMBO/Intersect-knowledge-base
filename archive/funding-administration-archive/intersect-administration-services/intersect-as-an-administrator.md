@@ -1,5 +1,7 @@
 # Intersect as an Administrator
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Serving as an administrator in Cardano's funding process, Intersect helps turn community-approved projects into reality by handling the behind-the-scenes work - checking credentials, setting up contracts, and ensuring funds are spent in line with the contract.
 
 Intersect does not evaluate proposal merit or act as a funding body, but ensures that the governance process is carried out with integrity and that delivery is trackable, auditable, and aligned with community decisions.\

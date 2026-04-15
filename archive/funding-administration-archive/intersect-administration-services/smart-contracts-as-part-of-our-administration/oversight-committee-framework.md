@@ -1,10 +1,12 @@
 # Oversight Committee Framework
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Role and responsibilities of the Oversight Committee
 
 The role of the Oversight Committee (OC) is to provide a check and balance on Intersect as an Administrator. The Oversight Committee is narrowly responsible for specific data assurance tasks as described below. All other permissions regarding any smart contracts and their functions are and will continue to be held by Intersect at all times. The OC should consist of at least 5 and at most 7 members, balancing the potential for conflicts of interest versus operational cost. Any OC member may withdraw from the role at any time. Intersect, acting reasonably and in the best interest of the Cardano Community may also remove a member of the OC. In the instance a member of the OC is removed or leaves, Intersect will work expeditiously to replace the removed member.
 
-Intersect retains all liability for the vendor proposals contracts, including the responsibility of pausing and resuming all milestone payments. Nothing in this framework or the actions it envisages will transfer any of Intersect’s responsibility or liability to the OC.&#x20;
+Intersect retains all liability for the vendor proposals contracts, including the responsibility of pausing and resuming all milestone payments. Nothing in this framework or the actions it envisages will transfer any of Intersect’s responsibility or liability to the OC.
 
 The OC will record their decision/s as metadata as part of the smart contract framework with their own private key/s.
 
@@ -41,7 +43,7 @@ In total, the two contracts allow for 13 separate actions, of which 7 are permis
 | PSSC Resume     | Resuming a paused milestone, after the dispute has been resolved                                                       |
 | PSSC Modify     | Modifying a project, with a vendors permission, to restructure the milestones or pay funds back to the treasury script |
 
-In all cases, actions must be initiated by Intersect. In the cases of Fund, Modify, Disburse, Pause, Resume and Sweep, Intersect has implemented a two step process where administration key(s) are used to initiate or create actions, but they will also require Senior Leadership Team (SLT) Key(s) as part of the permission set. This effectively adds two person control within the administrator as additional checks and balances on internal processes.&#x20;
+In all cases, actions must be initiated by Intersect. In the cases of Fund, Modify, Disburse, Pause, Resume and Sweep, Intersect has implemented a two step process where administration key(s) are used to initiate or create actions, but they will also require Senior Leadership Team (SLT) Key(s) as part of the permission set. This effectively adds two person control within the administrator as additional checks and balances on internal processes.
 
 Overview of possible Actions and required thresholds per entity
 

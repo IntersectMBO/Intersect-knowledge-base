@@ -1,5 +1,7 @@
 # Intersect Programme Updates
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Intersect's Operational Treasury Contract 2025/2026:
 
 [A member-based organization for the Cardano ecosystem- Intersect](https://drive.google.com/file/d/1Cu_5tq3fvv8NXPEMGPhtF2kGWhVNKv82/view?usp=sharing)

@@ -6,6 +6,8 @@ description: >-
 
 # Intersect Administered Contracts - Progress Reports
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 As part of the Cardano Treasury budget process, Intersect have been chosen as the administrator for over 40 projects. Most of these projects were kicked off during Quarter 3 and 4 of 2025 when the Smart Contracts were funded on-chain which is visible on the [Intersect Treasury dashboard.](https://treasury.sundae.fi/instances/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619?projectState=Active)
 
 2026:

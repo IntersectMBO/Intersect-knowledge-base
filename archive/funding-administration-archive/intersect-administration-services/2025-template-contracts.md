@@ -6,6 +6,8 @@ description: >-
 
 # 2025 Template Contracts
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Intersect emphasizes the finality of these agreements. They've been carefully reviewed and balanced for fairness, and we are not currently open to further negotiation on any clauses. We trust the terms align with your expectations as a vendor.
 
 * **General Master Services Agreement (MSA) boilerplate**

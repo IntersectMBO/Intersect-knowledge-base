@@ -1,5 +1,7 @@
 # Request for funding via Intersect Committees
 
+{% include "../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Request for funding opportunities will be listed by Intersect Committee in the pages that follow:
 
 * Technical Steering Committee (TSC)
@@ -9,6 +11,3 @@ Request for funding opportunities will be listed by Intersect Committee in the p
 * Membership and Community Committee (MCC)
 * Budget Committee
 * Interim Steering Committee (ISC)
-
-
-

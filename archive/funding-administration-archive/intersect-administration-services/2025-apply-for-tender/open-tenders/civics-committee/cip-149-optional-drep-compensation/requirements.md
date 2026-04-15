@@ -1,5 +1,7 @@
 # Requirements
 
+{% include "../../../../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ### Project Scope - Technical Requirements
 
 Each grantee will implement [CIP-149 | Optional DRep Compensation](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0149/README.md) functionality tailored to their platform:
@@ -125,10 +127,10 @@ DRep's payment address (from metadata): `addr_test1vp8vlxck6kvndekp0fudqvlhc0lj5
 
 Transaction: [8c86970a2431a9f43a0363b116b4c60471a29cc35d253c0ed8c18c1dff3dcf10](https://preview.cardanoscan.io/transaction/8c86970a2431a9f43a0363b116b4c60471a29cc35d253c0ed8c18c1dff3dcf10?tab=metadata)
 
-This transaction contains, both a Vote Delegation certificate and CIP-149 transaction metadata.&#x20;
+This transaction contains, both a Vote Delegation certificate and CIP-149 transaction metadata.
 
 * Vote Delegation certificate: This delegates the voting rights of [stake\_test1ursa...kq5g](https://preview.cardanoscan.io/stakeKey/stake_test1ursa8kegf22wcjqqlc0230rtlemck5lhqycd3u8lattqh2c2ckq5g) to [drep1yfh...ekm3](https://preview.cardanoscan.io/dRep/drep1yfhx2j5j7q989gfvj6cg04htakpqn32a3yuhtytjxt9m80qt5ekm3).
-* CIP-149 Metadata: using the `3692` metadatum label the transaction metadata specifies `donationBasisPoints: 150` which is a donation of 15%.   &#x20;
+* CIP-149 Metadata: using the `3692` metadatum label the transaction metadata specifies `donationBasisPoints: 150` which is a donation of 15%.
 
 #### CIP-149 Staking Rewards withdrawal
 
@@ -149,7 +151,7 @@ This transaction contains, a staking rewards withdrawal (of `700,000 ada`) and t
 * **CIP-149 Staking Rewards Withdrawal**\
   Transaction: [c4a39ee99e1ba777c1151afd76356868d473271a76a8c252848af31db387c6d1](https://preview.cardanoscan.io/transaction/c4a39ee99e1ba777c1151afd76356868d473271a76a8c252848af31db387c6d1)
   * Withdraws 3,382.884997 ada
-  * Sends 500.432749 (15%) to chosen DRep [drep1yf460x3...48je](https://preview.cardanoscan.io/dRep/drep1yf460x38f2elz52ua932m5pljtr750gn7vu6rsa6ewxlzug7r48je) on payment address [addr\_test1vqwq...9ftk](https://preview.cardanoscan.io/address/601c07a4478f0da1b99bd0d49de50b15c73fd5767befeadee373a59d14) as stated on DRep's [metadata](https://preview.cardanoscan.io/dRep/drep1yf460x38f2elz52ua932m5pljtr750gn7vu6rsa6ewxlzug7r48je?tab=meta).&#x20;
+  * Sends 500.432749 (15%) to chosen DRep [drep1yf460x3...48je](https://preview.cardanoscan.io/dRep/drep1yf460x38f2elz52ua932m5pljtr750gn7vu6rsa6ewxlzug7r48je) on payment address [addr\_test1vqwq...9ftk](https://preview.cardanoscan.io/address/601c07a4478f0da1b99bd0d49de50b15c73fd5767befeadee373a59d14) as stated on DRep's [metadata](https://preview.cardanoscan.io/dRep/drep1yf460x38f2elz52ua932m5pljtr750gn7vu6rsa6ewxlzug7r48je?tab=meta).
   * Remaining rewards sent back to wallet
 
 ### Eligibility

@@ -6,6 +6,8 @@ description: >-
 
 # Delegation of Authority Form
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 1. **Authorized Signatory**\
    Each Party confirms that the individual signing this Agreement on its behalf (“Authorized Signatory”) has full authority to bind the Party to this Agreement.
 2. **Designation of Authorized Representatives**\

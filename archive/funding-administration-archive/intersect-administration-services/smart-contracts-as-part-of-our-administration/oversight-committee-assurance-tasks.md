@@ -1,10 +1,12 @@
 # Oversight Committee Assurance Tasks
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 The following page outlines how the assurance tasks will be undertaken by the Oversight Committee (OC).
 
-### Review and Approve Project Specific Smart Contract (PSSC) Funding:&#x20;
+### Review and Approve Project Specific Smart Contract (PSSC) Funding:
 
-The OC shall review and approve any funding actions of PSSCs from Treasury Reserve Smart Contracts (TRSC)s, as requested by Intersect from time to time.&#x20;
+The OC shall review and approve any funding actions of PSSCs from Treasury Reserve Smart Contracts (TRSC)s, as requested by Intersect from time to time.
 
 For funding actions, the OC shall specifically check the consistency of the following data points:
 
@@ -15,7 +17,7 @@ The Quorum required is 2 out of 5 OC members.
 
 During the early phases of the budget cycle, the expected occurrence is most common, when funds are approved through on-chain governance and processed by Intersect’s Administration. After that, it may occur occasionally based on disbursements or proposals not covered by the current Intersect budget.
 
-### Review and Approve TRSC Disbursements:&#x20;
+### Review and Approve TRSC Disbursements:
 
 The OC shall review and approve any disbursements from the TRSC to a destination outside of the smart contract framework, as requested by Intersect from time to time. For disbursement actions, the OC shall specifically check the consistency of the following data points:
 
@@ -26,7 +28,7 @@ The Quorum required is 3 out of 5 OC members.
 
 The expected occurrence is infrequent and on a case-by-case basis. Example use cases are to leverage stablecoins and/or upgrading the smart contract framework if a fix or feature is needed.
 
-### Review and Approve PSSC Modifications: &#x20;
+### Review and Approve PSSC Modifications:
 
 The OC shall review and approve any PSSC modifications (e.g. change in milestone, delivery date, payment schedule), as requested by Intersect from time to time. For modification actions, the OC shall specifically check the consistency of the following data points:
 
@@ -42,11 +44,11 @@ The expected occurrence is infrequent and on a case-by-case basis.
 
 ### Review and Approve Unspent Transaction Output (UTXO) Reorganization:
 
-The OC shall review and approve any reorganize UTXO actions for TRSCs or PSSCs, as requested by Intersect from time to time. For reorganize UTXO actions, the OC shall specifically check the consistency of the following data points:&#x20;
+The OC shall review and approve any reorganize UTXO actions for TRSCs or PSSCs, as requested by Intersect from time to time. For reorganize UTXO actions, the OC shall specifically check the consistency of the following data points:
 
 * Check that the UTXO details are correct and properly formatted
 * Confirm that metadata is included
 
 The Quorum required is 3 out of 5 OC members.
 
-The expected occurrence is infrequent and on a case by case basis.\
+The expected occurrence is infrequent and on a case by case basis.\\

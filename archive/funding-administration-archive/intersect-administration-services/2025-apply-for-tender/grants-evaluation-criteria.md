@@ -1,5 +1,7 @@
 # Proposal evaluation criteria
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 Proposals will be evaluated based on quality, and this includes the proposed solution and plan to execute. We will evaluate proposals using all of the information provided in the application, and are specifically looking for proposals with both a solution that meets or exceeds the requirements, as well as a demonstrated capability to execute, staying broadly aligned to the [public CIP-1694 roadmap.](https://www.intersectmbo.org/roadmap)
 
 Generally, we consider the following criteria:
@@ -15,4 +17,3 @@ Generally, we consider the following criteria:
 * Any of the eligibility criteria are not met.
 * The information is incomplete or not understandable.
 * The application is not in English, however auto-translations are accepted.
-

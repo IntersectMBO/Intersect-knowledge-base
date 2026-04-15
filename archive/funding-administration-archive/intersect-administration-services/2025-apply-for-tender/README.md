@@ -1,5 +1,7 @@
 # Request for Funding
 
+{% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 ## Funding opportunities led by Intersect Committees
 
 You'll find all funding opportunities led by Intersect Committees on the following pages. Please review each page carefully for specific requirements and considerations.

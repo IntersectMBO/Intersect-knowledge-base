@@ -1,5 +1,7 @@
 # Committee Member Travel & Expense Policy
 
+{% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
+
 {% hint style="info" %}
 Key Info
 
