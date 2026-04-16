@@ -2,6 +2,10 @@
 
 {% include "../../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
+{% hint style="info" %}
+New version of this page can be found [here](https://admin-services.docs.intersectmbo.org/governance/smart-contracts)
+{% endhint %}
+
 ## Smart Contracts
 
 Following our introduction to [Smart Contracts and Cardano budgets](https://www.intersectmbo.org/news/%EF%B8%8F-smart-contracts-and-cardano-budgets), this knowledge base article aims to outline how they will be utilized from the perspectives of the ecosystem, proposal vendors, as part of Intersect’s administration.
