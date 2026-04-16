@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-04-15 09:36 UTC_
+_Updated on 2026-04-16 09:35 UTC_
 
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/constitutional-committee-portal/key-terms-and-resources](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/constitutional-committee-portal/key-terms-and-resources)
 - [archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/devops-for-governance-tools/how-to-apply](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/devops-for-governance-tools/how-to-apply)
@@ -74,7 +74,6 @@ _Updated on 2026-04-15 09:36 UTC_
 - [archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight](https://docs.intersectmbo.org/archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight)
 - [archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types](https://docs.intersectmbo.org/archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types)
 - [archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions](https://docs.intersectmbo.org/archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions)
-- [cardano-facilitation-services/cardano-budget-2026/2026-budget-process-timeline](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget-2026/2026-budget-process-timeline)
 - [cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process/README)
 - [cardano-facilitation-services/cardano-development/cardano-vision](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-development/cardano-vision)
 - [intersect-overview/jump-in-key-member-initiatives](https://docs.intersectmbo.org/intersect-overview/jump-in-key-member-initiatives)
