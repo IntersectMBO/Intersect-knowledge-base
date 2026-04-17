@@ -12,7 +12,7 @@ description: This page gives quick access to current most important topics
 * These are the first elections where Committee Members will get a 2 year term
 
 {% hint style="warning" icon="calendar-days" %}
-#### Key dates
+**Key dates**
 
 * Application period: **March 30th,** 12 PM UTC to **April 17th,** 12 PM UTC
 * Voting period: **April 20th,** 12 PM UTC to **May 1st,** at 12 PM UTC
@@ -20,7 +20,7 @@ description: This page gives quick access to current most important topics
 {% endhint %}
 
 {% hint style="info" icon="link" %}
-#### Useful Links
+**Useful Links**
 
 * [April Committee Elections](../intersect-membership/intersect-voting-events/2026-intersect-elections/april-2025-committee-elections/)
 {% endhint %}
@@ -32,10 +32,10 @@ description: This page gives quick access to current most important topics
 <summary><strong>Cardano Budget</strong> <strong>Process</strong></summary>
 
 * The budget process info action has been approved with super majority by DReps
-* The Budget process proposal submission will start on **April 16th at 12PM UTC**&#x20;
+* The Budget process proposal submission will start on **April 16th at 12PM UTC**
 
 {% hint style="warning" icon="calendar-days" %}
-#### Key dates
+**Key dates**
 
 * _Proposal Submission_: April 16th, 12PM UTC to May 8th, 12PM UTC
 * _Final Feedback and Review_: May 8th, 12PM UTC to May 22nd, 12PM UTC
@@ -45,11 +45,11 @@ Check the full timeline [here](../cardano-facilitation-services/cardano-budget-2
 {% endhint %}
 
 {% hint style="info" icon="link" %}
-#### Useful Links
+**Useful Links**
 
 * [Budget process](../cardano-facilitation-services/cardano-budget-2026/)
-* Budget tooling (Coming Soon)
-* Budget tooling docs (Coming Soon)
+* [Budget tooling](https://hydra-voting.intersectmbo.org)
+* [Budget tooling docs](https://docs.hydra-voting.intersectmbo.org)
 {% endhint %}
 
 </details>
@@ -63,9 +63,9 @@ Check the full timeline [here](../cardano-facilitation-services/cardano-budget-2
 Intersect is hosting and facilitating the Hard Fork Working Group (HFWG) to coordinate and navigate ecosystem feedback and potential readiness before formal Cardano governance actions are raised for broader community consensus and approval. In essence, the working group follows much of the same processes and purpose as it did for the Chang and Plomin hardforks not so long ago.
 
 {% hint style="info" %}
-### Keep informed
+#### Keep informed
 
-Join the dedicated Upgrade Discord channel at [#wg-hard-fork](https://discord.com/channels/1136727663583698984/1242097284619960411) (on the Intersect Discord server). This channel is monitored by the working group, with updates being shared and questions answered. Alternatively, you can reach out to [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org)&#x20;
+Join the dedicated Upgrade Discord channel at [#wg-hard-fork](https://discord.com/channels/1136727663583698984/1242097284619960411) (on the Intersect Discord server). This channel is monitored by the working group, with updates being shared and questions answered. Alternatively, you can reach out to [hard-fork@intersectmbo.org](mailto:hard-fork@intersectmbo.org)
 
 The hard fork working group currently meets every other week; see the shared [Luma Calendar](https://luma.com/calendar/cal-TMjYNpSY4huYYif). As progress continues, the meeting cadence will increase.
 
@@ -81,8 +81,6 @@ The [Cardano Upgrades GitBook](https://cardanoupgrades.docs.intersectmbo.org/) c
 Coming Soon
 
 </details>
-
-
 
 ## Upcoming Governance Actions
 
