@@ -72,7 +72,7 @@
 
 ## Cardano Facilitation services
 
-* [Cardano governance](cardano-facilitation-services/cardano-governance/README.md)
+* [Cardano Governance](cardano-facilitation-services/cardano-governance/README.md)
   * [2025 CC Snap Election Overview](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README.md)
     * [CC Snap Eligibility and registration information](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/cc-snap-eligibility-and-registration-information.md)
     * [Full CC snap election timeline](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/full-cc-snap-election-timeline.md)
@@ -92,7 +92,7 @@
     * [Guidelines for Participation in a Constitutional Committee Election](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guidelines-for-participation-in-a-constitutional-committee-election.md)
     * [2025 CC Election - Results](cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/2025-cc-election-results.md)
 * [Budget Administration](cardano-facilitation-services/funding-administration/README.md)
-  * [Budget Administration Services](https://admin-services.docs.intersectmbo.org/)
+  * [Budget Administration Services Hub](https://admin-services.docs.intersectmbo.org/)
 * [Cardano Development](cardano-facilitation-services/cardano-development/README.md)
   * [Cardano hardforks and upgrades](cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/README.md)
     * [Chang & Plomin upgrades](cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/chang-upgrade/README.md)
