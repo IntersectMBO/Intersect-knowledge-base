@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-04-21 09:35 UTC_
+_Updated on 2026-04-22 09:37 UTC_
 
 - [archive/funding-administration-archive/intersect-administration-policies/README](https://docs.intersectmbo.org/archive/funding-administration-archive/intersect-administration-policies/README)
 - [archive/funding-administration-archive/intersect-administration-policies/administration-financial-audit-policy](https://docs.intersectmbo.org/archive/funding-administration-archive/intersect-administration-policies/administration-financial-audit-policy)
@@ -53,5 +53,4 @@ _Updated on 2026-04-21 09:35 UTC_
 - [archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight](https://docs.intersectmbo.org/archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/oversight)
 - [archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types](https://docs.intersectmbo.org/archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/smart-contract-types)
 - [archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions](https://docs.intersectmbo.org/archive/funding-administration-archive/intersect-administration-services/smart-contracts-as-part-of-our-administration/treasury-contract-partitions)
-- [cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process/README](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process/README)
 - [intersect-overview/jump-in-key-member-initiatives](https://docs.intersectmbo.org/intersect-overview/jump-in-key-member-initiatives)
