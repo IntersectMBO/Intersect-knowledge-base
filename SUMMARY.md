@@ -108,6 +108,7 @@
     * [FAQs - Budget Process](https://budgetcommittee.docs.intersectmbo.org/cardano-budget-process/cardano-2026-budget-process-faqs)
   * [2026 Budget Process - timeline](cardano-facilitation-services/cardano-budget-2026/2026-budget-process-timeline.md)
   * [Intersect Hydra Voting - Tool](https://hydra-voting.intersectmbo.org/)
+  * [Intersect 2026 Budget Proposal](cardano-facilitation-services/cardano-budget-2026/intersect-2026-budget-proposal.md)
 
 ## Updates
 

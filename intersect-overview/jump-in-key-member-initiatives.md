@@ -54,6 +54,21 @@ Check the full timeline [here](../cardano-facilitation-services/cardano-budget-2
 
 </details>
 
+<details>
+
+<summary><strong>Intersect Budget Proposal</strong></summary>
+
+This proposal funds Intersect’s core operating model for June 2026 to June 2027: the Member Based Organization that supports open ecosystem coordination, a reserved capacity to address critical unowned processes, and critically technical stewardship, incident response, and release coordination required to help keep Cardano secure, reliable, and operationally resilient.
+
+{% hint style="info" icon="link" %}
+**Useful Links**
+
+* Intersect Budget Proposal on Hydra-Voting tool
+* [FAQs](../cardano-facilitation-services/cardano-budget-2026/intersect-2026-budget-proposal.md#faqs)
+{% endhint %}
+
+</details>
+
 ## Happening Next
 
 <details open>
