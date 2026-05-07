@@ -166,6 +166,7 @@
     * [Committee Service Reward Policy](legal/policies-and-conditions/intersect-members-policies/committee-service-reward-policy.md)
     * [Member decision making process](legal/policies-and-conditions/intersect-members-policies/member-decision-making-process.md)
     * [Intersect Open-Source Glossary](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-glossary.md)
+    * [Good Standing for Membership](legal/policies-and-conditions/intersect-members-policies/good-standing-for-membership.md)
     * [Committee Chair & Vice-Chair Election Policy](legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy.md)
     * [Roles and responsibilities in committees](legal/policies-and-conditions/intersect-members-policies/roles-and-responsibilities-in-committees.md)
   * [Intersect Administration Policies](https://admin-services.docs.intersectmbo.org/governance/policies-and-guidance)
