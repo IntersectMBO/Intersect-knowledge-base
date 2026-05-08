@@ -27,4 +27,4 @@ Below is the current BPMN-style diagram outlining how proposals move through Int
 
 or download the PDF
 
-{% file src="../../../.gitbook/assets/Intersect Governance WG (1) (1).pdf" %}
+{% file src="../../../.gitbook/assets/Intersect Governance WG (1).pdf" %}

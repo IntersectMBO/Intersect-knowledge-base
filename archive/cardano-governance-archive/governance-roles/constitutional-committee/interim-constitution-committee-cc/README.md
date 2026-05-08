@@ -35,7 +35,7 @@ _Note: Data provided by Summon Platform, a blockchain development group contract
 \
 **Full audits can be viewed below:**
 
-{% file src="../../../../../.gitbook/assets/ccElectionVote_data_anon (1).csv" %}
+{% file src="../../../../../.gitbook/assets/ccElectionVote_data_anon.csv" %}
 
 \
 The seven current members of the ICC are:

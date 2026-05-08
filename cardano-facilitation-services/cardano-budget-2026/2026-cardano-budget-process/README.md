@@ -7,7 +7,7 @@ description: >-
 # 2026 Cardano Budget Process
 
 {% hint style="info" %}
-## How to Participate in Budget Process facilitated by Intersect?
+### How to Participate in Budget Process facilitated by Intersect?
 
 The budget process proposal submission and voting will happen in the Intersect Hydra-Voting Tool built by Intersect's member **Ekklesia**
 
@@ -19,7 +19,7 @@ You can access the tool at [hydra-voting.intersectmbo.org](https://hydra-voting.
 {% endhint %}
 
 {% hint style="success" %}
-## Budget Process Info Action - Approved
+### Budget Process Info Action - Approved
 
 On 4th April 2026 the Governance Info Action titled "_Cardano Budget Process Framework (facilitated by Intersect)_" **passed DRep approval** with super majority
 

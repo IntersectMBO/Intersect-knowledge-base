@@ -4,7 +4,7 @@ description: >-
   removal.
 ---
 
-# Committee Member  Resignation & Dismissal Policy
+# Committee Member Resignation & Dismissal Policy
 
 ## Purpose
 
@@ -25,37 +25,37 @@ If the above applies:
 
 {% stepper %}
 {% step %}
-### After 4 weeks of non-attendance
+#### After 4 weeks of non-attendance
 
-Secretary should highlight non participation to Committee/Chair&#x20;
+Secretary should highlight non participation to Committee/Chair
 {% endstep %}
 
 {% step %}
-### After 5 weeks of non-attendance&#x20;
+#### After 5 weeks of non-attendance
 
 Secretary to send reminder to participate to retain their seat
 {% endstep %}
 
 {% step %}
-### After 6 weeks of non-attendance
+#### After 6 weeks of non-attendance
 
 * Secretary to send a notification of pending removal
 * Chair notifies ISC and presents data supporting removal
 {% endstep %}
 
 {% step %}
-### After 8 weeks of non-attendance
+#### After 8 weeks of non-attendance
 
 * Chair will call for a Vote of No Confidence for Member
 * Chair will relinquish the individual from their seated position
-* Secretary to send notification of removal and remove access&#x20;
+* Secretary to send notification of removal and remove access
 {% endstep %}
 {% endstepper %}
 
 ## Replacing a Committee Member
 
 {% hint style="info" %}
-Only to be used if the Committee agrees a replacement is needed or if removing a committee member drops committee membership below 7 members.&#x20;
+Only to be used if the Committee agrees a replacement is needed or if removing a committee member drops committee membership below 7 members.
 {% endhint %}
 
 Conditions to action a replacement:
@@ -72,6 +72,5 @@ If the above applies or if the Committee has decided in a recorded meeting they 
 \
 <br>
 
-<br>
-
+\
 <br>

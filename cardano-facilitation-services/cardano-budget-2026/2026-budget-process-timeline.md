@@ -7,7 +7,7 @@ description: >-
 # 2026 Budget Process - timeline
 
 {% hint style="info" icon="pencil-line" %}
-## Prepare your submission
+### Prepare your submission
 
 You can start to prepare your submission by **downloading the budget form** template [here](https://budgetcommittee.docs.intersectmbo.org/cardano-budget-process/budget-proposal-submission-template-download).
 {% endhint %}
@@ -18,7 +18,7 @@ As the process progresses some dates might get updated to accommodate community 
 
 {% stepper %}
 {% step %}
-### Proposal Submission
+#### Proposal Submission
 
 **April 16th**, _12PM UTC_ to **May 8th**, _12PM UTC_
 
@@ -28,7 +28,7 @@ During this phase, Budget Proposals can be submitted on Ekklesia. Feedback and i
 {% endstep %}
 
 {% step %}
-### Final Feedback and Review
+#### Final Feedback and Review
 
 **May 8th**, _12PM UTC_ to **May 22nd**, _12PM UTC_
 
@@ -38,7 +38,7 @@ Submission is now closed — no new proposals can be added (but existing proposa
 {% endstep %}
 
 {% step %}
-### Hydra-voting
+#### Hydra-voting
 
 1. Voting period: **May 26th**, _12PM UTC_ to **June 12th**, _12PM UTC_
 2. Voting power Snapshot: **June 13th** _(EPOCH 637)_
@@ -47,13 +47,13 @@ Submission is now closed — no new proposals can be added (but existing proposa
 {% endstep %}
 
 {% step %}
-### Treasury Withdrawals - preparation&#x20;
+#### Treasury Withdrawals - preparation
 
 **June 15th** to **June 26th**
 {% endstep %}
 
 {% step %}
-### Treasury Withdrawals - submission&#x20;
+#### Treasury Withdrawals - submission
 
 After June 29th
 
@@ -62,6 +62,3 @@ Intersect will only submit treasury withdrawals for those proposals which reques
 {% endhint %}
 {% endstep %}
 {% endstepper %}
-
-
-

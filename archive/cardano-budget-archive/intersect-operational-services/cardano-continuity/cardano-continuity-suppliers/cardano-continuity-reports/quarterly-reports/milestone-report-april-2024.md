@@ -6,13 +6,13 @@ hidden: true
 
 ## **Continuity April achievements**
 
-This report is a progress update which follows the [Q1 Milestone Report](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/o50OuflyxfUMOt8hHPn2/cardano/cardano-continuity/milestone-report-q1-2024) issued last month and provides a summary of achievements related to Cardano continuity during the month of April. &#x20;
+This report is a progress update which follows the [Q1 Milestone Report](milestone-report-q1-2024.md) issued last month and provides a summary of achievements related to Cardano continuity during the month of April.
 
 More information on continuity can be found [here](https://www.intersectmbo.org/news/cardano-continuity).
 
 ### **Dquadrant**
 
-Dquadrant is focusing on developing a comprehensive testing strategy for dApps (decentralized applications). The key deliverables included the “Intersect dApps testing strategy document” and a reference document to support its implementation. These documents were designed to ensure the functionality and security of dApps through detailed testing protocol and strategic documentation.&#x20;
+Dquadrant is focusing on developing a comprehensive testing strategy for dApps (decentralized applications). The key deliverables included the “Intersect dApps testing strategy document” and a reference document to support its implementation. These documents were designed to ensure the functionality and security of dApps through detailed testing protocol and strategic documentation.
 
 During Q2 they completed the following milestone:
 
@@ -22,13 +22,13 @@ During Q2 they completed the following milestone:
 
 ### **Galois**
 
-Galois continued their critical work on the Midnight Halo 2 project, focusing on enhancing the capabilities of Zero Knowledge Proofs (ZKPs) within the Cardano ecosystem. During Q2 they completed the following milestone:&#x20;
+Galois continued their critical work on the Midnight Halo 2 project, focusing on enhancing the capabilities of Zero Knowledge Proofs (ZKPs) within the Cardano ecosystem. During Q2 they completed the following milestone:
 
 “Galois has successfully delivered Milestone 4, implementing KZG accumulation and ZK circuits that verify IPA accumulation. These are key building blocks to fully recursive ZK proofs, enabling benefits including zk-rollups and the ability to trade between blockchains.”
 
 ### **Bloxico**
 
-Intersect is developing multiple different web app-based tools to allow users to engage with the important governance user journeys. This includes: GovTool, Proposal Discussion Forum, DRep Campaign Platform & Constitutional Committee Portal. As part of this work, Bloxico was responsible for developing a strategy to unite all of these tools under one common set of recommendations and best practices including:&#x20;
+Intersect is developing multiple different web app-based tools to allow users to engage with the important governance user journeys. This includes: GovTool, Proposal Discussion Forum, DRep Campaign Platform & Constitutional Committee Portal. As part of this work, Bloxico was responsible for developing a strategy to unite all of these tools under one common set of recommendations and best practices including:
 
 * Cloud service provider
 * Orchestration and containerisation
@@ -38,7 +38,7 @@ Intersect is developing multiple different web app-based tools to allow users to
 * Security measures
 * Continuous integration and deployment technologies
 
-In April, the two milestones associated with this work were completed:&#x20;
+In April, the two milestones associated with this work were completed:
 
 #### Milestone 1 - investigation and design
 
