@@ -4,29 +4,6 @@ description: This page gives quick access to current most important topics
 
 # 🟢 Happening Now
 
-<details>
-
-<summary><strong>April Committees Election</strong></summary>
-
-* April Committee elections will add new elected members to all Intersect Committees
-* These are the first elections where Committee Members will get a 2 year term
-
-{% hint style="warning" icon="calendar-days" %}
-**Key dates**
-
-* Application period: **March 30th,** 12 PM UTC to **April 17th,** 12 PM UTC
-* Voting period: **April 20th,** 12 PM UTC to **May 1st,** at 12 PM UTC
-* Voting Results: The results will be announced on **May 4**.
-{% endhint %}
-
-{% hint style="info" icon="link" %}
-**Useful Links**
-
-* [April Committee Elections](../intersect-membership/intersect-voting-events/2026-intersect-elections/april-2025-committee-elections/)
-{% endhint %}
-
-</details>
-
 <details open>
 
 <summary><strong>Cardano Budget</strong> <strong>Process</strong></summary>
@@ -47,6 +24,7 @@ Check the full timeline [here](../cardano-facilitation-services/cardano-budget-2
 {% hint style="info" icon="link" %}
 **Useful Links**
 
+* [Budget process timeline](../cardano-facilitation-services/cardano-budget-2026/2026-budget-process-timeline.md)
 * [Budget process](../cardano-facilitation-services/cardano-budget-2026/)
 * [Budget tooling](https://hydra-voting.intersectmbo.org)
 * [Budget tooling docs](https://docs.hydra-voting.intersectmbo.org)
@@ -69,6 +47,31 @@ This proposal funds Intersect’s core operating model for June 2026 to June 202
 
 </details>
 
+<details>
+
+<summary><strong>Constitutional Committee Elections</strong></summary>
+
+* The CC Election process application will start on **May 8th at 9.45PM UTC**
+
+{% hint style="warning" icon="calendar-days" %}
+**Key dates**
+
+* _Applications Submission_: May 8th, 9PM UTC to June 7t&#x68;**,** 9.45PM UTC
+* Candidate Promotion: June 7th, 9.45PM UTC to June 13th, 9.45PM UTC
+* _Voting period_: June 13th, 9.45PM UTC  to July 13th, 9.45PM UTC
+
+Check the full timeline [here](../cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-timeline.md)
+{% endhint %}
+
+{% hint style="info" icon="link" %}
+**Useful Links**
+
+* [CC Election timeline](../cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-timeline.md)
+* [Hydra-voting tool ](https://hydra-voting.intersectmbo.org/)(for application and voting)
+{% endhint %}
+
+</details>
+
 ## Happening Next
 
 <details open>
@@ -86,14 +89,6 @@ The hard fork working group currently meets every other week; see the shared [Lu
 
 The [Cardano Upgrades GitBook](https://cardanoupgrades.docs.intersectmbo.org/) contains important hard fork context, working group policies, readiness tracking, and working group meeting minutes.
 {% endhint %}
-
-</details>
-
-<details>
-
-<summary><strong>Constitutional Committee Elections</strong></summary>
-
-Coming Soon
 
 </details>
 

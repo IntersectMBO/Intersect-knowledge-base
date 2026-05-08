@@ -73,7 +73,12 @@
 ## Cardano Facilitation services
 
 * [Cardano Governance](cardano-facilitation-services/cardano-governance/README.md)
-  * [2025 CC Snap Election Overview](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README.md)
+  * [2026 Constitutional Committee Elections](cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/README.md)
+    * [CC Election 2026 Overview](cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-overview.md)
+    * [CC Election 2026 - Timeline](cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-timeline.md)
+    * [AMA Sessions and X Spaces Calendar](https://luma.com/ccelection)
+    * [ Intersect Hydra Voting - Tool](https://hydra-voting.intersectmbo.org/)
+  * [2025 Constitutional Committee Snap Elections](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/README.md)
     * [CC Snap Eligibility and registration information](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/cc-snap-eligibility-and-registration-information.md)
     * [Full CC snap election timeline](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/full-cc-snap-election-timeline.md)
     * [CC Snap Election FAQs](cardano-facilitation-services/cardano-governance/2025-cc-snap-election-overview/cc-snap-election-faqs.md)
