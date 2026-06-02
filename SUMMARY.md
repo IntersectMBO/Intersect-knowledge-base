@@ -172,7 +172,7 @@
     * [Robert's Rules of Order – Simplified](legal/policies-and-conditions/intersect-members-policies/roberts-rules-of-order-simplified.md)
     * [Transparent Dealings Policy](legal/policies-and-conditions/intersect-members-policies/transparent-dealings-policy.md)
     * [Intersect Voting Policy](legal/policies-and-conditions/intersect-members-policies/intersect-voting-policy.md)
-    * [Committee Member Resignation & Dismissal Policy](legal/policies-and-conditions/intersect-members-policies/committee-member-resignation-and-dismissal-policy.md)
+    * [Committee Member dismissal & replacement policy](legal/policies-and-conditions/intersect-members-policies/committee-member-resignation-and-dismissal-policy.md)
     * [Committee Service Reward Policy](legal/policies-and-conditions/intersect-members-policies/committee-service-reward-policy.md)
     * [Member decision making process](legal/policies-and-conditions/intersect-members-policies/member-decision-making-process.md)
     * [Intersect Open-Source Glossary](legal/policies-and-conditions/intersect-members-policies/intersect-open-source-glossary.md)

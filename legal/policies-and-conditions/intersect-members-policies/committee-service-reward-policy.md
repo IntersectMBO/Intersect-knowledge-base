@@ -1,10 +1,8 @@
 # Committee Service Reward Policy
 
-_Approved on 15th/09/25 by ISC_
+_Approved by Intersect Steering Committee on_ **15th September 2025**
 
-Intersect Committee Service Rewards Policy
-
-To encourage more people to apply to committees and increase regular time commitment to committee tasks (already quite high with current volunteering members) we would like to introduce monthly rewards. The assumption is that rewards will increase further the number of active contributors and incentivize existing ones. Furthermore, this will open committees to people in more geographies who perhaps can’t volunteer easily.
+_To encourage more people to apply to committees and increase regular time commitment to committee tasks (already quite high with current volunteering members) we would like to introduce monthly rewards. The assumption is that rewards will increase further the number of active contributors and incentivize existing ones. Furthermore, this will open committees to people in more geographies who perhaps can’t volunteer easily._
 
 ## 1. Purpose and Scope
 
@@ -20,10 +18,10 @@ This policy applies to all elected members of Intersect committees. It does not 
 
 ## 3. Eligibility
 
-* All elected Active Committee Members and Committee Chairs are eligible to receive service reward under this policy.&#x20;
+* All elected Active Committee Members and Committee Chairs are eligible to receive service reward under this policy.
 * An “Active Committee Member” is one who has been elected and has not been dismissed for lack of participation.
 * A “Committee Chair” is an elected committee member who has been selected to serve in a leadership role within their committee, with additional responsibilities including, but not limited to, leading committee meetings, coordinating committee activities and deliverables, serving as the primary representative of their committee at Intersect Steering Committee (ISC) meetings, and acting as the main point of contact between their committee and other Intersect governance bodies.
-* Committee Chairs receive a higher service reward to reflect additional responsibilities.&#x20;
+* Committee Chairs receive a higher service reward to reflect additional responsibilities.
 * **Limitations on remuneration**:
   * An individual may receive service reward for a maximum of two committee seats (as one member can only be elected to maximum of 2 committees at a time).
 * **Reward Collection Process**:
@@ -63,8 +61,8 @@ The Intersect team will determine the platform and procedures, ensuring security
 
 * Recipients are expected to actively contribute to committee work, including regular attendance at meetings and participation in deliverables.
 * Consistent with the [Committee Member Dismissal Policy](committee-member-resignation-and-dismissal-policy.md), members who do not fulfill their duties will forfeit eligibility for service rewards.
-* Any member willing to receive the service rewards accepts to be subject to a standard KYC process.&#x20;
-* Prior to receiving any service reward, all recipients will be required to provide either an IRS Form W-9 or IRS Form W-8BEN, as applicable, for U.S. federal income tax reporting purposes.&#x20;
+* Any member willing to receive the service rewards accepts to be subject to a standard KYC process.
+* Prior to receiving any service reward, all recipients will be required to provide either an IRS Form W-9 or IRS Form W-8BEN, as applicable, for U.S. federal income tax reporting purposes.
 
 ## 8. Effective Date
 

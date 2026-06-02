@@ -1,6 +1,6 @@
 # Committee Chair & Vice-Chair Election Policy
 
-_Approved by Intersect Steering Committee on 2nd March 2026_
+_Approved by Intersect Steering Committee on_ **2nd March 2026**
 
 ## 1. Purpose
 
@@ -81,7 +81,7 @@ To encourage rotation in leadership and the innovations it brings, no individual
    2. May serve as Acting Chair when the Chair is temporarily unavailable
    3. May run for Chair but is not automatically appointed
 
-## 6. No-Confidence for Chair and Vice-Chair role&#x20;
+## 6. No-Confidence for Chair and Vice-Chair role
 
 ### 6.1 Initiating a No-Confidence Motion
 
