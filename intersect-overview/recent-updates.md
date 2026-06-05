@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-06-04 10:20 UTC_
+_Updated on 2026-06-05 10:23 UTC_
 
 - [legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy)
 - [legal/policies-and-conditions/intersect-members-policies/committee-member-resignation-and-dismissal-policy](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-members-policies/committee-member-resignation-and-dismissal-policy)
