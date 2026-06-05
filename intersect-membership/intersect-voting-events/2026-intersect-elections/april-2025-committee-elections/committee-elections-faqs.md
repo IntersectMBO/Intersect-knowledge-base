@@ -81,7 +81,7 @@ No, it is one person one seat.
 
 <summary>Where can I find out more about the committees?</summary>
 
-Each of the committees has a space in the [Knowledge Base](/broken/pages/GkvJbNuEi6HxlXPg1BZZ) which also includes their contact details.&#x20;
+Each of the committees has a space in the [Knowledge Base](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/) which also includes their contact details.
 
 </details>
 
@@ -142,4 +142,3 @@ While it’s possible, we strongly recommend that community members join no more
 Yes, the entire end-to-end Intersect Committee Elections process will be audited by DQuadrant. All relevant information and datasets will be appropriately shared with the audit team to ensure transparency and accountability.
 
 </details>
-

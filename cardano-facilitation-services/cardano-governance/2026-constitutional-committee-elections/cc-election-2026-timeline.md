@@ -15,7 +15,7 @@ As the process progresses some dates might get updated to accommodate community 
 {% step %}
 #### Candidate Registration
 
-**May 8th,** _9.45PM UTC_  **to June 7th,** _9.45PM UTC_
+**May 8th,** _9.45PM UTC_  **to June 21st,** _9.45PM UTC_
 
 {% hint style="info" %}
 During this phase, candidates may formally submit their applications.
@@ -29,25 +29,9 @@ Candidate profiles become visible once approved and can be edited until the voti
 {% endstep %}
 
 {% step %}
-#### Candidate Promotion & Community Awareness
-
-**June 7th,** _9.45PM UTC_ to **June 13th,** _9.45PM UTC_
-
-{% hint style="info" %}
-During this phase is dedicated to candidate visibility and community engagement.
-
-* Candidates are encouraged to actively engage with the community
-* Intersect will host neutral forums such as X Spaces
-* Community-led discussions, debates, and content are encouraged
-{% endhint %}
-
-The goal is to ensure DReps have sufficient information to make informed decisions.
-{% endstep %}
-
-{% step %}
 #### Voting (Hydra Platform)
 
-**June 13th**, _9.45PM UTC_  to **July 13th**, _9.45PM UTC_
+**June 23rd**, _9.45PM UTC_  to **July 23rd**, _9.45PM UTC_
 
 {% hint style="info" %}
 During this phase:
@@ -61,7 +45,7 @@ During this phase:
 {% step %}
 #### Voting Power Snapshot
 
-**July 13th**, _9.45PM UTC_
+**July 23rd**, _9.45PM UTC_
 
 A snapshot of delegated stake is taken at the end of the voting period.
 
@@ -71,7 +55,7 @@ This snapshot determines the final voting weight used to calculate results.
 {% step %}
 #### Voting Audit
 
-**July 14th** to **July 16th**
+**July 23rd** to **July 26th**
 
 An independent audit is conducted to verify the integrity and accuracy of the voting results.
 {% endstep %}
@@ -79,7 +63,7 @@ An independent audit is conducted to verify the integrity and accuracy of the vo
 {% step %}
 #### Final Results
 
-**July 16th,** _12PM UTC_
+**July 26th,** _12PM UTC_
 
 Audited results are published.
 
@@ -89,7 +73,7 @@ Candidates are ranked based on total stake-weighted support.
 {% step %}
 ### Update Committee Governance Action – Preparation
 
-**Mid-July** to **End of July 2026**
+**Late July 2026**
 
 During this phase:
 

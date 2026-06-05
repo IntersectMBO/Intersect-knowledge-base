@@ -12,7 +12,7 @@ All dates here might be adjusted based on amount of candidates.
 
 {% stepper %}
 {% step %}
-#### ✅ Applications and Nominations
+**✅ Applications and Nominations**
 
 Candidates may apply directly or be nominated by a Member or DRep. All submissions will be reviewed by Intersect’s Head of People & Culture to confirm eligibility and shortlist candidates who meet the criteria outlined in the job description.
 
@@ -22,7 +22,7 @@ Note: By applying or accepting a nomination, candidates consent to limited shari
 {% endstep %}
 
 {% step %}
-#### ✅ Shortlisting
+**✅ Shortlisting**
 
 The shortlisting stage is led by Intersect’s head of people and culture to ensure a consistent and fair review of all executive director applications. This stage helps identify candidates who best align with the skills, experience, and values required for the role before redacted profiles are shared for Member and DRep polling. The approach balances professional suitability with openness to diverse leadership backgrounds, reflecting Intersect’s commitment to transparency and equitable participation in governance.
 
@@ -30,7 +30,7 @@ Shortlisting will consider both comparable executive experience and relevant eco
 {% endstep %}
 
 {% step %}
-#### Members and DReps polling
+**Members and DReps polling**
 
 Intersect is a member-based organization serving the Cardano community. Therefore, both Members and DReps will have the opportunity to review shortlisted profiles and vote via separate polls:
 
@@ -43,7 +43,7 @@ Polling will run from **Monday 27th October 2025 12pm UTC** to **Friday 31st Oct
 {% endstep %}
 
 {% step %}
-#### Pre Panel Context Call
+**Pre Panel Context Call**
 
 Before the formal panel interview, shortlisted candidates will be invited to a thirty minute context call with Intersect’s head of people and culture and director of operations. This call is not part of the assessment process - its purpose is to ensure every candidate has the same opportunity to:
 
@@ -55,7 +55,7 @@ Each candidate will receive the same briefing and opportunity to ask questions. 
 {% endstep %}
 
 {% step %}
-#### Panel interviews
+**Panel interviews**
 
 During November 2025, independent panel interviews will select finalists based on a structured scoring system. The interview may require a short candidate presentation and will include both competency and behavioural based questions.
 
@@ -73,7 +73,7 @@ Interview questions and scoring will focus on:
 {% endstep %}
 
 {% step %}
-#### Board selection
+**Board selection**
 
 The Intersect Board of Directors will review the panel’s report and select a final candidate for offer and contract negotiation.
 

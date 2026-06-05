@@ -28,6 +28,8 @@ This election provides ada holders, through Delegated Representatives (DReps), w
 
 The process is facilitated by Intersect using its Hydra-based voting platform and is designed to ensure transparency, fairness, and informed participation across the ecosystem.
 
+<figure><img src="../../../.gitbook/assets/Din avsnittstekst.png" alt=""><figcaption></figcaption></figure>
+
 ### About this election
 
 The CC election determines **which candidates are selected to serve as members of the Constitutional Committee**.
