@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-06-06 09:43 UTC_
+_Updated on 2026-06-07 10:02 UTC_
 
 - [cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/guide-for-voting/voting-guide-for-script-dreps)
 - [cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-overview](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-overview)
