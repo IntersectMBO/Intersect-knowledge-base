@@ -9,14 +9,14 @@ description: This page gives quick access to current most important topics
 <summary><strong>Cardano Budget</strong> <strong>Process</strong></summary>
 
 * The budget process info action has been approved with super majority by DReps
-* The Budget process proposal submission will start on **April 16th at 12PM UTC**
+* The Budget process proposal submission will start on **April 16 at 12PM UTC**
 
 {% hint style="warning" icon="calendar-days" %}
 **Key dates**
 
-* _Proposal Submission_: April 16th, 12PM UTC to May 8th, 12PM UTC
-* _Final Feedback and Review_: May 8th, 12PM UTC to May 22nd, 12PM UTC
-* _Voting period_: May 26th, 12PM UTC to June 12th, 12PM UTC
+* _Proposal Submission_: April 16, 12PM UTC to May 8, 12PM UTC
+* _Final Feedback and Review_: May 8, 12PM UTC to May 22, 12PM UTC
+* _Voting period_: May 26, 12PM UTC to June 12, 12PM UTC
 
 Check the full timeline [here](../cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process/)
 {% endhint %}
