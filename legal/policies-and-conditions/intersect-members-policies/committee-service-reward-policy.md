@@ -1,6 +1,6 @@
 # Committee Service Reward Policy
 
-_Approved by Intersect Steering Committee on_ **15th September 2025**
+_Approved by Intersect Steering Committee on 8_**th June 2026**
 
 _To encourage more people to apply to committees and increase regular time commitment to committee tasks (already quite high with current volunteering members) we would like to introduce monthly rewards. The assumption is that rewards will increase further the number of active contributors and incentivize existing ones. Furthermore, this will open committees to people in more geographies who perhaps can’t volunteer easily._
 
@@ -38,7 +38,7 @@ This policy applies to all elected members of Intersect committees. It does not 
   * Each eligible Active Committee Member retains the right to accept or decline their service rewards.
   * Active Committee Members who choose not to receive service rewards do not need to provide justification for their decision.
 
-## 4. Committee Service Rewards Rates (June 2025 – June 2026)
+## 4. Committee Service Rewards Rates (June 2025 – December 2026)
 
 * Active Committee Members: 500 ADA per month
 * Committee Chairs: 1,000 ADA per month (500 ADA for contribution as an Active Committee Member + an extra 500 ADA for extra contribution in chair role)
@@ -46,7 +46,7 @@ This policy applies to all elected members of Intersect committees. It does not 
 
 ## 5. Implementation and Review
 
-* Service rewards will commence from June 2025 and remain in place until June 2026, in alignment with the Intersect budget cycle approved by the DReps.
+* Service rewards will commence from June 2025 and remain in place until December 2026, in alignment with the Intersect budget cycle approved by the DReps.
 * Payments will not be backdated beyond the initially approved date.
 * Service rewards levels will be reviewed annually by ISC as part of the Intersect budget process.
 * Adjustments may be proposed based on available treasury resources, inflation, or evolving governance needs.
@@ -66,6 +66,6 @@ The Intersect team will determine the platform and procedures, ensuring security
 
 ## 8. Effective Date
 
-This policy takes effect from the date of its approval by ISC, and payments will be backdated to June 2025 and will remain valid through June 2026, subject to annual review by ISC.
+This policy takes effect from the date of its approval by ISC, and payments will be backdated to June 2025 and will remain valid through December 2026, subject to annual review by ISC.
 
 <br>
