@@ -16,18 +16,19 @@ The full audit report is available below.
 | ---------------------------------- | -------------------- |
 | Snapshot Epoch                     | 636                  |
 | Participating Voters               | 113                  |
-| Voters with Valid Votes            | 111                  |
-| Invalid Voters                     | 2                    |
-| Total DRep Voting Power            | 6,008,653,786.69 ADA |
-| Valid Participating Voting Power   | 5,066,609,001.14 ADA |
-| Invalid Participating Voting Power | 4,189,413.57 ADA     |
-| Non-Participating Voting Power     | 937,855,371.98 ADA   |
+| Voters with Valid Votes            | 112                  |
+| Invalid Voters                     | 1                    |
+| Total DRep Voting Power            | 6,008,653,786.69 ada |
+| Valid Participating Voting Power   | 937,855,371.98 ada   |
+| Invalid Participating Voting Power | 0.00 ada             |
+| Non-Participating Voting Power     | 937,855,371.98 ada   |
+| Participation Rate (Voting Power)  | 84.39%               |
 
 ### Proposals Meeting the 67% Support Threshold
 
-The following proposals achieved at least 67% support in Hydra Voting.
+The following proposals achieved at least 67% support based on the final audited Hydra voting results.
 
-<table><thead><tr><th width="544.4375">Proposal</th><th>Support</th></tr></thead><tbody><tr><td>Pallas by TxPipe: Maintaining Cardano's Core Rust Libraries, Year 2</td><td>85.66%</td></tr><tr><td>Dolos by TxPipe: Maintaining Cardano's Lightweight Data Node, Year 2</td><td>85.27%</td></tr><tr><td>UTxO RPC by TxPipe: Maintaining Cardano's Integration Standard, Year 2</td><td>85.06%</td></tr><tr><td>Mithril Protocol</td><td>81.31%</td></tr><tr><td>Intersect: Governance Coordination and Technical Stewardship for the Cardano Ecosystem</td><td>80.99%</td></tr><tr><td>Bringing Real-World Payments to Cardano with Wirex</td><td>79.01%</td></tr><tr><td>Tx3 by TxPipe: Open API Layer for Cardano's dApp Protocols</td><td>75.60%</td></tr><tr><td>Oura by TxPipe: Maintaining Cardano's Event Pipeline</td><td>73.55%</td></tr><tr><td>MLabs Core Tool Maintenance &#x26; Enhancement: Plutarch and Ply</td><td>72.69%</td></tr><tr><td>Hardware Wallet Maintenance 2026</td><td>71.31%</td></tr><tr><td>Intersect Technical Steering Committee Support</td><td>68.41%</td></tr></tbody></table>
+<table><thead><tr><th width="544.4375">Proposal</th><th>Support</th></tr></thead><tbody><tr><td>Pallas by TxPipe: Maintaining Cardano's Core Rust Libraries, Year 2</td><td>85.67%</td></tr><tr><td>Dolos by TxPipe: Maintaining Cardano's Lightweight Data Node, Year 2</td><td>85.28%</td></tr><tr><td>UTxO RPC by TxPipe: Maintaining Cardano's Integration Standard, Year 2</td><td>85.08%</td></tr><tr><td>Mithril Protocol</td><td>81.33%</td></tr><tr><td>Intersect: Governance Coordination and Technical Stewardship for the Cardano Ecosystem</td><td>80.91%</td></tr><tr><td>Bringing Real-World Payments to Cardano with Wirex</td><td>78.93%</td></tr><tr><td>Tx3 by TxPipe: Open API Layer for Cardano's dApp Protocols</td><td>75.63%</td></tr><tr><td>Oura by TxPipe: Maintaining Cardano's Event Pipeline</td><td>73.57%</td></tr><tr><td>MLabs Core Tool Maintenance &#x26; Enhancement: Plutarch and Ply</td><td>72.62%</td></tr><tr><td>Hardware Wallet Maintenance 2026</td><td>71.33%</td></tr><tr><td>Intersect Technical Steering Committee Support</td><td>68.45%</td></tr></tbody></table>
 
 ### Full Audit Report
 
@@ -36,6 +37,8 @@ The complete audit report is available below and includes the audit methodology,
 **Audit Report:**&#x20;
 
 {% file src="../../.gitbook/assets/Cardano Budget Process 2026 Audit (Facilitated by Intersect).pdf" %}
+
+{% file src="../../.gitbook/assets/Cardano Budget Process 2026 - Ekklesia Team Internal Audit.pdf" %}
 
 {% hint style="info" %}
 **Independent Verification**
