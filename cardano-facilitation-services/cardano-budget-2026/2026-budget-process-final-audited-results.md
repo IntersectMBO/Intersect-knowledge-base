@@ -19,7 +19,7 @@ The full audit report is available below.
 | Voters with Valid Votes            | 112                  |
 | Invalid Voters                     | 1                    |
 | Total DRep Voting Power            | 6,008,653,786.69 ada |
-| Valid Participating Voting Power   | 937,855,371.98 ada   |
+| Valid Participating Voting Power   | 5,070,798,414.70 ada |
 | Invalid Participating Voting Power | 0.00 ada             |
 | Non-Participating Voting Power     | 937,855,371.98 ada   |
 | Participation Rate (Voting Power)  | 84.39%               |
