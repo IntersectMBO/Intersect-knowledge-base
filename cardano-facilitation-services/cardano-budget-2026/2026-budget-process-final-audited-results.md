@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 2026 Budget Process - Final Audited Results
 
 ## Hydra Voting Audit Results
