@@ -31,7 +31,7 @@ Candidate profiles become visible once approved and can be edited until the voti
 {% step %}
 #### Voting (Hydra Platform)
 
-**June 23rd**, _9.45PM UTC_  to **July 23rd**, _9.45PM UTC_
+**June 28th**, _9.45PM UTC_  to **July 23rd**, _9.45PM UTC_
 
 {% hint style="info" %}
 During this phase:
