@@ -1,5 +1,11 @@
 # Growth and Marketing Committee (GMC)
 
+{% hint style="info" %}
+View more details in the dedicated Committee space
+
+[marketingcommittee.docs.intersectmbo.org](https://marketingcommittee.docs.intersectmbo.org/)
+{% endhint %}
+
 ## What is the Growth and Marketing Committee?
 
 The Growth and Marketing Committee (GMC) is a strategic planning and decision-making body, bringing together founding entities of the Cardano blockchain ecosystem and a diverse group of experienced marketing professionals. Dedicated to advancing innovative and impactful marketing and ecosystem growth strategies, the GMC is committed to attracting, empowering and directing global marketing initiatives, breaking traditional boundaries that promote the decentralization, growth, and widespread adoption of the Cardano ecosystem.

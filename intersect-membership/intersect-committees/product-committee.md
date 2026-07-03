@@ -1,5 +1,11 @@
 # Cardano Product committee (CPC)
 
+{% hint style="info" %}
+View more details in the dedicated Committee space
+
+[productcommittee.docs.intersectmbo.org](https://productcommittee.docs.intersectmbo.org/)
+{% endhint %}
+
 ## What is the Product committee?
 
 The Cardano Product committee (CPC) manages development scope across multiple categories including core development, features, research, and marketing, and establishes roadmaps that align with strategic goals. It evolved from what was originally conceived as a Vision Committee into a broader product function. Working with subject matter experts and the broader community through open calls and surveys, the committee helps the Cardano community collectively determine the ecosystem's direction and priorities.

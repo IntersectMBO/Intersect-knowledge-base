@@ -1,5 +1,11 @@
 # Intersect Steering committee (ISC)
 
+{% hint style="info" %}
+View more details in the dedicated Committee space
+
+[steeringcommittee.docs.intersectmbo.org](https://steeringcommittee.docs.intersectmbo.org/)
+{% endhint %}
+
 ## What is the Intersect Steering Committee?
 
 The Intersect Steering Committee brings together elected representatives, the chair of each standing committee, and Functional Directors of Intersect.
@@ -18,4 +24,4 @@ The committee guides Intersect's overall strategy, coordinates committee activit
 
 ## How to join?
 
-Two members of the Intersect Steering Committee are directly elected in the Intersect committee elections in addition to the standing committee chairs and the functional directors of Intersect. Intersect always communicates details on how to apply and vote well in advance of each election.&#x20;
+Two members of the Intersect Steering Committee are directly elected in the Intersect committee elections in addition to the standing committee chairs and the functional directors of Intersect. Intersect always communicates details on how to apply and vote well in advance of each election.

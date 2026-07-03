@@ -1,5 +1,11 @@
 # Membership and Community committee (MCC)
 
+{% hint style="info" %}
+View more details in the dedicated Committee space
+
+[membershipcommittee.docs.intersectmbo.org](https://membershipcommittee.docs.intersectmbo.org/)
+{% endhint %}
+
 ## What is the Membership and Community Committee?
 
 The Membership and Community Committee (MCC) focuses on building a thriving Cardano community - from membership growth and member support to community tooling grants, educational initiatives, and events that foster meaningful connection and collaboration.
@@ -14,6 +20,6 @@ The MCC oversees membership within Intersect and, by doing so, ensures that each
 
 ## How to join?
 
-Send an email to [membership-and-community-committee@intersectmbo.org](mailto:membership-and-community-committee@intersectmbo.org) for inquiries or more information. Intersect holds regular committee elections in collaboration with the other committees (Civics, Open Source, etc) to fill MCC seats. The MCC hosts public meetings every four weeks, and all members of Intersect are invited to attend.  Intersect always communicates details on how to apply and vote well in advance of each election.
+Send an email to [membership-and-community-committee@intersectmbo.org](mailto:membership-and-community-committee@intersectmbo.org) for inquiries or more information. Intersect holds regular committee elections in collaboration with the other committees (Civics, Open Source, etc) to fill MCC seats. The MCC hosts public meetings every four weeks, and all members of Intersect are invited to attend. Intersect always communicates details on how to apply and vote well in advance of each election.
 
 ***

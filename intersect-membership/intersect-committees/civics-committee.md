@@ -1,5 +1,11 @@
 # Cardano Civics committee (CCC)
 
+{% hint style="info" %}
+View more details in the dedicated Committee space
+
+[civicscommittee.docs.intersectmbo.org](https://civicscommittee.docs.intersectmbo.org/)
+{% endhint %}
+
 ## What is the Civics Committee?
 
 The Civics Committee advises on governance processes and community engagement across the Cardano ecosystem. The committee develops frameworks for effective community participation in governance, coordinates with subject matter experts to ensure informed decision-making, and provides advisory support to the Cardano Constitutional Committee as needed.

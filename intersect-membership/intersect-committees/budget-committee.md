@@ -1,5 +1,13 @@
 # Cardano Budget committee (CBC)
 
+{% hint style="info" %}
+View more details in the dedicated Committee space
+
+[budgetcommittee.docs.intersectmbo.org](https://budgetcommittee.docs.intersectmbo.org/)
+{% endhint %}
+
+## What is the Budget committee?
+
 The Budget Committee is an advisory committee that brings together relevant stakeholders from within the Cardano ecosystem. The purpose of the budget committee is to use the knowledge and observations of these individuals to provide guidance, support, and oversight for Cardano’s annual budget processes.
 
 ## Why is this committee important?

@@ -1,5 +1,13 @@
 # Open Source committee (OSC)
 
+{% hint style="info" %}
+View more details in the dedicated Committee space
+
+[opensourcecommittee.docs.intersectmbo.org](https://opensourcecommittee.docs.intersectmbo.org/)
+{% endhint %}
+
+## What is the Open Source committee?
+
 Intersect’s Open Source Committee fosters the development and evolution of Cardano as a community-led, decentralized open-source project. Our mission is to support the growth of Cardano through community-driven decision-making. By delivering essential tools, establishing clear policies, and providing expert guidance, we ensure Cardano remains adaptive, accessible, and positioned for long-term success.
 
 ## Why is this committee important?
