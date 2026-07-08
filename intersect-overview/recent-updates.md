@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-07-07 10:11 UTC_
+_Updated on 2026-07-08 09:50 UTC_
 
 - [intersect-membership/intersect-committees/budget-committee](https://docs.intersectmbo.org/intersect-membership/intersect-committees/budget-committee)
 - [intersect-membership/intersect-committees/civics-committee](https://docs.intersectmbo.org/intersect-membership/intersect-committees/civics-committee)
