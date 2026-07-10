@@ -38,12 +38,12 @@ These eligibility criteria are intended to ensure voting participation comes fro
 {% hint style="info" %}
 #### Voting Period
 
-**Voting Opens**: 15 July 2026 - 12pm UTC
+**Voting Opens**: 15th July 2026 - 12pm UTC
 
-**Voting Closes**: 22 July 2026 - 12pm UTC
+**Voting Closes**: 29th July 2026 - 12pm UTC
 
-**Voting audit:** 23 July 2026
+**Voting audit:** 30th July 2026
 
-**Voting Results shown:** 24 July - 12pm UTC
+**Voting Results shown:** 31st July - 12pm UTC
 {% endhint %}
 
