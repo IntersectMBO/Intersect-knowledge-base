@@ -12,12 +12,37 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 ## Weekly development updates
 
+
+
 <details>
 
 <summary><strong>2026 - Development updates</strong></summary>
 
+July
+
+* [Development update #119 - July 10](https://intersectmbo.org/news/intersect-weekly-update-119-july-10-2026)
+* [Development update #118 - July 3](https://intersectmbo.org/news/intersect-weekly-update-118-july-3-2026)
+
+June
+
+* [Development update #117 - June 26](https://intersectmbo.org/news/intersect-weekly-update-117-june-26-2026)
+* [Development update #116 - June 19](https://intersectmbo.org/news/intersect-weekly-update-116-june-19-2026)
+* [Development update #105 - June 12](https://intersectmbo.org/news/intersect-weekly-update-115-june-12-2021)
+* [Development update #114 - June 5](https://intersectmbo.org/news/intersect-weekly-update-114-june-5-2026)
+
+May
+
+* [Development update #113 - May 29](https://intersectmbo.org/news/intersect-weekly-update-113-may-29-2026)
+* [Development update #112 - May 22](https://intersectmbo.org/news/intersect-weekly-update-112-may-2-2026)
+* [Development update #111 - May 15](https://intersectmbo.org/news/intersect-weekly-update-111-may-15-2026)
+* [Development update #110 - May 8](https://intersectmbo.org/news/intersect-weekly-update-110-may-8-2026-clone)
+* [Development update #109 - May 1](https://intersectmbo.org/news/intersect-weekly-update-109-may-1-2026)
+
 April
 
+* [Development update #108 - April 24](https://intersectmbo.org/news/intersect-weekly-update-108-april-24-2026)
+* [Development update #107 - April 17](https://intersectmbo.org/news/intersect-weekly-update-107-april-17-2026)
+* [Development update #106 - April 10](https://intersectmbo.org/news/intersect-weekly-update-106-april-10-2026)
 * [Development update #105 - April 3](https://www.intersectmbo.org/news/intersect-weekly-update-105-april-3-2026)
 
 March
