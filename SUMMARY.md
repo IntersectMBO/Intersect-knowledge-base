@@ -84,6 +84,7 @@
   * [2026 Constitutional Committee Elections](cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/README.md)
     * [CC Election 2026 Overview](cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-overview.md)
     * [CC Election 2026 - Timeline](cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-timeline.md)
+    * [CC Election 2026 - Results](cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-results.md)
     * [AMA Sessions and X Spaces Calendar](https://luma.com/ccelection)
     * [Intersect Hydra Voting - Tool](https://hydra-voting.intersectmbo.org/)
     * [Guidelines for Participation](cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/guidelines-for-participation.md)
