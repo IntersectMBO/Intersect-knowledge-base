@@ -184,6 +184,7 @@
     * [Good Standing for Membership](legal/policies-and-conditions/intersect-members-policies/good-standing-for-membership.md)
     * [Committee Chair & Vice-Chair Election Policy](legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy.md)
     * [Roles and responsibilities in committees](legal/policies-and-conditions/intersect-members-policies/roles-and-responsibilities-in-committees.md)
+    * [Code of Conduct Complaint Handling Procedure](legal/policies-and-conditions/intersect-members-policies/code-of-conduct-complaint-handling-procedure.md)
   * [Intersect Administration Policies](https://admin-services.docs.intersectmbo.org/governance/policies-and-guidance)
 
 ## Archive
