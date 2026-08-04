@@ -175,6 +175,7 @@
       * [Intersect Membership Agreement V1](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement.md)
       * [Intersect Membership Agreement V2](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-1.md)
       * [Intersect Membership Agreement V3](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2.md)
+      * [Intersect Membership Agreement V4](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2-1.md)
     * [Code of Conduct](legal/policies-and-conditions/intersect-members-policies/code-of-conduct.md)
     * [Robert's Rules of Order – Simplified](legal/policies-and-conditions/intersect-members-policies/roberts-rules-of-order-simplified.md)
     * [Transparent Dealings Policy](legal/policies-and-conditions/intersect-members-policies/transparent-dealings-policy.md)
