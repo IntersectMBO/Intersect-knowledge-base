@@ -22,13 +22,38 @@ The Governing Board can be contacted via [board@intersectmbo.org](mailto:board@i
 
 ## **Intersect Professional Staff**
 
-Intersect is staffed by a team of experienced professionals with extensive exposure in the Cardano community. You can review teams and team members on the Intersect website ([here](https://www.intersectmbo.org/about-team)). Also below you can see the current org-chart. \[ORG CHART IS OBSOLETE]
+Intersect is staffed by a team of experienced professionals with extensive exposure in the Cardano community.&#x20;
 
-<figure><img src="../../.gitbook/assets/May2025_Intersect_org-chart (1).png" alt=""><figcaption><p>May 2025 Org-chart</p></figcaption></figure>
+The Intersect Team is divided in Sectors, each supporting a critical part of Intersect, all Sectors are here to serve Intersect Members and they report to the Executive Director and the Intersect Boar.
 
-Intersect team structure is in a transition phase, so the above is an interim Org Chart and subject to change in near future.
+### Intersect Sectors and Sector Leads (Sector Leadership Team - SLT):
 
-## Intersect decision making process&#x20;
+#### Cardano Tech
+
+* Lead: Matt Davis
+* **Cardano Tech** exists to steward Intersect’s responsibility within the Cardano ecosystem — ensuring technical initiatives, open-source programmes, and on-chain operations are coordinated, reliable, and aligned with community and network needs.
+
+#### Product & Membership
+
+* Lead: Lorenzo Bruno
+* **Product & Membership** exists to design, build, and evolve how people experience Intersect – from membership structures and participation models through to the tools and platforms that support them.
+
+#### Ecosystem & Community
+
+* Lead: Larisa Mcfarlane
+* **Ecosystem & Community** exists to steward Intersect’s relationship with the wider Cardano ecosystem, ensuring participation, communication, and governance are transparent and grounded in trust.
+
+#### Core Operations
+
+* Lead: Nick Cook
+* **Core Operations** exists to ensure that Intersect runs smoothly, compliantly, and sustainably as we grow, without getting in the way of delivery or creativity.
+
+#### People & Org Dynamics
+
+* Lead: Rosie Graham
+* **The People team** exists to support the humans behind the work at Intersect, creating the conditions for people, teams and organisation as a whole to do their best work in a healthy, sustainable way.
+
+## Intersect decision making process
 
 Intersect’s decision-making process provides a structured path for turning members and community ideas and proposals into actionable outcomes through working groups (WGs), Intersect committees, the internal team, and the Board. It ensures clarity, transparency, and appropriate escalation depending on the proposal’s impact level.
 
