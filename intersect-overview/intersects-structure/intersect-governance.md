@@ -26,32 +26,9 @@ Intersect is staffed by a team of experienced professionals with extensive expos
 
 The Intersect Team is divided in Sectors, each supporting a critical part of Intersect, all Sectors are here to serve Intersect Members and they report to the Executive Director and the Intersect Boar.
 
-### Intersect Sectors and Sector Leads (Sector Leadership Team - SLT):
+### Intersect Sectors and Sector Leads (Sector Leadership Team - SLT)
 
-#### Cardano Tech
-
-* Lead: Matt Davis
-* **Cardano Tech** exists to steward Intersect’s responsibility within the Cardano ecosystem — ensuring technical initiatives, open-source programmes, and on-chain operations are coordinated, reliable, and aligned with community and network needs.
-
-#### Product & Membership
-
-* Lead: Lorenzo Bruno
-* **Product & Membership** exists to design, build, and evolve how people experience Intersect – from membership structures and participation models through to the tools and platforms that support them.
-
-#### Ecosystem & Community
-
-* Lead: Larisa Mcfarlane
-* **Ecosystem & Community** exists to steward Intersect’s relationship with the wider Cardano ecosystem, ensuring participation, communication, and governance are transparent and grounded in trust.
-
-#### Core Operations
-
-* Lead: Nick Cook
-* **Core Operations** exists to ensure that Intersect runs smoothly, compliantly, and sustainably as we grow, without getting in the way of delivery or creativity.
-
-#### People & Org Dynamics
-
-* Lead: Rosie Graham
-* **The People team** exists to support the humans behind the work at Intersect, creating the conditions for people, teams and organisation as a whole to do their best work in a healthy, sustainable way.
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><h4>Cardano Tech Sector</h4></td><td>Lead: <em>Matt Davis</em></td><td><strong>Cardano Tech</strong> exists to steward Intersect’s responsibility within the Cardano ecosystem — ensuring technical initiatives, open-source programmes, and on-chain operations are coordinated, reliable, and aligned with community and network needs.</td></tr><tr><td><p></p><h4>Product &#x26; Membership Sector</h4></td><td>Lead: <em>Lorenzo Bruno</em></td><td><strong>Product &#x26; Membership</strong> exists to design, build, and evolve how people experience Intersect – from membership structures and participation models through to the tools and platforms that support them.</td></tr><tr><td><p></p><h4>Ecosystem &#x26; Community Sector</h4></td><td>Lead: <em>Larisa Mcfarlane</em></td><td><strong>Ecosystem &#x26; Community</strong> exists to steward Intersect’s relationship with the wider Cardano ecosystem, ensuring participation, communication, and governance are transparent and grounded in trust.</td></tr><tr><td><p></p><h4>Core Operations Sector</h4></td><td>Lead: <em>Nick Cook</em></td><td><strong>Core Operations</strong> exists to ensure that Intersect runs smoothly, compliantly, and sustainably as we grow, without getting in the way of delivery or creativity.</td></tr><tr><td><p></p><h4>People &#x26; Org Dynamics Sector</h4></td><td>Lead: <em>Rosie Graham</em></td><td><strong>The People team</strong> exists to support the humans behind the work at Intersect, creating the conditions for people, teams and organisation as a whole to do their best work in a healthy, sustainable way.</td></tr></tbody></table>
 
 ## Intersect decision making process
 
