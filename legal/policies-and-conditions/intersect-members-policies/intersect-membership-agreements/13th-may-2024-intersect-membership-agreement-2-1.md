@@ -1,5 +1,5 @@
 ---
-description: This version is from the 18th September 2025
+description: This version is from the 4th August 2026
 ---
 
 # Intersect Membership Agreement V4
