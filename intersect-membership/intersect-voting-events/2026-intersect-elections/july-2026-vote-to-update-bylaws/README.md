@@ -44,6 +44,27 @@ These eligibility criteria are intended to ensure voting participation comes fro
 
 **Voting audit:** 1st August 2026
 
-**Voting Results shown:** 3rd August - 12pm UTC
+**Voting Results published:** 3rd August - 12pm UTC
 {% endhint %}
 
+## Voting Results
+
+The member vote on the proposed **Intersect ByLaws Update** has now concluded.
+
+An independent audit of the voting process has been completed, confirming that **all submitted ballots were valid** and **no ballots failed the audit criteria**.
+
+### Final Results
+
+<table><thead><tr><th width="444.69921875">Voting Option</th><th>Votes</th></tr></thead><tbody><tr><td>Approve and adopt the updated ByLaws</td><td><strong>44</strong></td></tr><tr><td>Abstain</td><td><strong>3</strong></td></tr></tbody></table>
+
+#### Voting Summary
+
+* **Unique voters:** 47
+* **Fully valid ballots:** 47
+* **Ballots failing audit criteria:** 0
+
+### Audit Report
+
+The full independent audit report is available below.
+
+{% file src="../../../../.gitbook/assets/[Dquadrant] 2026 Intersect ByLaws Update _ Audit Report.xlsx" %}
