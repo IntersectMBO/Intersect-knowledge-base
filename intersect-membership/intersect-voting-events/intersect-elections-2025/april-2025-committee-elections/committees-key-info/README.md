@@ -6,7 +6,7 @@ We’ve created an **Application Pack** with detailed one-pagers for each commit
 
 Ready to contribute to the future of Cardano? [**Apply now!**](https://members.intersectmbo.org/dashboard/voting)
 
-To make the process more accessible, we have also translated the application form into five languages. If you’d like to see the translations, [click here](broken-reference/).
+To make the process more accessible, we have also translated the application form into five languages. If you’d like to see the translations, [click here](https://github.com/IntersectMBO/Intersect-knowledge-base/blob/main/intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/committees-key-info/broken-reference/README.md).
 
 We will also be holding a number of [engagement events](intersect-committee-elections-x-space-events.md) and posting key messages across our social media platforms.
 

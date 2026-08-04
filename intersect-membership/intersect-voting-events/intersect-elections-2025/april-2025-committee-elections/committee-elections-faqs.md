@@ -8,18 +8,16 @@ This page will be updated regularly as more questions are asked.
 
 <summary>Can anyone apply to be elected?</summary>
 
-No, only individual, enterprise, and seed funder members can apply for a seat.  \
+No, only individual, enterprise, and seed funder members can apply for a seat.\
 Associate members are not eligible.
 
 </details>
 
 <details>
 
-<summary>Is voting based on ada? </summary>
+<summary>Is voting based on ada?</summary>
 
 No, it is one member one vote so each member will have one vote for each seat
-
-
 
 </details>
 
@@ -35,7 +33,7 @@ Applications will open on March 24 and close on April 11 at 12PM UTC.
 
 <summary>How do I apply?</summary>
 
-The application form will be accessible through the member portal. Here is the [link](https://members.intersectmbo.org/)&#x20;
+The application form will be accessible through the member portal. Here is the [link](https://members.intersectmbo.org/)
 
 </details>
 
@@ -75,7 +73,7 @@ We propose the community-elected committee self-elect a chair within two weeks o
 
 <summary>Can a council or consortium apply for a seat?</summary>
 
-No, it is one person one seat. &#x20;
+No, it is one person one seat.
 
 </details>
 
@@ -83,7 +81,7 @@ No, it is one person one seat. &#x20;
 
 <summary>Where can I find out more about the committees?</summary>
 
-Each of the committees has a space in the [Knowledge Base](https://docs.intersectmbo.org/intersect-overview/intersect-committees) which also includes their contact details. We've also created an application pack with key information about the committees, which you can find [here](broken-reference).
+Each of the committees has a space in the [Knowledge Base](https://docs.intersectmbo.org/intersect-overview/intersect-committees) which also includes their contact details. We've also created an application pack with key information about the committees, which you can find [here](https://github.com/IntersectMBO/Intersect-knowledge-base/blob/main/intersect-membership/intersect-voting-events/intersect-elections-2025/april-2025-committee-elections/broken-reference/README.md).
 
 </details>
 
@@ -91,7 +89,7 @@ Each of the committees has a space in the [Knowledge Base](https://docs.intersec
 
 <summary>Will the Intersect Steering Committee (previously also known as Exec Committee) also be part of the election?</summary>
 
-Yes, the community seats for this committee will be part of the election. &#x20;
+Yes, the community seats for this committee will be part of the election.
 
 </details>
 
@@ -99,7 +97,7 @@ Yes, the community seats for this committee will be part of the election. &#x20;
 
 <summary>Can an enterprise sponsored members candidate themselves for elections?</summary>
 
-Yes, if you are a member of an organization which is paying for an Enterprise membership and for your membership too, then you can apply to be a candidate and you can also vote in the election.&#x20;
+Yes, if you are a member of an organization which is paying for an Enterprise membership and for your membership too, then you can apply to be a candidate and you can also vote in the election.
 
 Please note your affiliation with your organization in the application form.
 
@@ -109,7 +107,7 @@ Please note your affiliation with your organization in the application form.
 
 <summary>If I am elected to a committee seat can I still be part of Working Groups and Special Interest Groups</summary>
 
-Yes, any member can participate in Working Groups and Special Interest Groups.  This is actively encouraged.
+Yes, any member can participate in Working Groups and Special Interest Groups. This is actively encouraged.
 
 </details>
 

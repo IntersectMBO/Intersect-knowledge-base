@@ -2,7 +2,7 @@
 
 {% include "../../../.gitbook/includes/this-page-has-been-archived.md" %}
 
-On-Chain [DRep](broken-reference/) registration is the process that allows ADA holders to register themselves as Delegated Representatives, giving them the ability to represent themselves or others when voting on active On-Chain Governance Actions.
+On-Chain [DRep](https://github.com/IntersectMBO/Intersect-knowledge-base/blob/main/archive/cardano-governance-archive/governance-process/broken-reference/README.md) registration is the process that allows ADA holders to register themselves as Delegated Representatives, giving them the ability to represent themselves or others when voting on active On-Chain Governance Actions.
 
 This step also allows ADA Holders that register as DReps to add optional [Metadata](../key-terms/metadata.md) to the registration. The suggested use for this is to add extra context useful for other ADA holders to make a decision about delegation.
 

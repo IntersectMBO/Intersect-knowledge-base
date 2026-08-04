@@ -13,12 +13,12 @@ Especially with a 2 year term, and a group of 10 elected volunteers, it is reaso
 There are however times when actions are required to maintain a functioning committee. Below are clear scenarios for Committee members dismissals, pausing of committee rewards, and temporary loss of voting power within a committee.
 
 1. **What constitutes ground for dismissal** (and allows a motion of no confidence to be raised)\
-   &#xNAN;_&#x41;n initial grace period of 8 weeks is given to all new committee members at the start of their term, knowing that onboarding and adjustments to schedules takes time. So the counting for the actions below should start after these 8 weeks._
+   _&#x41;n initial grace period of 8 weeks is given to all new committee members at the start of their term, knowing that onboarding and adjustments to schedules takes time. So the counting for the actions below should start after these 8 weeks._
    1. If a committee member fails to join at least 50% official meetings (or 2 if committee has only 2) for 3 months within a 6 months period
    2. If a committee member has not attended more than 6 committee meetings in a row
    3. If a committee member, within 6 months period, hasn’t participated in at least 75% of the votes
 2. **When should the secretary reach out to a committee member** to request context about their absence\
-   &#xNAN;_&#x54;his is done to provide extra context to the process so that a potential dismissal is treated fairly_
+   _&#x54;his is done to provide extra context to the process so that a potential dismissal is treated fairly_
    1. If a committee member fails to join for 1 month at least 50% official meetings (or 2 if committee has only 2) and anything above that
 3. **What triggers a pause in committee rewards**
    1. If a committee member fails to join for 1 month at least 50% official meetings (or 2 if committee has only 2)

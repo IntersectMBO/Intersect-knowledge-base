@@ -158,7 +158,8 @@
 
 ## LEGAL
 
-* [Intersect's bylaws](legal/intersects-bylaws.md)
+* [Intersect's bylaws v2](legal/intersects-bylaws/README.md)
+  * [Intersect's bylaws v1](legal/intersects-bylaws/intersects-bylaws.md)
 * [Policies and conditions](legal/policies-and-conditions/README.md)
   * [General Policies](legal/policies-and-conditions/intersect-internal-policies/README.md)
     * [Terms of Use](legal/policies-and-conditions/intersect-internal-policies/terms-of-use.md)

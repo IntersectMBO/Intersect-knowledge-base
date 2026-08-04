@@ -16,8 +16,8 @@ Once this foundation layer is ready, the community will be able to further contr
 
 Soon enough, the community will have a number of new tools at its disposal for engaging in participatory governance actions on the Cardano blockchain and will have an even greater ability to easily and effectively shape and improve the protocol through collective decision making as Cardano enters the age of Voltaire.
 
-Read more about [funding opportunities](broken-reference/) at Intersect
+Read more about [funding opportunities](https://github.com/IntersectMBO/Intersect-knowledge-base/blob/main/archive/cardano-governance-archive/governance-tools/broken-reference/README.md) at Intersect
 
 ***
 
-Intersect has issued grants to build pillars of this system of tools or other supporting parts. More information about grants can be found [here](broken-reference/).
+Intersect has issued grants to build pillars of this system of tools or other supporting parts. More information about grants can be found [here](https://github.com/IntersectMBO/Intersect-knowledge-base/blob/main/archive/cardano-governance-archive/governance-tools/broken-reference/README.md).

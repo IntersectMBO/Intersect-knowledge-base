@@ -6,7 +6,7 @@ Please note that this overview is indicative of the process, some details have b
 Also note that the process will change in the near future to reflect on-chain governance actions.
 {% endhint %}
 
-The following information is intended to provide the community an indicative overview of the major release process, major releases include such events as [hard forks](broken-reference/). In blockchain technology a hard fork is one of the most significant upgrades. It is a radical change in a blockchain protocol that affects the validity of blocks and transactions on the decentralized network.
+The following information is intended to provide the community an indicative overview of the major release process, major releases include such events as [hard forks](https://github.com/IntersectMBO/Intersect-knowledge-base/blob/main/cardano-facilitation-services/cardano-development/cardano-hardforks-and-upgrades/broken-reference/README.md). In blockchain technology a hard fork is one of the most significant upgrades. It is a radical change in a blockchain protocol that affects the validity of blocks and transactions on the decentralized network.
 
 The below provides an outline of the role different roles that Intersect committees, working groups and the community play in contributing to the major release process.
 

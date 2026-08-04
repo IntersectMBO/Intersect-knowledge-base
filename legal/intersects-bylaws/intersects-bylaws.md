@@ -1,8 +1,8 @@
-# Intersect's bylaws
+# Intersect's bylaws v1
 
 ## BYLAWS OF INTERSECT
 
-_(a Wyoming nonprofit corporation)_&#x20;
+_(a Wyoming nonprofit corporation)_
 
 ### ARTICLE 1 -NAME AND OFFICES
 
@@ -166,6 +166,4 @@ Unless the Act or the corporation’s Articles of Incorporation reserve such pow
 
 3\) Powers. The corporation shall be empowered to receive membership dues; to establish and accept reunion fees; to accept donations to further the purposes of the corporation; and to accept memorabilia. No part of the income or principal of the corporation shall be used to the benefit of any private individual, contributor, or member of the Board of Directors. All assets of the corporation will be used to achieve the purposes of the corporation.
 
-
-
-{% file src="../.gitbook/assets/Intersect Bylaws.pdf" %}
+{% file src="../../.gitbook/assets/Intersect Bylaws.pdf" %}
