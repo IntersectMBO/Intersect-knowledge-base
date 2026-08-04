@@ -14,7 +14,7 @@ We’d like to thank all candidates for putting themselves forward, as well as e
 
 Elected Members:
 
-* James Meidinger, 77 votes&#x20;
+* James Meidinger, 77 votes
 * Thiago Nunes, 41 votes
 
 </details>
@@ -25,10 +25,10 @@ Elected Members:
 
 Elected Members:
 
-* Megan Hess, 92 votes&#x20;
-* Rodrigo Pacini 77 votes&#x20;
-* Stephen Wood, 75 votes&#x20;
-* Can Huzmeli, 47 votes&#x20;
+* Megan Hess, 92 votes
+* Rodrigo Pacini 77 votes
+* Stephen Wood, 75 votes
+* Can Huzmeli, 47 votes
 * Fanny Wijaya, 39 votes
 
 </details>
@@ -39,10 +39,10 @@ Elected Members:
 
 Elected Members:
 
-* Nicolas Cerny, 107 votes&#x20;
-* Beatrice Anihiri, 91 votes&#x20;
-* Jose Miguel De Gamboa, 65 votes&#x20;
-* Ken Erik Ølmheim, 63 votes&#x20;
+* Nicolas Cerny, 107 votes
+* Beatrice Anihiri, 91 votes
+* Jose Miguel De Gamboa, 65 votes
+* Ken Erik Ølmheim, 63 votes
 * Nana Safo, 61 votes
 
 </details>
@@ -53,10 +53,10 @@ Elected Members:
 
 Elected Members:
 
-* Fanny Wijaya, 68 votes&#x20;
-* BANDU Boaz, 63 votes&#x20;
-* Anuj Chaudhary, 58 votes&#x20;
-* Olivier Mwatsimulamo, 56 votes&#x20;
+* Fanny Wijaya, 68 votes
+* BANDU Boaz, 63 votes
+* Anuj Chaudhary, 58 votes
+* Olivier Mwatsimulamo, 56 votes
 * Martin Musagara, 46 votes
 
 </details>
@@ -81,10 +81,10 @@ Elected Members:
 
 Elected Members:
 
-* Yoram Ben Zvi, 86 votes&#x20;
-* JUAN SIERRA, 80 votes&#x20;
-* Alexa C. aka Thyme, 75 votes&#x20;
-* James Meidinger, 67 votes&#x20;
+* Yoram Ben Zvi, 86 votes
+* JUAN SIERRA, 80 votes
+* Alexa C. aka Thyme, 75 votes
+* James Meidinger, 67 votes
 * Samir Idris, 49 votes
 
 </details>
@@ -95,10 +95,10 @@ Elected Members:
 
 Elected Members:
 
-* Neil Davies, 90 votes&#x20;
-* Christian Taylor, 87 votes&#x20;
-* Alonzo Benavides, 84 votes&#x20;
-* Marcin Szamotulski, 79 votes&#x20;
+* Neil Davies, 90 votes
+* Christian Taylor, 87 votes
+* Alonzo Benavides, 84 votes
+* Marcin Szamotulski, 79 votes
 * Alex Moser, 71 votes
 
 </details>
@@ -109,18 +109,18 @@ Elected Members:
 
 Elected Members:
 
-* Laura Mattiucci, 98 votes&#x20;
-* Alexa C. aka Thyme, 83 votes&#x20;
-* Marco Moshi, 58 votes&#x20;
-* Andy Hung, 55 votes&#x20;
+* Laura Mattiucci, 98 votes
+* Alexa C. aka Thyme, 83 votes
+* Marco Moshi, 58 votes
+* Andy Hung, 55 votes
 * Josefine Birkigt, 43 votes
 
 </details>
 
 ## Other useful Links
 
-{% content-ref url="statement-about-april-2026-election-results.md" %}
-[statement-about-april-2026-election-results.md](statement-about-april-2026-election-results.md)
+{% content-ref url="statement-about-april-2026-election-results/" %}
+[statement-about-april-2026-election-results](statement-about-april-2026-election-results/)
 {% endcontent-ref %}
 
 {% content-ref url="voting-results-audit-info.md" %}

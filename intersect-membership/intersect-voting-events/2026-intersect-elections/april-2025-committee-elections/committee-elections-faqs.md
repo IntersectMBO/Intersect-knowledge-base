@@ -81,7 +81,7 @@ No, it is one person one seat.
 
 <summary>Where can I find out more about the committees?</summary>
 
-Each of the committees has a space in the [Knowledge Base](https://app.gitbook.com/s/o50OuflyxfUMOt8hHPn2/) which also includes their contact details.
+Each of the committees has a space in the [Knowledge Base](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/o50OuflyxfUMOt8hHPn2/) which also includes their contact details.
 
 </details>
 
