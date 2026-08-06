@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-08-05 09:54 UTC_
+_Updated on 2026-08-06 09:55 UTC_
 
 - [archive/cardano-governance-archive/governance-process/on-chain-drep-delegation](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-process/on-chain-drep-delegation)
 - [archive/cardano-governance-archive/governance-process/on-chain-drep-registration](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-process/on-chain-drep-registration)
