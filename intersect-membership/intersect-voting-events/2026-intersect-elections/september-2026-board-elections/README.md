@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # September 2026 - Board Elections
 
 ## Overview <a href="#overview" id="overview"></a>
