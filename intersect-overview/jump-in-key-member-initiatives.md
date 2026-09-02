@@ -4,45 +4,16 @@ description: This page gives quick access to current most important topics
 
 # 🟢 Happening Now
 
-<details open>
-
-<summary><strong>Cardano Budget</strong> <strong>Process</strong></summary>
-
-* The budget process info action has been approved with super majority by DReps
-* The Budget process proposal submission will start on **April 16 at 12PM UTC**
-
-{% hint style="warning" icon="calendar-days" %}
-**Key dates**
-
-* _Proposal Submission_: April 16, 12PM UTC to May 8, 12PM UTC
-* _Final Feedback and Review_: May 8, 12PM UTC to May 22, 12PM UTC
-* _Voting period_: May 26, 12PM UTC to June 12, 12PM UTC
-
-Check the full timeline [here](../cardano-facilitation-services/cardano-budget-2026/2026-cardano-budget-process/)
-{% endhint %}
-
-{% hint style="info" icon="link" %}
-**Useful Links**
-
-* [Budget process timeline](../cardano-facilitation-services/cardano-budget-2026/2026-budget-process-timeline.md)
-* [Budget process](../cardano-facilitation-services/cardano-budget-2026/)
-* [Budget tooling](https://hydra-voting.intersectmbo.org)
-* [Budget tooling docs](https://docs.hydra-voting.intersectmbo.org)
-{% endhint %}
-
-</details>
-
 <details>
 
-<summary><strong>Intersect Budget Proposal</strong></summary>
+<summary><strong>Intersect Board Elections</strong></summary>
 
-This proposal funds Intersect’s core operating model for June 2026 to June 2027: the Member Based Organization that supports open ecosystem coordination, a reserved capacity to address critical unowned processes, and critically technical stewardship, incident response, and release coordination required to help keep Cardano secure, reliable, and operationally resilient.
+In September, the **Intersect Board Elections** will take place — a vital opportunity for members to help select the individuals who will oversee Intersect’s strategic direction and ensure it remains aligned with its mission and community values. During this time members were able to elect **two board members** out of the seven that compose the Intersect Board.
 
 {% hint style="info" icon="link" %}
 **Useful Links**
 
-* Intersect Budget Proposal on Hydra-Voting tool
-* [FAQs](../cardano-facilitation-services/cardano-budget-2026/intersect-2026-budget-proposal.md#faqs)
+* [September 2026 Board Elections](../intersect-membership/intersect-voting-events/2026-intersect-elections/september-2026-board-elections/)
 {% endhint %}
 
 </details>
@@ -58,7 +29,7 @@ This proposal funds Intersect’s core operating model for June 2026 to June 202
 
 * _Applications Submission_: May 8th, 9PM UTC to June 7t&#x68;**,** 9.45PM UTC
 * Candidate Promotion: June 7th, 9.45PM UTC to June 13th, 9.45PM UTC
-* _Voting period_: June 13th, 9.45PM UTC  to July 13th, 9.45PM UTC
+* _Voting period_: June 13th, 9.45PM UTC to July 13th, 9.45PM UTC
 
 Check the full timeline [here](../cardano-facilitation-services/cardano-governance/2026-constitutional-committee-elections/cc-election-2026-timeline.md)
 {% endhint %}

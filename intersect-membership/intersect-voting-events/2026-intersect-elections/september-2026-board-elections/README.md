@@ -26,14 +26,17 @@ Board members will receive an annual financial compensation of **$35,000** in re
 
 ### **Criteria for applicants**
 
-* Been a member for at least 180 days (6 months)
-* Have completed enhanced KYC
-* Have been a Voting Member of a Committee (appointed or elected) or Members of the board before applications open
+* Must have been a member for at least 180 days (6 months) before application starts
+* Must be in [good standing](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/good-standing-for-membership#a-member-in-good-standing)
+* Must complete Intersect’s required identify-verification process (KYC)
+* Must be willing and able, if elected, to provide legal name and address for Intersect’s required filings with the Wyoming Secretary of State
+* Must have previously served (appointed or elected) at least one term as a voting member of an Intersect Committee or as a member of the Intersect Board
 
 ### **Criteria for voters**
 
-* Been a member for at least 180 days (6 months)
-* Have completed enhanced KYC
+* Must have been an Individual or Enterprise member of Intersect for at least 180 days (6 months) before voting starts
+* Must be in [good standing](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/good-standing-for-membership#a-member-in-good-standing)
+* Must complete Intersect’s required identify-verification process (KYC)
 
 ## Key Dates
 
@@ -69,7 +72,7 @@ The results will be published on **September 28th**.
 
 ## How to apply?
 
-Applications will open from August 31st, 2026 at 12 PM UTC until September 11, 2026 at 12 PM UTC.
+Applications will open from _August 31st, 2026 at 12 PM UTC_ until September 11, 2026 at 12 PM UTC.
 
 Candidates could **review the application form** [**here** ](../../intersect-elections-2025/september-2025-board-elections/board-application-form/)to see all the questions in advance and prepare responses. Translated versions of the form are also available [here](board-application-form/translations-board-application-form/)
 
