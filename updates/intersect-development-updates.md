@@ -12,8 +12,6 @@ Become a member to receive this newsletter directly in your inbox. [Join Now](ht
 
 ## Weekly development updates
 
-
-
 <details>
 
 <summary><strong>2026 - Development updates</strong></summary>
@@ -245,6 +243,8 @@ January\
 </details>
 
 ## Report - Downloads
+
+{% file src="../.gitbook/assets/Intersect - Annual Report 2025.pdf" %}
 
 {% file src="../.gitbook/assets/Intersect End of Year Dev Report 2025.pdf" %}
 
