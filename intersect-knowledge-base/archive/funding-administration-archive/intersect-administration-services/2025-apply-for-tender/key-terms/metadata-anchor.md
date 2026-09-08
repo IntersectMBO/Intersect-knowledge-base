@@ -1,0 +1,3 @@
+# Metadata Anchor
+
+Metadata Anchor - in the context of CIP-1694, metadata anchors are a mechanism  to attach contextual data to on-chain governance artifacts. These anchors include a URL pointing to metadata plaintext and a hash of the plain text metadata hosted at the metadata URL. The hash can be used to verify the integrity of the metadata hosted at the URL. These can be attached to on-chain DRep registrations to allow DReps to share profile information hosted off-chain. Such metadata should conform to the structure defined by [CIP-0100? | Governance Metadata](https://github.com/cardano-foundation/CIPs/pull/556) or subsequent CIPs.
