@@ -1,0 +1,31 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Intersect - Knowledge Base
+  structure:
+    - type: section
+      key: section-2
+      title: Overview
+      path: intersect-knowledge-base-overview
+      description: Welcome to the Intersect Knowledge Base
+      default: true
+      children:
+        - type: space
+          key: space-2
+          title: Overview
+          path: landing-page
+          default: true
+          content:
+            directory: ./intersect-knowledge-base-overview/landing-page
+    - type: section
+      key: section-1
+      title: Knowledge Base
+      path: intersect-knowledge-base
+      description: ""
+      children:
+        - type: space
+          key: space-1
+          title: Knowledge Base
+          path: intersect-knowledge-base
+          default: true
+          content:
+            directory: ./intersect-knowledge-base
