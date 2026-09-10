@@ -185,7 +185,8 @@
       * [Intersect Membership Agreement V2](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-1.md)
       * [Intersect Membership Agreement V3](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2.md)
       * [Intersect Membership Agreement V4](legal/policies-and-conditions/intersect-members-policies/intersect-membership-agreements/13th-may-2024-intersect-membership-agreement-2-1.md)
-    * [Code of Conduct](legal/policies-and-conditions/intersect-members-policies/code-of-conduct.md)
+    * [Code of Conduct](legal/policies-and-conditions/intersect-members-policies/code-of-conduct/README.md)
+      * [Code of Conduct Complaint Handling Procedure v1](legal/policies-and-conditions/intersect-members-policies/code-of-conduct/code-of-conduct-complaint-handling-procedure.md)
     * [Robert's Rules of Order – Simplified](legal/policies-and-conditions/intersect-members-policies/roberts-rules-of-order-simplified.md)
     * [Transparent Dealings Policy](legal/policies-and-conditions/intersect-members-policies/transparent-dealings-policy.md)
     * [Intersect Voting Policy](legal/policies-and-conditions/intersect-members-policies/intersect-voting-policy.md)
@@ -196,7 +197,6 @@
     * [Good Standing for Membership](legal/policies-and-conditions/intersect-members-policies/good-standing-for-membership.md)
     * [Committee Chair & Vice-Chair Election Policy](legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy.md)
     * [Roles and responsibilities in committees](legal/policies-and-conditions/intersect-members-policies/roles-and-responsibilities-in-committees.md)
-    * [Code of Conduct Complaint Handling Procedure](legal/policies-and-conditions/intersect-members-policies/code-of-conduct-complaint-handling-procedure.md)
   * [Intersect Administration Policies](https://admin-services.docs.intersectmbo.org/governance/policies-and-guidance)
 
 ## Archive

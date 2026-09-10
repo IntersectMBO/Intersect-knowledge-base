@@ -1,10 +1,6 @@
----
-hidden: true
----
+# Code of Conduct Complaint Handling Procedure v1
 
-# Code of Conduct Complaint Handling Procedure
-
-_Approved by Intersect Steering Committee_ on 20th July 2026&#x20;
+_Approved by Intersect Steering Committee_ on 20th July 2026
 
 ## 1. Purpose
 
@@ -89,13 +85,13 @@ conduct@intersectmbo.org
 
 Complaints may be submitted by any individual.
 
-While complaints should be submitted directly to conduct@intersectmbo.org, they may also be received through other communication channels, including but not limited to:
+While complaints should be submitted directly to [conduct@intersectmbo.org](mailto:conduct@intersectmbo.org), they may also be received through other communication channels, including but not limited to:
 
 * email sent to another Intersect email address;
 * private messages to Intersect staff, Secretaries, Board Members, Committee Members, or Members;
 * other official Intersect communication channels.
 
-To ensure all complaints are managed consistently, any Code of Conduct complaint received outside the official submission channel must be forwarded to conduct@intersectmbo.org as soon as practicable.
+To ensure all complaints are managed consistently, any Code of Conduct complaint received outside the official submission channel must be forwarded to [conduct@intersectmbo.org](mailto:conduct@intersectmbo.org) as soon as practicable.
 
 Upon receipt, the complaint will be recorded and acknowledged before proceeding to the initial assessment.
 
@@ -121,7 +117,7 @@ The responsible body performs an initial review to determine:
 * whether sufficient information has been provided;
 * whether additional information is required;
 * whether legal advice should be sought before proceeding.
-* Any email that is not obviously a genuine complaint will not be assessed&#x20;
+* Any email that is not obviously a genuine complaint will not be assessed
 * Any complaint that does not breach Code of Conduct might not progress to further steps
 
 Target Service Level
@@ -139,7 +135,7 @@ If accepted, the responsible body will:
 * gather relevant evidence;
 * request additional information where required;
 * interview relevant parties where appropriate;
-* engage with legal team when the complaint requires it; &#x20;
+* engage with legal team when the complaint requires it;
 * maintain confidentiality throughout the investigation.
 
 Members of the reviewing body should have signed appropriate confidentiality agreements (e.g., NDAs).
@@ -191,17 +187,12 @@ The reviewing body will maintain secure records of:
 * communications;
 * final outcomes.
 
-All complaints, including those initially received through other communication channels and subsequently forwarded to conduct@intersectmbo.org, should be recorded in a central complaint register to ensure a complete audit trail, consistent case management, and a single source of truth for all Code of Conduct matters.
+All complaints, including those initially received through other communication channels and subsequently forwarded to [conduct@intersectmbo.org](mailto:conduct@intersectmbo.org), should be recorded in a central complaint register to ensure a complete audit trail, consistent case management, and a single source of truth for all Code of Conduct matters.
 
 Records should be retained in accordance with Intersect's record management requirements.
 
 ***
 
-## 6. Service Levels (Draft)
+## 6. Service Levels
 
-| Activity       | Target                        |
-| -------------- | ----------------------------- |
-| Initial review | Within 5 business days        |
-| Investigation  | Ad-hoc based on the complaint |
-| Decision       | Ad-hoc based on the complaint |
-| Notification   | Ad-hoc based on the complaint |
+<table><thead><tr><th width="172.171875">Activity</th><th>Target</th></tr></thead><tbody><tr><td>Initial review</td><td>Within 5 business days</td></tr><tr><td>Investigation</td><td>Ad-hoc based on the complaint</td></tr><tr><td>Decision</td><td>Ad-hoc based on the complaint</td></tr><tr><td>Notification</td><td>Ad-hoc based on the complaint</td></tr></tbody></table>
