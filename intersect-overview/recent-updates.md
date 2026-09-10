@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-09-09 09:14 UTC_
+_Updated on 2026-09-10 09:13 UTC_
 
 - [intersect-knowledge-base-overview/landing-page/.gitbook/includes/committees](https://docs.intersectmbo.org/intersect-knowledge-base-overview/landing-page/.gitbook/includes/committees)
 - [intersect-knowledge-base-overview/landing-page/README](https://docs.intersectmbo.org/intersect-knowledge-base-overview/landing-page/README)
@@ -434,7 +434,5 @@ _Updated on 2026-09-09 09:14 UTC_
 - [intersect-knowledge-base/updates/membership-updates](https://docs.intersectmbo.org/intersect-knowledge-base/updates/membership-updates)
 - [intersect-knowledge-base/updates/open-source-office-updates](https://docs.intersectmbo.org/intersect-knowledge-base/updates/open-source-office-updates)
 - [intersect-knowledge-base/updates/product-curation-updates](https://docs.intersectmbo.org/intersect-knowledge-base/updates/product-curation-updates)
-- [intersect-membership/intersect-voting-events/2026-intersect-elections/september-2026-board-elections/README](https://docs.intersectmbo.org/intersect-membership/intersect-voting-events/2026-intersect-elections/september-2026-board-elections/README)
-- [intersect-overview/jump-in-key-member-initiatives](https://docs.intersectmbo.org/intersect-overview/jump-in-key-member-initiatives)
 - [legal/intersects-bylaws/intersects-bylaws](https://docs.intersectmbo.org/legal/intersects-bylaws/intersects-bylaws)
 - [updates/intersect-development-updates](https://docs.intersectmbo.org/updates/intersect-development-updates)
