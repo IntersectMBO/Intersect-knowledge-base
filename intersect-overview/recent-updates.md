@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-09-10 09:13 UTC_
+_Updated on 2026-09-11 09:13 UTC_
 
 - [intersect-knowledge-base-overview/landing-page/.gitbook/includes/committees](https://docs.intersectmbo.org/intersect-knowledge-base-overview/landing-page/.gitbook/includes/committees)
 - [intersect-knowledge-base-overview/landing-page/README](https://docs.intersectmbo.org/intersect-knowledge-base-overview/landing-page/README)
@@ -411,6 +411,8 @@ _Updated on 2026-09-10 09:13 UTC_
 - [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/README](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/README)
 - [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct-complaint-handling-procedure](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct-complaint-handling-procedure)
 - [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct)
+- [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct/README](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct/README)
+- [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct/code-of-conduct-complaint-handling-procedure](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct/code-of-conduct-complaint-handling-procedure)
 - [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-chair-and-vice-chair-election-policy)
 - [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-member-resignation-and-dismissal-policy](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-member-resignation-and-dismissal-policy)
 - [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-service-reward-policy](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-service-reward-policy)
