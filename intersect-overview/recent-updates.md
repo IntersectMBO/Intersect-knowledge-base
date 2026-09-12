@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-09-11 09:13 UTC_
+_Updated on 2026-09-12 09:11 UTC_
 
 - [intersect-knowledge-base-overview/landing-page/.gitbook/includes/committees](https://docs.intersectmbo.org/intersect-knowledge-base-overview/landing-page/.gitbook/includes/committees)
 - [intersect-knowledge-base-overview/landing-page/README](https://docs.intersectmbo.org/intersect-knowledge-base-overview/landing-page/README)
