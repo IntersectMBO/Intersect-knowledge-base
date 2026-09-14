@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Intersect Community Grants
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect Community Grants
+      path: intersect-community-grants
+      default: true
+      content:
+        directory: ./intersect-community-grants
