@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-09-13 09:35 UTC_
+_Updated on 2026-09-14 09:17 UTC_
 
 - [intersect-knowledge-base-overview/landing-page/.gitbook/includes/committees](https://docs.intersectmbo.org/intersect-knowledge-base-overview/landing-page/.gitbook/includes/committees)
 - [intersect-knowledge-base-overview/landing-page/README](https://docs.intersectmbo.org/intersect-knowledge-base-overview/landing-page/README)
@@ -436,5 +436,3 @@ _Updated on 2026-09-13 09:35 UTC_
 - [intersect-knowledge-base/updates/membership-updates](https://docs.intersectmbo.org/intersect-knowledge-base/updates/membership-updates)
 - [intersect-knowledge-base/updates/open-source-office-updates](https://docs.intersectmbo.org/intersect-knowledge-base/updates/open-source-office-updates)
 - [intersect-knowledge-base/updates/product-curation-updates](https://docs.intersectmbo.org/intersect-knowledge-base/updates/product-curation-updates)
-- [legal/intersects-bylaws/intersects-bylaws](https://docs.intersectmbo.org/legal/intersects-bylaws/intersects-bylaws)
-- [updates/intersect-development-updates](https://docs.intersectmbo.org/updates/intersect-development-updates)
