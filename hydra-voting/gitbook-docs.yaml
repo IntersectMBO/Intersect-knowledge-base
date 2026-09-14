@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Intersect hydra voting - docs
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect hydra voting - docs
+      path: intersect-hydra-voting-docs
+      default: true
+      content:
+        directory: ./intersect-hydra-voting-docs
