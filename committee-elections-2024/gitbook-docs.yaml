@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Committee Elections - 2024
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect elections - 2024
+      path: committee-elections-2024
+      default: true
+      content:
+        directory: ./elections
