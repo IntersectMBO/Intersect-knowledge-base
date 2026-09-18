@@ -1,6 +1,6 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-09-17 09:14 UTC_
+_Updated on 2026-09-18 09:13 UTC_
 
 - [committee-elections-2024/elections/README](https://docs.intersectmbo.org/committee-elections-2024/elections/README)
 - [committee-elections-2024/elections/overview/2024-october-election-results](https://docs.intersectmbo.org/committee-elections-2024/elections/overview/2024-october-election-results)
@@ -287,5 +287,3 @@ _Updated on 2026-09-17 09:14 UTC_
 - [intersect-grants/intersect-community-grants/cohort-4/voting-tool-for-the-constitutional-convention](https://docs.intersectmbo.org/intersect-grants/intersect-community-grants/cohort-4/voting-tool-for-the-constitutional-convention)
 - [intersect-grants/intersect-community-grants/overview/community-hub-faqs](https://docs.intersectmbo.org/intersect-grants/intersect-community-grants/overview/community-hub-faqs)
 - [intersect-grants/intersect-community-grants/overview/grant-faqs](https://docs.intersectmbo.org/intersect-grants/intersect-community-grants/overview/grant-faqs)
-- [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct/README](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct/README)
-- [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct/code-of-conduct-complaint-handling-procedure](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/code-of-conduct/code-of-conduct-complaint-handling-procedure)
