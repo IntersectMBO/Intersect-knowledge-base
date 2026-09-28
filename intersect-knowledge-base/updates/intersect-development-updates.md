@@ -242,9 +242,9 @@ January\
 
 </details>
 
-## Report - Downloads
+## Annual and Financial Report - Downloads
 
-{% file src="../.gitbook/assets/Intersect - Annual Report 2025.pdf" %}
+{% file src="../.gitbook/assets/Intersect - 2025 Financial Annual Report.pdf" %}
 
 {% file src="../.gitbook/assets/Intersect End of Year Dev Report 2025.pdf" %}
 
