@@ -33,6 +33,8 @@
           * [Sinhala - Board Application Form](intersect-membership/intersect-voting-events/2026-intersect-elections/september-2026-board-elections/board-application-form/translations-board-application-form/sinhala-board-application-form.md)
           * [Tamil - Board Application Form](intersect-membership/intersect-voting-events/2026-intersect-elections/september-2026-board-elections/board-application-form/translations-board-application-form/tamil-board-application-form.md)
           * [Japanese - Board申し込みフォーム](intersect-membership/intersect-voting-events/2026-intersect-elections/september-2026-board-elections/board-application-form/translations-board-application-form/japanese-boardshimifmu.md)
+      * [Board Election Results](intersect-membership/intersect-voting-events/2026-intersect-elections/september-2026-board-elections/board-election-results/README.md)
+        * [Audit Results](intersect-membership/intersect-voting-events/2026-intersect-elections/september-2026-board-elections/board-election-results/audit-results.md)
     * [July 2026 - Vote to Update ByLaws](intersect-membership/intersect-voting-events/2026-intersect-elections/july-2026-vote-to-update-bylaws/README.md)
       * [Updated ByLaws - full text](intersect-membership/intersect-voting-events/2026-intersect-elections/july-2026-vote-to-update-bylaws/updated-bylaws-full-text.md)
       * [Updated ByLaws - Key Changes Explained](intersect-membership/intersect-voting-events/2026-intersect-elections/july-2026-vote-to-update-bylaws/updated-bylaws-key-changes-explained.md)
