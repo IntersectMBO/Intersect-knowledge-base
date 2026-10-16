@@ -1,6 +1,6 @@
 # Committee Service Reward Policy
 
-_Approved by Intersect Steering Committee on 8_**th June 2026**
+_Approved by Intersect Steering Committee on **12**_**th October 2026**
 
 _To encourage more people to apply to committees and increase regular time commitment to committee tasks (already quite high with current volunteering members) we would like to introduce monthly rewards. The assumption is that rewards will increase further the number of active contributors and incentivize existing ones. Furthermore, this will open committees to people in more geographies who perhaps can’t volunteer easily._
 
@@ -10,6 +10,16 @@ This policy establishes the framework for Committee Service Reward paid to elect
 
 This policy applies to all elected members of Intersect committees. It does not apply to appointed advisors, Intersect professional staff, or members of the Intersect Executive Board.
 
+#### General principles:
+
+* Committee work requires significant effort. This reward is a token of appreciation, and we recognize it will never fully compensate members for the time and contribution they provide.
+  * As this is a reward rather than compensation, it must not be linked to hours worked, tasks completed or other measures of effort.
+  * The reward should be meaningful enough to recognise members' contributions, while remaining clearly distinct from compensation for services.
+* The geographical location or experience of the committee members doesn’t impact their reward amount.
+* Rewards are always paid in Cardano native tokens.
+* The primary value of serving on a committee should remain the opportunity to contribute, influence decisions, and have your voice heard. Participation should not be driven by financial incentives.
+* The reward amount should be determined by the ISC based on its assessment of Intersect's financial position, market conditions, available budget, and member sentiment.
+
 ## 2. Oversight and Responsibility
 
 * The Intersect Steering Committee (ISC) is responsible for managing service reward discussions, proposing budget adjustments, and reviewing this policy.
@@ -18,31 +28,52 @@ This policy applies to all elected members of Intersect committees. It does not 
 
 ## 3. Eligibility
 
-* All elected Active Committee Members and Committee Chairs are eligible to receive service reward under this policy.
-* An “Active Committee Member” is one who has been elected and has not been dismissed for lack of participation.
-* A “Committee Chair” is an elected committee member who has been selected to serve in a leadership role within their committee, with additional responsibilities including, but not limited to, leading committee meetings, coordinating committee activities and deliverables, serving as the primary representative of their committee at Intersect Steering Committee (ISC) meetings, and acting as the main point of contact between their committee and other Intersect governance bodies.
-* Committee Chairs receive a higher service reward to reflect additional responsibilities.
-* **Limitations on remuneration**:
-  * An individual may receive service reward for a maximum of two committee seats (as one member can only be elected to maximum of 2 committees at a time).
-* **Reward Collection Process**:
-  * Active Committee Members (based on definition above) are eligible to collect 50% of their reward (250 ADA for Active Committee Members and 500 ADA for Committee Chairs) every month. To collect the remaining 50% they will submit a short summary (500 characters max) of their contributions to the committee in that month. This summary will be made visible in the Intersect member area to other members.
-* **ISC-specific eligibility**:
-  * Only the four elected ISC members will receive service rewards for their ISC role.
-  * Committee Chairs do not receive an additional reward for ISC participation, as representing their committee at ISC is part of their Chair responsibilities.
-* **Exclusions**:
-  * Intersect professional staff and Intersect Executive Board members are not eligible to receive service rewards, as they are already compensated through other means.
-* **Non-Participation**:
-  * Active Committee Members must attend scheduled meetings, in line with the [Committee Member Dismissal Policy](committee-member-resignation-and-dismissal-policy.md); elected members who fail to participate regularly in committee activities may be dismissed from their position. If that happens, they will not be considered an “Active Committee Member”’ and will not be eligible to receive service rewards.
-  * Active Committee Members undergoing the offboarding process (4-weeks+ without participation) under the Dismissal Policy are not eligible to receive rewards.
-* **Member Choice**:
-  * Each eligible Active Committee Member retains the right to accept or decline their service rewards.
-  * Active Committee Members who choose not to receive service rewards do not need to provide justification for their decision.
+* All elected Committee Members, Committee Chairs, and elected ISC members (where applicable) who remain in good standing under the Committee Member Resignation & Dismissal Policy are eligible to receive service rewards under this policy.
+* Committee Chairs receive a higher service reward in recognition of the additional responsibilities associated with the role, as defined in the Roles & Responsibilities in Committees Policy, specifically their extra role as ISC members.
+* All elected Committee Members and Committee Chairs in good standing are eligible to receive service reward under this policy.
 
-## 4. Committee Service Rewards Rates (June 2025 – December 2026)
+#### **Limitations on remuneration**:
 
-* Active Committee Members: 500 ADA per month
-* Committee Chairs: 1,000 ADA per month (500 ADA for contribution as an Active Committee Member + an extra 500 ADA for extra contribution in chair role)
-* Service rewards rates are fixed for the current budget cycle and may be reviewed annually.
+* An individual may receive service reward for a maximum of two committee seats (as one member can only be elected to maximum of 2 committees at a time).
+
+#### **Reward Collection Process**:
+
+* Committee Members are eligible to collect 50% of their reward every month. To collect the remaining 50% they will submit a short summary of their contributions to the committee in that month. Data will be checked by the Secretary and could be used by the ISC while reviewing this policy. Anonymised data might be made public.
+
+#### Reward Claim Period
+
+* Service rewards for the calendar year must be claimed by March 1 of the following year.&#x20;
+* Any unclaimed service rewards after this period will no longer be eligible for payment.
+* This claim period supports timely financial reconciliation, tax reporting, and year-end accounting processes for Intersect.
+
+#### **ISC-specific eligibility**:
+
+* Only the four elected ISC members will receive service rewards for their ISC role.
+* Committee Chairs do not receive an additional reward for ISC participation, as representing their committee at ISC is part of their Chair responsibilities.
+
+#### **Exclusions**:
+
+* Intersect full time professional staff and Intersect Executive Board members are not eligible to receive service rewards.
+
+#### Participation Requirement:
+
+* Service rewards recognise active participation in committee governance.
+* Eligibility is contingent upon members remaining in good standing and fulfilling the responsibilities associated with their role, in accordance with the: Committee Member Resignation & Dismissal Policy; Committee Chair & Vice-Chair Election Policy; and Roles & Responsibilities in Committees Policy.
+* Members who become ineligible under the Committee Member Resignation & Dismissal Policy, including those entering the formal offboarding process due to non-participation, are not eligible to receive service rewards for the applicable period.
+
+#### Member Choice:
+
+* Eligible members may choose to accept or decline their service rewards.
+* Members who choose not to receive service rewards are not required to provide a reason.
+
+## 4. Committee Service Rewards Rates
+
+The Committee Service Reward rates are:
+
+* Committee Members: 500 ADA per month
+* Committee Chairs: 1,000 ADA per month (comprising the standard 500 ADA Committee Member reward plus an additional 500 ADA in recognition of the responsibilities associated with the Chair role).
+
+Service reward rates are approved as part of the Intersect annual budgeting process and may be reviewed annually by the ISC, with any proposed changes subject to the appropriate governance approval process.
 
 ## 5. Implementation and Review
 
@@ -59,13 +90,20 @@ The Intersect team will determine the platform and procedures, ensuring security
 
 ## 7. Compliance and Accountability
 
-* Recipients are expected to actively contribute to committee work, including regular attendance at meetings and participation in deliverables.
-* Consistent with the [Committee Member Dismissal Policy](committee-member-resignation-and-dismissal-policy.md), members who do not fulfill their duties will forfeit eligibility for service rewards.
+Service rewards are paid to individuals per elected committee seat. An individual may receive service rewards for up to two elected committee seats, in accordance with this policy. Committee rewards can only be paid to a natural person (so not to a legal entity) as they are intended to reward the individual participation of elected committee members.
+
+Recipients are expected to actively fulfil the responsibilities associated with their elected role.
+
+Eligibility to receive service rewards is contingent upon remaining in good standing under the Committee Member Resignation & Dismissal Policy. Members who become ineligible under that policy will forfeit eligibility to receive service rewards for the applicable period.
+
+Members who choose to receive service rewards must complete Intersect's required compliance processes, including:
+
+* Consistent with the[ Committee Member Dismissal Policy](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-member-resignation-and-dismissal-policy), members who do not fulfill their duties will forfeit eligibility for service rewards.
 * Any member willing to receive the service rewards accepts to be subject to a standard KYC process.
 * Prior to receiving any service reward, all recipients will be required to provide either an IRS Form W-9 or IRS Form W-8BEN, as applicable, for U.S. federal income tax reporting purposes.
 
 ## 8. Effective Date
 
-This policy takes effect from the date of its approval by ISC, and payments will be backdated to June 2025 and will remain valid through December 2026, subject to annual review by ISC.
+This policy remains in effect as long as there is a budget approved from the Intersect Board. This policy is subject to annual review by ISC prior to next year Intersect budget definition.
 
 <br>
