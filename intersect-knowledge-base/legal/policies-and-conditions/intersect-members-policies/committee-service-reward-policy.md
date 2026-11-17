@@ -77,8 +77,6 @@ Service reward rates are approved as part of the Intersect annual budgeting proc
 
 ## 5. Implementation and Review
 
-* Service rewards will commence from June 2025 and remain in place until December 2026, in alignment with the Intersect budget cycle approved by the DReps.
-* Payments will not be backdated beyond the initially approved date.
 * Service rewards levels will be reviewed annually by ISC as part of the Intersect budget process.
 * Adjustments may be proposed based on available treasury resources, inflation, or evolving governance needs.
 
