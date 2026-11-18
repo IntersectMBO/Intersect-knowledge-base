@@ -1,4 +1,5 @@
 ## 🔄 Recently Updated Pages
 
-_Updated on 2026-11-17 09:09 UTC_
+_Updated on 2026-11-18 09:08 UTC_
 
+- [intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-service-reward-policy](https://docs.intersectmbo.org/intersect-knowledge-base/legal/policies-and-conditions/intersect-members-policies/committee-service-reward-policy)
